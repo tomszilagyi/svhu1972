@@ -1,0 +1,92 @@
+LAKÓ GYÖRGY
+
+SVÉD NYELVTANI VÁZLAT
+
+GYÖRGY LAKÓ
+
+KORTFATTAD SVENSK GRAMMATIK
+
+FŐNÉV
+
+1. A svéd főnevek ragozását elsősorban nemük (genusuk) határozza meg.
+Azoknak a nyelvi eszközöknek, amelyek a főnevekhez kapcsolódva azok nemét
+jelzik, csupán két alakjuk van, s így — eltérően a némettől — elegendő, ha
+csupán
+két nemet különböztetünk meg: az egyik a közös nem (utrum), amely a hím- és
+a nőnem közötti alaki különbség elmosódása útján alakult ki, a másik a semleges
+
+nem (neutrum).
+
+A főnevek nemének jelölésére a svédnek — eltérően a némettől — nem a névelő
+a legegyszerűbb eszköze, hanem az ún. végartikulus (slutartikel). A svéd
+ugyanis a
+jelző nélkül álló főnév nemét (és egyben határozottságát) nem a főnév előtt
+álló, önálló névelővel jelzi, mint például a német, hanem a szó végéhez
+függesztett
+végződéssel, s ezt a végződést nevezzük végartikulusnak.
+
+A végartikulusnak az egyes számban két alakja van: -(e)n és -(e)t. Az utrum
+nemű főnevekhez — többnyire aszerint, hogy mással- vagy magánhangzón
+végződnek-e –en vagy csak -n toldalék járul, például: dagen ’a nap’ (dag
+’nap’), dörren
+
+’az ajtó’ (dorr ’ajtó’); gossen ’a fiú’ (gosse ’fiú’), skolan ’az iskola’
+(skola ’iskola’).
+
+A neutrumok nemét — ugyancsak végződésük minősége szerint–(e)t toldalék
+
+mutatja: bordet ’az asztal’ (bord ’asztal’), huset ’a ház’ (hus ’ház’), äpplet
+’az alma*
+(äpple ’alma’), häftet ’a füzet’ (häfte ’füzet’). A főnevek többes számú
+alakjain a
+végartikulus -na, -a, illetőleg -en alakú — aszerint ilyen vagy olyan, hogy a
+főnév
+melyik ragozási osztályba tartozik. Példák: skolorna ’az iskolák’ (skolor
+’iskolák’),
+äpplena ’az almák’ (äpplen ’almák’), husen ’a házak’ (hus ’házak’). L. 997—8. L
+
+
+2. A főneveknek egyes és többes számuk, s mind az egyes, mind a többes
+számban két esetalakjuk (kasus) van: az egyik az alapalak (grundform), a másik
+a
+birtokos jelző esete (genitiv). A főnevekből mind az egyes, mind pedig a többes
+
+számban határozott alakok (bestämd form) és határozatlan alakok (obestämd form)
+
+használatosak. A határozatlanságnak nincs külön jelölője. A határozott alakok
+a határozatlan alakokból alakulnak, mégpedig úgy, hogy az utóbbiak felveszik a
+végartikulust. A svéd határozott, azaz végartikulusos alakoknak a magyarban
+határozott névelős alakok felelnek meg, míg a határozatlan, azaz végartikulus
+nélküli
+alakokat határozatlan főnévvel (tehát vagy határozatlan névelős, vagy
+névelőtlen
+főnévvel) fordítjuk magyarra. Példák: bok ’könyv’, boken ’a könyv’, böcker
+’könyvek*,
+böckerna ’a könyvek’. Határozott alakja nemcsak az alapalaknak, hanem (az egyes
+
+és a többes számú) genitivusnak is van. Az egyes számú alapalaknak nincs
+jellemző
+végződése, a genitivus ragja mind az egyes, mind a többes számban -s. Egyes
+számú
+határozatlan genitivusok: dags, gosses stb. Többes számú határozatlan
+genitivusok:
+dagars, gossars. A határozott genitivus a határozott alapalakból az -s
+genitivusrag-gal alakul, például dagens (= dag-en-s), gossens (= gosse-n-s);
+dagarnas (=
+dag–ar-na-s), gossarnas (= goss-ar-na-s). A genitivusok jelentését
+szószerkezetekben
+szemléltethetjük: en gosses bok ’egy fiú könyve’, gossens bok ’a fiú könyve’,
+dessa
+gossars böcker ’e fiúk könyvei’, gossarnas böcker ’a fiúk könyvei’.
+
+3. A többes számú alapalak végződése tekintetében a főnevek körében
+meglehetős tarkaság uralkodik. Ezen alak képzésmódja szerint a főneveket 6
+ragozási
+osztályba soroljuk.
+
+I. osztály. A többes számú alapalak végződése -or. E végződéssel képezik
+többes számukat az -a végű, utrum nemű főnevek. Példák: vecka ’hét’, gata
+’utca’,
+människa ’ember’ többes száma: veckor, gator, människor. Kivételképpen
+idetartozik néhány mássalhangzón végződő főnév is. Például katt ’macska’, ros
+’rózsa’

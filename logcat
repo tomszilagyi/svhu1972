@@ -1,0 +1,2 @@
+#!/bin/bash
+/home/tom/tar/android-sdk/platform-tools/adb logcat ActivityManager:I Szotar:D *:S

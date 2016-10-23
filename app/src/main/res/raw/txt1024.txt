@@ -1,0 +1,89 @@
+1000
+
+Példák: en värm sommar ’(égy) meleg nyár’ varm a somrar ’meleg nyarak’
+ett varmt rum ’(egy) meleg szoba’ varma, rum ’meleg szobák’
+
+A melléknevek neutrumát és többes számú alakját rendszerint az egyes számú
+utrum alakból képezzük.
+
+2. Bizonyos melléknevek egyes számú semleges nemű alakja a szabályostól
+eltérő módon alakul. Róluk a következőket kell tudnunk:
+
+a) Ha a melléknév utrum alakja mássalhangzó megelőzte t-re végződik,
+neut-ruma azonos az utrum alakkal. Vonatkozik ez a szabály bizonyos igék múlt
+idejű
+melléknévi igeneveire (perfekt particip) és a melléknevek felső fokú alakjaira
+is.
+Példák: stolt — stoll ’büszke’; svart — svart ’fekete’; lätt — lätt ’könnyű;
+utmärkt —
+utmärkt ’kitűnő’ (utmärka ’kitüntet’); störst — störst ’legnagyobb’ (stor
+’nagy’).
+
+lat ’lusta’ neutruma ugyancsak lat, noha itt a szóvégi t-t magánhangzó előzi
+meg.
+
+b) Ha a melléknév utrum alakja hosszú magánhangzón végződik, neutrumának
+végződése -//, amely előtt rövid mfgánhangzó ejtendő. Példák: blå ’kék’: blått;
+ny
+’új’: nytt: fri ’szabad’: fritt. A többes számú alakok szabályosak: blåa, nya,
+fria.
+
+c) A-d végű melléknevek, ha végmássalhangzójukat hosszú magánhangzó előzi
+meg, semleges alakjukban (~dt helyett) -tt végződésűek (előtte rövid
+magánhangzót
+ejtünk!). Példák: glad ’vidám’: glatt; god (olv. gúd) ’jó’: gott (olv. gott).
+
+d) Az olyan melléknevek és múlt idejű melléknévi igenevek (perfekt particip),
+amelyek utrum alakja mássalhangzó megelőzte d-re végződik, semleges alakjukban
+(-dt helyett) -t végződésűek. Példák: blind ’vak’: blint; ond ’rossz’: ont;
+hård ’kemény’:
+hårt; mild ’szelíd’: milt.
+
+e) Az -en végű melléknevek és múlt idejű melléknévi igenevek (perfekt particip)
+
+neutruma -et végű. Példák: egen ’saját’: eget; mogen ’érett’: moget; skriven
+’írott’:
+skrivet (skriva ’ír’); bunden ’kötött’: bundet (binda ’köt’).
+
+f) Az -nn végű melléknevek neutruma -nt végű, például sann ’igaz’: sant.
+
+g) Számos melléknévnek, valamint a jelen idejű melléknévi igeneveknek
+(presens particip) és a melléknevek középfokú alakjának nincs külön neutruma,
+azaz
+neutrumként is -1 végződés nélküli alakjuk használatos. Példák: ringa
+’csekély’,
+öde ’puszta, üres’, levande ’élő’ (leva ’él’), stående ’álló’ (stå ’áll’),
+större ’nagyobb’
+(stor ’nagy’), livligare ’élénkebb’ (livlig ’élénk’).
+
+3. A melléknév állítmányi szerepben (predikativ) ugyanolyan
+végződésű, mint a megfelelő határozatlan jelzős kifejezésben. Példák:
+
+sommaren är varm ’a nyár meleg’
+rummet är varmt ’a szoba meleg’
+somrarna är(o) varma, ’a nyarak melegek’
+rummen är (o) varma ’a szobák melegek’
+
+4. A jelzői melléknév határozott alakja. Határozott jelzős
+kifejezésekben a melléknév — mind az egyes, mind pedig a többes számban, az
+utrumban éppúgy, mint a neutrumban — -a végződésű. Példák:
+
+den varma sommaren ’a meleg nyár’,
+det varma rummet ’a meleg szoba’,
+de varma somrarna ’a meleg nyarak’,
+de varma rummen ’a meleg szobák’.
+
+5. A melléknév ragozásáról jegyezzük meg még a következő kisebb-nagyobb
+rendhagyóságokat:
+
+a) a hangsúlytalan -alt -et, -en vagy -er szótagra végződő melléknevek végső
+-tf, illetőleg -e hangja kiesik, ha a melléknév utrum alakjához -a végződés
+járul.
+Példák: gammal ’öreg’, ädel ’nemes’, skriven ’írott’, vacker ’szép’ határozott
+alakja
+és többese: gamla, ädla, skrivna, vackra;
+
+b) a liten (neutrum litet) ’kicsi’ melléknév határozott alakja: lilla, többes
+száma:
+små, például en liten gosse ’egy kis fiú’, ett litet barn ’egy kis gyermek’, d
+e : den

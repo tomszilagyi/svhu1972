@@ -1,0 +1,7 @@
+- store image dimensions and use them to derive pixel offset
+  when scrolling to search position
+- handle '|' in words: remove them when loading
+
+TRIVIA:
+All 'full' pages contain 108 lines (54+54), except one:
+pp.208 (page 232) has 107 lines, 54 in the first column and 53 in the second.

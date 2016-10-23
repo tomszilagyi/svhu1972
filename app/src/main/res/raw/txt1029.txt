@@ -1,0 +1,169 @@
+1005
+
+a) T 6 s z á m n e v e k :
+
+0 noll
+
+1 en, ett
+
+2 tvä
+
+3 tre
+
+4 fyra
+
+5 fem
+
+6 sex
+
+7 s/z/
+
+8 åtta
+
+9 mo
+10 //o
+
+SZÁMNÉV
+
+11 elva
+
+12 to/v
+
+13 tretton
+
+14 fjorton
+
+15 femton
+
+16 sexton
+
+17 sjutton
+
+18 a(de)rton
+
+19 nitton
+
+20
+
+21 tjugoen, -ett
+
+22 tjugotvå
+
+30 trettifo)
+40 /yrf/fo;
+50 femti(o)
+60 sexti(o)
+70 sjutti(o)
+80 dtf/Yo;
+90 n/myo;
+
+100 /zziHi/ra
+
+101 hundraen, -ett
+200 tvåhundra
+
+1000 ett tusen
+en million ’egymillió*
+
+1-nél magasabb tőszámnév után a főnév többes számban van, pl. jag har två
+bröder och tre systrar ’nekem két fiútestvérem és három nőtestvérem van’.
+
+hundra és tusen többes számú alapalakja ragtalan, tehát: fyra hundra
+’négyezer’,
+fem tusen ’ötezer’, million többes száma millioner; tre millioner ’hárommillió’
+stb.
+
+Amikor valamilyen eseménynek az évszámát közöljük, az år ’év’ szót tesszük
+a megfelelő tőszámnév elé, pl. Finland erövrades år 1809 (a(de)rtonhundranio)
+’Finnországot 1809-ben hódították meg’.
+
+öJSorszámnevek:
+
+1. första
+
+2. andra
+
+3. tredje
+
+4. fjärde
+
+5. femte
+•6. sjätte
+
+7. sjunde
+
+8. åttonde
+
+9. nionde
+
+10. tionde
+
+11. elfte
+
+12. tolfte
+
+13. trettonde
+
+14. fjortonde
+
+15. femtonde
+
+16. sextonde
+
+17. sjuttonde
+
+18. a[de]rtonde
+
+19. nittonde
+
+20. tjugonde
+
+21. tjugoförsta
+
+22. tjugoandra
+30. trettionde
+40. fyrtionde
+
+50. femtionde
+60. sextionde
+70. sjuttionde
+80. åttionde
+90. nittionde
+
+100. hundrade
+
+101. hundraförsta
+200. tvåhundrade
+
+1000. tusende
+
+1001. tusenförsta
+
+1002. tusenandra
+
+A keltezés módja. Példák: Jag är född den 14 (fjortonde) maj 1896
+
+( a(de )rtonhundranittiosex ) ’én 1896. május 14-én születtem’. — Levélben
+stb.:
+Stockholm den 13 (trettonde) juni 1968 ’Stockholmban, 1968. június 13-án’. —
+Han
+anlände den tredje juli ’ő július 3-án érkezett meg’.
+
+cJEgyéb számnevek:
+
+Va en hülVf eii halvt; V3 en tredjedel, 2/3 två tredjedelar; V4 en fjärdedel; 1
+l/2
+en och en halv, ett och ett halvt; halvannan, halvtannat; 0,5 fem tion
+(de)delar.
+
+IGE
+
+A svéd igéknek igenem (genus) szerint cselekvő (aktiv) és szenvedő (passiv)
+ragozásuk van.
+
+Az igealakok egy része (személyes névmással kapcsolódva, vagy anélkül) a
+cselekvő személyét is megjelöli. Ezek az ige ún. f i n i t alakjai (finita
+verbformer).
+A többi igealak’i g e n é v (infinita verbformer). Ezek: a főnévi igenév
+(infinitiv),
+a melléknévi igenevek (particip) és a supinum.

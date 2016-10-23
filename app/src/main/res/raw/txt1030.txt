@@ -1,0 +1,79 @@
+1006
+
+Igeidők: presens (jelen idő), imperfekt (egyszerű v. elbeszélő múlt), perfekt
+(befejezett múlt), pluskvamperfekt (régmúlt).
+
+Igemódok: jelentő mód (indikatív) kötő mód (konjunktív) és f e 1
+-szólító mód fimperativ).
+
+Az igék egyes számban fental v. singular) és t ö b b e s számban
+(flertal v. plural) ragozhatók, de a.mai nyelv — kivéve az ünnepélyes
+stílusformákat — mindkét számban az (eredetileg) egyes számú alakot használja.
+
+Az igei cselekvés személyét — első személy, második személy, harmadik
+személy — a svéd nyelv is megkülönbözteti, de jelölésük a mai nyelvben nem.
+személyjelekkel, hanem" lexikális eszközökkel (egyebek között névmások
+segítségévei)
+történik.
+
+Szerkezetükre nézve az igei paradigma alakjai részben egyszerűek, részben
+ösz-szetettek. Egyszerű időalakok a presens és az imperfekt. Összetett
+időalakok a presens perfekt és a pluskvamperfekt. Az igék tövét
+legtöbb esetben úgy kapjuk meg, hogy a jelen idejű infinitiv -a végződését
+elhagyjuk;
+ha az ige infinitivje nem -a végződésű, töve azonos az infinitivvel. Példák:
+tal-a
+’beszélni’ töve tal-; köp-a ’vásárolni’ töve köp-; rid-a töve rid-; ro ’evezni’
+töve rö-.
+
+Ahhoz, hogy az igéket ragozni tudjuk, ún. főalakjaikat kell ismernünk. Az igék
+f ő a 1 a k j a i: az infinitiv, az imperfekt és a supinum. Az ige főalakjai
+együttesen
+alkotják az ige témáját.
+
+Az imperfekt (egyszerű múlt) alakítása vagy bizonyos végződésnek a tőhöz
+csatolása útján, vagy pedig az ige tőmagánhangzójának a megváltoztatásával
+történik. Azokat az igéket, amelyek imperfektjüket bizonyos végződéssel
+képezik,
+gyenge igéknek, azokat pedig, amelyeknek az imperfektje a tőmagánhangzó
+megváltoztatásával alakul, erős igéknek nevezzük. A gyenge és az erős igék
+nem csupán imperfektjük, hanem supinumuk Jképzésmódjában is különböznek
+egymástól.
+
+A) Gyenge Igék
+
+A gyenge igéket az imperfekt végződése szerint 3 igeosztáíyba soroljuk.
+
+I.igeosztály. Az imperfekt végződése -ade, a supinumé -at.
+
+A jelen idejű alak (presens) -ar végű. Példa:
+
+infinitiv presens imperfekt supinum
+
+tala ’beszélni* tal-ar tal-ade tal-at
+
+Hasonlóan alkotja főalakjait a svéd igék többsége, pl. kalla ’hívni’, bada
+’fürödni’, dansa ’táncolni’, telefonera ’telefonálni’ stb.
+
+Néhány ige csak supinumképzése alapján sorolható ide, egyébként azonban
+rendhagyó:
+
+heta ’neveztetni’ het-er het-te het-at
+
+leva ’élni’ lev-er lev-de lev-at
+
+veta ’tudni’ vet viss-te vet-at
+
+II. igeosztály. Az imperfekt végződése általában -de, de k, p, s, t vagy
+x után -te. A supinum végződése -t. A jelen idejű alak -er végű. Példák:
+
+böja ’hajlítani’ böj-er böj-de böj-t
+
+köpa ’vásárolni’ köp-er köp-te köp-t.
+
+Ha az ige töve r végű, a presens azonos, a mássalhangzón végződő puszta tőve 1
+(az egyéb igékben jelentkező -er presensjel elmarad). Példák:
+
+höra ’hallani’ hör hör-ae hör-t
+
+köra ’hajtani’ kör kör-de kör-t

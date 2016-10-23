@@ -1,0 +1,86 @@
+XV
+
+A számnevek (räkneord) összetételei, származékai, valamint a velük
+kapcsolatos kifejezések, illetve példamondatok több tő- és sorszámnév
+használatának
+megvilágítására alkalmasak, s ezért több tő-, illetve sorszámnév bokrába
+felvehetők
+lennének. Helykímélés céljából azonban az említett összetételek, származékszók
+stb. legtöbbjét csak egy címszó alatt, mégpedig a fem, femte, femtio és femton
+szócikkében, illetve összetételei között helyeztük el. Ha a szótárhasználó pl.
+a
+tiotág(et) vagy az àttatåg(et) szavakat keresve, egyiket sem találja meg a
+betűrendi
+helyén, lapozza fel a fem- címszónak tág(et) utótagú összetételét: femtäg(et) ’
+(az)
+öt orai vonat’; miután megkereste a tio jelentését is (’tíz’), könnyen rájön a
+keresett
+összetett szavak értelmére: tiotág(et) ’(a) tíz órai vonat’, áttatág(et) ’(a)
+nyolc ór$i
+•vonat’
+
+A svéd ige (verb) három főalakja: a főnévi igenév (infinitiv), az egyszerű
+múlt idő (imperfekt) és a supinum. Címszóként legtöbbször a főnévi igenev áll.
+
+A gyenge igék első osztályába tartozó igéknek csupán az első főalakját adjuk
+meg, mert a másik két főalak az infinitiv ismeretében szabályszerűen, minden
+nehézség nélkül képezhető, pl.
+kalla nevez, hív
+
+a főnévi igenév: kalla ’nevezni, hívni’; az imperfekt: kallade ’(ő) nevezett,
+hívott’; a supinum: kallat (az utóbbi két alak a szótarban nincs feltüntetve).
+Minden más kategóriabeli igének közöljük mindhárom főalakját, pl.
+tro trodde, trott hisz lägga lade, lagt fektet, helyez, tesz
+
+veta visste, vetat tud vinna vann, vunnit nyer
+
+gå gick, gått megy.
+
+Némely ige kétféle ragozást követ. Ezeknek az imperfektjét és a supinumát
+mindkét kategória szerint megadjuk, pl.
+tala -de, -t (o, költ: talte, talt) beszél
+
+ami úgy értendő, hogy az imperfekt általában talade, a supinum pedig talat,
+de a társalgási, ill, költői nyelvben előfordul a talte imperfekt- és a talt
+supinum-alak is;
+
+leva levde, levt v. levat él
+a főnévi igenév: leva ’élni’; az imperfekt: levde ’élt’; a supinum: levt vagy
+levat.
+
+A szenvedő igék (passiva verb) külön címszóként való felvételét legtöbbször
+mellőztük, mivel azok az aktív tárgyas igékből végződéssel szabályszerűen
+képezhetők.
+
+Az indokolt esetben felvett passzív, ill. deponens igéknek mindhárom
+főalakját közöljük, pl.
+
+sägas sades, sagts... tyckas tycktes, tyckts...
+
+Az ige tárgyas (transitiv), illetve tárgyatlan (intransitivt voltát általában
+nem
+jelezzük, mert az a jelentésből kiderül.
+
+Amikor ugyanaz az ige tárgyasan és tárgyatlanul is előfordul, a kétféle
+kategóriát félkövér római számokkal (I., II.) és vt, ill. vi rövidítéssel
+különböztettük meg.
+Ha ugyanazon ige még visszaható formában is használatos, ezt folytatólagos
+római
+sorszám (a fenti esetben: III.) és tilde után sig visszaható névmás jelzi. Ha
+az ige
+hangsúlyos elváló igekötőkkel is előfordul, ezeket a szócikk végén újabb római
+szám (a fenti esetben: IV.) és hgs igek: jelzés után az igekötők ábécé-
+sorrendjében
+találja meg a szótárhasználó, pl.
+
+hälla höll, hållit I .vt... (tárgyas)
+
+II. vi . (tárgyatlan)
+
+III. sig... (visszaható)
+
+IV. hgs igek: (hangsúlyos igekötők)
+
+av...
+efter...
+emot... stb.

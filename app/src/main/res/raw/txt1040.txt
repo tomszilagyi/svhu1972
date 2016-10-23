@@ -1,0 +1,72 @@
+1016
+
+A particip perfekt képzésmódjáról jegyezzük meg még a következőket: a) a
+határozott alak megegyezik a többes számú alakkal; b) az erős igék part.
+perfektje
+a supinum tőből képződik; c) az erős igék part. perfektjében a többes számú és
+a
+határozott alak -a végződése előtti nyílt szótag magánhangzója kiesett: bundna
+« bunde-na), försvunna (< fórsvunne-na).
+
+A particip perfekt a mondatban leggyakrabban jelzőként vagy állítmányként
+(predikativ) áll. Múlt idejű melléknévi igenévvel, illetve határozó igenévvel
+fordítható magyarra. Példák: Min son köpte en begagnad cykel ’Fiam használt
+kerékpárt
+vásárolt’; Middagen är serverad ’Az ebéd tálalva van’. Használatos a vara és a
+blifva) segédigék mellett az igék passzívumának összetett alakjaiban (mintegy
+állítmány i kiegészítőként) is, eltérően a supinumtól, amely viszont a hafva)
+segédige
+mellett az aktívum bizonyos összetett alakjainak a része.
+
+Mivel a particip perfekt egyes számú alakjai sokszor azonos, avagy hasonló
+mássalhangzón (t, illetve d) végződnek, mint a supinum, rendkívüli figyelmet
+kell
+fordítanunk e két igenév megkülönböztetésére és helyes használatára. Ezért
+hasonlítsuk össze a következő mondatokat:
+
+supinum particip perfekt
+
+Han har skrivit ett brev Brevet är skrivet
+
+Ő írt egy levelet A levél meg van írva
+
+Han har presenterat mig Han blev presenterad
+
+Ő bemutatott engem őt bemutatták
+
+Floderna har frusit De frusna floderna
+
+A folyók befagytak A befagyott folyók
+
+PASSIVUM (SZENVEDŐ RAGOZÁS)
+
+Az eddig tárgyalt igealakok az aktívum igealakjai voltak (vö. 1005. 1.). A
+másik
+igenem a passivum. Jellemző végződése s, amely az aktívum megfelelő alakjaihoz
+járul, illetve a presens egyes számában az -r végződés helyére lép. Ugyanazon
+idő-,
+illetve módalakban az egyes számon, illetve többes számon belül személyek
+szerint
+tehát nincs különbség (amint az aktívumban sincs).
+
+A kalla ’nevezni’, ställa ’állítani’, tro ’hinni’, binda ’kötni’ igék passivuma
+
+következőképp alakul:
+
+Indikatív
+Presens
+
+jag (du, han v. hon stb.) kalla-s} ställe-s, tros, bindes
+
+Imperfekt
+
+jag (du, han v. hon) kallades, ställdes, troddes, bands
+vi (ni, de) kallades, ställdes, troddes, bundos
+
+Perfekt
+
+jag stb. har kallats, ställts, trötts, bundits
+
+Pluskvamperfekt
+
+jag stb. hade kallat-s, ställts, trötts, bundits

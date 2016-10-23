@@ -1,0 +1,106 @@
+XXIII
+
+költ költői poetiskt (uttryck)
+
+köz közönséges vulgärt, oanständigt
+
+közg közgazdaság ekonomi
+
+mat matematika matematik
+
+met meteorológia meteorologi
+
+mez mezőgazdaság lantbruk
+
+mit mitológia mytologi
+
+müv művészet konstterm
+
+n semleges nem neutrum
+
+ngn valaki någon
+
+ngt valami något
+
+nov növénytan botanik
+
+npr tulajdonnév egennamn (nomen proprium)
+
+nyelv nyelvtan, nyelvtudomány grammatik, språkvetenskap
+
+nyomd nyomdászat typografisk term, boktryckeri
+
+orv orvostudomány medicin, läkarterm
+
+pejor pejoratív, rosszalló nedsättande:
+értelemben
+
+pénz pénzügy finansväsen
+
+perf. part. múlt idejű melléknévi perfektparticip
+igenév
+
+plur többes szám pluralis
+
+pol pQlitika politik
+
+polgazd politikai gazdaságtan politisk ekonomi
+
+praep elöljáró, prepozíció preposition (praepositio)
+
+pron névmás pronomen
+
+prot protestáns protestantisk
+
+rádió rádió radioterm
+
+refl visszaható (ige) reflexivt (yerb/
+
+rég régies, elavult ålderdomligt
+
+rep repülés flygväsen
+
+röv rövidítés förkortning
+
+s főnév substantiv
+
+S Svédországban i Sverige
+
+sing egyes szám singular
+
+sp sport sportterm
+
+stb. s a többi och så vidare, etcetera
+
+superi felsőfok superlativ
+
+szinh színház teaterterm
+
+táj tájszó provinsialism, dialektalt
+
+tb. sz. többes szám(i) plural, flertal(sform)
+
+techn műszaki, technikai teknisk term, teknologi
+
+tel telefon, távbeszélő telefon
+
+tex textil(ipar) textilterm
+
+tört történelem, történet- historia, historiskt
+tudomány
+
+tréf tréfás skämtsamt
+
+tud tudományos vetenskaplig term
+
+v., v. vagy eller
+
+vad vadászat jaktterm
+
+vall vallás religion, religiös term
+
+vasút vasút järnvägsterm
+
+vegy vegyészet, kémia kemi
+
+vi tárgyatlan ige intransitivt verb

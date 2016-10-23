@@ -1,0 +1,93 @@
+1015
+
+Az infinitivet a mondatban sok esetben az att szócska (infinitivjel) előzi meg,
+
+például: Det är svårt att finna ’Nehéz megtalálni’; Kungen befallde tjänarna
+att hjälpa
+honom ur vagnen ’A király megparancsolta a szolgáknak, hogy segítsék ki a
+kocsiból’.
+
+Az infinitiv az att szócska nélkül áll:
+
+a) a segédigék (lásd 1010—1. 1.) mellett;
+
+b) a következő igék mellett: be ’kérni’, behöva ’kelleni’, bruka ’szokni’,
+försöka
+’megkísérelni’, önska ’kívánni’, synas, tyckas ’látszani’, például: Han brukade
+sjunga
+och vissla hela dagen ’Ő egész nap énekelni és fütyülni szokott’; Han försökte
+läsa
+’Ő megpróbált olvasni’;
+
+c) látást, hallást, mondást, gondolkodást, vélem én ynyil v án ítást jelentő
+igék
+mellett, például: Jag hörde honom sjunga ’Hallottam, hogy ő énekel’; Har du
+sett
+henne dansa? ’Láttad őt táncolni?’
+
+A múlt idejű infinitiv a hafva) infinitivjének és a főige supinumának a
+kapcsolata. Magyarra ’hogy’ kötőszós, többnyire múlt idejű időhatározó
+mellékmondattal
+fordítjuk. Példák: Han säger sig ha genomrest hela Europa ’Ő azt mondja, hogy
+végigutazott egész Európán’. — Han borde ha stängt dörrarna ’Neki be kellett
+volna
+csuknia az ajtókat’.
+
+BjSupinum. Gyenge igékből -at, -t, illetőleg -tt végződéssel, eros igékből
+-it végződéssel alakul (képzésmódjáról bővebben lásd 1006—10. 1.).
+
+Csak a ha(va) segédige mellett fordul elő bizonyos összetett igealakokban,
+egyebek között a presens perfektben és a pluskvamperfektben. Mellékmondatokban
+olykor elmarad mellőle a segédige, például: De sågo ett skepp, som (hade)
+strandat pä
+klipporna ’Egy hajót láttak, amely zátonyra jutott’.
+
+CJParticip (melléknévi igenevek).
+
+1. A particip presens végződése többtagú igék tövéből -ande, egytagúakéból
+-ende, például: svara ’felelni’: svarande, resa ’utazni’: resande, bära
+’vinni’: bärande,
+d e : stå ’állni’: stående, gå ’menni’: gående stb. A particip presens nem
+ragozható. A
+mondatban többnyire jelzői, ritkábban határozói funkciója van. Ha jelzőként áll
+a
+mondatban, jelen idejű melléknévi igenévvel fordítjuk magyarra, például: den
+rasande
+stormen ’a dühöngő vihar’. Ha határozói szerepe van, határozói igenév felel meg
+
+neki a magyarban, például: Han kom springande ’Ő futva jött’, Han blev liggande
+
+’Ő fekve maradt’.
+
+2. Particip perfekt. A melléknevekkel egyezően utruma, neutruma és külön
+többes számú alakja van. Utrumát a gyenge igékből úgy képezzük, hogy
+imperfekt-jük -e végződését elhagyjuk, azaz: utrum alakjának a végződése a
+gyenge igék I.
+osztályában -ad, II. osztályában -d, ill. -t, III. osztályában -dd. Az erős
+igék megfelelő
+alakja -en végű. Neutrumát úgy képezzük, hogy az I. és a II. osztályba tartozó
+gyenge igék utrum alakjának -d végződését -t-re, a III. osztályba tartozó
+gyenge igék
+utrumjának *dd végződését pedig tt-re változtatjuk (az imperfektjükben -te
+végződésű II. igeosztályú gyenge igéknek a neutruma azonos az utrummal). Az
+erős igék
+megfelelő alakja -et végű. A többes számú alakot az egyes számú utrumból
+képezzük:
+a gyenge igék I. osztályában -e, többi osztályában -a végződés
+toldalékolásával.
+Ugyancsak -a végződést kap az eros igék többese. A particip perfekt alakjainak
+képzésmódját a következő példák szemléltetik (inf. tala ’beszélni’, böja
+’hajlítani’,
+köpa ’vásárolni’, tro ’hinni’, skriva ’írni’):
+
+utrum neutrum többes szám
+
+tal-ad tal-at tal-ade
+
+böj-d böj-t böj-da
+
+köp-t (!) kő p-t köp-ta
+
+tro-dd tro-tt tro-dda
+
+skriv-en skriv-et skriv-na.
