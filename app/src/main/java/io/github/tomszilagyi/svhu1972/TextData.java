@@ -10,9 +10,12 @@ import java.io.BufferedReader;
 import java.io.Reader;
 import java.io.IOException;
 import java.io.UnsupportedEncodingException;
+import java.text.Collator;
 import java.util.ArrayList;
+import java.util.Locale;
 
 public class TextData {
+    Collator collator;
     Activity activity;
     Resources resources;
     ArrayList text;
@@ -21,6 +24,8 @@ public class TextData {
     public TextData(Activity activity, Resources resources) {
         this.activity = activity;
         this.resources = resources;
+        collator = Collator.getInstance(new Locale("swe"));
+        collator.setStrength(Collator.SECONDARY);
 
         // read index
         index = load_index();
@@ -46,6 +51,10 @@ public class TextData {
     private class IndexEntry {
         int pageno;
         String first_word;
+        private IndexEntry() {
+            this.pageno = 0;
+            this.first_word = "a";
+        }
         private IndexEntry(int pageno, String first_word) {
             this.pageno = pageno;
             this.first_word = first_word;
@@ -93,14 +102,27 @@ public class TextData {
         return lines;
     }
 
-    /* Given a search string, return a TextPosition (page, line)
+    /* Given a search string, find the longest prefix that produces
+     * a non-null index-based search result and return that result.
+     * NB. this may still return null.
+     */
+    public TextPosition index_search_prefix(String str) {
+        TextPosition result = null;
+        while (str.length() > 0 && result == null) {
+            result = index_search(str);
+            str = str.substring(0, str.length()-1);
+        }
+        return result;
+    }
+
+    /* Given a search string, return a TextPosition (page, line) or null
      * which will be used to scroll the display to the given place.
      */
     public TextPosition index_search(String str) {
-        IndexEntry entry = new IndexEntry(0, "a");
+        IndexEntry entry = new IndexEntry();
         for (int p=index.size()-1; p >= 0; p--) {
             entry = (IndexEntry)index.get(p);
-            if (str.compareToIgnoreCase(entry.first_word) >= 0) break;
+            if (collator.compare(str, entry.first_word) >= 0) break;
         }
         Log.i("Szotar", "search ("+str+"): index: "+entry.pageno+":"+entry.first_word);
         return fulltext_search(entry.pageno, str);
@@ -115,7 +137,7 @@ public class TextData {
 
     /* start search from the top of page p */
     public TextPosition fulltext_search(int p0, String str) {
-        for (int p=p0; p < text.size(); p++) {
+        for (int p=p0; p < p0+8 && p < text.size(); p++) {
             ArrayList page = (ArrayList)text.get(p);
             for (int l=0; l < page.size(); l++) {
                 String line = (String)page.get(l);
@@ -125,7 +147,7 @@ public class TextData {
                 }
             }
         }
-        return new TextPosition(p0, 0);
+        return null;
     }
 
     /* Return the number of lines of text in a given column.

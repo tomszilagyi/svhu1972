@@ -16,7 +16,7 @@ public class PageInventory {
     public List<Page> getPages() {
         List<Page> pages = new ArrayList<>();
         int i;
-        for (i = 25; i < 183; i++) {
+        for (i = 25; i <= 286; i++) {
                 Page page = new Page();
                 page.setLabel(String.format("s%04d_1", i));
                 pages.add(page);

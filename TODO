@@ -1,6 +1,6 @@
 - store image dimensions and use them to derive pixel offset
   when scrolling to search position
-- handle '|' in words: remove them when loading
+- handle '|' in words when searching / be clever with compound words
 
 TRIVIA:
 All 'full' pages contain 108 lines (54+54), except one:

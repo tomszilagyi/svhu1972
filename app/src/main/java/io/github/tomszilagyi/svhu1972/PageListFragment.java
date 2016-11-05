@@ -162,9 +162,14 @@ public class PageListFragment extends Fragment {
         public void onTextChanged(CharSequence s, int start, int before,
                                   int count) {
             if (before == 0 && count == 0) return;
-            mTextPosition = mTextData.index_search(s.toString());
-            position_lock = true;
-            scrollToPosition(mTextPosition);
+            TextPosition result = mTextData.index_search_prefix(s.toString());
+            if (result != null) {
+                mTextPosition = result;
+                position_lock = true;
+                scrollToPosition(mTextPosition);
+            } else {
+                Log.i("Szotar", "search returned null!");
+            }
         }
         public void beforeTextChanged(CharSequence s, int start, int count,
                                       int after) {
