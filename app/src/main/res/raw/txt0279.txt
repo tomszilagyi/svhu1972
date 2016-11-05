@@ -17,9 +17,10 @@ gyttjig -t iszapos, sáros; piszkos
 gyttra: ~ ihop össze- v. felhalmoz;
 összezsúfol; ~ (ihop) sig
 osszegyü-lemlik, felhalmozódik, összezsúfolódik
-^/tírig 4 (össze)zsúfolt, össze- v.
-fel-lia!moz(ód)ott; (zűr)zavaros
-gick, gått I. vi 1. (személyről:) megy;
+gyttrig -t (össze)zsúfolt, össze- v.
+felhalmoz(ód)ott; (zűr)zavaros
+
+gå gick, gått I. vi 1. (személyről:) megy;
 jár; barnet kan redan gå a gyermek
 mar tud járni; han har svårt för att gå
 nehezére esik a járás; då hon gick
