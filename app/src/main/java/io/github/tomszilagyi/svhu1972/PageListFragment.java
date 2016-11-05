@@ -40,6 +40,8 @@ public class PageListFragment extends Fragment {
     private TextPosition mTextPosition;
     private ImageUtils mImageUtils;
     private boolean position_lock;
+    private int image_area_height;
+    private int image_area_width;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -74,6 +76,8 @@ public class PageListFragment extends Fragment {
         Log.i("Szotar", "Hardware display size:" +
               " Width:" + hwWidth +
               " Height:" + hwHeight);
+        image_area_width = hwWidth;
+        image_area_height = hwHeight;
         mImageUtils = new ImageUtils(hwWidth, hwHeight) {
             @Override
             public void onImageLoaded() {
@@ -100,6 +104,8 @@ public class PageListFragment extends Fragment {
                           " Height:" + mRecyclerView.getHeight());
                     mImageUtils.setViewSize(mRecyclerView.getWidth(),
                                             mRecyclerView.getHeight());
+                    image_area_width = mRecyclerView.getWidth();
+                    image_area_height = mRecyclerView.getHeight();
                     mRecyclerView.getViewTreeObserver()
                         .removeOnGlobalLayoutListener(this);
                 }
@@ -143,18 +149,16 @@ public class PageListFragment extends Fragment {
             page += 1;
             line -= TextData.column_rows(pos.page, 0);
         }
+        int n_rows = TextData.column_rows(page / 2, page % 2);
+        int image_x = ImageSize.x(page);//ImageSize.size[page][0];
+        int image_y = ImageSize.y(page);//ImageSize.size[page][1];
+        Double pixels_per_row = 1.0 * image_y * image_area_width / image_x / n_rows;
+        Double vert = -pixels_per_row * line;
         Log.i("Szotar", "scrollToPosition: "+page+":"+line);
-        // TODO compute the vertical pixel position for actual image:
-        // Store the size of each bitmap, use that to compute the
-        // vertical position with the image resized to display width
-        View view = mLayoutManager.findViewByPosition(page);
-        if (view == null) {
-            Log.i("Szotar", "view for page "+page+" is null!");
-        } else {
-            Log.i("Szotar", "w="+view.getWidth()+" h="+view.getHeight()+
-                  " mw="+view.getMeasuredWidth()+" mh="+view.getMeasuredHeight());
-        }
-        Double vert = -57.6 * line;
+        Log.i("Szotar", "size of page "+page+" is "+ image_x + "x" + image_y);
+        Log.i("Szotar", "image_area_width: "+image_area_width);
+        Log.i("Szotar", "pixels_per_row: "+pixels_per_row);
+        Log.i("Szotar", "vertical offset: "+vert.intValue());
         mLayoutManager.scrollToPositionWithOffset(page, vert.intValue());
     }
 
@@ -162,7 +166,7 @@ public class PageListFragment extends Fragment {
         public void onTextChanged(CharSequence s, int start, int before,
                                   int count) {
             if (before == 0 && count == 0) return;
-            TextPosition result = mTextData.index_search_prefix(s.toString());
+            TextPosition result = mTextData.index_search(s.toString());
             if (result != null) {
                 mTextPosition = result;
                 position_lock = true;
@@ -172,10 +176,8 @@ public class PageListFragment extends Fragment {
             }
         }
         public void beforeTextChanged(CharSequence s, int start, int count,
-                                      int after) {
-        }
-        public void afterTextChanged(Editable s) {
-        }
+                                      int after) {}
+        public void afterTextChanged(Editable s) {}
     }
 
     @Override

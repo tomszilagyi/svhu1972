@@ -1,5 +1,3 @@
-- store image dimensions and use them to derive pixel offset
-  when scrolling to search position
 - handle '|' in words when searching / be clever with compound words
 
 TRIVIA:

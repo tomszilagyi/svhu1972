@@ -37,7 +37,11 @@ public class TextData {
             int res_id = resources.getIdentifier(s, "raw", activity.getPackageName());
             text.add(load_page(res_id));
         }
-        // some basic validation: how many lines have we read on each page?
+        /* some basic validation: how many lines have we read on each page?
+         * NB. this is not needed once the OCR files are cleaned up
+         * and is commented out to save load time
+         */
+        /*
         Log.i("Szotar", "*** n_pages: " + text.size());
         String s = "*** n_lines (those != measured): ";
         for (int p=0; p < text.size(); p++) {
@@ -46,6 +50,7 @@ public class TextData {
                 s = s+" "+(p+25)+":"+page.size();
         }
         Log.i("Szotar", s);
+        */
     }
 
     private class IndexEntry {
@@ -104,19 +109,8 @@ public class TextData {
 
     /* Given a search string, find the longest prefix that produces
      * a non-null index-based search result and return that result.
-     * NB. this may still return null.
-     */
-    public TextPosition index_search_prefix(String str) {
-        TextPosition result = null;
-        while (str.length() > 0 && result == null) {
-            result = index_search(str);
-            str = str.substring(0, str.length()-1);
-        }
-        return result;
-    }
-
-    /* Given a search string, return a TextPosition (page, line) or null
-     * which will be used to scroll the display to the given place.
+     * Return a TextPosition (page, line) which will be used to
+     * scroll the display to the given place, or null.
      */
     public TextPosition index_search(String str) {
         IndexEntry entry = new IndexEntry();
@@ -124,18 +118,21 @@ public class TextData {
             entry = (IndexEntry)index.get(p);
             if (collator.compare(str, entry.first_word) >= 0) break;
         }
-        Log.i("Szotar", "search ("+str+"): index: "+entry.pageno+":"+entry.first_word);
-        return fulltext_search(entry.pageno, str);
+        Log.i("Szotar", "search ("+str+"): index: "+
+              entry.pageno+":"+entry.first_word);
+        TextPosition result = null;
+        while (str.length() > 0 && result == null) {
+            result = fulltext_search(entry.pageno, str);
+            str = str.substring(0, str.length()-1);
+        }
+        return result;
     }
 
     /* Given a search string, return a TextPosition (page, line)
      * which will be used to scroll the display to the given place.
+     * Start search from the top of page p and throughout a maximum
+     * of 8 pages.
      */
-    public TextPosition fulltext_search(String str) {
-        return fulltext_search(0, str);
-    }
-
-    /* start search from the top of page p */
     public TextPosition fulltext_search(int p0, String str) {
         for (int p=p0; p < p0+8 && p < text.size(); p++) {
             ArrayList page = (ArrayList)text.get(p);
