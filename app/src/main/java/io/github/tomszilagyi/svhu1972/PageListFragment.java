@@ -150,8 +150,8 @@ public class PageListFragment extends Fragment {
             line -= TextData.column_rows(pos.page, 0);
         }
         int n_rows = TextData.column_rows(page / 2, page % 2);
-        int image_x = ImageSize.x(page);//ImageSize.size[page][0];
-        int image_y = ImageSize.y(page);//ImageSize.size[page][1];
+        int image_x = ImageSize.x(page);
+        int image_y = ImageSize.y(page);
         Double pixels_per_row = 1.0 * image_y * image_area_width / image_x / n_rows;
         Double vert = -pixels_per_row * line;
         Log.i("Szotar", "scrollToPosition: "+page+":"+line);
