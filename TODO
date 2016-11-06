@@ -1,1 +1,3 @@
+- handle image loading while scrolling upwards, which throws off position
+  (prevent abrupt jumps caused by image loading when scrolling upwards)
 - handle '|' in words when searching / be clever with compound words

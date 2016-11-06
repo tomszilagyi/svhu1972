@@ -121,11 +121,12 @@ public class PageListFragment extends Fragment {
 
                 @Override
                 public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-                    /*
-                    position = mLayoutManager.findFirstVisibleItemPosition();
-                    Log.i("Szotar",
-                          "pos="+mLayoutManager.findFirstVisibleItemPosition());
-                    */
+                    /* TODO save this position and revert to the last saved one
+                     * when an image load throws it off
+                     */
+                    int pos = mLayoutManager.findFirstVisibleItemPosition();
+                    int offset = mLayoutManager.getChildAt(0).getTop();
+                    Log.i("Szotar", "pos="+pos+":"+offset);
                 }
             });
 
