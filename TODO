@@ -1,3 +1,6 @@
 - handle image loading while scrolling upwards, which throws off position
   (prevent abrupt jumps caused by image loading when scrolling upwards)
+- handle w as v (same lexicographic position)
+- better position finding: when entering 'k', scroll to the beginning
+  of 'k' and don't show the last entries for 'j'
 - handle '|' in words when searching / be clever with compound words

@@ -130,7 +130,13 @@ public class PageListFragment extends Fragment {
                 }
             });
 
-        mLayoutManager = new LinearLayoutManager(getActivity());
+        mLayoutManager = new LinearLayoutManager(getActivity()) {
+            /* make forward scrolling a bit smoother by laying out extra area */
+            @Override
+            protected int getExtraLayoutSpace(RecyclerView.State state) {
+                return image_area_height;
+            }
+        };
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setHasFixedSize(true);
 
