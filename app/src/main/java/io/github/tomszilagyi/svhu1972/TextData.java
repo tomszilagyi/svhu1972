@@ -113,11 +113,12 @@ public class TextData {
      * scroll the display to the given place, or null.
      */
     public TextPosition index_search(String str) {
+        String cstr = str.toLowerCase().replace('w', 'v');
         IndexEntry entry = new IndexEntry();
         int start_page = letter_start_page(str);
         for (int p=index.size()-1; p >= start_page; p--) {
             entry = (IndexEntry)index.get(p);
-            if (collator.compare(str, entry.first_word) >= 0) break;
+            if (collator.compare(cstr, entry.first_word) >= 0) break;
         }
         Log.i("Szotar", "search ("+str+"): index: "+
               entry.pageno+":"+entry.first_word);
