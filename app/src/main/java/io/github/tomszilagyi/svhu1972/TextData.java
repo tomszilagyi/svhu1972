@@ -114,7 +114,8 @@ public class TextData {
      */
     public TextPosition index_search(String str) {
         IndexEntry entry = new IndexEntry();
-        for (int p=index.size()-1; p >= 0; p--) {
+        int start_page = letter_start_page(str);
+        for (int p=index.size()-1; p >= start_page; p--) {
             entry = (IndexEntry)index.get(p);
             if (collator.compare(str, entry.first_word) >= 0) break;
         }
@@ -145,6 +146,43 @@ public class TextData {
             }
         }
         return null;
+    }
+
+    /* Return page number where the first letter of str starts */
+    public static int letter_start_page(String str) {
+        if (str == null || str.isEmpty()) return 0;
+        char c = str.toLowerCase().charAt(0);
+        switch (c) {
+        case 'a': return 0;
+        case 'b': return 45;
+        case 'c': return 103;
+        case 'd': return 106;
+        case 'e': return 129;
+        case 'f': return 145;
+        case 'g': return 226;
+        case 'h': return 262;
+        case 'i': return 307;
+        case 'j': return 325;
+        case 'k': return 332;
+        case 'l': return 387;
+        case 'm': return 422;
+        case 'n': return 464;
+        case 'o': return 480;
+        case 'p': return 504;
+        case 'r': return 537;
+        case 's': return 576;
+        case 't': return 770;
+        case 'u': return 840;
+        case 'v':
+        case 'w': return 885;
+        case 'x': return 946;
+        case 'y': return 947;
+        case 'z': return 952;
+        case 'å': return 953;
+        case 'ä': return 966;
+        case 'ö': return 977;
+        default: return 0;
+        }
     }
 
     /* Return the number of lines of text in a given column.
