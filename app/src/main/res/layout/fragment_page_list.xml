@@ -10,6 +10,7 @@
       android:layout_height="wrap_content"
       android:hint="@string/search_text_hint"
       android:inputType="text"
+      android:imeOptions="actionPrevious"
       android:privateImeOptions="nm"
       />
 

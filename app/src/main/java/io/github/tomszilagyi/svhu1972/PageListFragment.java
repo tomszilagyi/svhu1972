@@ -12,6 +12,7 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.Display;
+import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -20,6 +21,7 @@ import android.view.View.OnClickListener;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
+import android.view.inputmethod.EditorInfo;
 import android.widget.CheckBox;
 import android.widget.EditText;
 import android.widget.ImageView;
@@ -91,6 +93,17 @@ public class PageListFragment extends Fragment {
 
         mSearchEditText = (EditText) view.findViewById(R.id.search_text);
         mSearchEditText.addTextChangedListener(new SearchTextWatcher());
+        mSearchEditText.setOnEditorActionListener(
+            new TextView.OnEditorActionListener() {
+                @Override
+                public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                    if (actionId == EditorInfo.IME_ACTION_PREVIOUS) {
+                        v.setText("");
+                        return true;
+                    }
+                    return false;
+                }
+            });
         mTextPosition = new TextPosition();
 
         mRecyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
