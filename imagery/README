@@ -1,0 +1,36 @@
+Imagery of Svensk-Ungersk Ordbok by György Lakó (chief editor),
+2nd ed., Budapest, 1972. Based on resources freely downloadable from
+Project Runeberg: http://runeberg.org/svhu1972
+
+
+INITIAL SETUP OF IMAGE RESOURCES
+
+1. Download images from Project Runeberg
+$ 01_download_images.sh             [<runeberg.org> -> tif]
+
+2. Create single-column imagery with ScanTailor (de-skewed & cropped)
+$ 02_run_scantailor.sh              [tif -> tif_out]
+
+3. Create resources for Android application:
+$ 03_mk_resources.sh                [tif_out -> drawable]
+
+4. Create ImageSize.java
+$ 04_mk_imagesize_java.sh           [drawable -> ImageSize.java]
+
+After these steps successfully complete, the app is ready to be built
+via gradle.
+
+
+CORRECTION OF IMAGE RESOURCES
+
+It might happen that an error is found in how the original images have
+been processed.  In such cases, the ScanTailor project file must be
+corrected. To do this, load the project in an interactive session via
+running:
+
+$ scantailor svhu1972.ScanTailor
+
+and correct the problem found. Save the project and exit ScanTailor.
+Proceed by running steps 2-4 above. Rebuild the app. If the imagery is
+confirmed to be fixed in the app, pull-request the changes to
+svhu1972.ScanTailor.

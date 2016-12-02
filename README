@@ -1,0 +1,116 @@
+          Svéd-magyar szótár || Svensk-Ungersk ordbok
+          ==============[ for Android ]==============
+
+
+Welcome to the Swedish-Hungarian dictionary Android application.
+
+This application is a completely offline, no-permissions-required
+implementation containing all word imagery of the original dictionary.
+It is just like having the original book (one thousand pages, weighing
+over 1000 grams) in your pocket, only better: it does not consume any
+physical space (only device storage) and you can look up words much
+faster in it.
+
+Once again: all images (and OCR-ed text) constituting the dictionary's
+material are part of the application; no network access is ever needed
+once the app is installed on your device! This, in turn, means that
+the storage requirement of the application is a bit higher than usual
+(around 150 MB). But compare that with always carrying a 1 kg brick of
+a mid-sized translation dictionary with you.
+
+The book in question is:
+
+  Svéd-magyar szótár, második kiadás, Akadémiai Kiadó, Budapest, 1972.
+  Főszerkesztő: Lakó György; szerkesztő: Fehér József
+  (C) Akadémiai Kiadó, Budapest 1969.
+
+  Svensk-Ungersk ordbok, andra upplagan, Akadémiai Kiadó, Budapest, 1972.
+  Huvudredaktör: György Lakó; redaktör: József Fehér
+  (C) Akadémiai Kiadó, Budapest 1969.
+
+
+REGARDING CONTENT AND COPYRIGHT
+-------------------------------
+
+The source code of this application itself (ie. the contents of this
+repository) do not contain any imagery reproduction of the dictionary.
+Such imagery is obtained when the application is built, and is then
+stored as part of the binary image constituting the application.
+
+The following note appears on Project Runeberg, where the digitized
+images (scanned pages) of the book are stored for archival:
+
+  This Swedish-Hungarian dictionary was first published in 1969. The
+  2nd edition from 1972 has been digitized in August 2013. The third
+  edition appeared in 1980, the 4th in 1985, the 5th in 1989, and the
+  6th edition in 1992. All editions contain 1024 pages. The digitized
+  copy has belonged to the public library of Mjölby, Sweden.
+
+  Project Runeberg digitizes dictionaries such as this one under the
+  assumption that they are not covered by copyright for 70 years, but
+  only by catalog/database protection for 15 years.
+
+I must add that to the best of my knowledge, all print editions
+contain the same content -- the physical book copy I have (a copy of
+the 6th edition from 1992) has the exact same printing errors as the
+2nd edition (printed 20 years earlier) digitized by Project Runeberg.
+Considering the hot metal press technology this book was printed with,
+it is a reasonable assumption that all editions were pressed from the
+very same stereotypes.
+
+Further information about the book is available at its page at
+Project Runeberg: http://runeberg.org/svhu1972/
+
+
+TROUBLESHOOTING SEARCH ERRORS
+-----------------------------
+
+The text search relies on a two-phase mechanism to locate the row to
+scroll the view to. The first phase uses the page index to locate the
+page of interest; this is an accurate method. The second phase
+involves searching the raw OCR-ed text to find the exact position.
+Naturally, in case of OCR errors, you might not get the expected
+result. Since the first phase at least takes you to the correct page,
+you should be in a reasonably close vicinity of the keyword you are
+looking for (if it is included in the dictionary at all). Some manual
+(mostly forward) scrolling should take you there.
+
+If you find a case where the auto-scrolled position is obviously very
+off, and you can locate the place that should have been shown, then
+please try to locate the raw OCR text corresponding to the word.  You
+can find all pages as `app/src/main/res/raw/txtNNNN.txt` where `NNNN`
+is the page number in the original book (in the range 1..1048).  If
+you look in the appropriate file, you will probably discover that the
+text is garbled (bad OCR). In this case, please pull-request a
+corrected version.
+
+
+BUILDING THE APP
+----------------
+
+Caveats:
+
+ - It is assumed that you generally know how to build an app using
+   the command line tools, and have an appropriate installation of the
+   Android SDK on your machine.
+
+ - Environments other than Linux may work, but are not supported.
+
+
+To be able to build the app, first you need to obtain and pre-process
+the imagery. Look at the README under imagery/.
+
+After completing the steps outlined there, you may go ahead and build
+the application with Gradle. You might need to create a file named
+`local.properties` first, to configure the Android SDK path,
+containing a line such as the following:
+
+sdk.dir=/home/tom/tar/android-sdk
+
+
+TRIVIA
+------
+
+All 'full' dictionary pages contain exactly 108 lines (54 per column),
+except one: pp.208 (page 232) has 107 lines, 54 in the first column
+and 53 in the second.

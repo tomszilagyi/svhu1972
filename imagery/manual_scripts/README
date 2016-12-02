@@ -1,0 +1,5 @@
+Tools manually used to create the txt resources containing OCR-ed text.
+The result of this process is stored under version control and contains
+several manual corrections. For this reason, re-running these is not
+necessary and the process is not automated. They are here for archival
+purposes.
