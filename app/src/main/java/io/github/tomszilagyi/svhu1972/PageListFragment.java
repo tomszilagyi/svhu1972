@@ -22,8 +22,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.inputmethod.EditorInfo;
-import android.widget.CheckBox;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
@@ -38,6 +38,7 @@ public class PageListFragment extends Fragment {
     private PageAdapter mAdapter;
     private boolean mSubtitleVisible;
     private EditText mSearchEditText;
+    private ImageButton mSaveBookmark;
     private TextData mTextData;
     private TextPosition mTextPosition;
     private ImageUtils mImageUtils;
@@ -105,6 +106,18 @@ public class PageListFragment extends Fragment {
                 }
             });
         mTextPosition = new TextPosition();
+
+        mSaveBookmark = (ImageButton) view.findViewById(R.id.save_bookmark);
+        mSaveBookmark.setOnClickListener(new View.OnClickListener() {
+                public void onClick(View v) {
+                    int pos = mLayoutManager.findFirstVisibleItemPosition();
+                    int offset = mLayoutManager.getChildAt(0).getTop();
+                    String text = mSearchEditText.getText().toString();
+                    if (text.isEmpty()) return;
+                    Log.i("Szotar", "Save bookmark: '"+text+"' at pos="+pos+":"+offset);
+                    /* TODO */
+                }
+            });
 
         mRecyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
         mRecyclerView.getViewTreeObserver().addOnGlobalLayoutListener(

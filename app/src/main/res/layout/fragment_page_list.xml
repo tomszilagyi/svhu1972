@@ -4,21 +4,36 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
-  <android.widget.EditText
-      android:id="@+id/search_text"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:hint="@string/search_text_hint"
-      android:inputType="text"
-      android:imeOptions="actionPrevious"
-      android:privateImeOptions="nm"
-      />
+  <LinearLayout android:id="@+id/linear_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="0dp"
+                android:orientation="horizontal">
+    <android.widget.EditText
+        android:id="@+id/search_text"
+        android:layout_weight="1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:hint="@string/search_text_hint"
+        android:inputType="text"
+        android:imeOptions="actionPrevious"
+        android:privateImeOptions="nm"
+        />
+    <android.widget.ImageButton
+        android:id="@+id/save_bookmark"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:padding="0dp"
+        android:src="@android:drawable/ic_menu_add"
+        android:background="#00ffffff"
+        />
+  </LinearLayout>
 
   <android.support.v7.widget.RecyclerView
       android:id="@+id/recycler_view"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
-      android:layout_below="@id/search_text"
+      android:layout_below="@id/linear_layout"
       />
 
 </RelativeLayout>
