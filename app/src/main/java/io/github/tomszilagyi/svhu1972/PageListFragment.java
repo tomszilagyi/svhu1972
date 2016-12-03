@@ -1,11 +1,9 @@
 package io.github.tomszilagyi.svhu1972;
 
 import android.app.Activity;
-import android.content.Intent;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.Editable;
@@ -31,12 +29,9 @@ import java.util.List;
 
 public class PageListFragment extends Fragment {
 
-    private static final String SAVED_SUBTITLE_VISIBLE = "subtitle";
-
     private RecyclerView mRecyclerView;
     private LinearLayoutManager mLayoutManager;
     private PageAdapter mAdapter;
-    private boolean mSubtitleVisible;
     private EditText mSearchEditText;
     private ImageButton mSaveBookmark;
     private TextData mTextData;
@@ -150,9 +145,11 @@ public class PageListFragment extends Fragment {
                     /* TODO save this position and revert to the last saved one
                      * when an image load throws it off
                      */
+                    /*
                     int pos = mLayoutManager.findFirstVisibleItemPosition();
                     int offset = mLayoutManager.getChildAt(0).getTop();
                     Log.i("Szotar", "pos="+pos+":"+offset);
+                    */
                 }
             });
 
@@ -165,10 +162,6 @@ public class PageListFragment extends Fragment {
         };
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setHasFixedSize(true);
-
-        if (savedInstanceState != null) {
-            mSubtitleVisible = savedInstanceState.getBoolean(SAVED_SUBTITLE_VISIBLE);
-        }
 
         updateUI();
 
@@ -187,11 +180,13 @@ public class PageListFragment extends Fragment {
         int image_y = ImageSize.y(page);
         Double pixels_per_row = 1.0 * image_y * image_area_width / image_x / n_rows;
         Double vert = -pixels_per_row * line;
+        /*
         Log.i("Szotar", "scrollToPosition: "+page+":"+line);
         Log.i("Szotar", "size of page "+page+" is "+ image_x + "x" + image_y);
         Log.i("Szotar", "image_area_width: "+image_area_width);
         Log.i("Szotar", "pixels_per_row: "+pixels_per_row);
         Log.i("Szotar", "vertical offset: "+vert.intValue());
+        */
         mLayoutManager.scrollToPositionWithOffset(page, vert.intValue());
     }
 
@@ -222,7 +217,6 @@ public class PageListFragment extends Fragment {
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
-        outState.putBoolean(SAVED_SUBTITLE_VISIBLE, mSubtitleVisible);
     }
 
     @Override
@@ -234,40 +228,22 @@ public class PageListFragment extends Fragment {
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
         inflater.inflate(R.menu.fragment_page_list, menu);
-
-        MenuItem subtitleItem = menu.findItem(R.id.menu_item_show_subtitle);
-        if (mSubtitleVisible) {
-            subtitleItem.setTitle(R.string.hide_subtitle);
-        } else {
-            subtitleItem.setTitle(R.string.show_subtitle);
-        }
     }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.menu_item_new:
-                /* TODO debug */
-                scrollToPosition(mTextPosition);
+            case R.id.menu_item_bookmarks:
+                Log.i("Szotar", "menu -> bookmarks");
+                /* TODO */
                 return true;
-            case R.id.menu_item_show_subtitle:
-                mSubtitleVisible = !mSubtitleVisible;
-                getActivity().invalidateOptionsMenu();
-                updateSubtitle();
+            case R.id.menu_item_about_app:
+                Log.i("Szotar", "menu -> about");
+                /* TODO */
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
-    }
-
-    private void updateSubtitle() {
-        String subtitle = getString(R.string.subtitle_format, 0);
-        if (!mSubtitleVisible) {
-            subtitle = null;
-        }
-
-        AppCompatActivity activity = (AppCompatActivity) getActivity();
-        activity.getSupportActionBar().setSubtitle(subtitle);
     }
 
     public void updateUI() {
@@ -281,8 +257,6 @@ public class PageListFragment extends Fragment {
             mAdapter.setPages(pages);
             mAdapter.notifyDataSetChanged();
         }
-
-        updateSubtitle();
     }
 
     private class PageHolder extends RecyclerView.ViewHolder {
@@ -305,11 +279,8 @@ public class PageListFragment extends Fragment {
         }
 
         private int title_to_resId(String str) {
-            int i = getActivity()
-                    .getResources()
-                    .getIdentifier(str, "drawable",
-                                   getActivity().getPackageName());
-            return i;
+            return getResources().getIdentifier(str, "drawable",
+                                                getActivity().getPackageName());
         }
     }
 
