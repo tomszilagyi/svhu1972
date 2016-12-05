@@ -2,9 +2,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
       xmlns:app="http://schemas.android.com/apk/res-auto">
     <item android:id="@+id/menu_item_bookmarks"
-          android:title="@string/bookmarks"
-          app:showAsAction=""/>
+          android:title="@string/bookmarks"/>
     <item android:id="@+id/menu_item_about_app"
-          android:title="@string/about_app"
-          app:showAsAction=""/>
+          android:title="@string/about_app"/>
 </menu>
