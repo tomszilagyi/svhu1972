@@ -57,7 +57,7 @@ public class PageListFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         position_lock = false;
-        mTextData = new TextData(getActivity(), getResources());
+        mTextData = new TextData(getActivity());
 
         int hwWidth = 480;
         int hwHeight = 800;

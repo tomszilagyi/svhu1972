@@ -1,7 +1,7 @@
 package io.github.tomszilagyi.svhu1972;
 
 import android.app.Activity;
-import android.content.res.Resources;
+import android.content.res.AssetManager;
 import android.util.Log;
 
 import java.io.InputStream;
@@ -16,13 +16,13 @@ import java.util.Locale;
 public class TextData {
     Collator collator;
     Activity activity;
-    Resources resources;
+    AssetManager assetmgr;
     ArrayList text;
     ArrayList index;
 
-    public TextData(Activity activity, Resources resources) {
+    public TextData(Activity activity) {
         this.activity = activity;
-        this.resources = resources;
+        this.assetmgr = activity.getApplicationContext().getAssets();
         collator = Collator.getInstance(new Locale("swe"));
         collator.setStrength(Collator.SECONDARY);
 
@@ -32,9 +32,8 @@ public class TextData {
         // read txt resources 0025..1020 into ArrayList of ArrayList of String
         text = new ArrayList(1020-24);
         for (int p=25; p < 1021; p++) {
-            String s = String.format("txt%04d", p);
-            int res_id = resources.getIdentifier(s, "raw", activity.getPackageName());
-            text.add(load_page(res_id));
+            String s = String.format("txt/%04d.txt", p);
+            text.add(load_page(s));
         }
         /* some basic validation: how many lines have we read on each page?
          * NB. this is not needed once the OCR files are cleaned up
@@ -66,8 +65,7 @@ public class TextData {
     }
 
     private ArrayList load_index() {
-        int res_id = resources.getIdentifier("index", "raw", activity.getPackageName());
-        ArrayList lines = load_page(res_id);
+        ArrayList lines = load_page("txt/index.txt");
         ArrayList index = new ArrayList();
         for (int i=0; i < lines.size(); i++) {
             String line = (String)lines.get(i); // Ex.: "1013 - Ö - överglänsa"
@@ -82,14 +80,17 @@ public class TextData {
     /* This is used to load both the index and OCR-ed text pages,
      * so don't do anything fancy here to change the content.
      */
-    private ArrayList load_page(int res_id) {
+    private ArrayList load_page(String filename) {
         ArrayList lines = new ArrayList();
-        InputStream raw = resources.openRawResource(res_id);
+        InputStream raw = null;
         InputStreamReader isr = null;
         try {
+            raw = assetmgr.open(filename);
             isr = new InputStreamReader(raw, "UTF8");
         } catch (UnsupportedEncodingException e) {
-            Log.e("Szotar", "Unsupported encoding for "+res_id+": "+e);
+            Log.e("Szotar", "Unsupported encoding for "+filename+": "+e);
+        } catch (IOException e) {
+            Log.e("Szotar", "IO Exception opening "+filename+": "+e);
         }
         BufferedReader is = new BufferedReader(isr);
         String line = null;
@@ -101,7 +102,7 @@ public class TextData {
                 }
             }
         } catch (IOException e) {
-            Log.e("Szotar", "IO error while reading "+res_id+": "+e);
+            Log.e("Szotar", "IO error while reading "+filename+": "+e);
         }
         return lines;
     }

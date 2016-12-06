@@ -78,7 +78,7 @@ looking for (if it is included in the dictionary at all). Some manual
 If you find a case where the auto-scrolled position is obviously very
 off, and you can locate the place that should have been shown, then
 please try to locate the raw OCR text corresponding to the word.  You
-can find all pages as `app/src/main/res/raw/txtNNNN.txt` where `NNNN`
+can find all pages as `app/src/main/assets/txt/NNNN.txt` where `NNNN`
 is the page number in the original book (in the range 1..1048).  If
 you look in the appropriate file, you will probably discover that the
 text is garbled (bad OCR). In this case, please pull-request a
