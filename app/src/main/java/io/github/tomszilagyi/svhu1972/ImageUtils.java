@@ -1,13 +1,16 @@
 package io.github.tomszilagyi.svhu1972;
 
+import android.content.Context;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.content.res.Resources;
 import android.widget.ImageView;
 import android.os.AsyncTask;
 import android.util.Log;
+
+import java.io.InputStream;
+import java.io.IOException;
 
 import java.lang.ref.WeakReference;
 
@@ -48,13 +51,31 @@ public class ImageUtils {
     }
 
     public static Bitmap
-    decodeSampledBitmapFromResource(Resources res, int resId,
-                                    int reqWidth, int reqHeight) {
+    decodeAssetImage(Context ctx, String filename, BitmapFactory.Options options) {
+        Bitmap bmp = null;
+        InputStream is = null;
+        try {
+            is = ctx.getAssets().open(filename);
+            bmp = BitmapFactory.decodeStream(is, null, options);
+            is.close();
+        } catch (IOException e) {
+            Log.e("Szotar", "IO Exception opening "+filename+": "+e);
+        }
+        return bmp;
+    }
+
+    public static Bitmap
+    decodeSampledBitmapFromAssets(Context ctx, int index,
+                                  int reqWidth, int reqHeight) {
+
+        int main = index / 2;
+        int sub = index % 2 + 1;
+        String filename = String.format("images/%04d_%d.png", main, sub);
 
         // First decode with inJustDecodeBounds=true to check dimensions
         final BitmapFactory.Options options = new BitmapFactory.Options();
         options.inJustDecodeBounds = true;
-        BitmapFactory.decodeResource(res, resId, options);
+        decodeAssetImage(ctx, filename, options);
 
         // Calculate inSampleSize
         options.inSampleSize = calculateInSampleSize(options, reqWidth, reqHeight);
@@ -62,15 +83,15 @@ public class ImageUtils {
         // Decode bitmap with inSampleSize set
         options.inJustDecodeBounds = false;
         options.inPreferredConfig = Bitmap.Config.ALPHA_8;
-        return BitmapFactory.decodeResource(res, resId, options);
+        return decodeAssetImage(ctx, filename, options);
     }
 
     static class AsyncDrawable extends BitmapDrawable {
         private final WeakReference<BitmapWorkerTask> bitmapWorkerTaskReference;
 
-        public AsyncDrawable(Resources res, Bitmap bitmap,
+        public AsyncDrawable(Context ctx, Bitmap bitmap,
                              BitmapWorkerTask bitmapWorkerTask) {
-            super(res, bitmap);
+            super(ctx.getResources(), bitmap);
             bitmapWorkerTaskReference =
                 new WeakReference<BitmapWorkerTask>(bitmapWorkerTask);
         }
@@ -83,10 +104,10 @@ public class ImageUtils {
     class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
         private final WeakReference<ImageView> imageViewReference;
         private int data = 0;
-        private Resources resources;
+        private Context context;
 
-        public BitmapWorkerTask(Resources resources, ImageView imageView) {
-            this.resources = resources;
+        public BitmapWorkerTask(Context context, ImageView imageView) {
+            this.context = context;
             // Use a WeakReference to ensure the ImageView can be garbage collected
             imageViewReference = new WeakReference<ImageView>(imageView);
         }
@@ -95,7 +116,7 @@ public class ImageUtils {
         @Override
         protected Bitmap doInBackground(Integer... params) {
             data = params[0];
-            return decodeSampledBitmapFromResource(resources, data, viewWidth, viewHeight);
+            return decodeSampledBitmapFromAssets(context, data, viewWidth, viewHeight);
         }
 
         // Once complete, see if ImageView is still around and set bitmap.
@@ -145,13 +166,12 @@ public class ImageUtils {
         return null;
     }
 
-    public void loadBitmap(Resources resources, int resId, ImageView imageView) {
-        if (cancelPotentialWork(resId, imageView)) {
-            final BitmapWorkerTask task = new BitmapWorkerTask(resources, imageView);
-            final AsyncDrawable asyncDrawable =
-                new AsyncDrawable(resources, null, task);
+    public void loadBitmap(Context context, int index, ImageView imageView) {
+        if (cancelPotentialWork(index, imageView)) {
+            final BitmapWorkerTask task = new BitmapWorkerTask(context, imageView);
+            final AsyncDrawable asyncDrawable = new AsyncDrawable(context, null, task);
             imageView.setImageDrawable(asyncDrawable);
-            task.execute(resId);
+            task.execute(index);
         }
     }
 

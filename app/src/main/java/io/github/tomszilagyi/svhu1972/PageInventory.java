@@ -17,11 +17,11 @@ public class PageInventory {
         List<Page> pages = new ArrayList<>();
         for (int i = 25; i <= 1020; i++) {
                 Page page = new Page();
-                page.setLabel(String.format("s%04d_1", i));
+                page.setIndex(2*i);
                 pages.add(page);
 
                 page = new Page();
-                page.setLabel(String.format("s%04d_2", i));
+                page.setIndex(2*i + 1);
                 pages.add(page);
         }
         return pages;

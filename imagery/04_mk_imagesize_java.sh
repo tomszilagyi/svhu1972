@@ -13,7 +13,7 @@ EOF
 
 cnt=0
 echo -n "Reading image sizes"
-for i in drawable/*.png; do
+for i in images/*.png; do
   file=$(basename $i)
   geometry=$(identify $i | awk '{print $3}')
   geom_x=$(echo $geometry | cut -d 'x' -f 1)

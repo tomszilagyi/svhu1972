@@ -272,15 +272,9 @@ public class PageListFragment extends Fragment {
         public void bindPage(Page page) {
             mPage = page;
             if (mImageView != null) {
-                mImageUtils.loadBitmap(getResources(),
-                                       title_to_resId(mPage.getLabel()),
-                                       mImageView);
+                mImageUtils.loadBitmap(getActivity().getApplicationContext(),
+                                       mPage.getIndex(), mImageView);
             }
-        }
-
-        private int title_to_resId(String str) {
-            return getResources().getIdentifier(str, "drawable",
-                                                getActivity().getPackageName());
         }
     }
 

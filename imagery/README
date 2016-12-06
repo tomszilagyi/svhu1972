@@ -12,10 +12,10 @@ $ 01_download_images.sh             [<runeberg.org> -> tif]
 $ 02_run_scantailor.sh              [tif -> tif_out]
 
 3. Create resources for Android application:
-$ 03_mk_resources.sh                [tif_out -> drawable]
+$ 03_mk_resources.sh                [tif_out -> imagery]
 
 4. Create ImageSize.java
-$ 04_mk_imagesize_java.sh           [drawable -> ImageSize.java]
+$ 04_mk_imagesize_java.sh           [imagery -> ImageSize.java]
 
 After these steps successfully complete, the app is ready to be built
 via gradle.

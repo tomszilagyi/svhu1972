@@ -2,13 +2,13 @@ package io.github.tomszilagyi.svhu1972;
 
 public class Page {
 
-    private String label;
+    private int index;
 
-    public String getLabel() {
-        return label;
+    public int getIndex() {
+        return index;
     }
 
-    public void setLabel(String label) {
-        this.label = label;
+    public void setIndex(int index) {
+        this.index = index;
     }
 }
