@@ -14,6 +14,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 
 public class TextData {
+    Locale locale;
     Collator collator;
     Activity activity;
     AssetManager assetmgr;
@@ -23,7 +24,8 @@ public class TextData {
     public TextData(Activity activity) {
         this.activity = activity;
         this.assetmgr = activity.getApplicationContext().getAssets();
-        collator = Collator.getInstance(new Locale("swe"));
+        locale = new Locale("swe");
+        collator = Collator.getInstance(locale);
         collator.setStrength(Collator.SECONDARY);
 
         // read index
@@ -113,7 +115,7 @@ public class TextData {
      * scroll the display to the given place, or null.
      */
     public TextPosition index_search(String str) {
-        String cstr = str.toLowerCase().replace('w', 'v');
+        String cstr = str.toLowerCase(locale).replace('w', 'v');
         IndexEntry entry = new IndexEntry();
         int start_page = letter_start_page(str);
         for (int p=index.size()-1; p >= start_page; p--) {
@@ -140,7 +142,7 @@ public class TextData {
             ArrayList page = (ArrayList)text.get(p);
             for (int l=0; l < page.size(); l++) {
                 String line = (String)page.get(l);
-                if (line.toLowerCase().startsWith(str.toLowerCase())) {
+                if (line.toLowerCase(locale).startsWith(str.toLowerCase(locale))) {
                     Log.i("Szotar", "search ("+str+"): "+p+":"+l+" :"+line);
                     return new TextPosition(p, l);
                 }
@@ -151,37 +153,36 @@ public class TextData {
 
     /* Return page number where the first letter of str starts */
     public static int letter_start_page(String str) {
-        if (str == null || str.isEmpty()) return 0;
-        char c = str.toLowerCase().charAt(0);
-        switch (c) {
-        case 'a': return 0;
-        case 'b': return 45;
-        case 'c': return 103;
-        case 'd': return 106;
-        case 'e': return 129;
-        case 'f': return 145;
-        case 'g': return 226;
-        case 'h': return 262;
-        case 'i': return 307;
-        case 'j': return 325;
-        case 'k': return 332;
-        case 'l': return 387;
-        case 'm': return 422;
-        case 'n': return 464;
-        case 'o': return 480;
-        case 'p': return 504;
-        case 'r': return 537;
-        case 's': return 576;
-        case 't': return 770;
-        case 'u': return 840;
-        case 'v':
-        case 'w': return 885;
-        case 'x': return 946;
-        case 'y': return 947;
-        case 'z': return 952;
-        case 'å': return 953;
-        case 'ä': return 966;
-        case 'ö': return 977;
+        if (str == null || str.length() == 0) return 0;
+        switch (str.charAt(0)) {
+        case 'a': case 'A': return 0;
+        case 'b': case 'B': return 45;
+        case 'c': case 'C': return 103;
+        case 'd': case 'D': return 106;
+        case 'e': case 'E': return 129;
+        case 'f': case 'F': return 145;
+        case 'g': case 'G': return 226;
+        case 'h': case 'H': return 262;
+        case 'i': case 'I': return 307;
+        case 'j': case 'J': return 325;
+        case 'k': case 'K': return 332;
+        case 'l': case 'L': return 387;
+        case 'm': case 'M': return 422;
+        case 'n': case 'N': return 464;
+        case 'o': case 'O': return 480;
+        case 'p': case 'P': return 504;
+        case 'r': case 'R': return 537;
+        case 's': case 'S': return 576;
+        case 't': case 'T': return 770;
+        case 'u': case 'U': return 840;
+        case 'v': case 'V':
+        case 'w': case 'W': return 885;
+        case 'x': case 'X': return 946;
+        case 'y': case 'Y': return 947;
+        case 'z': case 'Z': return 952;
+        case 'å': case 'Å': return 953;
+        case 'ä': case 'Ä': return 966;
+        case 'ö': case 'Ö': return 977;
         default: return 0;
         }
     }

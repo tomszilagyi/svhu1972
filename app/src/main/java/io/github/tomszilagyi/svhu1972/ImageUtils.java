@@ -11,8 +11,8 @@ import android.util.Log;
 
 import java.io.InputStream;
 import java.io.IOException;
-
 import java.lang.ref.WeakReference;
+import java.util.Locale;
 
 public class ImageUtils {
     private int viewHeight;
@@ -70,7 +70,7 @@ public class ImageUtils {
 
         int main = index / 2;
         int sub = index % 2 + 1;
-        String filename = String.format("images/%04d_%d.png", main, sub);
+        String filename = String.format(Locale.UK, "images/%04d_%d.png", main, sub);
 
         // First decode with inJustDecodeBounds=true to check dimensions
         final BitmapFactory.Options options = new BitmapFactory.Options();

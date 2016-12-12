@@ -40,6 +40,7 @@ public class PageListFragment extends Fragment {
     private boolean position_lock;
     private int image_area_height;
     private int image_area_width;
+    private boolean global_layout_listener_ran = false;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -108,7 +109,7 @@ public class PageListFragment extends Fragment {
                     int pos = mLayoutManager.findFirstVisibleItemPosition();
                     int offset = mLayoutManager.getChildAt(0).getTop();
                     String text = mSearchEditText.getText().toString();
-                    if (text.isEmpty()) return;
+                    if (text.length() == 0) return;
                     Log.i("Szotar", "Save bookmark: '"+text+"' at pos="+pos+":"+offset);
                     /* TODO */
                 }
@@ -119,16 +120,20 @@ public class PageListFragment extends Fragment {
             new OnGlobalLayoutListener() {
                 @Override
                 public void onGlobalLayout() {
-                    Log.i("Szotar",
-                          "Updating image display view area:" +
-                          " Width:" + mRecyclerView.getWidth() +
-                          " Height:" + mRecyclerView.getHeight());
-                    mImageUtils.setViewSize(mRecyclerView.getWidth(),
-                                            mRecyclerView.getHeight());
+                    /* This is anal, but the API deprecation of
+                       removeGlobalOnFocusChangeListener in favour of
+                       removeOnGlobalFocusChangeListener is even more so. */
+                    if (global_layout_listener_ran) return;
+                    global_layout_listener_ran = true;
+
                     image_area_width = mRecyclerView.getWidth();
                     image_area_height = mRecyclerView.getHeight();
-                    mRecyclerView.getViewTreeObserver()
-                        .removeOnGlobalLayoutListener(this);
+                    mImageUtils.setViewSize(image_area_width,
+                                            image_area_height);
+                    Log.i("Szotar",
+                          "Updating image display view area:" +
+                          " Width:" + image_area_width +
+                          " Height:" + image_area_height);
                 }
             });
         mRecyclerView.addOnScrollListener(
