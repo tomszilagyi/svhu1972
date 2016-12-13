@@ -13,4 +13,8 @@ public class TextPosition {
         this.page = page;
         this.line = line;
     }
+
+    public String toString() {
+        return "tp["+this.page+":"+this.line+"]";
+    }
 }

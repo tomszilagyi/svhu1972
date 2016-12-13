@@ -1,13 +1,15 @@
 package io.github.tomszilagyi.svhu1972;
 
-import android.app.Activity;
 import android.content.res.AssetManager;
-import android.util.Log;
 
+import io.github.tomszilagyi.svhu1972.Log;
+
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.UnsupportedEncodingException;
 import java.text.Collator;
 import java.util.ArrayList;
@@ -16,15 +18,13 @@ import java.util.Locale;
 public class TextData {
     Locale locale;
     Collator collator;
-    Activity activity;
     AssetManager assetmgr;
     ArrayList text;
     ArrayList index;
 
-    public TextData(Activity activity) {
-        this.activity = activity;
-        this.assetmgr = activity.getApplicationContext().getAssets();
-        locale = new Locale("swe");
+    public TextData(AssetManager assetmgr) {
+        this.assetmgr = assetmgr;
+        locale = new Locale("sv");
         collator = Collator.getInstance(locale);
         collator.setStrength(Collator.SECONDARY);
 
@@ -87,7 +87,7 @@ public class TextData {
         InputStream raw = null;
         InputStreamReader isr = null;
         try {
-            raw = assetmgr.open(filename);
+            raw = openAsset(filename);
             isr = new InputStreamReader(raw, "UTF8");
         } catch (UnsupportedEncodingException e) {
             Log.e("Szotar", "Unsupported encoding for "+filename+": "+e);
@@ -143,8 +143,9 @@ public class TextData {
             for (int l=0; l < page.size(); l++) {
                 String line = (String)page.get(l);
                 if (line.toLowerCase(locale).startsWith(str.toLowerCase(locale))) {
-                    Log.i("Szotar", "search ("+str+"): "+p+":"+l+" :"+line);
-                    return new TextPosition(p, l);
+                    TextPosition tp = new TextPosition(p, l);
+                    Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
+                    return tp;
                 }
             }
         }
@@ -258,5 +259,18 @@ public class TextData {
             }
         default: return 0;
         }
+    }
+
+    private InputStream openAsset(String filename) throws IOException {
+        if (assetmgr == null) {
+            /* This is ugly but AssetManager is static, so no mocking it... */
+            try {
+                return new FileInputStream("src/main/assets/" + filename);
+            } catch (FileNotFoundException e) {
+                Log.e("Szotar", e.toString());
+                return null;
+            }
+        }
+        return assetmgr.open(filename);
     }
 }
