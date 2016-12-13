@@ -31,26 +31,8 @@ public class TextData {
         // read index
         index = load_index();
 
-        // read txt resources 0025..1020 into ArrayList of ArrayList of String
-        text = new ArrayList(1020-24);
-        for (int p=25; p < 1021; p++) {
-            String s = String.format("txt/%04d.txt", p);
-            text.add(load_page(s));
-        }
-        /* some basic validation: how many lines have we read on each page?
-         * NB. this is not needed once the OCR files are cleaned up
-         * and is commented out to save load time
-         */
-        /*
-        Log.i("Szotar", "*** n_pages: " + text.size());
-        String s = "*** n_lines (those != measured): ";
-        for (int p=0; p < text.size(); p++) {
-            ArrayList page = (ArrayList)text.get(p);
-            if (page.size() != column_rows(p, 0) + column_rows(p, 1))
-                s = s+" "+(p+25)+":"+page.size();
-        }
-        Log.i("Szotar", s);
-        */
+        // read OCR-ed txt pages
+        text = load_pages();
     }
 
     private class IndexEntry {
@@ -77,6 +59,53 @@ public class TextData {
             index.add(new IndexEntry(pageno, first_word));
         }
         return index;
+    }
+
+    // return OCR-ed txt pages 0025..1020 as ArrayList of ArrayList of String
+    private ArrayList load_pages() {
+        ArrayList text = new ArrayList(1020-24);
+        for (int p=25; p < 1021; p++) {
+            String s = String.format(Locale.UK, "txt/%04d.txt", p);
+            text.add(load_page(s));
+        }
+        /* some basic validation: how many lines have we read on each page?
+         * NB. this is not needed once the OCR files are cleaned up
+         * and is commented out to save load time
+         */
+        /*
+        Log.i("Szotar", "*** n_pages: " + text.size());
+        String s = "*** n_lines (those != measured): ";
+        for (int p=0; p < text.size(); p++) {
+            ArrayList page = (ArrayList)text.get(p);
+            if (page.size() != column_rows(p, 0) + column_rows(p, 1))
+                s = s+" "+(p+25)+":"+page.size();
+        }
+        Log.i("Szotar", s);
+        */
+
+        /* Normalize the text for searching: remove chars ()|
+           The pipe character is used to mark compounds, so we try and
+           expand them to facilitate searching for the original ones.
+
+           Example: hem|skickad ... -skillnad ... -skrivning ...
+
+           A search for hemskickad (without the |) or for hemskrivning
+           should do the right thing.
+
+           How to do this:
+           1. in case we read a keyword with | in it, save the prefix
+              and activate "expand mode";
+           2. while in "expand mode", any word written as -suffix (ie.
+              starting with a  dash) will be expanded with the prefix
+              except the following: - -t -n -r -en -et -er -ar
+           3. "expand mode" ends (or is reinstated) when
+              - another word containing a | is read;
+              - a keyword that is a prefix of the current prefix is
+                read (keywords can be validated with the current index
+                range)
+         */
+
+        return text;
     }
 
     /* This is used to load both the index and OCR-ed text pages,
