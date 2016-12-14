@@ -27,11 +27,8 @@ public class TextData {
         locale = new Locale("sv");
         collator = Collator.getInstance(locale);
         collator.setStrength(Collator.SECONDARY);
-
-        // read index
+        /* read and pre-process the page index and the OCR-ed text */
         index = load_index();
-
-        // read OCR-ed txt pages
         text = load_pages();
     }
 
@@ -39,35 +36,22 @@ public class TextData {
         return text;
     }
 
-    private class IndexEntry {
-        int pageno;
-        String first_word;
-        private IndexEntry() {
-            this.pageno = 0;
-            this.first_word = "a";
-        }
-        private IndexEntry(int pageno, String first_word) {
-            this.pageno = pageno;
-            this.first_word = first_word;
-        }
-    }
-
     private ArrayList load_index() {
         ArrayList lines = load_page("txt/index.txt");
-        ArrayList index = new ArrayList();
+        ArrayList index = new ArrayList(996);
         for (int i=0; i < lines.size(); i++) {
             String line = (String)lines.get(i); // Ex.: "1013 - Ö - överglänsa"
             int pageno = Integer.parseInt(line.substring(0, 4)) - 25; // display idxs
             String first_word = line.substring(11);
             //Log.i("Szotar", pageno + ": " + first_word);
-            index.add(new IndexEntry(pageno, first_word));
+            index.add(first_word);
         }
         return index;
     }
 
     // return OCR-ed txt pages 0025..1020 as ArrayList of ArrayList of String
     private ArrayList load_pages() {
-        ArrayList text = new ArrayList(1020-24);
+        ArrayList text = new ArrayList(996);
         for (int p=25; p < 1021; p++) {
             String s = String.format(Locale.UK, "txt/%04d.txt", p);
             text.add(load_page(s));
@@ -133,18 +117,18 @@ public class TextData {
      * scroll the display to the given place, or null.
      */
     public TextPosition index_search(String str) {
+        String entry = null;
         String cstr = str.toLowerCase(locale).replace('w', 'v');
-        IndexEntry entry = new IndexEntry();
-        int start_page = letter_start_page(str);
-        for (int p=index.size()-1; p >= start_page; p--) {
-            entry = (IndexEntry)index.get(p);
-            if (collator.compare(cstr, entry.first_word) >= 0) break;
+        int p, start_page = letter_start_page(str);
+        for (p=index.size()-1; p >= start_page; p--) {
+            entry = (String)index.get(p);
+            if (collator.compare(cstr, entry) >= 0) break;
         }
-        Log.i("Szotar", "search ("+str+"): index: "+
-              entry.pageno+":"+entry.first_word);
+        if (p < 0) p = 0; /* index search with no result -- garbage input */
+        Log.i("Szotar", "search ("+str+"): index: "+p+":"+entry);
         TextPosition result = null;
         while (str.length() > 0 && result == null) {
-            result = fulltext_search(entry.pageno, str);
+            result = fulltext_search(p, str);
             str = str.substring(0, str.length()-1);
         }
         return result;
