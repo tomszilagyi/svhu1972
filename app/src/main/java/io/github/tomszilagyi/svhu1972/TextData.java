@@ -56,28 +56,38 @@ public class TextData {
             String s = String.format(Locale.UK, "txt/%04d.txt", p);
             text.add(load_page(s));
         }
+        return normalize(text);
+    }
 
-        /* Normalize the text for searching: remove chars ()|
-           The pipe character is used to mark compounds, so we try and
-           expand them to facilitate searching for the original ones.
+    /* Normalize the text for searching: remove chars ()|
+       The pipe character is used to mark compounds, so we try and
+       expand them to facilitate searching for the original ones.
 
-           Example: hem|skickad ... -skillnad ... -skrivning ...
+       Example: hem|skickad ... -skillnad ... -skrivning ...
 
-           A search for hemskickad (without the |) or for hemskrivning
-           should do the right thing.
+       A search for hemskickad (without the |) or for hemskrivning
+       should do the right thing.
 
-           How to do this:
-           1. in case we read a keyword with | in it, save the prefix
-              and activate "expand mode";
-           2. while in "expand mode", any word written as -suffix (ie.
-              starting with a  dash) will be expanded with the prefix
-              except the following: - -t -n -r -en -et -er -ar
-           3. "expand mode" ends (or is reinstated) when
-              - another word containing a | is read;
-              - a keyword that is a prefix of the current prefix is
-                read (keywords can be validated with the current index
-                range)
-         */
+       How to do this:
+       1. in case we read a keyword with | in it, save the prefix
+       and activate "expand mode";
+       2. while in "expand mode", any word written as -suffix (ie.
+       starting with a  dash) will be expanded with the prefix
+       except the following: - -t -n -r -en -et -er -ar
+       3. "expand mode" ends (or is reinstated) when
+         - another word containing a | is read;
+         - a keyword that is a prefix of the current prefix is
+         read (keywords can be validated with the current index
+         range)
+    */
+    private ArrayList normalize(ArrayList text) {
+        for (int p=0; p < text.size(); p++) {
+            ArrayList page = (ArrayList)text.get(p);
+            for (int l=0; l < page.size(); l++) {
+                String line = (String)page.get(l);
+                /* TODO */
+            }
+        }
         return text;
     }
 
