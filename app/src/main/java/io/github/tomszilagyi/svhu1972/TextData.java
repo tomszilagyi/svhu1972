@@ -35,6 +35,10 @@ public class TextData {
         text = load_pages();
     }
 
+    public ArrayList getText() {
+        return text;
+    }
+
     private class IndexEntry {
         int pageno;
         String first_word;
@@ -68,20 +72,6 @@ public class TextData {
             String s = String.format(Locale.UK, "txt/%04d.txt", p);
             text.add(load_page(s));
         }
-        /* some basic validation: how many lines have we read on each page?
-         * NB. this is not needed once the OCR files are cleaned up
-         * and is commented out to save load time
-         */
-        /*
-        Log.i("Szotar", "*** n_pages: " + text.size());
-        String s = "*** n_lines (those != measured): ";
-        for (int p=0; p < text.size(); p++) {
-            ArrayList page = (ArrayList)text.get(p);
-            if (page.size() != column_rows(p, 0) + column_rows(p, 1))
-                s = s+" "+(p+25)+":"+page.size();
-        }
-        Log.i("Szotar", s);
-        */
 
         /* Normalize the text for searching: remove chars ()|
            The pipe character is used to mark compounds, so we try and
@@ -104,7 +94,6 @@ public class TextData {
                 read (keywords can be validated with the current index
                 range)
          */
-
         return text;
     }
 
