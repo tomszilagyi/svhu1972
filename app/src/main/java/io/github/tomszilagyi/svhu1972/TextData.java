@@ -6,11 +6,14 @@ import io.github.tomszilagyi.svhu1972.Log;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
+import java.io.FileOutputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
+import java.io.OutputStream;
 import java.io.InputStreamReader;
 import java.io.UnsupportedEncodingException;
+import java.nio.charset.StandardCharsets;
 import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Locale;
@@ -57,9 +60,32 @@ public class TextData {
             text.add(load_page(s));
         }
         return normalize(text);
+        //return text;
     }
 
-    /* Normalize the text for searching: remove chars ()|
+    // export the pages to asset structure
+    public void write_pages() {
+        if (assetmgr != null) {
+            Log.e("Szotar", "Pages can only be written on host!");
+            return;
+        }
+        try {
+            for (int p=0; p < text.size(); p++) {
+                ArrayList page = (ArrayList)text.get(p);
+                String filename = String.format(Locale.UK, "txt_out/%04d.txt", p+25);
+                OutputStream os = openAssetForWrite(filename);
+                for (int l=0; l < page.size(); l++) {
+                    String line = (String)page.get(l) + "\n";
+                    os.write(line.getBytes(StandardCharsets.UTF_8));
+                }
+                os.close();
+            }
+        } catch (IOException e) {
+            Log.e("Szotar", e.toString());
+        }
+    }
+
+    /* Normalize the text for searching: remove chars \*()
        The pipe character is used to mark compounds, so we try and
        expand them to facilitate searching for the original ones.
 
@@ -68,24 +94,102 @@ public class TextData {
        A search for hemskickad (without the |) or for hemskrivning
        should do the right thing.
 
-       How to do this:
-       1. in case we read a keyword with | in it, save the prefix
+       How we do this:
+       1. in case we read a keyword with | in it, save the stem
        and activate "expand mode";
        2. while in "expand mode", any word written as -suffix (ie.
-       starting with a  dash) will be expanded with the prefix
-       except the following: - -t -n -r -en -et -er -ar
+       starting with a dash) will be expanded with the stem
+       except for grammatical suffixes e.g.: -t -n -r -en -et
        3. "expand mode" ends (or is reinstated) when
          - another word containing a | is read;
          - a keyword that is a prefix of the current prefix is
-         read (keywords can be validated with the current index
-         range)
+         read (keywords are validated with the current index range)
     */
     private ArrayList normalize(ArrayList text) {
+        boolean expand_mode = false;
+        String stem = null;
+        String suffix = null;
+        String index_from = null;
+        String index_to = null;
+
         for (int p=0; p < text.size(); p++) {
             ArrayList page = (ArrayList)text.get(p);
             for (int l=0; l < page.size(); l++) {
                 String line = (String)page.get(l);
-                /* TODO */
+
+                /* Some basic hygiene to avoid regex problems */
+                line = line.replaceAll("–", "-").replaceAll("(\\\\|\\*|\\(|\\))", "");
+
+                int idx_pipe = line.indexOf('|');
+                if (idx_pipe > 0) { // pipe exists and not the very first
+                    /* Enter or reinitialize expand mode */
+                    stem = line.substring(0, idx_pipe);
+                    suffix = line.substring(idx_pipe+1);
+                    int suffix_end = suffix.indexOf(' ');
+                    if (suffix_end > 0) {
+                        suffix = suffix.substring(0, suffix_end);
+                    }
+                    expand_mode = true;
+                    index_from = (String)index.get(p);
+                    if (p == text.size()-1) {
+                        index_to = null;
+                    } else {
+                        index_to = (String)index.get(p+1);
+                    }
+
+                    //Log.i("Szotar", line+" => "+stem+"||"+suffix);
+                    line = line.replaceFirst("\\|", "");
+                } else if (expand_mode) {
+                    /* We did not enter expand_mode on this line,
+                       see if we need to quit expand_mode */
+                    String line_nopipe = line.replaceFirst("\\|", "");
+                    if ((collator.compare(index_from, line_nopipe) <= 0) &&
+                        ((index_to == null) || collator.compare(line_nopipe, index_to) <= 0)) {
+                        /* Yes we do -- line sorts within the current index range */
+                        //Log.e("Szotar", line+" == index: "+index_from+" >> "+index_to);
+                        line = line_nopipe;
+                        expand_mode = false;
+                        stem = null;
+                        suffix = null;
+                        index_from = null;
+                        index_to = null;
+                    }
+                }
+                if (expand_mode) {
+                    /* Identify and iterate through all suffixes in
+                     * the line. Filter them according to the current
+                     * suffix (taking advantage of the fact that they,
+                     * too, are in alphabetical order) and special
+                     * exceptions. If accepted, expand with stem and
+                     * update current suffix. Expanded keywords are
+                     * marked with a preceding '@' so we can avoid
+                     * spurious search results where keywords occur in
+                     * the text of other keywords.
+                     */
+                    int idx_dash = line.indexOf('-');
+                    while (idx_dash > -1) {
+                        String maybe_suffix = line.substring(idx_dash);
+                        int idx_end = maybe_suffix.indexOf(' ');
+                        if (idx_end > 0) {
+                            maybe_suffix = maybe_suffix.substring(0, idx_end);
+                        } else {
+                            idx_end = 0;
+                        }
+                        if (!maybe_suffix.matches("^-(n|en|t|et|r|er|ar|or)?[:;,]*$")) {
+                            maybe_suffix = maybe_suffix.substring(1);
+                            String candidate = stem + maybe_suffix;
+                            if ((collator.compare(index_from, candidate) <= 0) &&
+                                ((index_to == null) || collator.compare(candidate, index_to) <= 0)) {
+                                //Log.i("Szotar", "== candidate: "+maybe_suffix+ " --> "+candidate);
+                                suffix = maybe_suffix;
+                                line = line.replaceFirst("-"+suffix, "@" + candidate.replaceAll("\\-", ""));
+                            }
+                        }
+                        idx_dash = line.indexOf('-', idx_dash+idx_end+1);
+                    }
+                }
+                /* Save whatever changes we made to the line */
+                page.set(l, line);
             }
         }
         return text;
@@ -150,11 +254,13 @@ public class TextData {
      * of 8 pages.
      */
     public TextPosition fulltext_search(int p0, String str) {
+        str = str.toLowerCase(locale);
         for (int p=p0; p < p0+8 && p < text.size(); p++) {
             ArrayList page = (ArrayList)text.get(p);
             for (int l=0; l < page.size(); l++) {
                 String line = (String)page.get(l);
-                if (line.toLowerCase(locale).startsWith(str.toLowerCase(locale))) {
+                line = line.toLowerCase(locale);
+                if (line.startsWith(str) || line.contains("@"+str)) {
                     TextPosition tp = new TextPosition(p, l);
                     Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
                     return tp;
@@ -284,5 +390,16 @@ public class TextData {
             }
         }
         return assetmgr.open(filename);
+    }
+
+    /* Only used in test environment */
+    private OutputStream openAssetForWrite(String filename) throws IOException {
+        if (assetmgr != null) return null;
+        try {
+            return new FileOutputStream("src/main/assets/" + filename);
+        } catch (FileNotFoundException e) {
+            Log.e("Szotar", e.toString());
+            return null;
+        }
     }
 }

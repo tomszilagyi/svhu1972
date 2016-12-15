@@ -53,6 +53,16 @@ public class TextDataTest {
         /* compound words */
         assertThat(td_ixs_str("havsbad"), is("tp[271:4]"));
         assertThat(td_ixs_str("rengöra"), is("tp[546:70]"));
+        assertThat(td_ixs_str("omljud"), is("tp[491:12]"));
+        assertThat(td_ixs_str("påverkan"), is("tp[535:40]"));
+        assertThat(td_ixs_str("starköl"), is("tp[695:73]"));
+        assertThat(td_ixs_str("sysslolöshet"), is("tp[754:83]"));
+        assertThat(td_ixs_str("tvättvatten"), is("tp[830:96]"));
+        assertThat(td_ixs_str("varmrätt"), is("tp[896:88]"));
+        assertThat(td_ixs_str("översättningslitteratur"), is("tp[993:81]"));
+        assertThat(td_ixs_str("övervunnet"), is("tp[994:99]"));
+
+        //td.write_pages(); /* this should be run from somewhere else */
     }
 
     /* helpers to make test code more succinct */

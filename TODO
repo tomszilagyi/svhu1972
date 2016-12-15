@@ -5,4 +5,5 @@
   - space on one/both sides of |
   - I instead of |       grep 'I' *.txt | grep -v 'I\.' | less
   - IL -> I.
+  - dash char '–'
   - ...
