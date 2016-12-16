@@ -23,7 +23,7 @@ public class TextDataTest {
     @Test
     public void ocr_page_lines_test() {
         for (int p=0; p < td.getText().size(); p++) {
-            ArrayList page = (ArrayList)td.getText().get(p);
+            ArrayList<String> page = td.getText().get(p);
             assertThat(page.size(), is(TextData.column_rows(p, 0) +
                                        TextData.column_rows(p, 1)));
         }

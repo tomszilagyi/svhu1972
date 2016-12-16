@@ -17,8 +17,8 @@ public class TextData {
     Locale locale;
     Collator collator;
     AssetManager assetmgr;
-    ArrayList text;
-    ArrayList index;
+    ArrayList<ArrayList<String>> text;
+    ArrayList<String> index;
 
     public TextData(AssetManager assetmgr) {
         this.assetmgr = assetmgr;
@@ -29,7 +29,7 @@ public class TextData {
     }
 
     /* Accessor used for testing only */
-    public ArrayList getText() {
+    public ArrayList<ArrayList<String>> getText() {
         return text;
     }
 
@@ -44,7 +44,7 @@ public class TextData {
             DataInputStream dis = new DataInputStream(bis);
             index = read_page(dis);
             int n_pages = dis.readInt();
-            text = new ArrayList();
+            text = new ArrayList<ArrayList<String>>();
             for (int p=0; p < n_pages; p++) {
                 text.add(read_page(dis));
             }
@@ -53,9 +53,9 @@ public class TextData {
             Log.e("Szotar", e.toString());
         }
     }
-    private ArrayList read_page(DataInputStream dis) throws IOException {
+    private ArrayList<String> read_page(DataInputStream dis) throws IOException {
         int n_lines = dis.readInt();
-        ArrayList list = new ArrayList();
+        ArrayList<String> list = new ArrayList<String>();
         for (int l=0; l < n_lines; l++) {
             list.add(dis.readUTF());
         }
@@ -80,7 +80,7 @@ public class TextData {
         String cstr = str.toLowerCase(locale).replace('w', 'v');
         int p, start_page = letter_start_page(str);
         for (p=index.size()-1; p >= start_page; p--) {
-            entry = (String)index.get(p);
+            entry = index.get(p);
             if (collator.compare(cstr, entry) >= 0) break;
         }
         if (p < 0) p = 0; /* index search with no result -- garbage input */
@@ -101,9 +101,9 @@ public class TextData {
     public TextPosition fulltext_search(int p0, String str) {
         str = str.toLowerCase(locale);
         for (int p=p0; p < p0+8 && p < text.size(); p++) {
-            ArrayList page = (ArrayList)text.get(p);
+            ArrayList<String> page = text.get(p);
             for (int l=0; l < page.size(); l++) {
-                String line = (String)page.get(l);
+                String line = page.get(l);
                 line = line.toLowerCase(locale);
                 if (line.startsWith(str) || line.contains("@"+str)) {
                     TextPosition tp = new TextPosition(p, l);

@@ -13,8 +13,8 @@ import java.util.Locale;
 public class TextPrepare {
     Locale locale;
     Collator collator;
-    ArrayList text;
-    ArrayList index;
+    ArrayList<ArrayList<String>> text;
+    ArrayList<String> index;
 
     public TextPrepare() {
         locale = new Locale("sv");
@@ -32,10 +32,10 @@ public class TextPrepare {
     }
 
     private void load_index() {
-        ArrayList lines = load_page("txt/index.txt");
-        index = new ArrayList(996);
+        ArrayList<String> lines = load_page("txt/index.txt");
+        index = new ArrayList<String>(996);
         for (int i=0; i < lines.size(); i++) {
-            String line = (String)lines.get(i); // Ex.: "1013 - Ö - överglänsa"
+            String line = lines.get(i); // Ex.: "1013 - Ö - överglänsa"
             int pageno = Integer.parseInt(line.substring(0, 4)) - 25; // display idxs
             String first_word = line.substring(11);
             //System.out.println(pageno + ": " + first_word);
@@ -45,7 +45,7 @@ public class TextPrepare {
 
     // return OCR-ed txt pages 0025..1020 as ArrayList of ArrayList of String
     private void load_pages() {
-        text = new ArrayList(996);
+        text = new ArrayList<ArrayList<String>>(996);
         for (int p=25; p < 1021; p++) {
             String s = String.format(Locale.UK, "txt/%04d.txt", p);
             text.add(load_page(s));
@@ -62,18 +62,18 @@ public class TextPrepare {
             int n_pages = text.size();
             dos.writeInt(n_pages);
             for (int p=0; p < n_pages; p++) {
-                write_page(dos, (ArrayList)text.get(p));
+                write_page(dos, text.get(p));
             }
             dos.close();
         } catch (IOException e) {
             System.out.println(e.toString());
         }
     }
-    private void write_page(DataOutputStream dos, ArrayList page) throws IOException {
+    private void write_page(DataOutputStream dos, ArrayList<String> page) throws IOException {
         int n_lines = page.size();
         dos.writeInt(n_lines);
         for (int l=0; l < n_lines; l++) {
-            dos.writeUTF((String)page.get(l));
+            dos.writeUTF(page.get(l));
         }
     }
 
@@ -105,9 +105,9 @@ public class TextPrepare {
         String index_to = null;
 
         for (int p=0; p < text.size(); p++) {
-            ArrayList page = (ArrayList)text.get(p);
+            ArrayList<String> page = text.get(p);
             for (int l=0; l < page.size(); l++) {
-                String line = (String)page.get(l);
+                String line = page.get(l);
 
                 /* Some basic hygiene to avoid regex problems */
                 line = line.replaceAll("–", "-").replaceAll("(\\\\|\\*|\\(|\\))", "");
@@ -122,11 +122,11 @@ public class TextPrepare {
                         suffix = suffix.substring(0, suffix_end);
                     }
                     expand_mode = true;
-                    index_from = (String)index.get(p);
+                    index_from = index.get(p);
                     if (p == text.size()-1) {
                         index_to = null;
                     } else {
-                        index_to = (String)index.get(p+1);
+                        index_to = index.get(p+1);
                     }
 
                     //System.out.println(line+" => "+stem+"||"+suffix);
@@ -189,8 +189,8 @@ public class TextPrepare {
     /* This is used to load both the index and OCR-ed text pages,
      * so don't do anything fancy here to change the content.
      */
-    private ArrayList load_page(String filename) {
-        ArrayList lines = new ArrayList();
+    private ArrayList<String> load_page(String filename) {
+        ArrayList<String> lines = new ArrayList<String>();
         InputStream raw = null;
         InputStreamReader isr = null;
         try {
