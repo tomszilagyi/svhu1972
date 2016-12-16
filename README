@@ -78,11 +78,11 @@ looking for (if it is included in the dictionary at all). Some manual
 If you find a case where the auto-scrolled position is obviously very
 off, and you can locate the place that should have been shown, then
 please try to locate the raw OCR text corresponding to the word.  You
-can find all pages as `app/src/main/assets/txt/NNNN.txt` where `NNNN`
-is the page number in the original book (in the range 1..1048).  If
-you look in the appropriate file, you will probably discover that the
-text is garbled (bad OCR). In this case, please pull-request a
-corrected version.
+can find all pages as `imagery/txt/NNNN.txt` where `NNNN` is the page
+number in the original book (in the range 1..1048).  If you look in
+the appropriate file, you will probably discover that the text is
+garbled (bad OCR). In this case, please pull-request a corrected
+version.
 
 
 BUILDING THE APP
@@ -98,7 +98,8 @@ Caveats:
 
 
 To be able to build the app, first you need to obtain and pre-process
-the imagery. Look at the README under imagery/.
+the imagery as well as the raw OCR-ed text of the dictionary. Look at
+the README under imagery/ and follow the instructions.
 
 After completing the steps outlined there, you may go ahead and build
 the application with Gradle. You might need to create a file named
