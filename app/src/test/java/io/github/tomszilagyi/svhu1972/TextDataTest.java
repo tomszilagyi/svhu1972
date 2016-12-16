@@ -2,8 +2,6 @@ import org.junit.*;
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
 
-import java.io.InputStream;
-import java.io.IOException;
 import java.util.ArrayList;
 
 import io.github.tomszilagyi.svhu1972.Log;
@@ -33,7 +31,7 @@ public class TextDataTest {
 
     /* Validate the search functionality */
     @Test
-    public void index_search_test() {
+    public void search_test() {
         /* simple cases including w and garbage input */
         assertThat(td_ixs_str("alma"), is("tp[10:37]"));
         assertThat(td_ixs_str("gravid"), is("tp[244:58]"));
@@ -60,9 +58,7 @@ public class TextDataTest {
         assertThat(td_ixs_str("tvättvatten"), is("tp[830:96]"));
         assertThat(td_ixs_str("varmrätt"), is("tp[896:88]"));
         assertThat(td_ixs_str("översättningslitteratur"), is("tp[993:81]"));
-        assertThat(td_ixs_str("övervunnet"), is("tp[994:99]"));
-
-        //td.write_pages(); /* this should be run from somewhere else */
+        assertThat(td_ixs_str("övervunnen"), is("tp[994:98]"));
     }
 
     /* helpers to make test code more succinct */
