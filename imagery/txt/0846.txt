@@ -46,7 +46,7 @@ v. vastagon folyó, sűrű (folyadék)
 tröghet -en renyheség, tunyaság, restség;
 lassúság; késedelmesség;
 tehetetlenség (fiz is)
-tröghets] kraft -en, -er fiz:
+tröghets|kraft -en, -er fiz:
 tehetetlenségi erő -lag -en fiz: tehetetlenség v.
 inercia törvénye -moment -et, =
 fiz tehetetlenségi nyomaték
@@ -93,7 +93,7 @@ tröstarlnna -nt -or vigasztaló (nő)
 tröstefull -t vigasztaló; bizalommal teli,
 bizakodó
 
-tröst(e)| källa -n, -or átv: vigasz forrása
+tröst(e)|källa -n, -or átv: vigasz forrása
 -ord -et, = vigasztaló szó; vigasztalás
 -rik -t vigasztaló, vigasszal teli
 tröstlös -t 1. vigasztalan,

@@ -2,7 +2,7 @@ ha- ezt meg ném történtté lehetne
 tenni!; vara ute i ogjort väder
 beleártja magát mások dolgaiba;
 okvetetlenkedik
-o]grannlaga indecl gyengédtelen,
+o|grannlaga indecl gyengédtelen,
 tapintatlan, indiszkrét -graverad 1.
 tehermentes, zálogjoggal nem
 terhelt; en ~ fastighet tehermentes
@@ -45,7 +45,7 @@ illetéktelen, jogtalan; alaptalan; [vkit]
 Oherrans: o ett ~ väder borzasztó- V.
 
 kutya idő(járás)
-O]hindrad akadálytalan -hjälplig -t
+O|hindrad akadálytalan -hjälplig -t
 javíthatatlan; reménytelen,
 menthetetlen; pótolhatatlan -hjälpsam -t
 nem készséges, nem segítőkész, kellet-*
@@ -101,7 +101,7 @@ oj interj jaj!; juj!; of v. ojoj då! ejha!
 öja: ~ sig sopánkodik, siránkozik (över
 ngt vmin)
 
-o]jämförlig -t (összehasonlíthatatlan
+o|jämförlig -t (összehasonlíthatatlan
 -jämn -t 1. egyenetlen, durva;
 döcögős 2. páratlan (szám) 3. egyenlőtlen,
 nem egyenlő, különböző -jävig -t

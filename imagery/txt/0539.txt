@@ -11,12 +11,12 @@ pippi -n 1. plur: -argyerm: pipi (madár)
 megbolondultál?; ha ~ på ngt bukik
 vmire
 
-pip |rök -en pipafüst -rökare -n, = pipázó
+pip|rök -en pipafüst -rökare -n, = pipázó
 pip|sill -en, -ar o bőgőmasina, sírós v.
 
 nyafogó gyerek
-pip| skaft -et, = pipaszár
-pipjskägg -et, — kecskeszakáll
+pip|skaft -et, = pipaszár
+pip|skägg -et, — kecskeszakáll
 pir -en, -ar v. -er 1. kikötőág;
 kikötőgát; rak(odó)part 2. hullámtörő gát,
 móló
@@ -39,7 +39,7 @@ fejébe ver vmit, bemagoltat vkivel
 vmit; ~ på ostoroz, ütlegel; ostorral
 ösztökél; ~ upp elver, elnáspángol;
 átv felkorbácsol
-pisk| käpp -en, -ar poroló(pálca) -rapp
+pisk|käpp -en, -ar poroló(pálca) -rapp
 -et, = ostorcsapás -skaft -et, —
 ostornyél -ställning -en, -ar (szőnyeg)poroló
 (állvány)

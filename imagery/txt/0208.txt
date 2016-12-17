@@ -115,5 +115,5 @@ fagymentes -härdig -t fagyálló
 frostig [-o-] -t 1. fagyveszélynek kitett,
 fagy érzékeny 2. fagyos, jéghideg (átv
 is), zúzmarás
-frost | knöl [-o-] -en, -ar fagy ás, fagy
+frost|knöl [-o-] -en, -ar fagy ás, fagy
 daganat -ländig -t, -länt fagyveszélynek

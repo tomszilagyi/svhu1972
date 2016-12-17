@@ -19,7 +19,7 @@ szavatosság
 ansvarighetsförsäkring -en, -ar szava*
 
 tossági biztosítás
-ansvarsjfr! -fritt nem felelős,
+ansvars|fri -fritt nem felelős,
 felelősség-mentes -frihet -en felmentés
 (felelősség alól); styrelsen beviljades ~
 a vezetőségnek megadták a felmentést
@@ -66,7 +66,7 @@ ansökningshandling -en, -ar kérvény,
 folyamodvány; (írásbeli) pályázat
 (állásra) «-tid -en, -er folyamodási v.
 pályázati határidő
-an[ta(ga) -tog, -tagit 1. elfogad; ~ en
+an|ta(ga) -tog, -tagit 1. elfogad; ~ en
 inbjudan elfogad (egy) meghívást
 2. felvesz (iskolába); alkalmaz; átv
 ölt; ~ en glad min vidám

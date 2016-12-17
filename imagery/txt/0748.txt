@@ -12,13 +12,13 @@ bizonyít; ~ skriftligt (írásban) igazol V.
 bizonyít III. ~ sig erősíti magát;
 üdíti magát (alvással)
 styrkande; ~ medel erősítőszer
-styrke | dryck -en, -er o erősítő itóka,
+styrke|dryck -en, -er o erősítő itóka,
 szíverősítő; stimuláns (szeszes ital,
 feketekávé) -förhållande -t, -n erőviszony
 -grad -en, -er erősségi fok, szeszfok
 styrkompass [-0-] -en, -er hajó:
 kormánytájoló
-styr]man -mannen, -män 1. kormányos
+styr|man -mannen, -män 1. kormányos
 2. kereskedelmi hajón másodkapitány;
 hajóstiszt; förste ~ első tiszt; andre
 ~ másodtiszt 3. hadihajón
@@ -100,7 +100,7 @@ styv|nackad -sint hajlíthatatlan,
 akaratos; nyakas, konok, makacs -sinthet
 -en hajlíthatatlanság, akaratosság;
 nyakasság, konokság, makacsság
-styv]son [-5-] -en, -söner mostohafiú
+styv|son [-5-] -en, -söner mostohafiú
 -syskon [-0-] plur mostohatestvérek
 -syster -n, -systrar mostohanővér;
 féltestvér (nővér)

@@ -32,7 +32,7 @@ konvex -t domború, konvex
 konvoj -en, -er védőkísérettel haladó
 hajóraj, (hajó)karaván, konvoj;
 védőkíséret ( hadihajók )
-konvojéra védőkíséretet nyújt (ngt
+konvojera védőkíséretet nyújt (ngt
 vminek), kísér, oltalmaz
 konvolut -et, — nagy (levél)boríték;
 
@@ -57,7 +57,7 @@ kopia -n, -or másolat; levonat; utánzat;
 ta en ~ av ngt másolatot készít vmiről
 (gépíró)
 
-kopiejbläck -et másolótinta -papper -et, —
+kopie|bläck -et másolótinta -papper -et, —
 
 másolópapír (foto is)
 kopiera (le)másol, leír, kopíroz

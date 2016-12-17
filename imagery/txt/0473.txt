@@ -18,14 +18,14 @@ monetär -t monetáris,
 pénzmongol -en, -er mongol (ember)
 Mongoliet npr Mongólia
 mongolisk -t mongol
-mono |gam -t egynejű ill. egyférjű,
+mono|gam -t egynejű ill. egyférjű,
 monogám -gami -(e)n egynejűség ill.
 egyférjűség, monogámia -grafi -(e)n,
 -er monográfia
 monokel -n, monoklar v. rnonokler
 monokli
 
-monojlog -en, -er monológ, magánbeszéd,
+mono|log -en, -er monológ, magánbeszéd,
 -jelenet -mani -(e)n, -er
 kényszerképzet, rögeszme, monománia -plan
 -et, — egyfedelű repülőgép

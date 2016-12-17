@@ -11,7 +11,7 @@ muselföremål . -et, = múzeumi tárgy
 museiman -en, -er (v. -mannen, -män)
 
 rég: muzulmán, mozlim
-museum muse]et, -er múzeum
+museum muse|et, -er múzeum
 musicera zenél, muzsikál
 musik -en zene, muzsika; sätta till ngt
 
@@ -33,7 +33,7 @@ zenetanár -recensent -en, -er
 zenekritikus -öra -t zenei hallás
 muskatell -en, muskatellvin -et, -er
 muskotály (bor)
-muskedunder -n v. muskedund[ret, -rar
+muskedunder -n v. muskedund|ret, -rar
 
 v. = tréf mordály, flinta
 muskel -n, muskler izom -knippe -t, -n

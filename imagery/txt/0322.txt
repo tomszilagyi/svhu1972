@@ -33,10 +33,10 @@ hető, megacélozható
 härdig -t (meg)edzett, ellenálló, erős;
 
 fagyálló, télálló (növény)
-här | efter adv ezután, ezentúl, mostantól
+här|efter adv ezután, ezentúl, mostantól
 
 fogva -emot adv ezzel szemben
-här |flyta -flöt, -flutit folyik, ered;
+här|flyta -flöt, -flutit folyik, ered;
 származik (av v. från v. ur ngt vmiből)
 här|fågel -n, -fåglar áll: búbos banka
 härför adv ezért; som bevis ~ ennek
@@ -106,7 +106,7 @@ ezennel értesítem önt v. Önöket
 härmning -en, -ar utánzás, o
 majmo-lás
 
-härmnings] drift -en utánzási ösztön
+härmnings|drift -en utánzási ösztön
 -förmåga -n utánzási v. utánzó
 készség, utánzóképesség
 härnad -en, -er harc, hadi vállalkozás,

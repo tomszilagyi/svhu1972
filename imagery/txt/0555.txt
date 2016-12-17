@@ -30,7 +30,7 @@ pszichológiai
 psykopat -en, -er orv: pszichopata
 psykopatisk -t pszichopatikus
 psykos [-ö’s] -en, -er pszichózis
-psyko |teknik -en pszichotechnika -terapi
+psyko|teknik -en pszichotechnika -terapi
 
 -(e)n pszichoterápia
 ptro interj brr 1, állj 1
@@ -86,7 +86,7 @@ puka -n, -or üstdob; med pukor och
 trumpeter síppal dobbal, nagy
 csinnadrattával
 
-puk[pinne -n, -ar döbverő (pálca) -slagare
+puk|pinne -n, -ar döbverő (pálca) -slagare
 
 n, = üstdobos
 pulka -n, -or lapp szán(kó)

@@ -1,12 +1,12 @@
 gárság, malacság; mocskosság;
 aljasság, gazság
-svin |avel -n sertés- v. disznótenyésztés
+svin|avel -n sertés- v. disznótenyésztés
 -borst [-o-] -et v. -en, — disznósörte
 svindel -n 1. szédülés; få ~ (el)szédül;
 szédeleg, forog vele a világ; gripas av
 ~ szédülés fogja el, szédül 2.
 szélhámosság, csalás, szédelgés; o svindli
-svindel| affär -en, -er szélhámos ügylet,
+svindel|affär -en, -er szélhámos ügylet,
 tisztességtelen üzlet; szélhámosság,
 csalás, szédelgés, panama -känsla -n,
 -or szédülés (érzése)
@@ -42,7 +42,7 @@ lendül, felröppen, -repül (madár); átv
 upp i sadeln nyeregbe pattan; han ~de
 sig upp till direktör felküzdötte magát
 igazgatóvá, az igazgatóságig vitte
-svin |gård -en, -ar sertésudvar, -hizlalda,
+svin|gård -en, -ar sertésudvar, -hizlalda,
 disznóhizlaló -herde -n, -ar
 disznópásztor, kondás, kanász -ho -n, -ar
 disznóvályú -hus -et, = disznóól (átv is),

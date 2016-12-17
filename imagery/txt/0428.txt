@@ -68,7 +68,7 @@ logg [-0-] -en, -ar hajó: sebességmérő
 loggbok [lo-] -en, -böcker hajónapló
 loggert -en, -ar hajó: luggervitorlás
 loggolv [-go-] -et, — 1. csűrpadló 2. szérű
-logi [lo§r v. lusl’] -(e]t, -er v. -n
+logi [lo§r v. lusl’] -(e)t, -er v. -n
 szállás, lakás, hajlék; kost och ~ teljes
 ellátás
 logik [-I’k] -en logika

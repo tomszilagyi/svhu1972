@@ -65,8 +65,8 @@ ingerlékeny, hirtelen haragú -gaffel -/?,
 szikra -härd -en, -ar tűzfészek
 -härjad leégett, tűzvész pusztította
 eldig -t tüzes (átv is), izzó
-eldjledniiig -en kat: tűzvezetés
--lednings-instrument -et, = kat lőelemképző
+eld|ledning -en kat: tűzvezetés
+-ledningsinstrument -et, = kat lőelemképző
 -linje -n, -r kat: tűzvonal
 eldning -en fűtés, tüzelés
 eldningsolja [-o-] -n, -or fűtőolaj
@@ -108,7 +108,7 @@ eldsvåda -n, -or tűzvész, tűzeset
 eldsvåde|tillbud -et, = fenyegető
 tűzvész, tűzveszély -unge -n, -ar o
 fenyegető tűzvész, kisebb tűzeset
-eld |tång -en, -tänger tűz(i)fogó,
+eld|tång -en, -tänger tűz(i)fogó,
 csípővas -upphörorder -n, == kat „tüzet
 szüntess parancs -vapen -vapnet, =
 tűzfegyver -verkan = (en) kat:

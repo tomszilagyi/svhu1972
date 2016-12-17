@@ -12,7 +12,7 @@ megtörténik, lezajlik; låta ett fartyg gå v.
 löpa av ~n hajót vízre bocsát 4.
 felmenő v. függőleges vonal, betűszár
 (pl. t betűé) 5. oszlop (diagramon)
-stapel[avlöpning -en, -ar vízre bocsátás
+stapel|avlöpning -en, -ar vízre bocsátás
 (hajóé) -bädd -en, -ar hajóépítés;
 sólyatér -ort -plats -en, -er tengerparti
 kereskedelmi gócpont, árulerakodó
@@ -111,5 +111,5 @@ indítókészülék, -motor, önindító,
 starter -bana -n, -orrep: felszállópálya,
 futópálya, startpálya
 starter -n, — v. -s sp: indító (személy)
-start]flagga -n, -or sp: indítózászló
+start|flagga -n, -or sp: indítózászló
 -kapital -et, = kezdőtőke -klar -t

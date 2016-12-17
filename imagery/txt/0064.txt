@@ -53,7 +53,7 @@ leolvas; átv megfigyel -löna (meg- v.
 ki)fizet, díjaz -löning -en, -ar (munka-)
 bér; fizetés, illetmény; díj(azás)
 
-avlönings | dag -en, -ar (bér)fizetés
+avlönings|dag -en, -ar (bér)fizetés
 napja; fizetési nap -lista -n, -or bérlista;
 fizetési jegyzék
 

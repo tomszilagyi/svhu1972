@@ -37,12 +37,12 @@ illegal -t törvénytelen, illegális
 illegitim -t törvénytelen; ~t barn
 házasságon kívül született gyermek
 iller -n, illrar áll: görény,
-illjfundig -t ravasz, agyafúrt, alattomos
+ill|fundig -t ravasz, agyafúrt, alattomos
 -gärning -en, -ar gonosztett, gaztett
 -gärningsman -mannen, -män
 gonosztevő
 
-iílistig (elv.: ill-listig) -t álnok, alattomos,
+illistig (elv.: ill-listig) -t álnok, alattomos,
 
 sunyi
 
@@ -78,7 +78,7 @@ képanyag, illusztrációs anyag
 illustrera képekkel díszít, szemléltet,
 
 megvilágít, illusztrál
-illjvilja -n, rosszakarat, -indulat -viliig -t
+ill|vilja -n, rosszakarat, -indulat -villig -t
 rosszakaratú, -indulatú, gonosz -vråla
 O jajveszékel, jajgat, óbégat, ordít
 ilmársch -en, -er gyorsított menet

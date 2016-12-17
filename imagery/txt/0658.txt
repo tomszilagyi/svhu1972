@@ -83,7 +83,7 @@ skyt [sk-] -en, -er tört; szkíta v. szittya
 skytt -en, -ar 1. lövész 2. vadász
 skytte -t, -n 1. lövés; lövöldözés;
 lövészet 2. vadászat
-skytte |förening -en, -ar lövészegyesület
+skytte|förening -en, -ar lövészegyesület
 
 -grav -en, -ar lövészárok
 skyttel -n, skyttlar 1. tex vetélő 2. hajó,
@@ -98,7 +98,7 @@ megpillant, (meg)lát; ~ dagens ljus
 meglátja a napvilágot, világra jön,
 megszületik; ~ sanningen i vitögat
 szembenéz az igazsággal
-skådejbana -n, -or 1. színpad;
+skåde|bana -n, -or 1. színpad;
 színház 2. átv színtér, küzdőtér, porond
 -lysten -lystet látni vágyó, kíváncsi
 -penning -en, -ar (emlék)érem,

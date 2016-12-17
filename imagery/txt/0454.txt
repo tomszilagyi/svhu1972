@@ -63,7 +63,7 @@ mozdulat
 
 maskineri -(e)t, -er gépezet, gépi
 berendezés; hajtómű
-maskin |f öt packad gépi csomagolású
+maskin|förpackad gépi csomagolású
 -gevär -et, = kat géppuska -gevärseld
 -en, -ar géppuskatűz -gjord -gjort
 gépi úton előállított, gépi -hall, -en,
@@ -72,7 +72,7 @@ gépipar -ingen|ör-(e)n, -er
 gépészmérnök
 
 maskinist -en, -er gépész, gépkezelő
-maskinjlära -n géptan -mjölkning -en,
+maskin|lära -n géptan -mjölkning -en,
 -argépi fejés -massig -t gépies,
 gépszerű; gépi, gyári ^rem -remmen, -remmar
 gépszíj -rum -rummet, = gépterem,
@@ -98,7 +98,7 @@ kukacos; szúette
 maskulin -t hirn-, férfi-; férfias; nyelv
 hímnemű
 
-maskulinum maskulin]et, -er 1.
+maskulinum maskulin|et, -er 1.
 hímnemű lény; férfi 2. nyelv hímnem(ű szó)
 maskäten -ätet férges, szúette
 maskör -(e)n, -m szinhi maszkmester,

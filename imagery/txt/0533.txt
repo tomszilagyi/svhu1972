@@ -71,7 +71,7 @@ passion -en, -er 1. szenvedély, szerelem
 passzió
 
 passionerad szenvedélyes, lelkes
-passions |fri -fritt szenvedély nélküli,
+passions|fri -fritt szenvedély nélküli,
 
 szenvtelen -spel -et, = passiójáték
 ’passiv I. adj: -t szenvedő, tétlen;
@@ -101,9 +101,9 @@ pastej -en, -er pástétom
 pastell -m, -er pasztell(kép) -färg -en,
 -er pasztellszín -målning -en, -ar
 .1. pasztellfestészet 2. pasztell(kép)
-pastüj pastill -en, -er pasztilla, tabletta
+pastilj pastill -en, -er pasztilla, tabletta
 pastor [-or] -n, -er prot: lelkipásztor,
-lel-:kész
+lelkész
 
 pastoral I. adj: -t 1. pásztori, idilli
 2. lelkipásztori, lelkészi (hivatali)
@@ -112,7 +112,7 @@ II. s; -en, -er pásztorköltemény,
 pastorat -et, — 1. lelkészi hivatal v.
 
 állás 2. egyházközség, eklézsia
-pastors | adjunkt -en, -er prot: segédlelkész
+pastors|adjunkt -en, -er prot: segédlelkész
 -expedition -en, -er lelkészi hivatal;
 (egyházi) anyakönyvi hivatal -ämbete
 -t, -n lelkészi hivatal (mint hatóság)

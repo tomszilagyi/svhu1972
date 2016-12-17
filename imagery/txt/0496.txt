@@ -61,7 +61,7 @@ nordisk -t északi, skandináv(iai);
 rasen a nordikus rassz
 Nordkap földr Északi-fok
 
-nord | kust -en északi part(vidék) -lig -t
+nord|kust -en északi part(vidék) -lig -t
 északi; ~ bredd északi szélesség -man
 -mannen, -män tört: skandináv harcos,
 normann, varég, viking -mannatåg
@@ -106,7 +106,7 @@ normalisering -en 1. egységesítés,
 szabályozás 2. rendez(őd)és,
 normalizál(ó-d)ás
 
-normal |ljus -et, = fiz normálgyertya
+normal|ljus -et, = fiz normálgyertya
 (-fény)-lön -en, -er hivatalosan
 megszabott munkabér -motstånd -et vili:
 normálellenállás -pris -et, — v. -er

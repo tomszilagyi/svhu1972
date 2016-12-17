@@ -20,7 +20,7 @@ nyelvkalauz
 parning -en, -ar párosítás; párosodás,
 párzás
 
-parnings]drift -en, -er párzási v. nemi
+parnings|drift -en, -er párzási v. nemi
 ösztön -lek -en, -ar párzási enyelgés,
 dürgési játék -tid -en, -er párzási v.
 dürgési idő
@@ -62,7 +62,7 @@ munkaképességű
 partigrupp -en, -er S: (parlamenti)
 pártcsoport
 
-parti |gångare -n, = 1. fanatikus
+parti|gångare -n, = 1. fanatikus
 pártember 2. szabadcsapat vezetője -han-
 
 del -n nagykereskedelem -hänsyn -en

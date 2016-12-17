@@ -46,7 +46,7 @@ ember -verkan = (en), -verkning-en,
 påve|stol -en pápai szék, szentszék -val
 
 -et, — pápaválasztás
-på | visa kimutat, bebizonyít -visbar
+på|visa kimutat, bebizonyít -visbar
 -vislig -1 kimutatható, igazolható
 (adv: pávisligen)
 påvlig -t pápai
@@ -62,7 +62,7 @@ elpáhol vkit; få på ~eti kikap;
 mégmossák a fejét; vara rädd om ~en
 félti az irháját
 pälsa: ~ på ngn bebugyolál vkit
-päls |aff är -en, -er szűcsáru-üzlet -brämad
+päls|affär -en, -er szűcsáru-üzlet -brämad
 szőrmézett, prémes, prémszegélyes
 -bärande: ~ djur -djur -et, =
 prémes állat -(djurs)farm -en, -ar v. -er

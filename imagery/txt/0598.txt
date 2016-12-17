@@ -35,7 +35,7 @@ kürtősüveg -hytt -en, -er dohányzó
 rökig -t füstös; füstölgő; homályos,
 
 sötét; párás, ködös
-rök]kupé -n, -er dohányzó szakasz
+rök|kupé -n, -er dohányzó szakasz
 (vonaton ) -mask -en, -er füstvédő álarc
 -moln [-Ö-] -et, = füstfelhő
 rökning -en, -ar 1. füstölés; felfüstölés;
@@ -52,7 +52,7 @@ szeretnék rágyújtani, de rágyújtanék!
 rökt (-> röka) füstölt; ~ skinka füstölt
 sonka
 
-rök |tobak -en (szívni való) dohány -verk
+rök|tobak -en (szívni való) dohány -verk
 -et, =s 1. o füstölnivaló, szívnivaló
 (dohány, szivar, cigaretta stb,) 2.
 tömjén
@@ -85,7 +85,7 @@ röntgen|apparat -en, -er röntgenkészülék
 röntgenolog [-ö’g] -en,-er röntgenorvos,
 
 röntgenológus
-röntgen |plåt -en,-ar (előhívott)
+röntgen|plåt -en,-ar (előhívott)
 röntgenfilm -stråle, -n, -ar röntgensugár
 rör1 -et, = kőhalom, -rakás
 (mezsgye-jelző)

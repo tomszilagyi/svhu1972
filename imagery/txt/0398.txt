@@ -114,7 +114,7 @@ kubb -en, -ar 1. (fa)tuskó, tönk; tőke
 kub era 1. köbtartalmat kiszámít 2.
 
 mat köbre emel 3. erd köböz
-kubik |centimeter -n, — köbcentiméter
+kubik|centimeter -n, — köbcentiméter
 -innehåll -et köbtartalom, térfogat
 -meter -n, = köbméter -mått -et, =
 köbmérték -rot -en, -rötter mat: köbgyök

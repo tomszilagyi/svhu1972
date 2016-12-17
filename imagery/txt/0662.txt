@@ -114,4 +114,4 @@ det ~a szépérzék -färgare -n, —
 kelmefestő
 
 skönhet -en, -er szépség; szép nő
-skönhets[drottning [-o-] -en, -ar szépség
+skönhets|drottning [-o-] -en, -ar szépség

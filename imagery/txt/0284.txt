@@ -25,7 +25,7 @@ meglátogat (átv is)
 gästabud -et, =• vendégség, lakoma;
 bankett
 
-gäst | bok -en, -böcker vendégkönyv
+gäst|bok -en, -böcker vendégkönyv
 -dirigent -en, -er vendégkarmester;,
 -fri -fritt vendégszerető -frihet -en
 vendégszeretet -givare -n,\ =
@@ -45,7 +45,7 @@ göböly
 gödning" -en, -ar í. hizlalás; tömés
 (baromfié); hízás 2. trágyázás 3*
 (mű)trágya
-gödnings]kur -en, -er hízókúra -medel
+gödnings|kur -en, -er hízókúra -medel
 -medlet, .=, -ämne -t, -n trágyázószer,
 trágya
 

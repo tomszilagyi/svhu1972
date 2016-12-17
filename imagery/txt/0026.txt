@@ -52,7 +52,7 @@ v. ut megegyezik, egyezségre jut
 elhelyez; ~ in hes ngn teljes ellátásba
 ad vkihez
 
-ackordsj arbete -t, -n akkord- v.
+ackords|arbete -t, -n akkord- v.
 szak-mánymunka -lön -en, -er darabbér,
 teljesítmény- v. szakmánybér
 ackreditera 1. dipl akkreditál,
@@ -71,7 +71,7 @@ bábaasszony
 ackvisition -en, -er 1. üzletszerzés,
 megrendelések gyűjtése, akvirálás 2.
 (értékes) szerzemény; átv nyereség
-adams| dräkt -en, -er ádámkoszttím
+adams|dräkt -en, -er ádámkoszttím
 »äpple -t, -n ádámcsutka
 addend -en, -er mat: összeadandó
 addera mat összead; ~ till hozzáad,
@@ -87,7 +87,7 @@ megfelelő
 adel -n nemesség (átv is), nemesek;
 ärftlig ~ örökös nemesség; hjärtats
 ~ szívbéli nemesség
-adelsjbrev -et, = nemesi levél -gods -et
+adels|brev -et, = nemesi levél -gods -et
 nemesi birtok -kalender -n, -kalendrar
 nemesi évkönyv
 adelskap -et nemesség, nemesi rang

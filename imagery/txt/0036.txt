@@ -1,4 +1,4 @@
-alt[röst -en, -er, -stämma -n, -or alt
+alt|röst -en, -er, -stämma -n, -or alt
 (hang)
 
 aluminium aluminiet v. "et aluminium
@@ -39,7 +39,7 @@ ambassad -en, -er 1. dipl nagykövetség
 2. átv követség
 ambassadris -en, -er 1. nagykövetné,
 nagykövet felesége 2. női nagykövet
-ambassad |råd -et, = nagykövetségi
+ambassad|råd -et, = nagykövetségi
 tanácsos -sekreterare -n, =
 nagykövetségi titkár
 ambassadör -en, -er dipl: nagykövet

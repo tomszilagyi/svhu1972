@@ -116,5 +116,5 @@ csapatok -ledning -en, -ar vili:
 légvezeték, felső- v. szabadvezeték -maska
 -n, -or horgolás: levegő(szem)
 luftning -en, -ar szellőztetés
-luft| ombyte -t 1. levegőváltozás 2.
+luft|ombyte -t 1. levegőváltozás 2.
 levegőcsere -post [-o-] -en légiposta -pump

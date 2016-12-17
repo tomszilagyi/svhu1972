@@ -53,7 +53,7 @@ resumera (röviden) összefoglal
 resurs -en, -er segédeszköz, segély- V.
 erőforrás; ~er anyagi eszközök,
 lehetőségek; sista ~en az utolsó mentsvár
-res |van -t utazáshoz szokott, utazásban
+res|van -t utazáshoz szokott, utazásban
 jártas -vånå -n utazásban való
 jártasság -väg -en, -ar utazás útvonala
 -väska -n, ror útitáska, kézikoffer
@@ -126,5 +126,5 @@ menettérti jegy
 returnera visszaküld; utána küld; átv
 viszonoz
 
-retur]porto [-po-} -t, -n válaszportó,
+retur|porto [-po-} -t, -n válaszportó,
 -bélyeg

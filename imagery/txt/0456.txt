@@ -99,10 +99,10 @@ gyengeség 2. fénytelenség, fakóság,
 homályosság
 mattid -en, -er az étkezés v. evés ideje
 mattighet -en matthet
-matt] knytning -en szőnyegcsomózás
+matt|knytning -en szőnyegcsomózás
 
 -piskning -en szőnyegporolás
-mattjsam -t fárasztó, fáradságos -skiva
+matt|sam -t fárasztó, fáradságos -skiva
 -n, -or foto: homályosüveg, mattüveg
 -slipad mattra csiszolt
 mattstump -en, -ar kis szőnyeg;

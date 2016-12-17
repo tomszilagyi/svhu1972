@@ -33,7 +33,7 @@ an|göra -gjorde, -gjort 1. hajó (kikötőt)
 érint, útba ejt; ~ en hamn tába ejt
 egy kikötőt, befut egy kikötőbe 2.
 (odajerősít, (oda)köt, rögzít
-angörings[boj [-o»] -en, -ar hajó:
+angörings|boj [-o»] -en, -ar hajó:
 horgonybója -hamn -en, -ar közbeeső
 kikötő
 
@@ -63,7 +63,7 @@ apától leányának a kezét -hållan —
 (en) kérés, kérvény, folyamodvány,
 beadvány
 
-an |hållande -t, -n, -hållning -en, -ar
+an|hållande -t, -n, -hållning -en, -ar
 őrizetbe vétel, eífog(at)ás, letartóztatás
 anhängare -n, = [vkinek v. vminek a]
 híve, követője, támogatója, szószólója;

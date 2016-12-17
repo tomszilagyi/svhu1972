@@ -49,6 +49,7 @@ public class TextDataTest {
         assertEquals(td_ixs_str("Östersjön"), td_ixs_str("östersjön"));
 
         /* compound words with '|' at the start of the entry (explicit stem) */
+        assertThat(td_ixs_str("avhämta"), is("tp[37:84]"));
         assertThat(td_ixs_str("havsbad"), is("tp[271:4]"));
         assertThat(td_ixs_str("rengöra"), is("tp[546:70]"));
         assertThat(td_ixs_str("omljud"), is("tp[491:12]"));

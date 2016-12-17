@@ -35,7 +35,7 @@ invand -vant megszokott, begyakorlott,
 betanult; meggyökerezett; invant
 handgrepp begyakorlott fogás;
 föreställningar megrögzött elképzelések
-in | van dra bevándorol -vandrare -n, —
+in|vandra bevándorol -vandrare -n, —
 
 bevándorló
 invasion -en, -er (ellenséges) betörés,
@@ -54,7 +54,7 @@ szitkozódás, sértő szavak, invektiva
 inventarieförteckning -en, -ar leltár
 (-jegyzék)
 
-inventarium inventari]et, -er 1. leltár
+inventarium inventari|et, -er 1. leltár
 
 2. átv: han är ett gammalt ~ i familjen
 ő (már) régi bútor a családban 3.
@@ -102,7 +102,7 @@ invånare -n, = lakos, lakó; ~ i staden
 a város lakosai; husets ~ a ház
 lakói
 
-in | väl ja -valde, -valt välja (in); ~s
+in|välja -valde, -valt välja (in); ~s
 beválasztják, felveszik (tagnak)
 -vän-da -vände, -vänt ellenvetést v. kifogást
 tesz -vändig -t belső; ~t belsőleg,

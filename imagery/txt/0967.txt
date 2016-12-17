@@ -82,7 +82,7 @@ Vävnadslindustri -(e)n, -er szövőipar,
 
 textilipar -lära -n orv: szövettan
 vävning -en, -ar szövés
-väv]sked -en, -ar tex: fésű, (szövő)borda
+väv|sked -en, -ar tex: fésű, (szövő)borda
 -skäl -et, — tex (szövő)szád
 (szövőszéken ) -stol -en, -ar szövőszék,
 szövőgép

@@ -40,7 +40,7 @@ vkire rárak vmit, vkit vmivel
 megterhel, vkinek nyakába värr vmit
 lasso -77, -er lasszó
 
-lass |tals -vis adv rakományszámra,
+lass|tals -vis adv rakományszámra,
 fuvarszámra, fuvaronkint
 last1 -en, -er rakomány; teher; fa ta v.
 ligga ngn Ml ** terhére van vkinek;

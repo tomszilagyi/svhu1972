@@ -97,7 +97,7 @@ medellöshets|bevis -et, =, -intyg -et, =
 vagyontalansági v. szegénységi
 bizonyítvány
 
-medel |måtta -n 1. átlag, középszer(űség);
+medel|måtta -n 1. átlag, középszer(űség);
 hålla megüti az átlagot; under ~n
 az átlagon alul 2. plur: -or
 átlagember, -diák -måttig -t középszerű,
@@ -108,4 +108,4 @@ medels(t) praep által, [vminek]
 segítségével, útján; ~ brev levélben,
 levél(be-l)ileg, levél útján
 medelsvensson átlagsvéd (tréf is)
-medeljtal -et, — átlagszám, középérték;
+medel|tal -et, — átlagszám, középérték;

@@ -38,7 +38,7 @@ tapogató (rovaré)
 tentamen = (en), tentamina (elő)vizsga
 
 (főiskolán); kb.: kollokvium
-tentamens |betyg -et, =
+tentamens|betyg -et, =
 (vizsga)érdem-jegy, vizsgaeredmény -bok -en, -böcker
 kb.: leckekönyv, index (főiskolai)
 -feber -n vizsgáláz, drukk -period
@@ -122,7 +122,7 @@ lép-csőzet
 
 terrester terrestrisk -1 földi; szárazföldi
 terrin -en, -er levesestál
-territorial | gräns -en, -er felségvizek határa
+territorial|gräns -en, -er felségvizek határa
 -vatten -vattnet, = felségvizek,
 territoriális vizek
 territoriell -t területi

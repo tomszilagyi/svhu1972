@@ -6,7 +6,7 @@ bogser I tross -en, -ar hajó: vontatókötél,
 -kábel -ångare -n, = vontatógőzös
 bog|spröt -et, — orr- v. előárboc -trä
 
--(e]t, -n hámiga, vállhám
+-(e)t, -n hámiga, vállhám
 bohag -et, — házi ingóság, ingó
 berendezés, bútorok
 boj1 -en, rar bója, úszó
@@ -36,7 +36,7 @@ könyvkötészet; könyvkötőműhely - v.
 -tizem
 
 boken bőket túlérett, romlandó (gyümölcs)
-bok |f öra -förde, -fört (el)könyvel -förare
+bok|föra -förde, -fört (el)könyvel -förare
 -n, = könyvelő -föring -en, -ar
 könyvelés, könyvvitel, számvitel
 bok {förlag -et, == könyvkiadó (vállalat)
@@ -95,7 +95,7 @@ könyvnyomtató,, nyomdász -tryckeri
 -(e)t, -er könyvnyomda; nyomdászat,
 könyvnyomtatás
 bokträd -et, = nov bükkfa
-bok| vett -et könyvízű tudás -vurm -en,
+bok|vett -et könyvízű tudás -vurm -en,
 -ar átv: könyvmoly, -kukac -vän
 -vännen, -vänner, -älskare -n, =
 könyv-barát, -kedvelő (ember)
@@ -116,6 +116,6 @@ labdát rúg, futballozik
 bolla labdázik; tenisz ütöget; ~ med
 
 ord játszik a szavakkal
-boll |pojke -n, -ar labdaszedő (fiú) -spe!
+boll|pojke -n, -ar labdaszedő (fiú) -spe!
 -et, = labdajáték -trä -(e)t, -n
 (lab-da)ütő, rakett

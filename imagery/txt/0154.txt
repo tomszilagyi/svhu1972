@@ -40,7 +40,7 @@ edlig -t esküvel megerősített v. fogadott,
 eskü alatt tett; jog: ~ förpliktelse
 esküvel vállalt kötelezettség; ^
 förklaring esküpótló nyilatkozat
-eds]brott -et, — esküszegés -brytare -n, =
+eds|brott -et, — esküszegés -brytare -n, =
 esküszegő -förbund -et, —: schweiziska
 ~et a svájci államszövetség
 edsvuren -svuret esküt tett, hites
@@ -53,7 +53,7 @@ effekt -en, -er 1. hatás, effektus; siker
 papírok; tillvaratagna ~er talált
 tárgyak
 
-effektjfull -t hatásos, feltűnő -förvaring
+effekt|full -t hatásos, feltűnő -förvaring
 -en, -ar poggyász- v. csomagmegőrző
 effektív -t 1. hatásos, hatékony,
 erőteljes, sikeres 2. valóságos, tényleges,

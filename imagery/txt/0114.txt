@@ -101,7 +101,7 @@ brons [-o-] -en, -er bronz
 bronsera [-o-] bronzzal bevon, bronzol,
 bronzoz
 
-brons |färg -en, -er 1. bronzszín 2.
+brons|färg -en, -er 1. bronzszín 2.
 bronzfesték -färgad bronzszínű -medalj
 -en, -er bronzérem (sp is) -medaljör
 -en, -er bronzérmes, bronzérem tulai^

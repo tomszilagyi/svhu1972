@@ -56,7 +56,7 @@ televisera televízión közvetít
 television -en techn: televízió,
 távolbalátás
 
-televisions]apparat -en, -er
+televisions|apparat -en, -er
 televíziókészülék -kamera -n, -or televíziós
 felvevőkamera -mottagare -n, —
 televíziós vevőkészülék -skärm -en, -ar
@@ -96,7 +96,7 @@ temperafärg -en, -er temperafesték
 temperament -et, = vérmérséklet, alkat,
 
 temperamentum
-temp er amen t(s)| full-/ heves
+temperament(s)|full-/ heves
 (vérmérsékletű), élénk, temperamentumos -sak:
 det är en ~ (az) temperamentum dolga
 temperatur -en, -er hőmérséklet; hőfok;

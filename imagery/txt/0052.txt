@@ -2,7 +2,7 @@ klassen a dolgozó osztály, a dolgozók;
 ~ ledamot aktiv tag
 arbetarbostad -en, -städer munkáslakás
 arbetare -n, = munkás; dolgozó
-arbetar |friga -n munkáskérdés
+arbetar|friga -n munkáskérdés
 -förening -en, -ar munkásegy(esíi)let
 -försäkring -en munkásbiztosítás -hustru
 -n, -r munkásfeleség -klass -en

@@ -108,7 +108,7 @@ rättigheter megsérti vkinek a jogait
 ingress -en, -er bevezető szavak,
 bevezetés
 
-in |gripa -grep, -gripit 1. be(le)avatkozik,
+in|gripa -grep, -gripit 1. be(le)avatkozik,
 közbelép; (ki)haf [vmire]; polisen
 måste ~ a rendőrségnek kellett
 közbelépnie 2. átv csorbít, sért 3. techn

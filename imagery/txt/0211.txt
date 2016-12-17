@@ -40,7 +40,7 @@ frälsarkrans -en, -ar hajó: mentőöv
 frälse I. adj indecl adómentes; nemes(i)
 II. s: -t 1. adómentesség 2. nemesség
 3. nemesi birtok
-frälse |bonde -n, -bönder parasztbérlő
+frälse|bonde -n, -bönder parasztbérlő
 (nemesi birtokon; S) -gods -et nemesi
 birtok -man -mannen, -män nemes
 (ember)
@@ -65,7 +65,7 @@ främlings|fientlig -t idegengyűlölő -hat
 främlingskap -et idegenség; [vkinek]
 idegen volta; hans ~ az ő
 külföldi v. idegen volta
-främlings |legion [-gi-] -en idegenlégió
+främlings|legion [-gi-] -en idegenlégió
 
 -pass -et, — hontalan-útlevél
 främmande I. adj idegen, ismeretlen;

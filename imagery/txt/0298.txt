@@ -3,7 +3,7 @@ fenntartás nélküli
 helig -t szent; den ~e ande a Szentlélek;
 
 lova dyrt och ~t szentül megígér
-heligjförklara szentté nyilvánít v. avat
+helig|förklara szentté nyilvánít v. avat
 -göra -gjorde, -gjort megszentel -hålla
 -höll, -hållit szentként tisztel,
 tiszteletben tart
@@ -25,7 +25,7 @@ hellinne -1 tiszta len vászon; egészvászon
 hellre (comp -ogärna) adv inkább, előbb,
 
 sőt inkább; szívesebben
-heljnot -en, -er zene: egész hangjegy
+hel|not -en, -er zene: egész hangjegy
 -nykter -t szeszes italtól tartózkodó,
 bornemissza, antialkoholista -nykterist
 -en, -er antialkoholista -ömvändning
@@ -83,14 +83,14 @@ biztosan
 
 heltid: arbeta på ~ egész(napos)
 állásban van, teljes munkaidőben dolgozik
-heltids]anställd -ställt teljes (napi)
+heltids|anställd -ställt teljes (napi)
 munkaidőre alkalmazott -anställning -en,
 -ar egésznapos alkalmazás v. állás
 heltimme -n, -ar egész óra; varje hel- och
 halvtimme minden egész és fél órában;
 klockan slår bara heltimmar az óra csak
 az (egész) órákat üti
-hel| täckt fedett, csukott (jármű) -
+hel|täckt fedett, csukott (jármű) -
 veckad: ~ kjol berakott szoknya
 helvete -t, -n pokol; dra åt ~! menj
 a pokolba!; gå v. barka åt ~

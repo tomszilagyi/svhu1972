@@ -54,7 +54,7 @@ bön(e)dag -en, -ar S: (könyörgő)
 istentiszteleti nap, imanap (ünnepnap);
 bot- och ~ar bűnbánati és könyörgő
 istentiszteleti napok (ünnepnapok)
-bönejhus -et, = imaház -möte -t, -n
+böne|hus -et, = imaház -möte -t, -n
 közös ájtatosság v. imaóra -skrift -en,
 -er kérvény, folyamodvány
 bön|falla -föll, -fallit: ~ (hos) ngn om
@@ -95,7 +95,7 @@ születésű
 bördig2 -t termékeny, bőven termő -het
 
 -en termékenység
-börds| adel -n örökös v. születési nemesség
+börds|adel -n örökös v. születési nemesség
 -högfärd -en származással való
 kérkedés, származási gőg -stolt
 származására büszke, őseivel kérkedő

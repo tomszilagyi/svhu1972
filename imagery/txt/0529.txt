@@ -24,7 +24,7 @@ kirak
 packare -n, = csomagoló, málházó
 packe -n, -ar köteg, csomag, bála
 packerska rn, -or csomagoló(nő)
-pack |ficka -n, -or málhatáska;
+pack|ficka -n, -or málhatáska;
 szerszámtáska (kerékpáron). -häst -en-ar
 málhásló -is -en, -ar zajló (tengeri)
 jég(táblák) -låda -n, -or, -lår -en, -ar

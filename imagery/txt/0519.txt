@@ -60,7 +60,7 @@ nyező -undersökning -en, -ar
 közvéleménykutatás -yttring -en, -ar
 véleménynyilvánítás; tüntetés
 opium opiet v. -et ópium
-o]placerad sp helyezetlen; han blev ~
+o|placerad sp helyezetlen; han blev ~
 nem ért el helyezést -plockad
 lesze-detlen, le nem szakított v. tépett; meg
 nem kopasztott (madár); átv: ha.
@@ -110,7 +110,7 @@ opció-jog
 
 optisk -t fénytani, optikai;- villa
 optikai csalódás
-o]påkallad hívatlan; nem kívánt;
+o|påkallad hívatlan; nem kívánt;
 indokolatlan -pålitlig -t megbízhatatlan
 -påräknad váratlan, nem remélt
 -på-tald -talt, -påtalt nem kifogásolt,

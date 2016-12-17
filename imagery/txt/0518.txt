@@ -17,11 +17,11 @@ gyámság v. gondnokság alá helyez vkit
 -myndighet -en kiskorúság -måttlig -t
 mértéktelen, mérhetetlen, szertelen,
 határtalan; ~ köld rendkívüli hideg
-Cm | än dra megváltoztat, átalakít
+om|ändra megváltoztat, átalakít
 -ändring -en, -ar (meg)változtatás,
 átalakítás; változás, átalakulás
 omänniska -n, -or szörny (emberről)
-ojmänsklig -t embertelen -mänsklighet
+o|mänsklig -t embertelen -mänsklighet
 -en embertelenség -märkbar -märklig
 -t észrevehetetlen, észrevétlen;
 jelentéktelen -mätlig -t (meg- v.
@@ -114,7 +114,7 @@ o [nykter -t becsípett, ittas, részeg
 -nyttig -t haszontalan, hiábavaló,
 céltalan*
 
-o]nåd -en kegyvesztettség; råka v; falla
+o|nåd -en kegyvesztettség; råka v; falla
 i ~ kegyvesztetté válik; ge sig på nåd
 och ~ kényre-kegyre megadja magát
 -nådig -t rosszindulatú (mot- ngn vki

@@ -13,7 +13,7 @@ distribution -en, -er szét-, v. elosztás;
 (könyv)terjesztés; (filtn)kölcsönzés v.
 -forgalmazás
 -distrikt= körzet, kerület; tartomány
-distrikts]chef -en, -er igazgatóság
+distrikts|chef -en, -er igazgatóság
 veze-tő|e, igazgató (pl. svéd
 államvasutak-nál) -mästerskap -et, = sp kerületi
 bajnokság, -veterinär -(e)n, -er
@@ -100,21 +100,21 @@ halászatz-havsíorskning -en, -ar
 mélytengerkutatás, oceanológia
 djupna mélyül
 
-djtípsinnlg -t mély értelmű; mélyreható
+djupsinnig -t mély értelmű; mélyreható
 djuptryck -et, — nyomd: mélynyom(tat)ás
 djur -et, = állat -art -en, -er állatfaj
 
 -gård -en, -ar L vadaskert (szarvasok
 részere) 2. állatkert
 djurisk -t álíati(as), bestiális; nyers
-djur]kretsen csill az áíiatöv, -kör -plågeri
+djur|kretsen csill az állatöv, -kör -plågeri
 
 -(e)í, -er állatkínzás (átv is) -riket
-az állatvilág- -skydd.-et állatvédelem
+az állatvilág -skydd -et állatvédelem
 -skötare -n, = állatgondozó -tämjare
--72, == álíatszelídítő »vän -vännen,
--vänner állatbarát. -värld, -en
--állatvilág ’ ..
+-72, == állatszelídítő -vän -vännen,
+-vänner állatbarát. -värld -en
+-állatvilág
 djärv -t .merész, bátor, vakmerő;
 elbizakodott, kihívó
 djärvas djärvdes, djärvis mer(észel),

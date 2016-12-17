@@ -47,7 +47,7 @@ elementär -t elemi, alapfokú, -vető
 elev -en, -er tanuló, növendék; diák;
 
 ipari tanuló
-elevjavgift ±en, -er tandíj -hem -hemmet,
+elev|avgift -en, -er tandíj -hem -hemmet,
 
 = tanuló- v. diákotthon
 elfenben -et elefántcsont
@@ -69,7 +69,7 @@ válogatott személyek -trupp -en, -er
 
 kat: elitcsapat
 eljes(t) adv egyébként, (más)különben
-el]kamin -en, -er villanykályha -kraft -en
+el|kamin -en, -er villanykályha -kraft -en
 
 villamos energia, villanyáram
 eller conj (a)vagy; antingen ... ~ vagy

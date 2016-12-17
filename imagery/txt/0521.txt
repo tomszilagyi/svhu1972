@@ -80,7 +80,7 @@ ordonnans -en, -er kat: futár, küldönc
 -officer -(e)n, -officerare kat:
 parancs-őrtiszt
 
-ord]rik -t bőbeszédű, beszédes;
+ord|rik -t bőbeszédű, beszédes;
 szavakban gazdag -ryttare -n =
 szőrszálhasogató -skatt -en, -er szókincs,
 szókészlet -språk -et, ’= közmondás -strid
@@ -94,7 +94,7 @@ szóváltás, vitatkozás (om -rol); komma
 v. råka i ~ vitába v. szóváltásba
 keveredik
 
-ö[reda -n rendetlenség, zűrzavar,
+ö|reda -n rendetlenség, zűrzavar,
 összevisszaság, ziláltság, káosz; ställa till
 ~ i ngt vmit összezavar -redig -t
 ren-d(ez)etlen, (zűr)zavaros, zilált,

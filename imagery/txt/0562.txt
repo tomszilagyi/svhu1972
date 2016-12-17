@@ -101,7 +101,7 @@ szer
 radio -n, -r 1. rádió; rádióadás; höra v.
 lyssna på ~ rádiót hallgat 2.
 rádióállomás, -adó 3. rádió(-vevő)készülék
-radio |aktiv -t radioaktív -aktivitet -en
+radio|aktiv -t radioaktív -aktivitet -en
 radioaktivitás -anläggning -en, -ar
 rádióberendezés (adó ill. vevő)
 -an-tenn -en, -er rádióantenna -apparat

@@ -42,7 +42,7 @@ magánvasút -bil -en, -ar magánautó
 -bostad -en, -bostäder magánlakás
 -egendom -en, -ar magántulajdon
 privatist -en, -er isk: magántanuló
-privatjlektion -en, -er magán- v.
+privat|lektion -en, -er magán- v.
 privátóra; korrepetáló óra; ta(ga) ~er för
 ngn magánórákat vesz vkitői -liv -et
 magánélet -man -mannen, -män

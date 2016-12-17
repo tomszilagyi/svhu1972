@@ -59,7 +59,7 @@ fáradozás, baj; göra sig med ngt
 omaka indecl 1. páratlan, felemás;" ~
 handskar páratlan kesztyűk 2. átv
 össze nem illő, rosszul összeválogatott
-o]malen »målet őröletlen -manlig -t
+o|malen -målet őröletlen -manlig -t
 
 férfiatlan, nem férfias
 om|arbeta átdolgoz; ~d och förbättrad
@@ -110,4 +110,4 @@ van
 omdömes|förmåga -n ítélőképesség -lös
 
 t ítélőképesség nélküli, kritikátlan
-o]medelbar -t 1. közvetlen; azonnali; *»t
+o|medelbar -t 1. közvetlen; azonnali; *»t

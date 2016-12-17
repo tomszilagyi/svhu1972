@@ -8,7 +8,7 @@ vili megcsapolás, leágazás;
 csatlakozóaljzat 3. kivét(el) (pénzé, bankból)
 -tagning -en, -ar 1. kivevés, kivétel,
 felvétel (pénzé) 2. sp válogatás
-uttagnings |blankett -en, -er (pénz)kivételi
+uttagnings|blankett -en, -er (pénz)kivételi
 űrlap (bankban), kifizetési űrlap
 -tävling -en, -ar sp: válogató verseny v.
 mérkőzés

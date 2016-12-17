@@ -44,7 +44,7 @@ skrin -et, == ládika, ládikó, doboz, kazetta
 skrinda -n, -or hosszúszekér, létrásszekér,
 
 szénásszekér
-skrin |lägga Aade, -lagt 1. ritk ládikába
+skrin|lägga -lade, -lagt 1. ritk ládikába
 helyez, dobozba zár; biztos helyre
 (el)tesz 2. átv (bizonytalan időre)
 elhalaszt, szögre akaszt, felad (tervet,

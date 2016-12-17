@@ -60,7 +60,7 @@ legnagyobb sebesség 2. sietség; ix ~en
 a (nagy) sietségben; [vminek a]
 hevében
 
-hastighets |begränsning -en, -ar
+hastighets|begränsning -en, -ar
 sebességkorlátozás -mätare -n, = sebességmérő
 -åkare -n, =. sp gyorskorcsolyázó
 
@@ -86,7 +86,7 @@ emel; vara karl för sin ~ megállja
 a helyét, legény a gáton; o vara litet
 i ~en felöntött a garatra 2. tört
 kalappárti (ember) (S)
-hatt | affär -en, -er kalapüzlet -ask -en, -ar
+hatt|affär -en, -er kalapüzlet -ask -en, -ar
 kalapdoboz -brätte -t, -n kalapkarima
 -hylla -n, -or kalaptartó (előszobában)
 -hängare -n, = kalapfogas -makare

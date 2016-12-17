@@ -3,7 +3,7 @@ svart|blå -blått 1. kékesfekëte; sötétkék
 fekete barát, domonkosrendi v. dömés
 szerzetes
 
-svarte |petter -n, -pettrar 1. kártya Fekete
+svarte|petter -n, -pettrar 1. kártya Fekete
 
 Péter 2. tréf maszatos gyer(m)ek
 svart [fläckig -t fekete foltos -gr å-grått 1.
@@ -11,7 +11,7 @@ sötétszürke, feketésszürke 2.
 fekete–szürke -hyad -t fekete bőrű -hårig -i
 fekete hajú ill. szőrű
 svarting -en, -ar tréf: szerecsen, néger
-svart |jord -en feketeföld -klädd -klätt
+svart|jord -en feketeföld -klädd -klätt
 feketébe öltözött, fekete ruhás;
 fekete huzatú (pl. kerevet) -konst
 [-o-] -en 1. fekete mágia, varázslat.

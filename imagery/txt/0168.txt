@@ -109,7 +109,7 @@ külkereskedelmi cég 2. exportügylet,
 vezetője
 
 exportera kivisz, kiszállít, exportál
-exportjförbud -et, = kiviteli tilalom
+export|förbud -et, = kiviteli tilalom
 -handel -n kiviteli (v.
 külkereskedelem -land -et, -länder kiviteli
 ország -licens -en, -er kiviteli engedély

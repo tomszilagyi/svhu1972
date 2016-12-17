@@ -59,7 +59,7 @@ svaromål -et, = jog perbebocsátkozás;
 előadja érdemleges ellenkérelmét, a
 keresetre nyilatkozik; előadja
 védekezését (bíróság előtt)
-svars |br évkort -et, — válasz-levelezőlap
+svars|brevkort -et, — válasz-levelezőlap
 -hälsning -en, -ar visszaköszönés,
 köszön(t)és viszonzása -kupong [-ö ’ng]
 -en,-er posta: (nemzetközi)
@@ -104,7 +104,7 @@ adom neked hogy; ha ~ på vitt på
 det erről írás van a kezében, ezt
 írásban adták neki; de ~as världsdel
 a fekete földrész, Afrika
-svartabörs |handel -n feketekereskedelem,
+svartabörs|handel -n feketekereskedelem,
 zugkereskedelem -jobbare [-o-] -n, =•
 zugárus, feketéző -pris -et, ~ v. -er
 feketepiaci ár, feketeár

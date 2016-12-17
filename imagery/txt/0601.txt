@@ -58,7 +58,7 @@ ill, szakmát változtat; ~ pä fel- v.
 megnyergel
 saffian -en v. -et szattyán(bőr), marokén
 saffran -en v. -et sáfrány (fűszer)
-saffrans |bröd -et, — sáfrányos kenyér
+saffrans|bröd -et, — sáfrányos kenyér
 
 -gul rt sáfránysárga
 safir -en, -er zafír -blå -blått zafírkék
@@ -72,13 +72,13 @@ safta I. vi gyümölcslevet v. szörpöt
 készít, befőz II. vt: ~ halion
 málnaszörpöt készít III. ~ sig nedvet v.
 levet ereszt, levesedik; sziruposodik
-saftjbutelj -en, -er, -flaska -n, -or
+saft|butelj -en, -er, -flaska -n, -or
 szörpös-üveg
 
 saftig -t nedvdús; leves(es), lédús; szaftos,
 zamatos, ízes (átv is); átv erőteljes:
 ~a färger élénk színek
-saft| kräm -en, -er gytimölcskrém
+saft|kräm -en, -er gytimölcskrém
 (desz-szert) -lös -t nedv v. lé nélküli,
 nedvetlen; szaft nélküli; átv erőtlen, száraz
 saftning -en, -ar gyümölcslé- v.

@@ -3,7 +3,7 @@ stämnings I ansökan = (en ), -ansökningar
 jog: kereseti kérelem
 stämnings (bild -en, -er hangulatkép,
 hangulatos kép -full -t hangulatos
-__ stämnings |man -mannen, -män bírósági
+stämnings|man -mannen, -män bírósági
 kézbesítő
 
 stämningsmänniska -n, -or

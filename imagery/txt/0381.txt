@@ -57,7 +57,7 @@ kommensurabel [-o-] -t összemérhető,
 kommentar [-o-] -en, -er magyarázat;
 
 magyarázó jegyzet, kommentár
-kommentator f-o- . . -o-] -n, -er
+kommentator [-o-] -n, -er
 magyarázó, kommentátor
 kommentera [-o-] magyaráz, kommentál
 

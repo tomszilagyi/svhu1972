@@ -42,7 +42,7 @@ jégko-rong)ütő 4, nyalóka II. vt
 (kalapácscsal) leüt; ~ ned talaren megvonja
 a szót a szónoktól; ~ ned, ett förslag
 elutasít egy javaslatot
-klubb |lokal -en, -er klubhelyiség -mästare
+klubb|lokal -en, -er klubhelyiség -mästare
 -n, — 1. (egyesületi) háznagy,
 ceremóniamester; kb.: „magister bibendi"
 (diákegyesületben) 2. sp egyesületi
@@ -68,7 +68,7 @@ olvashatatlan
 klump -en, -ar rög, göröngy; alaktalan
 darab [vmiből], csomó; i ~ egy
 tömegben, egyben, globálisan
-klump |fot -en, -fötter dongaláb -fotad
+klump|fot -en, -fötter dongaláb -fotad
 
 dongalábú
 klumpig -t otromba, esetlen;

@@ -38,14 +38,14 @@ hozzáférhetetlen -använd -vänt
 -användbar -/ használhatatlan,
 alkalmatlan (för -re) -aptitlig -t undorító,
 étvágyrontó
-o]art-en, -er rossz szokás; illetlenség,
+o|art-en, -er rossz szokás; illetlenség,
 modortalanság -artig -/ udvariatlan,
 neveletlen -artighet -en, -er
 udvariatlanság, neveletlenség -artikulerad
 tagolatlan, artikulátlan
 oas -en, -er oázis
 
-o |assurerad biztosítatlan, nem
+o|assurerad biztosítatlan, nem
 biztosított -avbruten -brutet szakadatlan,
 megszakítás nélküli, folytonos -avgjord
 -gjort eldöntetlen (sp is);
@@ -77,7 +77,7 @@ gå ~e vägar töretlen v. új útakon jár
 ob|ducera (fel)boncol -duktion -en, -er
 boncolás
 
-o]beaktad figyelembe nem vett,
+o|beaktad figyelembe nem vett,
 figyelmen kívül hagyott; lämna ngt obeaktat
 vmít figyelmen kívül hagy -bearbetad
 megmunkálatlan, feldolgozatlan

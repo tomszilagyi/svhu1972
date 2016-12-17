@@ -50,7 +50,7 @@ sten I tryck -et, = nyomd kőnyomás;
 kőnyomat, litográfia -yxa -n, -or arch:
 kőbalta
 stenåldern a kőkorszak
-stenålders |fynd -et, = kőkorszakbeli lelet
+stenålders|fynd -et, = kőkorszakbeli lelet
 
 -grav -en, -ar kőkorszakbeli sir
 stenöken -öknen, -öknar kősivatag;

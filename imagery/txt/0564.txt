@@ -105,7 +105,7 @@ vid gravens ~ a sir szélén
 randa 1. szegélyez; csíkoz, sávoz 2.
 
 átv elpáhol, kékre zöldre ver
-rand |anmärkning -en, -ar széljegyzet;
+rand|anmärkning -en, -ar széljegyzet;
 
 átv (kritikai) megjegyzés
 randas randades, randats költ: (fel)virrad,
@@ -115,7 +115,7 @@ hajnalhasadáskor
 randig -t csíkos, csíkozott, sávos; tréf;
 ha sina ~a skäl alapos oka van;
 ~ pá längden hosszanti csíkos
-randjlist -en, -er szegély- v. párkányléc
+rand|list -en, -er szegély- v. párkányléc
 -stat -en, -er 1. peremállam 2.
 tengerparti állam -sydd : ~ sko rámán
 varrott cipő

@@ -11,7 +11,7 @@ perspektiv -et, = távlat; kilátás(ok),
 
 perspektíva
 perspektivisk -t távlati, perspektivikus
-perspektiv |lara -n, -or távlattan(kőnyv)
+perspektiv|lara -n, -or távlattan(kőnyv)
 -ritning -teckning -en, -ar
 perspektivikus rajzolás; távlati rajz
 peruk -en, -er vendéghaj, paróka -maka-

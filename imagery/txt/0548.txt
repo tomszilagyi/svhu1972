@@ -24,7 +24,7 @@ elnökség
 presidentval -et, = elnökválasztás
 presidera elnököl
 
-presidium presidi]et, -er 1. elnöklet 2.
+presidium presidi|et, -er 1. elnöklet 2.
 elnökség
 
 preskribera elévültnek v. érvénytelennek
@@ -69,7 +69,7 @@ lapzártakor
 pressning -en, -ar 1. nyomás, sajtolás,
 
 préselés 2. vasalás
-pressjombudsman -mannen, -män I.
+press|ombudsman -mannen, -män I.
 sajtóösszekötő 2. a
 (külügyminisztériumi) sajtóosztály képviselője -veck
 -et, — berakás (ruhán), vasalt ránc

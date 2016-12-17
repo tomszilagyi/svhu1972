@@ -24,7 +24,7 @@ repülőrajparancsnok
 gruppera csoportosít, csoportokba oszt;
 
 elrendez; ~ sig csoportosul; tömörül
-gruppjresa ~n> "or csoportos utazás -vis
+grupp|resa -n -or csoportos utazás -vis
 
 adv csoportosan, csoportonként
 grus -et 1, kavics, murva, sóder; 2.
@@ -50,7 +50,7 @@ gruva2: ~ sig nyugtalankodik, fél, izgul;
 gondot csinál magának (för v., över
 ngt vmi miatt; vmitől; vmiből);
 siránkozik (över ngt vmin)
-gruv]aktie -n, -r bányarészvény,
+gruv|aktie -n, -r bányarészvény,
 -rész-jegy -arbetare -n, == bányamunkás,
 
 bányász -bolag -et, = bányatársulat,

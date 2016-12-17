@@ -88,13 +88,13 @@ szivacs (áll is); spongya; tvätta sig
 med ** (mosdó)szivaccsal lemossa
 magát
 
-svamp | aktig -t 1. gombaszerű 2.
+svamp|aktig -t 1. gombaszerű 2.
 szivacsszerű, spongyaszerű, szivacsos, puha
 és nedves -djur -et, — szivacsállat
 -förgiftning -en, -ar gombamérgezés
 svampig -t szivacsos, spongyás,
 szivacsszerű ( svampaktig)
-svamp | kännare -n, = gombaszakértő,
+svamp|kännare -n, = gombaszakértő,
 gombász -omelett [-o-] -en, -er gombás
 omlett -plockning [-o-] -en, -ar
 gombaszedés -soppa [-o-] -n, -or gombaleves
@@ -107,7 +107,7 @@ svang: o komma i ~ divatba v. szokásba
 jön, közkeletű lesz, elterjed; vara i ^
 használatos, közkeletű, divatban van;
 forgalomban van, elterjedt (hír)
-svank |rygg -en 1. orv hajlott hát 2.
+svank|rygg -en 1. orv hajlott hát 2.
 keresztcsontsüllyedés (lóé) -ryggig -t
 (mélyen) hajlott hátú
 svans -en, -ar 1. farok, fark; csóva

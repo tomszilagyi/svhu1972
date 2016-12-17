@@ -60,7 +60,7 @@ elvhű -frága -n, -or elvi kérdés
 
 principiell -t elvi, elvszerű; alapvető
 principlös -t elvtelen
-princip |ryttare -n, — elveken lovagoló
+princip|ryttare -n, — elveken lovagoló
 (v. vaskalapos) ember -uttalande -t,
 -n elvi kijelentés v. nyilatkozat
 prins -en, -ar 1. S: királyi herceg,
@@ -69,7 +69,7 @@ prinsessa -n, -or 1. S: királyi hercegnő,
 főhercegnő; királyleány, -kisasszony
 2. hercegnő
 prinsessklänning -en, -ar princesszruha
-prins |kory -en, -ar virsli -regent -en, -er
+prins|korv -en, -ar virsli -regent -en, -er
 
 kormányzó herceg, régensherceg
 prioriterad előnyben részesített v.

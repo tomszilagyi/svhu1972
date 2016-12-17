@@ -85,7 +85,7 @@ menetirány -riktningsvisare -n, —
 irányjelző (gépkocsié is), index,
 menetiránymutató
 körsbär -et, — cseresznye
-körsbärs]brännvin -et, -er
+körsbärs|brännvin -et, -er
 cseresznyepálinka -kärna -n, -or cseresznyemag
 -röd -rött cseresznyepiros -sylt -en v.
 -et, -er cseresznyebefőtt -träd -et, =

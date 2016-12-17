@@ -20,7 +20,7 @@ brosk -et, = porc(ogó) -aktig -t, -artad
 porcszerű, porco(gó)s -fiskar plur
 porcos halak
 
-bro |slagning -en, -ar hídverés, -építés
+bro|slagning -en, -ar hídverés, -építés
 
 -spann -et, = hídnyílás
 brotsch [-o-] -en, -ar techn: ár, húzóár,
@@ -57,7 +57,7 @@ gonosztevő
 brott|stycke -t, -n töredék* törmelék -yta;
 
 -n, -or törésfelület
-bro |vakt -en, -er 1. hídőr 2. kat
+bro|vakt -en, -er 1. hídőr 2. kat
 híd-őrség -valv -et, = hídíy, -boltozat;
 hídjárom
 
@@ -109,7 +109,7 @@ utasítás -arbetare -n, = kohó- v.
 huta-munkás -drift -en kohóüzem -patron
 -en, -er kohó- v. hutatulajdonos;
 bányatulajdonos
-brumbjöra -en, -ar o átv dörmögő
+brumbjörn -en, -ar o átv dörmögő
 medve, (örökké) morgó v. zúgolódó
 ember
 

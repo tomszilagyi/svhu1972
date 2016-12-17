@@ -32,7 +32,7 @@ kompass -en, -er iránytű, tájoló -nål -en,
 -ar iránytű tűje -ros -en, -or
 tájoló-rózsa
 
-kompendium kompendi]et, -er
+kompendium kompendi|et, -er
 (összefoglaló) kézikönyv
 kompensation -en, -er kiegyenlítés,
 kompenzáció; kárpótlás

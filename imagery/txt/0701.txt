@@ -41,7 +41,7 @@ egymást; kirúg, hátrarúg (ló)
 sp ar|kassa -n, -or takarékpénztár -kasse-,
 räkning -en, -ar takarékpénztári
 (folyó)számla
-spark |bol! [-o-] -en, -ar fütball-labda
+spark|boll [-o-] -en, -ar futball-labda
 -cykel -n, -cyklar (gyermek)roller,
 futó-• ka -stötting -en, -ar taposószán,
 lábbal hajtott szánkó, „finn szánkó"
@@ -50,7 +50,7 @@ sparlakansläxa -ti, -or o t.
 kukliprédiká-ció, (négyszemközti) dorgatórium
 (feleség részéről) 2. (éles) szemrehányás,
 korholás, rendreutasítás
-spar |låga -n, -or takarék(láng) -medel plur
+spar|låga -n, -or takarék(láng) -medel plur
 megtakarított pénz, megtakarítás
 -obligation -en, -er kamatozó (állami)
 
@@ -73,7 +73,7 @@ gyengén (meg)világított
 sparsamhet -en takarékosság; beosztás,
 takarékoskodás, o spórolás; [vminek
 a] gyér v. ritka volta, ritkaság
-sparsamhets | kampanj -en, -er
+sparsamhets|kampanj -en, -er
 takarékossági kampány -skäl: av ~
 takarékossági okokból, takarékosság okából
 -syfte: i ~ takarékossági célzattal

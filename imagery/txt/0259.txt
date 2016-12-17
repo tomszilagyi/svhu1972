@@ -33,7 +33,7 @@ gift|fri -fritt méregmentes, nem mérgező,
 giftig -t mérges, mérgezett, mérgező;
 
 átv csípős
-gift |körtel -n, -körtlar méregmirigy
+gift|körtel -n, -körtlar méregmirigy
 -mord -et, = mérgezés(es gyilkosság)
 -orm -en, -ar mérgeskígyó -skåp -et, =
 méregszekrény (gyegyszertárban) -tan<L

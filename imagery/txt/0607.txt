@@ -74,7 +74,7 @@ sammets|band -et, = bársonyszalag
 -klänning -en, -ar bársonyruha (női)
 -len -t bársonypuha; bársonyos
 samojed -en, -er szamojéd (ember)
-sam| ordna [-őr-] egymás mellé rendel,
+sam|ordna [-őr-] egymás mellé rendel,
 összhangba hoz, koordinál; nyelv
 mellérendel -ordning -en, -ar egymás
 mellé rendelés ill. rendeltség,
@@ -95,7 +95,7 @@ samsas samsades, samsats o meg- v.
 ~ bra jól megvannak v. kijönnek
 egymással
 
-sam |skola -n, -or vegyes v. koedukációs
+sam|skola -n, -or vegyes v. koedukációs
 iskola -spel -et, — összjáték -spelt
 (összjátékban) begyakorlott -språk -et
 beszélgetés, társalgás -språka

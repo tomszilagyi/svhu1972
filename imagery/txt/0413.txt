@@ -49,7 +49,7 @@ lagledare -n, = csapatvezető (sp is)
 laglig -t törvényes, törvényszerű (adv:
 ~en))
 
-lagjlott -en, -er fog: köteles rész -lydig -t
+lag|lott -en, -er fog: köteles rész -lydig -t
 törvénytisztelő, lojális -lös
 törvényt nem tisztelő, törvény nélküli;
 törvénytelen, törvényellenes
@@ -58,7 +58,7 @@ főzés 2. javítás; foltozás; stoppolás
 lagom I. adv (éppen) megfelelően v.
 
 eléggé; kellően; mérsékelten,
-mérték-I letesen; ~ stekt kellően megsütött v.
+mértékletesen; ~ stekt kellően megsütött v.
 átsült (hús); ~ stor éppen elég nagy;
 
 mer än ~ a kelleténél több; det var sä

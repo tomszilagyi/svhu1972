@@ -31,7 +31,7 @@ maga után von; [vmivel] együtt jár;
 ~ vissa fördelar bizonyos
 előnyökkel jár
 
-med |ge v. -giva -gav, -givit 1, el- v.
+med|ge v. -giva -gav, -givit 1, el- v.
 beismer, bevall; det medger jag gärna
 ezt szívesen elismerem; detta medges,
 men ... ez ugyan igaz, de ... 2.
@@ -68,7 +68,7 @@ vizsgát tett) orvos(jelölt),
 orvostanhallgató; studera ~ az orvostudományi
 egyetemen tanul, orvostanhallgató 2.
 gyógyszer, orvosság
-medicinái |råd -et, = kb.: egészségügyi
+medicinal|råd -et, = kb.: egészségügyi
 tanácsos -stryrelse -n, -r kb.: országos
 (köz)egészségügyi hatóság (a svéd
 belügyminisztérium főosztálya) -växt
@@ -113,7 +113,7 @@ medlem -lemmen, -lemmar tag; ~ av v. i
 en förening egyesület tagja, egyesületi
 tag
 
-medlems]antal -et taglétszám -avgift -en,
+medlems|antal -et taglétszám -avgift -en,
 -er tagsági díj -förteckning -en, -ar a
 tàgok jegyzéke, tagnévsor
 medlemskap -et tagság

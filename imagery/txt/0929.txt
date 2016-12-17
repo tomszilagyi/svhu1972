@@ -44,7 +44,7 @@ vara i ~ dolgozik, tevékenykedik,
 működik; tizemben van, üzemel 3.
 hatály (osság); lagen träder i ~ a törvény
 hatályba lép
-verksamhets |begär -et tettvágy,
+verksamhets|begär -et tettvágy,
 vállalkozó kedv -berättelse -n, -r üzleti
 jelentés (vállalaté) -fält -et, == működési
 terület, munkaterület; munkakör,
@@ -61,7 +61,7 @@ verk|stad -en, -städer műhely; üzem,
 gyár; összet utótag: -mű
 verkstadsarbetare -n, = gépipari
 munkás, fémmunkás; gépmunkás
-verk]ställa -ställde, -ställt kivitelez,
+verk|ställa -ställde, -ställt kivitelez,
 készít; véghezvisz, megvalósít; teljesít;
 végrehajt, foganatosít (pl. ítéletet);
 ~ betalning fizetést teljesít
@@ -105,13 +105,13 @@ dráma 3. biblia vers
 versal -en, -er nyomd: nagybetű, nagy
 
 kezdőbetű, verzál(is)
-versjbyggnad -en versszerkezet, vers
+vers|byggnad -en versszerkezet, vers
 felépítése (v. metrikai szerkezete) -drama
 -t, -dramer verses dráma
 verserad jó fellépésű v. modorú; jártas,
 
 tapasztalt, verzátus
-vers |förrn [-o-] -en, -er versforma; i ~
+vers|form [-o-] -en, -er versforma; i ~
 
 versben -fot -en, -fötter versláb
 versifiera versbe foglal v. szed, megversel

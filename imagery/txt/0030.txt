@@ -30,7 +30,7 @@ akter|däck -et hátsó fedélzet -hytt -en,
 -er hátsó kajüt -lastad hajó farnehéz,
 -terhelt
 
-akteriig -t hátsó, hátulrór jövő; vinden
+akterlig -t hátsó, hátulrór jövő; vinden
 är ~ a szél hátulról fúj, hátszél van
 akter|salong [-ong] -en, -er hát(ul)só
 szalon (hajón) -segel -seglet, = hátsó
@@ -67,7 +67,7 @@ akció; skrida till ~ akcióba lép 2.
 megmozdulás, mozgalom 3.
 (had)műve-let, ütközet 4. jog vád; fegyelmi
 eljárás; ställa under ~ fegyelmit indít
-áktions | duglig -t működésre képes,
+aktions|duglig -t működésre képes,
 akcióképes -enhet -en akcióegység,
 egységes cselekvés -frihet-en működési v.
 cselekvési szabadság -klar -t tettre

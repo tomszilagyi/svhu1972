@@ -23,7 +23,7 @@ nådatid -en, -er kegyelmi idő(haladék)
 nåde (coniunctivus imperf:) Gud ~ dig
 
 Isten irgalmazzon neked
-nåde| ansökan = (en), plur: -ansökningar
+nåde|ansökan = (en), plur: -ansökningar
 kegyelmi kérvény -betygelse -n, -r,
 -bevisning -en, -ar [vki] kegyének
 nyilvánítása (ill. jóindulatának jele) -bröd
@@ -69,7 +69,7 @@ közül); az egyik vagy a másik; icke
 ~ egyik sem
 någonsin (o nånsin) adv valamikor,
 valaha; ej v. icke aldrig ~ sohasem
-någon |stans (o nånstans), -städes
+någon|stans (o nånstans), -städes
 adv valahol; valahova; vart skall vi gå
 ~ hova menjünk (hát)?; någonstädes
 ifrån valahonnan

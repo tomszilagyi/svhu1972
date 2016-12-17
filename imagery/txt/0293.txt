@@ -22,7 +22,7 @@ szabad kéz -förmåga -n jog:
 cselekvőképesség -kraft -en tetterő, aktivitás,
 energia -sätt -et, = cselekvésmód,
 eljáráskód), magatartás
-hand |linning -en, -ar (rávarrott) kézelő
+hand|linning -en, -ar (rávarrott) kézelő
 -lov(e) -(e)n, -ar kéztő -lykta -n, -or
 kézilámpás -lån -et, = kis összegű
 kölcsön -lägga -lade, -lagt kezel,
@@ -38,7 +38,7 @@ vakon; falla ~ elvágódik -ordbok -en,
 segítség, támogatás; ge ngn en ~ (ki)segít
 vkit, kölcsönt ad vkinek -rörelse -n,
 -r kézmozdulat, gesztus
-hands | bred -brett tenyérnyi,
+hands|bred -brett tenyérnyi,
 tenyérszélességű -bredd -en, -er
 tenyérszélesség
 

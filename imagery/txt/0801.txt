@@ -51,13 +51,13 @@ talk -en ásv: zsírkő; síkpor, talkum
 talkonst [-0-] -en a beszéd művészete,
 ékesszólás
 
-talkjpuder -pudret, —, -pulver -pulvret, =
+talk|puder -pudret, —, -pulver -pulvret, =
 hintőpor
 
-tálkor [-kö-] -en, -er szavalókórus
+talkor [-kö-] -en, -er szavalókórus
 tall -en, -ar nov: erdeifenyő
 tallbarr -et v. -en, = erdeifenyő tűlevele
-tallbarrs |had -et, = fenyőfürdő -olja
+tallbarrs|had -et, = fenyőfürdő -olja
 [-0-] -n fenyőolaj
 
 tallkotte [-0-] -n, -ar fenyőtoboz
@@ -66,7 +66,7 @@ tallkott(s)körtel [-0-] -n, -körtlar orv:
 tobozmirigy
 tallrik -en, -ar tányér; djup ~ mély
 tányér, levesestányér
-tallriks |harv -en, -ar tárcsás borona
+tallriks|harv -en, -ar tárcsás borona
 -slickare -n, = o élősködő, élősdi,
 tányérnyaló
 

@@ -2,7 +2,7 @@ szabadságvágy -straff -et, =» jog
 szabadságvesztés »älskande
 szabadságszerető
 
-fri |h|u| -et, = techn szabádonfutó (kerék)
+fri|hjul -et, = techn szabádonfutó (kerék)
 -hjulsnav -et, == (v. -en, -er) techn:
 szabadonfutó-agy -idrott -en
 (köny-nyü)atlétika
@@ -78,7 +78,7 @@ frisedel -n, -sedlar felmentési igazolvány
 frisera 1. bodorít, (meg)féstil, frizurát
 csinál 2. átv javít, átfésül,
 „kozmetikáz" (pl. kéziratot)
-friser[salong [-0-] -en, -er fodrászterem,
+friser|salong [-0-] -en, -er fodrászterem,
 fodrászat -sax -en, -ar hajnyíró olló,
 fodrászolló -tång -en, -tänger
 (hajsütővas
@@ -112,7 +112,7 @@ tideség; egészség
 friskna: ~ till fel- v. meggyógyul,
 felépül
 
-frisk |skriva -skrev, -skrivit
+frisk|skriva -skrev, -skrivit
 egészségesnek nyilvánít (írásban); (beteget)
 kiír -sport [-0-] -en természetes
 életmód, szabad-testedzés -sportare [-0-]

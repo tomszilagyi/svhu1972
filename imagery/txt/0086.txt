@@ -45,7 +45,7 @@ sziklás meder v. talaj -häll -en, -ar
 szikla(lap) -hälsa -n elpusztíthatatlan
 v. vasegészség
 bergig -t hegyes, bérces
-berg| kristall -en, -er hegyi kristály -land
+berg|kristall -en, -er hegyi kristály -land
 -et, -länder hegyvidék; hegyes vidék
 -landskap -et, = hegy(vidék)i táj
 -mästare -n, = bányamester -olja
@@ -62,7 +62,7 @@ bányamérnök
 berg|sjuka -n hegyi betegség -sjö -n, -ar
 
 hegyi tó, tengerszem
-bergs]kam -kammen, -kammar
+bergs|kam -kammen, -kammar
 hegygerinc -kedja -n, -or hegylánc
 berg I skr ed -et, — hegyomlás, -csuszamlás
 -skreva -n, -or (hegy)hasadék,

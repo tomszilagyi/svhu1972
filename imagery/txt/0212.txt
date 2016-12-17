@@ -62,7 +62,7 @@ fuktas fuktades, fuktats megnedvesedik,
 nedves lesz; könnyes lesz, könnyezik;
 hennes ögon ~ av tårar könnyek
 tolulnak a szemébe
-fukt | drypande nedvességtől csepegő
+fukt|drypande nedvességtől csepegő
 -fläck -en, -ar penészfolt -fri -fritt
 száraz
 
@@ -72,9 +72,9 @@ nedvesség, nyirkosság
 fuktighetsmätare -n, = nedvességmérő,
 
 higrométer
-fuktjskada -n, -or nedvesség v.
+fukt|skada -n, -or nedvesség v.
 nyirkosság okozta kár
-fúl -t csúnya, rút; ~ som stryk
+ful -t csúnya, rút; ~ som stryk
 förtelmesen csúnya, ronda; ~t väder csúnya
 v. rossz idő; han är en riktigt ~ fisk
 (o) nagy csirkefogó v. gazember; det

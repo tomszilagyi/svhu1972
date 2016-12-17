@@ -18,7 +18,7 @@ v. lábbelivel ellát 2. megpatkol
 3. megvasal, verettel éllát; szegélyez
 III. ~ sig på andras bekostnad
 megszedi magát mások rovására
-sko |affär -en, -er cipőüzlet -arbetare -n, —
+sko|affär -en, -er cipőüzlet -arbetare -n, —
 cipőipari munkás -band -et, —
 cipőfűző, -zsinór -block [-blok] -et, =
 sámfa -borstare [-bo-] -fl, =
@@ -56,7 +56,7 @@ borította
 
 skog|lös -t erdőtlen, kopár -rik -t
 erdőben gazdag, erdős
-skogs |arbetare -fl, = erdőmunkás, erdei
+skogs|arbetare -fl, = erdőmunkás, erdei
 
 favágó, erdő- v. fakitermelő munkás
 -avverkning -en, -ar erdő- v.
@@ -79,7 +79,7 @@ vágásterület, kijelölt vágás; erdőkitermelés
 -ingenjör [-sen-] -(e)n, -er erdőmérnök
 -mark -en, -er 1. erdőtalaj 2.
 erdős(í-tett) terület
-skogs |edling -en erdőművelés, erdészet
+skogs|edling -en erdőművelés, erdészet
 -plantering -en, -ar erdőültetés,
 -telepítés; erdőültetvény -rik -t ->- skogrik
 -rå -(e)t v. -rn, -n v. -r mit: erdei
@@ -97,9 +97,9 @@ erdei út -åverkan — (en) erdei
 kártétel, erdőrendészeti kihágás -äng
 -ar erdei rét, tisztás
 skog|vaktare -n, = erdőőr, -kerülő
-sko |horn -et, = cipőhúzó, »kanál -iü-
+sko|horn -et, = cipőhúzó kanál -industri
 
-dustri -(e)n cipőipar
+-(e)n cipőipar
 skoj [-o-] -et o 1. csalás, szélhámosság,
 svindli, humbug 2. móka, tréfa,
 csíny; fór skull, på ~ tréfa

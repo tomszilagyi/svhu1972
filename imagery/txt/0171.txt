@@ -72,15 +72,14 @@ csatarend, falanx 2. klikk; csoport(osulás),
 szárny (pártban) 3. orv ujjperc
 fal aska -n pernye
 
-falbjuda-bjöd, -bjudit árul, kínál (eladás*
-
+falbjuda -bjöd, -bjudit árul, kínál (eladás*
 ra)
 
 falk -en, -ar sólyom
 falka: ~ efter v. på ngt tör v, vadászik
 vmire; hajszol v. üldöz vmit, les vmit
 falkenerare -n, = vad solymász
-falk | jakt -en, -er vad: solymászat -öga
+falk|jakt -en, -er vad: solymászat -öga
 -t, -ögon átv: sasszem, átható tekintet
 fall -et, = 1. (le)esés, zuhanás, bukás;
 lejtés, hajlás; knall och ~ egyszeribe,

@@ -25,7 +25,7 @@ engedélyezés; skriva ut en ~ på 200 kr
 kiállít egy 200 koronára szóló
 utalványt
 
-an| vända -vände, -vänt (fel)használ,
+an|vända -vände, -vänt (fel)használ,
 alkalmaz, hasznosít; átv fordít,
 szentel (ngt till ngt vmit vmire, vminek);
 ~ våld erőszakot alkalmaz; färdig att
@@ -105,7 +105,7 @@ apotek -et, = gyógyszertár, patika; gå
 
 på ~et a gyógyszertárba megy
 apotekare -n, = gyógyszerész, patikus
-apoteks | vara -n, -or gyógyszeráru,
+apoteks|vara -n, -or gyógyszeráru,
 gyógyszerkészítmény -växt -en, -er
 gyógynövény
 

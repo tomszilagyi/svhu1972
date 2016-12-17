@@ -44,14 +44,14 @@ hoz, bevezet, reklámoz (ker is)
 
 -formig -lik -t lándzsa alakú
 tansiär -en, -er tört: dzsidás, lándzsás
-lant[adel -n vidéki nemesség -arbetare
--n, = mezőgazdasági munkás -ar.mé
--77, -er szárazföldi hadsereg
+lant|adel -n vidéki nemesség -arbetare
+-n, = mezőgazdasági munkás -armé
+-n, -er szárazföldi hadsereg
 -befolkning [-o-] -^/i vidéki v. falusi lakosság
 -bo -hj yt- falusi (lakos)
-lant[brük mezőgazdaság, földművelés
+lant|bruk mezőgazdaság, földművelés
 -brukare -n, == földműves, gazdálkodó
-lantbruksjelev^ -en, -er mezőgazdasági
+lantbruks|elev -en, -er mezőgazdasági
 gyakornok -högskola -n, -or
 mezőgazdasági/főiskola -möte -t, -n
 mezőgazdasági kongresszus -skola -n, -or
@@ -66,7 +66,7 @@ parasztbirtok
 lanterna -n, -or (hajó)lámpa, lámpás; rep
 irányfény
 
-lant[folk [-o-] -et falusi nép, falusiak,
+lant|folk [-o-] -et falusi nép, falusiak,
 vidékiek -försvar -et 1. szárazföldi
 védelem 2. szárazföldi hadsereg v.
 haderőik) -gárd -en, -ar falusi birtok,
@@ -85,7 +85,7 @@ mezőgazdasági egyesület -mätare -n,
 földmérésügy -präst -en, -er falusi
 pap v. lelkész
 lapa 1. fellefetyel; (fel)nyal 2. O önti
-magába, vedel; habzsol; ~ söl sütteti
+magába, vedel; habzsol; ~ sol sütteti
 magát a nappal, sütkérezik, napozik
 lapis -en pokolkő, lápisz
 lapp1 -en, -ar lapp (ember)
@@ -96,7 +96,7 @@ lappa (meg)foltoz, (ki)javít; ~ ihop
 össze-v. megfoltoz; ~ till ngn o lekever egyet
 vkinek
 
-lapp| hund -en, -ar lapp(földi) .kutya
+lapp|hund -en, -ar lapp(földi) .kutya
 lappkatalog [-Ö-] -en, -er
 cédulakatalógus
 

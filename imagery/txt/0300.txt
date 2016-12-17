@@ -48,7 +48,7 @@ hemul -n jog: szavatosság
 hemulsman –mannen, -män 1 .jog:
 szava-tos, szavatolásra kötelezett (eladó) 2.
 átv tekintély
-hem |uppgif t -en, -er házi feladat -van -t
+hem|uppgift -en, -er házi feladat -van -t
 otthonos, megszokott -vist -et v. -en, =
 lakóhely, tartózkodási hely;- [növény]
 hazája -väg -en, -ar hazafelé vezető

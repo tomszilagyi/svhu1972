@@ -57,7 +57,7 @@ falsk|myntare -n, = pénzhamisító %
 pénzhamisítás -spelare -n, =
 hamis-játékos, -kártyás
 familj -en, -er család
-familje |angelägenhet -en, -er családi ügy
+familje|angelägenhet -en, -er családi ügy
 
 -band -et, == családi kötelék -bidrag
 -et, = lakbérsegély, -engedmény

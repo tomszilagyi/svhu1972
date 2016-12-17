@@ -16,7 +16,7 @@ medföra ~ áldást v. szerencsét hoz;
 det är ingen ~ med det ezen nincs áldás
 -bringande áldást hozó, áldásos, üdvös
 -rik -t áldásos, kegyelemteljes, áldott
-väl | sinn ad jóindulatú, jó érzületű,
+väl|sinn ad jóindulatú, jó érzületű,
 jóakaratú -sittande jól álló v. fekvő
 (ruha) -situerad jó körülmények
 között élő, jómódú, jól szituált -skapad,
@@ -83,7 +83,7 @@ a fejében II. vi (átv) forog; lyckan
 välver (om) a szerencse forgandó III.
 ~ sig boltozódik, boltozatot alkot,
 ível, ívben fejeződik be
-väl |väld -valt jói meg- v. kiválasztott
+väl|väld -valt jói meg- v. kiválasztott
 välvd välvt (be)boltozott, boltozatos,
 
 bolthajtásos, domborított, ívelt

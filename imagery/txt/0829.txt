@@ -102,7 +102,7 @@ total|kostnad [-ko-] -en, -er összköltség,
 -verkan == (en) összhatás -vikt -en,
 -er teljes súly, összsúly -värde -t, -n
 teljes v. összes érték, összérték
-totem |pelare -n, —, -påle -n, -ar totem-
+totem|pelare -n, —, -påle -n, -ar totem-
 
 oszlop (indiánoknál)
 toto -n o totalisator -spelare -n, —

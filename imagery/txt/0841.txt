@@ -14,7 +14,7 @@ tryckare -n, = 1. (könyv)nyomtató,
 nyomdász 2.] nyomd nyomó,
 tégelynyomó
 
-tryck | ark -et, = nyomdai v. nyomtatott
+tryck|ark -et, = nyomdai v. nyomtatott
 ív -bokstav -en, -bokstäver nyomtatott
 betű
 
@@ -28,7 +28,7 @@ tryckfrihet -en sajtószabadság
 tryckfrihets|brott [-o-] -et, = sajtóvétség
 -förordning [-ör-] -en, -ar sajtótörvény
 -mål -et, =, -process -en, -er sajtóper
-tryck |f är dig -t nyomdakész, nyomtatásra
+tryck|färdig -t nyomdakész, nyomtatásra
 kész, nyomható -färg -en, -er
 nyomdafesték, nyomófesték -förband -et, =
 orv nyomókötés -förfarande -t, -n
@@ -99,7 +99,7 @@ elfogyott a türelme
 trå trådde, trått vágyakozik, vágyódik;
 
 áhítozik (efter ngt vmire; vmi után)
-tråck el |stygn -et, — fércöltés -tråd -en,
+tråckel|stygn -et, — fércöltés -tråd -en,
 
 -ar fércelőcérna, fércfonal, férc
 tråckla fércei; — hgs igek: ~ fast

@@ -110,5 +110,5 @@ sig elágazik -grening -en, -ar elágazás
 avgrund -en, -er 1. mélység, szakadék;
 stå vid ~ens rand a szakadék szélén
 áll 2. pokol
-avgrunds |ande -n, -ar a pokol szelleme,
+avgrunds|ande -n, -ar a pokol szelleme,
 gonosz lélek -kval -et, = pokoli kín

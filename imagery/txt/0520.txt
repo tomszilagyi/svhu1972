@@ -69,7 +69,7 @@ orda: ~ om ngt beszél vmiről; vmit
 megbeszél v. -tárgyal; ~ vitt och brett
 om ngt terjengősen v. hosszadalmasan
 beszél vmiről
-orda]grann -grant szó szerinti, szóról
+orda|grann -grant szó szerinti, szóról
 szóra (pontos) -grant adv szó szerint,
 szóról szóra -lag plur szavak,
 kifejezések; szöveg; i väl valda ~ válogatott

@@ -8,7 +8,7 @@ bejelentése, szabadalom iránti kérvény -brev
 -er szabadalmi iroda
 patentera szabadalmaz
 patenterbar -t szabadalmazható
-patent | (inne)havare -n, =
+patent|(inne)havare -n, =
 szabadalomtulajdonos -lag -en, -ar szabadalmi
 törvény -lås -et, = biztonsági zár
 -medicin -en, -er 1. szabadalmazott
@@ -68,7 +68,7 @@ patrulledare (elv.; patrull-ledare) -n, =
 jár őr vezető
 patrullera járőrbe megy,
 (járőrszolgálatot teljesít, őrjáraton van, cirkál
-patrull |strid -en, -er előőrs-csatározás
+patrull|strid -en, -er előőrs-csatározás
 
 -tjänst -en, -er járőrszolgálat
 paus -en, -er szünet -signal -en,-er rádió:

@@ -71,7 +71,7 @@ szerkezet, terv, rajz; (fel)építés;
 kialakítás, konstrukció; nyelv
 (mondatszerkezet
 
-konstruktions |fel -et, = ’ szerkezeti v.
+konstruktions|fel -et, = ’ szerkezeti v.
 konstrukciós hiba -ritning -en, -ar
 szerkezeti rajz, tervrajz; mat szer*
 kesztési rajz .
@@ -81,7 +81,7 @@ konstruktiv -t szerkezeti; építő, alkotó,
 konstruktív
 konstruktör -en, -er szerkesztő, építő,
 i tervező, megalkotó
-konstjsak -en, -er műtárgy, műalkotás
+konst|sak -en, -er műtárgy, műalkotás
 -samlare -n, = műgyűjtő -siden -et,
 -silke -t, -nl műselyem -skatt -en, -er
 műkincs, -slöjd -en, -er kézműipar,

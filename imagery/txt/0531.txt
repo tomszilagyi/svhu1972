@@ -41,7 +41,7 @@ párhuzamos vonal
 parallellism -en párhuzamosság,
 parale-lizmus
 
-parallell | klass -en, -er párhuzamos osztály
+parallell|klass -en, -er párhuzamos osztály
 
 -kopplad vill párhuzamosan kapcsolt
 parallellogram -grammen, -grämmer mat:
@@ -123,7 +123,7 @@ park -en, -er park, liget, kert -anläggning
 -en, -ar parkírozott terület, park
 parkera parkol, áll(omásozik) (gépjármű)
 parkering -en, -ar parkolás
-parkerings |förbud -et, = parkolási tilalom
+parkerings|förbud -et, = parkolási tilalom
 -plats -en, -er parkolóhely -vakt -en,
 -er parkolóhely őre
 parkett -en, -er 1. parketta 2. szinh

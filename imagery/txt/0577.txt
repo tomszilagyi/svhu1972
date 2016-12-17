@@ -68,7 +68,7 @@ kant 1. országszerte ismert, közismert
 2. hírhedt, notórius -budget -en, -er
 állami költségvetés
 riksdag -en, -ar országgyűlés, pariáment
-riksdags]debatt -en, -er országgyűlési
+riksdags|debatt -en, -er országgyűlési
 ill parlamenti vita -grupp -en, -er
 parlamenti frakció (vmely párté) -hus-etr
 .= országgyűlés épülete, országház

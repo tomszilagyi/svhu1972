@@ -8,7 +8,7 @@ szélső(séges), szertelen III. s (plur: -s)
 pol: en ~ szélsőséges v. túlzó (ember),
 ultra
 
-ultra |högerman -mannen, -män
+ultra|högerman -mannen, -män
 szélsőjobboldali (v. a konzervatív párt
 jobbszárnyához tartozó) politikus
 -konservativ [-o-] -1 szélsőségesen
@@ -81,7 +81,7 @@ az ő társasága 2. sexuellt ~ nemi
 érintkezés v. kapcsolat, (szexuális)
 viszony
 
-umgänges |förrn [-0-] -en, -er (társas)
+umgänges|form [-0-] -en, -er (társas)
 érintkezési forma; ~er
 illemszabályok, etikett -krets -en, -ar ismeretségi
 v. baráti kör -liv -et társas(ági) v.

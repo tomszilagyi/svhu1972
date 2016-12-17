@@ -12,7 +12,7 @@ lamhet -en bénaság, bénultság; átv
 lanyhaság, gyengeség
 lamm -et, = bárány
 lamma ellik (juh), bárányozik
-lamm |kotlett -en, -er báránybordaszelet,
+lamm|kotlett -en, -er báránybordaszelet,
 -karaj -sadel -n, -sadlar báránygerinc,
 -hátrész (étel) -skinn -et, = báránybőr
 -stek -en, -ar báránysült -unge -n, -ar
@@ -23,7 +23,7 @@ lampa -n, -or lámpa
 lampett -en, -er falilámpa, -kar, fali
 
 gyertyatartó
-lamp[fot -en, -fötter lámpatalpazat,
+lamp|fot -en, -fötter lámpatalpazat,
 -alj(zat) -hållare -n, — lámpafoglalat
 -kupa -n, -or lámpabura -ljus -sken
 -et, = lámpafény -skärm -en, -ar
@@ -103,15 +103,15 @@ landskap -et, ~ 1. tartomány 2. táj (ék)
 3. tájkép
 
 landskapsmålare -n, — tájképfestő
-lands]knekt -en, -ar tört: zsoldos
-»kommun -en, -er község (falu)
+lands|knekt -en, -ar tört: zsoldos
+-kommun -en, -er község (falu)
 landslag1 -en, -ar tört: országos ill.
 
 tartományi törvény
 landslag2 -et, ~ sp országos válogatott
 (csapat)
 
-lands]man -mannen, -män honfitárs,
+lands|man -mannen, -män honfitárs,
 földi -manlnna -n, -or honfitársnő
 -mål -et, = 1. tájnyelv, nyelvjárás,
 népnyelv 2. újnorvég nyelv

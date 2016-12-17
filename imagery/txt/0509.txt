@@ -25,7 +25,7 @@ offer|lamm -et, = áldozati bárány -mod
 
 -et áldozatosság
 offert -en, -er ker: ajánlat
-offer | vilja -n áldozatkészség -viliig -t
+offer|vilja -n áldozatkészség -viliig -t
 
 áldozatkész
 officer -(e)n, officerare tiszt
@@ -98,7 +98,7 @@ hiányosság -fullständig -t nem teljes,
 hiányos -fulländad, bevégzetlen,
 befejezetlen
 
-o]färd -en baj, szerencsétlenség;
+o|färd -en baj, szerencsétlenség;
 pusztulás, vég, végzet; bereda ngns ~ vkinek
 a romlását okozza -färdig-/ 1.
 befejezetlen 2. béna, sánta, nyomorék 3.

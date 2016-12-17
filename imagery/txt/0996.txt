@@ -20,7 +20,7 @@ har det till ~ ez a célom; pengarna
 gick till välgörande ~ a pénzt jótékony
 célra fordították; det är utan ~ (az)
 céltalan, hiábavaló
-ändamåls |enlig -1 célszerű, céljának
+ändamåls|enlig -1 célszerű, céljának
 megfelelő, célirányos, alkalmas, praktikus
 -enlighet -en célszerűség,
 célirányosság, praktikusság -lös ~t céltalan,
@@ -84,7 +84,7 @@ ruhaalakítás
 ändringsförslag -et, ~ módosító javaslat
 
 v. indítvány
-ändjstation -en, -er végállomás,
+änd|station -en, -er végállomás,
 fejállomás -tarm -en, -ar végbél -vända
 -vände, -vänt megfordít; felfordít,
 -forgat

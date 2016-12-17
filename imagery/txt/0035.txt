@@ -60,7 +60,7 @@ v. alpesi legelő -bo -n, -r havasi lakos,
 alpesi pásztor
 
 Alperna npr (az) Alpok
-alpjget -en, -getter zerge -herde -n, -ar
+alp|get -en, -getter zerge -herde -n, -ar
 havasi v. alpesi pásztor -horn -et, =
 havasi ktirt -hydda -n, -or havasi v.
 alpesi kunyhó
@@ -83,7 +83,7 @@ alstra termel, előállít, létrehoz; terem;
 alstring -en, -ar termelés, előállítás,
 
 létrehozás; alkotás, mű
-alstrings |förmåga -n, -kraft -en, -er
+alstrings|förmåga -n, -kraft -en, -er
 termelő- v. alkotóképesség,
 termelő-v. alkotóerő; termékenység,
 produktivitás

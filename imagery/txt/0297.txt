@@ -52,10 +52,10 @@ hela I. vt gyógyít, orvosol II. s: 1. det ~
 az egész 2. -fi, -or egész üveg; az
 első pohár (snapsz); adag kávé; ta
 ~n az első féldecit issza
-helaftonspr c gramm -programmet, == egész
+helaftonsprogramm -programmet, == egész
 
 estét betöltő műsor
-hcl| ark -et, — egész ív (papír)
+hel|ark -et, — egész ív (papír)
 -automatisk -t teljesen önműködő
 helbrägda rég egészséges, ép -görare
 -n,= í. vall a betegek gyógyítója
@@ -86,7 +86,7 @@ sérthetetlensége; söndagens ~ a vasárnap
 megszentelése; hålla i ~ tiszteletben
 tart, megszentel
 helgdag -en, -ar ünnepnap
-helgdàgs| afton [-o-] -en, -aftnar az ünnep
+helgdags|afton [-o-] -en, -aftnar az ünnep
 előestéje; ünnep előtti nap -klädd
 -klätt ünneplő ruhás, ünneplőbe
 öltözött -kläder plur ünneplő (ruha)

@@ -86,7 +86,7 @@ kocsi; szekér; hintó; vagon -fabrik
 vonatra) -park -en, -er kocsipark,
 (gép)kocsiállomány; vasút gördülő
 a-nyag v. állomány; vagonpark
-vagns |axel -n, -axlar kocsitengely
+vagns|axel -n, -axlar kocsitengely
 -bul-ler -bullret, = kocsizörej -hjul -et, =
 kocsikerék -häst -en, -ar
 parádés ló -klass -en, -er vasút:

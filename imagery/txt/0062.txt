@@ -1,4 +1,4 @@
-av | gränsa el- v. körülhatárol, megvonja
+av|gränsa el- v. körülhatárol, megvonja
 [vminek a] határát, elkülönít
 -gräns-ning -en, -ar el- v. körülhatárolás,
 határmegvonás, elkülönítés;
@@ -8,7 +8,7 @@ av I gud -en, -ar (pogány) isten, bálvány
 (átv is); bálványkép, fétis; átv [vki]
 imádatának tárgya -guda istenít,
 bálványoz, irhád
-avguda| dyrkan = (en) bálványimádás;
+avguda|dyrkan = (en) bálványimádás;
 átv bálványozás, istenítés -dyrkare
 -n, = bálványimádó -präst -en, -er
 pogány pap

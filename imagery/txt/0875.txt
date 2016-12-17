@@ -4,7 +4,7 @@ ungkarl -en, -ar legényember, nőtlen
 férfi, fiatalember, (agg)legény; gammal
 ~ agglegény, öreg legény; han lever
 som ~ (agg)legényéletet él
-ungkarls |liv -et (agg)legényélet,
+ungkarls|liv -et (agg)legényélet,
 garzon-élet -skatt -en, -er agglegényadó -tid
 -en (agg)legénykor; under hans ~
 legénykorában -våning -en, -ar (agg-)
@@ -46,7 +46,7 @@ union -en, -er (nemzetközi) szövetség,
 egyesülés, unió; ~en mellan Sverige
 och Norge Svédország és Norvégia
 uniója (1905-ig)
-unions |flagga -n, -or (áílam)szövetség v.
+unions|flagga -n, -or (áílam)szövetség v.
 unió zászlója; ~n Nagy-Brittania
 zászlója v. lobogója -stat -en, -er
 szövetség v. unió tagállama; szövetségi

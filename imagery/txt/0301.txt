@@ -15,10 +15,10 @@ szóhasznúlat)
 herrekiperingsaffär -en, -er férfiruha-
 
 és -divatáruüzlet
-herre jíös -t gazdátlan, uratlan -säte -1, -n
+herre|lös -t gazdátlan, uratlan -säte -1, -n
 (földes)úri birtok; (vidéki) kúria,
 udvarház, kastély
-herr]frsmmande -t férfilátogató(k),
+herr|främmande -t férfilátogató(k),
 -vendégnek) -gård -en, -ar földesúri v.
 nemesi birtok, nagybirtok (kúriával v.
 kastéllyal) -hatt -en, -ar férfikalap -mod
@@ -92,7 +92,7 @@ kolosszális II, adv q szörnyen,
 borzasztóan III. ~ sig ájtatos képet vág,
 álszenteskedik; (erkölcsi)
 felháborodást színlel
-himla | kropp -en, -ar égitest -stormande
+himla|kropp -en, -ar égitest -stormande
 eget ostromló v. vívó, felforgató,
 féktelen -valv -et égbolt, mennybolt
 himmel -n v. himlen v. himmelen, himlar
@@ -104,7 +104,7 @@ mennyországban van; jör himlens
 skull! az ég szerelmére! 2. éghajlat
 3. baldachin, mennyezet
 himmelrike -t mennyország
-himmels |blå -blått égszínkék -färd -en
+himmels|blå -blått égszínkék -färd -en
 mennybemenetel -färdsdag -en: Kristi
 ~ áldozócsütörtök -hög -t égig érő
 himmelsk -t égi, mennyei; isteni, pompás

@@ -7,7 +7,7 @@ eltávolít (személyt); ~ ut kigyomlál;
 átv eltávolít (személyi)
 rensk -/ rajnai
 
-ren |skriva -skrev, -skrivit (le)tisztáz,
+ren|skriva -skrev, -skrivit (le)tisztáz,
 (újra) leír v. lemásol -skrivning -en,
 -ar (le)tisztázás, (újra) leírás,
 lemásolás; tisztázat -skura tisztára súrol
@@ -62,7 +62,7 @@ feljavul
 reparation -en, -er (ki- v. meg) ja vitás,
 
 rendbe hozás; tatarozás
-reparations |arbet© -t, -n javítási munka
+reparations|arbete -t, -n javítási munka
 -verkstad -en, -städer javítóműhely
 reparera (ki v. meg)javít, rendbe hoz,
 tataroz, reparál; helyrehoz, jó vátesz

@@ -40,7 +40,7 @@ vinnare -n, = nyertes, nyerő, győztes
 vinning -en nyereség, haszon; vívmány;
 snöd ~ piszkos nyereség; bara tänka
 på egen ~ csak a saját hasznát nézi
-vinnings |lysten -lystet nyereség vágyó,
+vinnings|lysten -lystet nyereség vágyó,
 haszonleső, pénzsóvár, kapzsi -lystnad
 -en nyereségvágy, haszonlesés,
 pénz-sóvárság, kapzsiság -syfte -t: i ~
@@ -50,7 +50,7 @@ iparkodik v. fáradozik vmin, törekedik
 vmire; jag skall ~ mig om att...
 iparkodni fogok (v. azon leszek)
 hogy ..., igyekezni fogok .. -ni
-vin |odlare -n, ~ bortermelő,
+vin|odlare -n, ~ bortermelő,
 szőlőtermelő, -művelő, szőlősgazda -odling
 -en, -ar 1. bortermelés, szőlőtermelés,
 •művelés, szőlészet 2. szőlőültet-

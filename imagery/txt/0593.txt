@@ -89,7 +89,7 @@ figyelmen kívül hagy; falla v. vara ur
 nem számít
 räksmörgås -en, -ar rákszendvics
 räl -en, -er, räls -en, — vasút sín, vágány
-räls]brott [-o-] -et, sín.törés -buss -en,
+räls|brott [-o-] -et, sín.törés -buss -en,
 
 -ar sínautóbusz
 rämna I. s: -n, -or hasadás, repedés;
@@ -99,7 +99,7 @@ hasadék; rés, nyílás II. vi (meg)hasad,
 ränker plur ármány, cselszövény,
 fondorlat, intrika; smida ~ ármánykodik.,
 cselt sző, fondorlatoskodik, intrikál
-rank |full -t ármánykodó, cselszövő,
+rank|full -t ármánykodó, cselszövő,
 fondorlatos, intrikáló -makare
 -smi-dare -n, = ármánykodó, cselszövő,
 intrikus (ember)

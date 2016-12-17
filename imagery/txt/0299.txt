@@ -1,9 +1,9 @@
-hem]arbete -t, -n ház(tartás)i v. otthoni
+hem|arbete -t, -n ház(tartás)i v. otthoni
 munka; házi feladat; háziipari
 munka; jag har tagit med lite(t) ~
 hazavittem egy kis munkát -assistent -en,
 -er háztartási alkalmazott -bageri
--(e]t, -er kis sütöde v. pékség -bakad,
+-(e)t, -er kis sütöde v. pékség -bakad,
 -bakt saját sütésű, házilag sütött
 -biträde -/, -n háztartási alkalmazott
 -bjuda -bjöd, -bjudit: ~ ngn ngt (till
@@ -49,7 +49,7 @@ nincs otthon -industri -(e)n, -er
 háziipar -inredning -en, -ar lakásművészet,
 lakberendezés, lakásberendezés
 hemisfär -en, -er félgömb, -teke
-hem]kalla hazahív, visszarendel; vall
+hem|kalla hazahív, visszarendel; vall
 magához szólít -kommen -kommet:
 han är ännu inte ~ még nem jött v.
 
@@ -72,7 +72,7 @@ hemligen adv titokban, titko(sa)n
 hemlighet -en,-er titok, rejtély;
 titkolódzás; en offentlig ~ nyílt titok; i ~
 titokban, titkon
-hemlighets |f ull -t titokzatos, titkoló(d)zó;
+hemlighets|full -t titokzatos, titkoló(d)zó;
 rejtelmes, titkos; vara v. spela ~
 titkolódzik -makare -n, =
 titokzatoskodó v. titkoló(d)zó (ember) -makeri
@@ -84,17 +84,17 @@ titokban tart (för ngn vki elől, előtt)
 -stämpla a „titkos" (v. „szigorúan
 bizalmas") bélyegzővel ellát, titkosnak
 nyilvánít (aktát)
-hemjliv-e/családi v. házias élet(mód) -lån
+hem|liv -et családi v. házias élet(mód) -lån
 -et, — kikölcsönzés, könyvkölcsönzés
 (könyvtárból) -längtan = (en)
 honvágy -läxa -n, -or házi feladat, lecke
--lös -t hazátlan,, hontalan; hajléktalan
+-lös -t hazátlan, hontalan; hajléktalan
 hemma adv otthon, odahaza; ~ hos oss
 nálunk (otthon), a lakásunkon; känna
 sig (som) ~ otthonosan érzi magát;
 vara ~ i ngt otthonos v. jártas vmiben,
 jól ismer vmit
-hemmajbruk: för v. till ~ házi
+hemma|bruk: för v. till ~ házi
 használatra -dotter -n, -döttrar házikisasszony,
 munkába nem járó leány -fru -n, -ar
 háziasszony -gjord -gjort házilag v.

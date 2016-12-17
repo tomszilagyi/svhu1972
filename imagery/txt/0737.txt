@@ -86,7 +86,7 @@ kétségbe vonja vkinek a jogát vmihez 3.
 ellentétes, ellentmondó; intressen
 (egymással) ellentétes érdekek;
 känslor ellentétes érzelmek
-stridsjanda -n harci szellem -beredskap
+strids|anda -n harci szellem -beredskap
 -en kat: harckészültség -broder -ti
 -bröder küzdőtárs, harcostárs,
 fegyvertárs -duglig -t harcképes -flygare
@@ -119,4 +119,4 @@ vitairat -sång -en, -er harci dal -tupp
 veszekedős v. izgága ember
 stridsvagn -en, -ar 1. kat: harckocsi,
 páncélkocsi, tank 2. tört harci szekér
-stridsvagns[fälla -n, -or kat: harckocsi-
+stridsvagns|fälla -n, -or kat: harckocsi-

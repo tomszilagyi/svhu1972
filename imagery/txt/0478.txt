@@ -56,7 +56,7 @@ kommunális jogokkal felruházott település
 munk -en, -ar 1. szerzetes, barát
 2. benediktiner (likőr) 3. (berlini) fánk
 
-munjkavel -n, -kavlar, -kavle -n, -ar
+mun|kavel -n, -kavlar, -kavle -n, -ar
 szájpecek; átv szájkosár; sätta på
 ngn kipeckeli v. betömi vkinek a
 száját; átv elhallgattat v. elnémít vkit
@@ -84,7 +84,7 @@ muntlig -t szóbeli (adv: ~en)
 muntra: en ~nde historia vidám
 történet; ~ upp felvidít, -derít, -élénkít
 muntration -en, -er mulatság, szórakozás
-mun |vatten -vattnet, = szájvíz -vig -i
+mun|vatten -vattnet, = szájvíz -vig -i
 beszédes, pergő nyelvű, nyelves; vara
 ~ jól felvágták a nyelvét, helyén van
 a nyelve -väder -vädret, = ostoba
@@ -100,7 +100,7 @@ v. emel
 muralmålning -en, -ar falfestmény
 murankare -t, -n ép: falkapocs, -kötővas
 murare -n, = kőműves
-mur |bruk -et, — habarcs, malter -bräcka
+mur|bruk -et, — habarcs, malter -bräcka
 -77, -or tört: faltörő kos -gröna -/7, -or
 nov: borostyán, repkényborostyán
 murken murket rothadt, korhadt, redves

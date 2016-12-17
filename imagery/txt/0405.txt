@@ -10,7 +10,7 @@ kyla I. s: -n hideg(ség), hűvösség
 hidegben II. vt: kylde, kylt (le- v. be)hűt;
 (meg)fagyaszt; hűsít; ~ fötterna
 lefagy a lába
-kyl | anläggnings/2, -ar hűtő- v.
+kyl|anläggnings/2, -ar hűtő- v.
 fagyasztóberendezés -apparat -en, -er készülék,
 hűtő- v. fagyasztógép
 kylare -n, = 1. hűtő (motoré);
@@ -25,7 +25,7 @@ kylrum -rummet, = hűtőhelyiség
 kylsa (öS9ze)ráncol; ~ sig
 (összeráncolódik
 
-kyijskada -n, -or fagykár -skåp -et, —
+kyl|skada -n, -or fagykár -skåp -et, —
 hűtő- v. jégszekrény -slagen -slaget
 meglangyosított, langyos; átv hűvös
 -sår -et, = fagyási seb -vagn -en, -ar
@@ -52,7 +52,7 @@ kyrklig -t 1. templomi, egyházi; ~
 vigsel egyházi esküvő 2. templomba
 járó, vallásos
 kyrkoadjunkt -en, -er segédlelkész
-kyrk(o)[besök -et, = templomba járás,
+kyrk(o)|besök -et, = templomba járás,
 templomlátogatás -bok -en, -böcker
 egyházi anyakönyv -bokföra -förde,
 -fört az egyházi anyakönyvbe bevezet
@@ -97,7 +97,7 @@ csókolt neki; vågen kysser stranden a
 hullám nyaldossa a partot
 kyssande -t (meg)csókolás; csókoló(d)zás
 kyssas kysstes, kyssts csókoló(d)zik
-kyss]tack -1 csókolnivaló(an szép) -äkta
+kyss|tack -1 csókolnivaló(an szép) -äkta
 
 csókálló (rúzs)
 kåda -n, -or gyanta

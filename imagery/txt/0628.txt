@@ -34,7 +34,7 @@ arányszám, egészségügyi helyzet
 sjukling -en, -ar beteg, páciens; beteges
 ember
 
-sjukjlägcr -lägret betegágy -mat -en, -er
+sjuk|läger -lägret betegágy -mat -en, -er
 beteg(ek) étele v. tápláléka,
 betegkoszt
 
@@ -55,7 +55,7 @@ van
 sjuksköterska -n, -or ápolónő,
 betegápoló nővér
 
-sjuksköterskejelev -en, -er tanuló nővér,
+sjuksköterske|elev -en, -er tanuló nővér,
 
 ápolónőképző iskola növendéke,
 nővérke -skola -n, -or ápolónőképző

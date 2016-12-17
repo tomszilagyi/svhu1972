@@ -94,7 +94,7 @@ köpe|skilling -en, -ar, -summa -n, -or
 
 vételár, vételi összeg (ingatlané)
 köping -en, -ar mezőváros, városka
-köp | kraft -en vásárlóerő -kraftig -t
+köp|kraft -en vásárlóerő -kraftig -t
 vásárlóképes, nagy vásárlóerejű -lust
 -en vásárlási kedv -man -mannen,
 -män kereskedő, üzletember

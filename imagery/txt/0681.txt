@@ -1,4 +1,4 @@
-smitt(o)]bärare -n, = bacilusgazda -fara
+smitt(o)|bärare -n, = bacilusgazda -fara
 -n, -or fertőzés veszélye, ragályveszély
 -fri -fritt nem fertőző v. ragályos,
 csíramentes -förande fertőző, ragályt
@@ -7,7 +7,7 @@ ragályfészek (átv is)
 smitt(o)sam -t fertőző, ragályos; átv
 ragadós
 
-smitt (o) ]spridare -n, = a fertőzés v.
+smitt(o)|spridare -n, = a fertőzés v.
 ragály terjesztője, bacilusgazda
 -vådlig -t fertőzés veszélyével járó
 smittämne -t, -n fertőző anyag; kórokozó,

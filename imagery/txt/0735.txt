@@ -7,7 +7,7 @@ nagyszabású volta; pompa, ragyogás
 -sprang, -sprungit nagyon fut, teljes
 erejéből szalad, rohan -stad -en,
 -städer nagyváros
-storstads | aktig -t nagyvárosi(as) -barn -et,
+storstads|aktig -t nagyvárosi(as) -barn -et,
 = nagyvárosi gyer(m)ek -bo -n, -r
 a nagyváros lakója, nagyvárosi ember
 stor|stilad nagyvonalú, -stílű, imponáló
@@ -67,7 +67,7 @@ elítélik; han ~des (v. blev ~d) för
 sin djärvhet megbűnhődött
 vakmerőségéért
 
-straff |anstalt -en, -er büntetőintézet
+straff|anstalt -en, -er büntetőintézet
 -arbete -t, -n kényszermunka, fegyház
 (-büntetés), börtön(büntetés); livstids
 ~ életfogytiglani kényszermunka v.

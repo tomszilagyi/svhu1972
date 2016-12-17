@@ -28,7 +28,7 @@ brev är skrivet på ~ levele svédül van
 írva; vad heter det på hogy
 mondják ezt (v. mit jelent ez) svédül? 2.
 plur: -or svéd nő
-svensk | amerikan -en, -er, -amerikanare
+svensk|amerikan -en, -er, -amerikanare
 -n, — amerikai svéd, svéd származású
 amerikai (ember) -amerikansk
 -/amerikai svéd -bygd -en, -er svédek által
@@ -47,7 +47,7 @@ svensk-ungersk svensk(t)-ungerskt
 svéd-magyar; en ~ ordbok svéd—magyar
 szótár
 
-svensk |vän -vännen, -vänner svédbarát
+svensk|vän -vännen, -vänner svédbarát
 (ember) -vänlig -t svédbarát -ättling
 -en, -ar svédek ivadéka v. sarja v.
 leszármazottja; vara ~ svéd

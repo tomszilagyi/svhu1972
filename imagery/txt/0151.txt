@@ -87,12 +87,12 @@ ez ellen; ellenkezőleg; ellenben,
 viszont
 
 därest conj ha, amennyiben
-där[fdr I. adv azért, ezért, amiatt, emiatt
-II. conj: ~ att mert; inte ~ att du kar
-Jörtjänat det nem (azért) mintha
+där|för I. adv azért, ezért, amiatt, emiatt
+II. conj: ~ att mert; inte ~ att du har
+förtjänat det nem (azért) mintha
 megérdemelted volna -förinnan adv
 azelőtt, ezelőtt, előzőleg -hemma adv
-odahaza, otthon -hm adv oda;odáig, addig;
+odahaza, otthon -hän adv oda;odáig, addig;
 annyira, annyiban; det kan gå ~ att
 odáig meh et hogy; lämna ngt ~
 nyitva hagy vmit (problémát), annyiban

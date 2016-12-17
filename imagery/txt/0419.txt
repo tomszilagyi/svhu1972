@@ -14,7 +14,7 @@ arsz-lán 2. Lejonet (az) Oroszlán
 (csillagkép) -gap -et, — 1. az oroszlán torka
 v. szája 2, nov oroszlánszáj
 lejoninna [-o-] -n, -or nőstény oroszlán
-lejon |klo: visa ~n megmutatja
+lejon|klo visa ~n megmutatja
 oroszlánkörmeit -part -en oroszlánrész
 -unge -n, -ar oroszlánkölyök
 lek -en, -ar 1. játék; átv: nu börjar ~en
@@ -56,7 +56,7 @@ lekmanna|håll: på ~ laikus körökben
 lek|plan -plats -en, -er játszótér -sak
 
 -en, -er játékszer
-leksaks]affär -en, -er játékbolt -bil -en,
+leksaks|affär -en, -er játékbolt -bil -en,
 -ar játékautó’
 
 lek|skola -n, -or gyermekfoglalkoztató,

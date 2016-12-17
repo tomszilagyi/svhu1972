@@ -21,14 +21,14 @@ holnap reggel; ~ i morse ma reggel
 (jókor); från ~ på morgonen kora
 reggeltől; ~ på våren kora tavasszal;
 för ~ túl korán v. hamar; idő előtt
-tidjkrävande időrabló -lön -en, -er
+tid|krävande időrabló -lön -en, -er
 időbér -lös -t időtlen; örökké tartó;
 időálló -lösa -n, -or nov: őszi kikerics
 -mätare -n, = időmérő (műszer)
 tidning -en, -ar 1. újság, (hír)lap; daglig
 ~ napilap; dagens ~ a mai újság; az
 aznapi újság 2. rég hír
-tidningsjanka -n, -or tréf: hírlapi kacsa,
+tidnings|anka -n, -or tréf: hírlapi kacsa,
 álhír -annons f-o-] -en, -er
 újsághirdetés -artikel -n, -artiklar újságcikk
 -bilaga -n, -or újságmelléklet -bud -et,
@@ -49,9 +49,9 @@ lapkihordó v. újságárus fiú, rikkancs
 lapszerkesztőség -(ur)klipp -et, = újságkivágás,
 lapkivágat -utgivare -n, = újság- v.
 lapkiadó (ember)
-tidjpunkt -en, -er időpont; vid ~en för
+tid|punkt -en, -er időpont; vid ~en för
 händelsen az esemény időpontjában;
-viel denna ~ ebben az időpontban v.
+vid denna ~ ebben az időpontban v.
 
 időben -rymd -en, -er időköz, -szak,
 -tartam

@@ -15,7 +15,7 @@ tunnel -n, tunnlar alagút -bana -n, -or
 földalatti (vasút v. villamos), metró
 -banestation -en, -er földalatti v.
 metróállomás
-tunn |flytände folyós, folyékony, híg -het
+tunn|flytände folyós, folyékony, híg -het
 -en vékonyság, kesk’enység; finomság;
 [vminek a] híg ill. gyér volta -hårig -t
 ritka haj(zat)ú, gyér szőr(zet)ű -klädd

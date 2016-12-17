@@ -57,7 +57,7 @@ v. had)oszlop
 kolonnad [kolo-] -en, -er oszlopsor,
 
 -csarnok, oszlopos folyosó
-kolorado[skalbagge -n, -ar kolorádó-
+kolorado|skalbagge -n, -ar kolorádó-
 
 bogár, amerikai burgonyabogár
 koloratursångerska [kolo-] -n, -or kolo-
@@ -104,7 +104,7 @@ kol|teckning [-Ö-] -en, -ar szénrajz -trast
 -n, -or szénszálas izzólámpa
 kc|lugn -t o nyugodt (természetű),
 rendíthetetlen, szenvtelen
-kolumbarium kolumbari]et, -er urnacsár-
+kolumbarium kolumbari|et, -er urnacsár-
 
 nok, kolumbárium
 kolumn -en, -er nyomd: oszlop, hasáb;

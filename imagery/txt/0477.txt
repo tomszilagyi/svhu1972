@@ -110,7 +110,7 @@ elporladt
 multilateral -t többoldalú, több félre
 kiterjedő
 
-multipel -n, multipl[er v. -ar mat:
+multipel -n, multipl|er v. -ar mat:
 többszörös
 
 multiplicera (meg)szoroz; megsokszoroz

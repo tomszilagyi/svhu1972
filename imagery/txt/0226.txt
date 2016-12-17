@@ -11,7 +11,7 @@ för|brylla össze- v. megzavar, zavarba
 hoz; elképeszt, meghökkent,
 megdöbbent -bryllelse -n (zűr)zavar,
 megdöbbenés, ámulat
-för |bryta -bröt, -brutit 1. vét, elkövet
+för|bryta -bröt, -brutit 1. vét, elkövet
 (bűncselekményt); ~ sig mot ngn
 vét(kezik) v. bűnt követ el vki ellen
 2. átv eljátszik (vmit), elveszt(i a
@@ -30,7 +30,7 @@ robbanótér
 förbrödra: ~ sig összebarátkozik,
 (testvéri) barátságot köt; összetegeződik
 förbud -et, == tilalon (mot ngt vminek a)
-förbuds]anhängare -n, = a szesztilalom
+förbuds|anhängare -n, = a szesztilalom
 híve, prohibicionista -lag -en, -ar
 szesztilalmi v. prohibiciós törvény
 -tavla -n, -or tilalmi tábla (közlekedési
@@ -58,7 +58,7 @@ szövetségi kancellár -regering -en,
 -ar szövetségi kormány -republik -en,
 -er szövetségi köztársaság -stat -en,
 -er szövetségi állam
-för |bygga -byggde, -byggt: ~ sig túlzott
+för|bygga -byggde, -byggt: ~ sig túlzott
 építkezésbe öli a pénzét, elépíti a
 vagyonát v. pénzét -byta -bytte, -bytt 1.
 el-v. kicserél 2. átváltoztat, átalakít

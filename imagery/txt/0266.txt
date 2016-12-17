@@ -105,11 +105,11 @@ tehervagon -försändelse -n, -r
 
 god|smnad, -sint szelíd, békés, jó
 természetű, kedélyes
-godsjmagasin -et, = (vasúti)
-teherárurak-tár -station -en, . -er teherpályaudvar
--trafik -en íeher(áru)forgalom -tåg -et,
+gods|magasin -et, = (vasúti)
+teheráruraktár -station -en, . -er teherpályaudvar
+-trafik -en teher(áru)forgalom -tåg -et,
 — tehervonat -vagn -en, -ar vasút:
 teherkocsi, -vagon -ägare -n, =
 földbirtokos, földesúr
 god|ta(ga) -tog, -tagit elfogad, elismer
--tagbar-telfogadható -templare -n, =
+-tagbar -t elfogadható -templare -n, =

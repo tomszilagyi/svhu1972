@@ -17,7 +17,7 @@ III. (hgs igek:) ~ in beken; bezsíroz;
 beolajoz; ~ ned összeken, -zsíroz,
 -olajoz; bepiszkít; ~ ned sig összekeni
 v. bepiszkítja magát
-smörj |anordning [-ör-] -en, -ar, -apparat
+smörj|anordning [-ör-] -en, -ar, -apparat
 -en, -er kenőkészülék, -berendezés,
 olajozó
 
@@ -32,7 +32,7 @@ a szent) kenet
 smörjig összekent, -piszkított; kenő-
 
 csös; sáros; vajas, zsíros, olajos
-smörj |kanna -n, -or (kézi) olajozókanna
+smörj|kanna -n, -or (kézi) olajozókanna
 -kopp [-o-] -en, -ar olajozószelence,
 kenőolaj-edény; olajozó (pl.
 kerékpárhoz ) -medel -medlet, === kenőanyag,
@@ -58,7 +58,7 @@ gyors felfogású, fürge észjárású; ~ som
 blixten villámgyors; ~ i vändningarna
 gyors, fürge, élénk
 
-snabb | eld -en kat: gyorstűz, -tüzelés
+snabb|eld -en kat: gyorstűz, -tüzelés
 -flytande gyors folyású (folyó) -fotad
 gyors lábú -foto -t v. -n, -n v. -s
 gyorsfénykép -gående gyors járású, gyors
@@ -72,7 +72,7 @@ snabbkurs -en, -er gyors(ított) tanfolyam
 snabbköp -et önkiszolgálás (üzletben)
 snabbköps|affär -butik -en, -er
 önkiszolgáló üzlet v. bolt
-snabb | löp are -n, = gyorsfutó, gyors v.
+snabb|löp are -n, = gyorsfutó, gyors v.
 jő futó; gyorskorcsolyázó -löpning
 -en gyorsfutás, versenyfutás;
 gyorskorcsolyázás -skjutande kat:

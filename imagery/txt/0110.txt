@@ -17,7 +17,7 @@ pillanatra egészen elkalandozott (a
 figyelme); bra men hemma bäst
 mindenütt jó de legjobb otthon
 bortaplan -et, = sp idegen pálya
-bort |bjuden -bjudet meghívott
+bort|bjuden -bjudet meghívott
 (vendégségbe) -blåsa ^blåste,-blåst elfúj -bytt
 el-v. összecserélt; jag har fått min hatt ~
 elcserélték a kalapomat -döende L s:
@@ -95,7 +95,7 @@ bosch -et ostobaság, badarság
 boskap -en (szarvas)marhaf barom;
 . jószág, állat
 
-boskaps]avel -n
+boskaps|avel -n
 szarvasmarha-tenyésztés; állattenyésztés -hjord -en, -ar
 gulya, csorda, nyáj -pest -en
 marhavész -skötsel -n

@@ -13,7 +13,7 @@ biztosított -polis -en, -er biztosítási kötvény
 = biztosítást kötő fél, biztosított
 -villkor [-Ö-] plur biztosítási
 feltételek -värde -t, -n biztosítási érték
-för |säl ja -sålde, -sålt elad, áruba bocsát
+för|sälja -sålde, -sålt elad, áruba bocsát
 -säljare -n, = elárusító, eladó
 -säljer-ska -n, -or elárusítónő -säljning -en,
 -ar eladás, (el)árusítás

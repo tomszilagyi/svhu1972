@@ -11,7 +11,7 @@ gisslan s indecl (en) túsz, kezes
 gissning -en, -ar találgatás, vélekedés,
 feltevés
 
-gissnings]tävlan s indecl (en)
+gissnings|tävlan s indecl (en)
 találóskérdés-játék v. -verseny
 gissningsvis adv feltehetőleg, találomra,
 

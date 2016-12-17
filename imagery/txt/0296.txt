@@ -87,7 +87,7 @@ díszőrség -varv -et, = s/? tiszteletkör
 hedervärd -värt becsületes, tisztességes,
 
 tiszteletre méltó
-hednajfolk -et, = pogány nép -mission
+hedna|folk -et, = pogány nép -mission
 -en, -er a pogányok térítése, misszió a
 pogányok között -tid -en pogány kor
 hedning -en, -ar pogány v. istentagadó

@@ -16,7 +16,7 @@ művelhető
 bilderbok -en, -böcker képeskönyv
 bild(er)ga!!eri -(e)t, -er képcsarnok, -tár
 bildgåta -n, -or képrejtvény
-bildjhuggare -n, — szobrász -huggarkonst
+bild|huggare -n, — szobrász -huggarkonst
 -en szobrászművészet, szobrászat
 -huggeri -(e)t szobrászat; szobrászműhely
 -inställning -en, -ar foto a kép élesre
@@ -71,7 +71,7 @@ biljettång (elv.. biljett-tång) -en, -tänger
 jegylyukasztó
 biljon -en, -er billió
 biljud -et, — mellékzörej
-bil[krock [-o-] -en, -ar o
+bil|krock [-o-] -en, -ar o
 autóösszeütközés -kö -n, -er (hosszú) autósor
 bill -en, -ar ekevas, szántóvas
 billig -t 1. méltányos, igazságos 2. olcsó;

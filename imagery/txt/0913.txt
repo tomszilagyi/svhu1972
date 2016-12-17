@@ -26,7 +26,7 @@ győztesen kerül ki a választásból;
 gå v. skrida till ~ szavazni megy,
 az urnához járul
 valack -en, -er herélt ló
-val | affisch -en, -er választási plakát
+val|affisch -en, -er választási plakát
 -allians -en, -er választási szövetség,
 listakapcsolás
 valbar -t (meg)választható -het -en
@@ -61,13 +61,13 @@ valens -en, -er vegy: vegyérték(űség)
 valfisk -en, -ar rég: cethal -ben -et, =
 
 halcsont(lemez), bálnaszila
-valjfläsk -et O választási ígéret(ek) v.
+val|fläsk -et O választási ígéret(ek) v.
 csalétek -fri -fritt szabadon
 választható, fakultatív; ~a ämnen
 fakultatív (tan)tárgyak -frihet -en választási
 szabadság, szabad választás;
 fakultatív jelleg -fusk -et választási csalás
-val |fångare -n, = 1. bálnavadász,
+val|fångare -n, = 1. bálnavadász,
 cetvadász; bálnahalász, cethalász 2.
 bálnavadászhajó, cetvadászhajó;
 bálnahalászhajó, cethalászhajó -fångst
@@ -100,7 +100,7 @@ v. kampány -kandidat -en, -er jelölt
 valkig -t kérges, bőrkeményedéses -het
 
 -en kérgesség (pl. kézé)
-valjkonung [-5-] -en, -ar választott
+val|konung [-5-] -en, -ar választott
 király -krets -en, -ar választókerület
 valkyria valkyrja -n, -or mit: valkűr
 vall1 -en, -ar földhányás, -gát, (védő-)

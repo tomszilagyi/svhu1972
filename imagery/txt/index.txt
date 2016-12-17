@@ -84,7 +84,7 @@
 0108 - B - bolma
 0109 - B - bord
 0110 - B - borta
-0111 - B - boinredning
+0111 - B - bostadsinredning
 0112 - B - boxning
 0113 - B - bre
 0114 - B - brinnande

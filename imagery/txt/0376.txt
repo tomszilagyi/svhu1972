@@ -1,5 +1,5 @@
 knyckla: ~ (ihop) összegyűr
-knyppel |dyna -n, -or csipkeverő párna
+knyppel|dyna -n, -or csipkeverő párna
 -pinne -n, -ar csipkeverő pálca, klöpli
 knyppla csipkét ver, klöplizik; ~d spets
 

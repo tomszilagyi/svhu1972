@@ -76,7 +76,7 @@ rova -n, -or 1. fehérrépa, karórépa
 (takarmányrépa ) 2. átv, tréf: sätta en ~
 leül (a fenekére), földre huppan
 3. tréf krumpli (zsebóra)
-rov i djur -et, = ragadozó (állat) -drift -en
+rov|djur -et, = ragadozó (állat) -drift -en
 rablógazdálkodás -fisk -en, -ar
 ragadozó hal -fiske -t rablóhalászat -fågel
 -n, -fåglar ragadozó madár -girig -t
@@ -84,11 +84,11 @@ zsákmányra éhes, prédaleső, ragadozó,
 rabolni vágyó; kapzsi, mohó -girighet
 -en ragadozó természet; prédalesés,
 kapzsiság, mohóság -lysten -lystet
-rovgirig -lystnad -en rovgirighet
-rovjolja f-ol-] -n, -or repceolaj -raps -en
+-- rovgirig -lystnad -en rovgirighet
+rov|olja f-ol-] -n, -or repceolaj -raps -en
 
 nov: réparepce
-rov [riddare -n, = rablólovag -tand -en,
+rov|riddare -n, = rablólovag -tand -en,
 
 -tänder tépőfog, agyar (ragádozóé)
 rovåker -n, -åkrar répaföld

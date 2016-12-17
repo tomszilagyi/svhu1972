@@ -46,7 +46,7 @@ vid|film -en, -er szélesvásznú film; visas
 i ~ szélesvásznon mutatják be
 -filmsformat [-o-] -et, = szélesvásznú
 változat (filmé)
-vidjfoga (hozzá)csatol, mellékel (pl.
+vid|foga (hozzá)csatol, mellékel (pl.
 iratot) -fäst hozzá- v. ráerősített,
 hozzákapcsolt, -fűzött -fästa -fäste,
 -fäst hozzá- v. ráerősít, hozzákapcsol,
@@ -94,7 +94,7 @@ illetőleg; ~ denna angelägenhet ez
 II. s: för mitt ~ ami engem illet,
 részemről
 
-vid| kännas -kändes, -känts 1. elismer,
+vid|kännas -kändes, -känts 1. elismer,
 beismer 2. (el)szenved, (el)visel; få ~
 kostnaderna viselnie kell a költségeket;
 få ~ en stor förlust nagy veszteséget

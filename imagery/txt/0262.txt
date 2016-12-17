@@ -3,7 +3,7 @@ fénykor -full -/. ragyogó, fényes
 glansig -t fényes, fénylő, ragyogó
 glansk -t fényes, ragyogó; sima
 glans(k)is -en (tükör)sima v. síkos jég
-glans |lös -t fénytelen -nummer -numret,
+glans|lös -t fénytelen -nummer -numret,
 = ragyogó (műsor)szám, a műsor
 fénypontja -papper -et, = fénypapír
 -period -en, -er fénykor -punkt -en, -er
@@ -32,7 +32,7 @@ beüvegezi az ablakot; sätta inom ~ och ram
 glasera mázzal bevon, zománcoz
 (agyág-árut, porcelánt)-, cukormázzal v.
 gla-z úrral bevon (süteményt)
-glas]hus -et, = . üvegház -klocka [-o-]
+glas|hus -et, = . üvegház -klocka [-o-]
 -n, -or üvegbura, -harang -kula -n, -or
 üveggömb, -golyó -kupa -n, -or
 üvegbura; lámpaernyő (üvegből) -måleri

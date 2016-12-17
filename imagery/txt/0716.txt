@@ -10,11 +10,11 @@ spök{historia -historien, -historier
 kísértettörténet, -história, rémtörténet -hus
 -et, = kísértet(ek)től látogatott ház,
 ház amelyben kísértet jár
-spök |lik -/, -liknande kísérteties,
+spök|lik -/, -liknande kísérteties,
 kísértetszerű, fantomszerű; hátborzongató,
 rémes
 
-spö |knippe -t, -/i vesszőnyaláb (ókori
+spö|knippe -t, -/i vesszőnyaláb (ókori
 római)
 
 spök|rädd: vara ~ kísértet(ek)től fél

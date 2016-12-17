@@ -6,7 +6,7 @@ jóság
 
 snällpress -en -ar nyomd: gyorssajtó
 snälltåg -et, = gyorsvonat
-snälltågs]avgift -en, -er gyorsvonati
+snälltågs|avgift -en, -er gyorsvonati
 pótdíj -biljett -en, -er kiegészítő
 gyorsvonati (menet)jegy -fart: med ~
 gyorsvonati sebességgel v. tempóban
@@ -81,7 +81,7 @@ kasta ~ hólabdázik, hógolyózik
 snöbolls|buske [-o-] -n, -ar iabdarózsa
 (-bokor) -kastning -en hólabdázás,
 hó-golyózás -krig -et, — hólabda-csata
-snöjbrillor plur hószemüveg -by -n, -ar
+snö|brillor plur hószemüveg -by -n, -ar
 
 hózápor, hóförgeteg
 snöd hitvány, aljas, gyalázatos, piszkos;

@@ -18,7 +18,7 @@ olvasd: affärsliv affärslivet.. / affärslokal affärslokalen, affärslokaler.
 
 egymás mellett álló két (szinonim) címszó esetén:
 
-väckar| klocka [-0-] -n, -or, -ur -et, = ébresztőóra
+väckar|klocka [-0-] -n, -or, -ur -et, = ébresztőóra
 
 olvasd: väckarklocka väckarklockan, väckarklockor, väckarur väckarüref,
 väckarur

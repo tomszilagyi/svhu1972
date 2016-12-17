@@ -59,7 +59,7 @@ modellera2 -n, -or ->- modell-lera
 modeller(ings)massa -n, -or mintázó
 gyurma
 
-modell |flygplan -et, — repülőmodell
+modell|flygplan -et, — repülőmodell
 
 -klänning -en, -ar ruhamodell
 modell-lera modellerlera -n, -or

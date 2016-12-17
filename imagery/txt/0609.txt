@@ -89,7 +89,7 @@ vminek a); hihetőség, elfogadhatóság;
 efter v. med all ~ minden valószínűség
 szerint
 
-sannolikhets |beräkning -en, -ar, -kalkyl
+sannolikhets|beräkning -en, -ar, -kalkyl
 
 -en, -er mat: valószínűségszámítás
 sann|saga -n, -or igaz történet -skyldig -t

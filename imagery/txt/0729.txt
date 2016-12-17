@@ -61,7 +61,7 @@ stillestånd -et, — 1. fegyverszünet,
 -nyugvás; sluta ~ fegyverszünetet köt
 2. ker pangás, stagnálás;
 üzemszünetelés, leállás (iparban)
-stillestånds |förhandlingar plur
+stillestånds|förhandlingar plur
 fegyverszüneti tárgyalások
 stillhet -en nyugodtság, nyugalom,
 csendesség), mozdulatlanság, békesség; i
@@ -76,7 +76,7 @@ stillsam -t nyugodt, csendes, békés;
 megállapodott, komoly -het -en
 nyugodtság, nyugalom, csend(esség), békesség;
 békés természet
-stiljlös -t stílustalan; ízléstelen -möbel
+stil|lös -t stílustalan; ízléstelen -möbel
 -n, -möbler stílbútor -prov -et, —
 1. (kéz)írásminta, -próba 2. nyomd
 betűminta 3. irod stíluspróba,

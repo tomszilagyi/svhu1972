@@ -34,7 +34,7 @@ cukortartalom -haltig -1
 cukortartalmú -kaka -n, -or kb.: kuglóf (szerű édes
 tészta) -lag -en cukoroldat, -szirup
 -mattad cukorral telített -plantage
-{-äs] -77, -r cukornádültetvény -ranson
+[-äs] -77, -r cukornádültetvény -ranson
 -en, -er cukoradag -rot -en, -rötter nov:
 cukorgyökér -rör -et, = cukornád -sjuk
 -t cukorbeteg, -bajos -sjuka -n
@@ -79,7 +79,7 @@ soignerad [suenj- v. suanj-] gondozott,
 ápolt, jól öltözött, elegáns
 soja [-oV] -/i nov: szója -böna -n, -or
 szójabab -mjöl -d szójaliszt
-söl -en, -ar nap (égitest); ~en går upp i
+sol -en, -ar nap (égitest); ~en går upp i
 öster a nap keleten kel föl; i ~en a
 napon; kräva en plats i ~en követeli
 helyét a nap alatt; (det finns) intet nytt
@@ -92,7 +92,7 @@ solaväxel [-o -] -n, -växlar ker:
 sola-vál-tó, egyetlen példányban kiállított
 váltó
 
-sol |båd -et, = napfürdő -bada
+sol|bad -et, = napfürdő -bada
 napfürdőzik, -kúrázik, napozik -bana -n, -or
 nappálya -belyst nap által
 megvilágított, napsütötte, napos -blekt a napon

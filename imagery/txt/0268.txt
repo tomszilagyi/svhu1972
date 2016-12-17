@@ -104,11 +104,11 @@ csinos; daliás; kicicomázott 3.
 hangzatos; ~a fraser hangzatos szólamok
 grannby -n, -ar szomszéd falu
 granne -n, -ar szomszéd, szomszédnő
-grann]folk -et, 1. szomszédok,
+grann|folk -et, 1. szomszédok,
 szomszédság 2. szomszéd nép -fru -n, -ar
 szomszédasszony -gård -en, -ar
 szomszédos) telek v. birtok
-grann |laga tapintatos, kíméletes,
+grann|laga tapintatos, kíméletes,
 gyengéd, diszkrét; kényes (ügy);
 uppträda ~ tapintatosan lép fel -lagenhet
 -en tapintat(osság), kíméle’t(esség),

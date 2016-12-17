@@ -82,7 +82,7 @@ közjegyző
 not|blad -et, — kottalap -bok -en, -böcker
 
 hangjegyfüzet
-not[dragning -dräkt -en hal: gyalomhúzás
+not|dragning -dräkt -en hal: gyalomhúzás
 notera feljegyez, leír; jegyez
 (árfolyamot ); vara illa ~d rossz hírben áll
 notering -en, -ar 1. feljegyzés 2.

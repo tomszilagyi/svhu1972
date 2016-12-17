@@ -21,11 +21,11 @@ finlek -en, -ar finomság(i fok)
 finlemmad finom kezű és lábú; karcsú,
 
 vékony csontú
-fin |tändare -n, = finn(országi) (ember)
+fin|tändare -n, = finn(országi) (ember)
 -ländsk -t finn(országi) -ländska -n,
 -or finn(országi) nő -länning -en, -ar
 finnországi lakos, finn (ember)
-fin |mala -malde, -malt finomra őröl;
+fin|mala -malde, -malt finomra őröl;
 finmalet vetemjöl finom(ra őrölt)
 búzaliszt -maskig -1 finom- v. aprószemű
 (pl. háló) -mekaniker -n, =
@@ -95,7 +95,7 @@ finnmark2 -en, -er finn erd 5vidék
 (eredetileg finn település
 Közép-Svédországban); Finnmarken Norvégia
 legészakibb tartománya
-fin |pöl era fényesre csiszol; átv kiművel,
+fin|pölera fényesre csiszol; átv kiművel,
 -csiszol -putsa ép simára vakol; ~d
 kicsinosított, kinyalt -rum
 -rummet,-= „tisztaszoba", vendégszoba -sikta

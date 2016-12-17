@@ -42,7 +42,7 @@ háromárbocos ( hajó )
 mastig -t O eros, megtermett, hatalmas;
 
 jókora, rendes
-mastjkorg -en, -ar árbockosár -topp -en,
+mast|korg -en, -ar árbockosár -topp -en,
 
 -ar árboccsúcs, -orom
 masugn -en, -ar nagyolvasztó, kohó
@@ -76,7 +76,7 @@ gőzkazánt táplál; ~ fram odavisz, -szállít,
 matarapparat -en, -er techn: etetőberen de-
 
 zés, adagoló(késziilék)
-m at| b esti c k -et, = evőeszköz, -készlet
+mat|bestick -et, = evőeszköz, -készlet
 -bit -en, -ar harapás, falat (étel);,
 egy kis harapnivaló -bod -en, -ar
 éléskamra -bord -et, = étkező- v.

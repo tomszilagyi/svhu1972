@@ -52,7 +52,7 @@ göra ~ lycka óriási v. fairengető sikert
 arat
 
 stormast -en, -er hajó: főárboc
-storm |by -n, -ar heves szélroham v.
+storm|by -n, -ar heves szélroham v.
 széllökés; átv förgeteg; rida ut en ~ (ki-)
 / állja a vihart (hajó), ellenáll a
 vihar-. nak -diger -t vészterhes, fenyegető,
@@ -103,7 +103,7 @@ storm|varning -en, -ar met: viharjelzés
 tornádó, ciklon -väder -vädret viharos
 időjárás
 
-stor | mynt stormunt -mästare -n, =
+stor|mynt stormunt -mästare -n, =
 nagymester (sakk is) -ordig -t
 nagy-száj ú, kérkedő, hencégő, nagyhangú;
 fellengző(s), dagályos -rengöring -en,

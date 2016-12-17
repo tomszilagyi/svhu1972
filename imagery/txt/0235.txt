@@ -23,7 +23,7 @@ förlikning -en, -ar ki- v. megegyezés,
 egyezség; békítés; egyeztetés,
 rendezés; megbékülés; ingå ~ egyezségre
 lép, kiegyezik
-förliknings |domstol -en, -ar egyeztető v.
+förliknings|domstol -en, -ar egyeztető v.
 döntőbíróság -kommission -en, -er
 egyeztető bizottság (S) -man
 -mannen, -män (munkaügyi vitákban)
@@ -104,7 +104,7 @@ szórakozóhely, mulatóhely
 förlustig -t: gå sina rättigheter ~ elveszti
 
 jogait, megfosztják jogaitól
-förlust | konto [-ko] -t, -n veszteségszámla
+förlust|konto [-ko] -t, -n veszteségszámla
 -lista -n, -or kat: veszteségj egy zék
 -siffror plur kat: (számszerű)
 veszteség

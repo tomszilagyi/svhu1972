@@ -20,7 +20,7 @@ jókedv; ~ musik pattogó zene
 sprittermcmeter -n, -metrar
 borszeszhőmérő
 
-spritt |galen -galet spritt -naken -naket
+spritt|galen -galet spritt -naken -naket
 spritt
 
 sprittning -en, -ar ficánkolás,
@@ -109,7 +109,7 @@ használatára vonatkozó törvény -lektion
 -en, -er nyelvlecke, -óra; ge ~er
 Nyelvórákat ad
 språklig -t nyelvi, nyelvészeti
-språk] låd a -n: o slå upp ~n kinyitja a
+språk|låda -n: o slå upp ~n kinyitja a
 száját, elkezd beszélni -lära -n, -or
 nyelvtan -lärare -rt, = nyelvmester;
 nyelvtanár -lärarinna -n, -or női

@@ -89,7 +89,7 @@ mjölk|kanna -n, -or tejeskanna (asztali)
 étel(ek); tejes koszt
 mjölkning -en, -ar fejés
 mjölkningsmaskin -en, -er fejőgép
-mjölk |provare -n, — tej
+mjölk|provare -n, — tej
 vizsgálókészülék, tejmérő -skumningsmaskin -en,
 -er tejfölözőgép -stinn -stint tejtől
 duzzadó -syra -n, -or tejsav -tand -en,

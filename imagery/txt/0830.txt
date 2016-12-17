@@ -10,7 +10,7 @@ szájhagyomány 2. jog átadás, átruházás
 traditionell -t hagyományos, szokásos,
 
 tradicionális
-traditions |bunden -bundet
+traditions|bunden -bundet
 hagyományokhoz v. tradíciókhoz ragaszkodó -enlig
 -t hagyományoknak megfelelő,
 hagyományos
@@ -23,7 +23,7 @@ alkalmas
 
 trafikant -en, -er a közlekedésben
 résztvevő (ember); utas; járókelő
-trafik]bil -en, -ar fuvarozó autó;
+trafik|bil -en, -ar fuvarozó autó;
 közforgalmi gépkocsi; taxi -chef -en, -er
 forgalmi főnök
 trafikera vt közlekedik, jár (en väg egy
@@ -31,7 +31,7 @@ trafikera vt közlekedik, jár (en väg egy
 járatot tart fenn (en linje egy
 vonalon); livligt ~d gata élénk forgalmú
 (v. nagyon forgalmas) utca
-trafik |flyg -et kereskedelmi repülés; légi
+trafik|flyg -et kereskedelmi repülés; légi
 szállítás -flyghamn -en, -ar
 közforgalmi légikikötő v. repülőtér -flygplan
 -et, — forgalmi repülőgép -hinder
@@ -78,7 +78,7 @@ tragik -en tragikum; ~en i hans liv
 tragiker -n, = 1. tragédiaíró 2. tragikus
 színész
 
-tragikojnisk -t tragikomikus
+tragikomisk -t tragikomikus
 tragisk -t tragikus; átv gyászos
 kimenetelű, végzetes, megrázó
 trakassera zaklat, gyötör, vegzál;

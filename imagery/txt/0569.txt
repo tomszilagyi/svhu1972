@@ -89,7 +89,7 @@ fenyegető -droppe [-o-] -n, -ar
 eső-csepp -dusk -et permetező v. szitáló eső
 regnig -t esős
 
-regn |kappa -n, -or esőköpeny, -kabát
+regn|kappa -n, -or esőköpeny, -kabát
 -moln [-o-] -et, = esőfelhő -röck [-o-]
 -en, -ar regnkappa -skur -en, -ar
 záporeső, felhőszakadás, futóeső -stänk

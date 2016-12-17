@@ -97,7 +97,7 @@ gépjárművezető -huv -en, -ar
 motorfedél, -burkolat
 motorisera motorizál, gépesít
 motorisk -t mozgató, mozgási, motorikus
-motor |krångel -krånglet motorhiba,
+motor|krångel -krånglet motorhiba,
 üzemzavar -plog -en, -ar motoros eke -stopp
 -et, = motorhiba, -defekt -styrka -n,
 -or motor (ló)ereje; motorteljesítmény

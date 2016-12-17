@@ -81,7 +81,7 @@ engelsk -t angol; Engelska kanalen
 engelska -n 1. angol nyelv 2. plur: -or
 
 angol nő .
-engelsk |fientíig -t angolellenes -språkig
+engelsk|fientlig -t angolellenes -språkig
 -t angol nyelvű -talande angolul
 beszélő -vänlig -t angolbarát
 engelsman -mannen, -män angol férfi;
@@ -105,7 +105,7 @@ enhet -en, -er 1. egység 2. mat egyes
 
 (helyiértékű szám)
 enhetlig -t egységes, egyöntetű, egyforma
-enhets |front -en, -er egységfront -pris
+enhets|front -en, -er egységfront -pris
 -et, — v. -er egységár -skola -n, -or
 •egységes rendszerű iskola, általános
 iskola -tanke -n: den nordiska ~n a

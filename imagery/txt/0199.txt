@@ -21,7 +21,7 @@ forslande -t, forsling -en, -ar szállítás,
 
 szállítmányozás, fuvarozás
 forstmästare [-0-] -n, = erdőmester
-forstjväsen (ett), -väsende -t erdészet
+forst|väsen (ett), -väsende -t erdészet
 fort1 [-0-] -et, = erőd
 fort2 adv 1. gyorsan, sebesen; så ~ som
 möjligt; **äst möjligt amilyen gyorsan
@@ -72,7 +72,7 @@ szaporít, tenyészt; ärftligt ~s till ngn
 át- v. elterjed, átöröklődik -plantning
 -en (tovább)terjedés; szaporodás;
 terjesztés; fajfenntartás
-fortplantnings]drift -en, -er fajfenntartási
+fortplantnings|drift -en, -er fajfenntartási
 ösztön -organ -et, = a szaporodás
 szerve
 

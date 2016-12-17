@@ -32,7 +32,7 @@ emberemlékezet óta -mod -et férfiúi bátorság
 utan ~ személyre való tekintet
 nélkül, személyválogatás nélkül
 -mör-darde (ember)gyilkos, pusztító
-manna| ålder -n férfikor -år plur (a)
+manna|ålder -n férfikor -år plur (a)
 férfikor (évei); hinna till ~en
 elérkezik a férfikorhoz
 mannekäng -en,-er !♦ próbabábú, kira-.
@@ -46,7 +46,7 @@ manschett -en, -er kézelő, manzsetta,
 kézelófodor; darra pá ~en reszket
 a félelemtől; O citerázik -knapp -en,
 -ar kézelő- v. manzsettagomb
-mans |dräkt -en, -er férfiruha,
+mans|dräkt -en, -er férfiruha,
 férfiöltözet; uppträda i ~ férfiruhában lép fel;
 nadrágszerepet játszik -hög -t
 embermagasságú -höjd -en, -er
@@ -63,7 +63,7 @@ manslinje -n, -r férfiág; på ~n férfiágon
 man|slukerska -n, -or férfifaló, vamp
 mansnamn -et, = férfinév
 manspillan = emberveszteség
-mans]röst -en, -er férfihang -sidan: på ~
+mans|röst -en, -er férfihang -sidan: på ~
 férfiágon, apai ágon; dö ut på
 (fér)fiágon kihal
 manstark -t nagy létszámú

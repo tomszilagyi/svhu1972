@@ -40,7 +40,7 @@ meritförteckning 2. bűnlajstrom; ha en ful
 merkantil -t kereskedelmi, kereskedői,
 üzleti
 
-mer |kostnad -en, -er költségtöbblet,
+mer|kostnad -en, -er költségtöbblet,
 többletköltség -värde -t, -n polgazd:
 értéktöbblet
 

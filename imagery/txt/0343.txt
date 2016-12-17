@@ -68,7 +68,7 @@ gyanúsítást v. ráfogást tartalmazó
 insinuera rágalmaz, gyanúsít, ráfog
 insistera: ~ på ngt ragaszkodik vmihez,
 kitart vmi mellett, nem tágít vmitől
-in]sjukna megbetegedik -sjungning -en,
+in|sjukna megbetegedik -sjungning -en,
 -ar ének felvétele (på band
 hangszalagra; på skiva hanglemezre)
 -sjunken -sjunket beesett, besüppedt,
@@ -78,7 +78,7 @@ szemek
 insjö -n, -ar tó -fisk *en, -ar édesvízi hal
 
 -fiske -t tavi halászat
-in]skeppa 1. hajón behoz 2. behajóz,
+in|skeppa 1. hajón behoz 2. behajóz,
 berak; ~ sig hajóra száll
 -skeppnings-hamn -en, -ar behajózási kikötő
 -skri-da -skred, -skridit közbelép,

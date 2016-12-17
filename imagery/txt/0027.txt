@@ -117,7 +117,7 @@ affischera (ki)hirdet, közzétesz
 affischering -en, -ar falragasztás,
 hirdetmény kiragasztása, kiplakátozás;
 ~ förbjuden! tilos a falragasz !
-afiisehtavla -n, -or hirdetőtábla
+affischtavla -n, -or hirdetőtábla
 affischör -en, -er plakátragasztó
 affix -et, = elő- v. utóképző, affixum
 affär -en, -er 1. üzlet, bolt, kereskedelmi

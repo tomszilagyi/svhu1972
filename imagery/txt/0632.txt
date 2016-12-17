@@ -35,7 +35,7 @@ s: -n, = tengeri utazó, tengerjáró,
 tengerhajózás; tengeri kereskedelem;
 inrikes ~ belvízi hajózás; fore ~ens
 avslutande a hajózási idény vége
-előtt -fartsmuseum -muse]et, -er
+előtt -fartsmuseum -muse|et, -er
 tengerészeti múzeum -flygplan -et, —
 vízirepülőgép, hidroplán -flygplats
 -en, -er hidroplán-támaszpont -folk

@@ -24,7 +24,7 @@ för-gängeisen osztozik minden ember
 skatt|belagd -belagt megadóztatott,
 adóköteles
 
-Skatte |avdrag -et, = 1, adólevonás
+Skatte|avdrag -et, = 1, adólevonás
 (illetményből) 2. levonható összeg v.
 tétel (adóbevallásnál) -belopp [-o-] -et,
 = adóösszeg -betalare -n, =
@@ -54,7 +54,7 @@ skatte|moral -en adómorál -myndighet
 kötelezettség -pliktig -i adóköteles,
 adó alá eső -politik -en adópolitika
 -restantier f-tsier] plur adóhátralék(ok)
--skolkare f-o-] -n, ~ adócsaló -skruv
+-skolkare [-o-] -n, ~ adócsaló -skruv
 -en adóprés -sänkning -en, -ar adó-
 
 csökkentés, -mérséklés -tryck -et
@@ -64,7 +64,7 @@ adóbeszedés, -behajtás -verk -et kb.:
 pénzügy igazgatóság ( Stockholmban)
 -väsen -väsendet adóügy -ore -t, -n
 S: a skattekrona századrésze
-Skattjfri -fritt skattefri -gravare -n, =
+skatt|fri -fritt skattefri -gravare -n, =
 kincskereső -kammare -n, = 1.
 kincseskamra, kincstár 2.
 (államkincstár -lägga -lade, -lagt adót vet ki (ngt

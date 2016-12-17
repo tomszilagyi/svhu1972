@@ -8,7 +8,7 @@ kampóról)
 krokan -en, -er (toronyszerű, díszített)
 
 mandulás cukrászsütemény
-krokjben: sätta ~ för ngn elgáncsol vidt
+krok|ben: sätta ~ för ngn elgáncsol vidt
 
 -bent görbe lábú, lőcslábú
 krokig -t görbe, hajl(ít)ott; kampós
@@ -18,7 +18,7 @@ krokün(i)ig -t görbe vonalú
 krokna meggörbül; meg- v.
 összegörnyed
 
-kr ök| näsa -n, -or görbe v. kampós orr
+krök|näsa -n, -or görbe v. kampós orr
 
 -ryggig -t görnyedt, hajlott hátú
 krokus -en, -ar sáfrány
@@ -62,9 +62,9 @@ kronemeter -n, -metrar precíziós időmérő
 krono|park -en, -er kincstári v. állami
 erdő -skatt -en, -er állami adó -skog
 -en, -ar kronopark
-kronjprins -en, -ar trónörökös; vö. arv-
-prins -prinsessa -ri, -or trónörökösné
--prinspar -et trónörököspár -tai:
+kron|prins -en, -ar trónörökös; vö. arvprins
+-prinsessa -n, -or trónörökösné
+-prinspar -et trónörököspár -tal:
 utjämna till närmast högre ~ egész
 koronára felkerekít (összeget) -vittne -t, -n
 koronatanú -vrak -et, = o
@@ -85,7 +85,7 @@ lelkileg 2. o alak, pacák, pasas; en konstig
 kroppkaka -n, -or szalonnás v. húsos
 
 krumpligombóc
-kropps |aga [-o-] -n testi fenyítés
+kropps|aga [-o-] -n testi fenyítés
 -ansträngning -en, -ar testi megerőltetés v,
 erőfeszítés -arbetare -n, — testi v.
 fizikai munkás -arbete -t, -n testi v.

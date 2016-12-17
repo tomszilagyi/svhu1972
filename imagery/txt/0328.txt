@@ -11,7 +11,7 @@ plur: -er ünnepség -hålla -höll, -hållit
 .megünnepel; ~ en helg ünnepet
 megül -hållande -t megünneplés; ünnepi
 megemlékezés
-högtidsjdag -en, -ar ünnepnap;
+högtids|dag -en, -ar ünnepnap;
 (születésnapi stb.) évforduló; gratulera ngn
 på ~en gratulál vkinek a
 születésnapján -dräkt -en, -er ünneplő v.

@@ -40,7 +40,7 @@ plur: -or holland nő
 nederst superi adv legalul
 nedersta (superi -»- nedre) határozott adj
 a legalsó; ~ våningen a legalsó emelet
-ned |flottning -en leúsztatás, faúsztatás,
+ned|flottning -en leúsztatás, faúsztatás,
 tutajozás -fällbar -t leereszthető -för
 praep, adv [vmin] lefelé, le; ~
 trappan a lépcsőn le(felé) -gående

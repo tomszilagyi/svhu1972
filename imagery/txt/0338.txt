@@ -13,7 +13,7 @@ készülék -ström -strömmen, -strömmar
 indukált áram
 industri -(e)n, -er ipar; ipari üzem
 industrialisera iparosít
-industri | anläggning -en, -ar ipartelep
+industri|anläggning -en, -ar ipartelep
 
 -arbetare -n, — ipari munkás
 industriell -t ipari

@@ -23,7 +23,7 @@ magazin
 magasinera (be)raktároz, tárol,
 felhalmoz
 
-måg| blödning -en, -ar gyomorvérzés
+måg|blödning -en, -ar gyomorvérzés
 
 -dans -en, -er hastánc
 måge -n, -ar gyomor; bendő, has; få ~
@@ -39,7 +39,7 @@ szegényes, silány; sju magra år hét szűk
 esztendő; ge mig av det magra kötteti
 a sovány húsból kérek -lagd -lagt
 sovány (alkatú), vézna, cingár
-magjgrop -en, -ar gyomor- v. szívgödör
+mag|grop -en, -ar gyomor- v. szívgödör
 -gördel -n, -gördlar 1. haskötő 2.
 has-ló 3. szivargyűrű
 magi -(e)n varázslat, varázslás,
@@ -63,7 +63,7 @@ középiskolai tanári szigorlat v. szakvizsga
 magistrat -en, -er városi tanács,
 magisztrátus
 
-måg| katarr -(e )n, -er gyomorhurut -knip
+måg|katarr -(e )n, -er gyomorhurut -knip
 -et, =±= hasfájás, hascsikarás, kólika
 -kräfta -n gyomorrák -mun -munnen
 gyomorszáj

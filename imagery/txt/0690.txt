@@ -19,7 +19,7 @@ pornográf
 snusning -en, -ar 1. (fel)szippantás;
 tu-bákolás, burnótozás 2. szaglászás,
 szi-matolás 3. szuszogás
-snus[näsduk -en, -ar (nagy színes)
+snus|näsduk -en, -ar (nagy színes)
 zsebkendő -torr [-o-] -t száraz (mint a
 tapló); átv nagyon száraz v. unalmas
 snut -en, -ar o 1. csőr, pofi(ka), száj;
@@ -82,11 +82,10 @@ snålhet -en zsugoriság, fukarság,
 fösvénység; szűkmarkúság; kapzsiság,
 mohóság
 
-snål |j åp -måns -en, -ar o zsugori, fukar,
+snål|jåp -måns -en, -ar o zsugori, fukar,
 fösvény; kapzsi v. haszonleső (ember)
--skjuts": åka (på) ~ ingyen v. potyán
+-skjuts: åka (på) ~ ingyen v. potyán
 utazik ; o potyázik -varg -en, -ar
-
 snåljåp
 
 snår -et, = cserjés, csalit, bozót, sűrű

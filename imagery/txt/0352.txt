@@ -109,7 +109,7 @@ nyüzsgés -dag 1. ~en karácsony első
 napja 2. ~arna a karácsonyi
 ünnepek -ferier plur karácsonyi szünet
 julgran -en, -ar karácsonyfa
-julgrans |plundring -en, -ar a
+julgrans|plundring -en, -ar a
 karácsonyfa leszedése -prydnad -én, -er
 karácsonyfadísz
 jul|gris -en, -ar karácsonyi malac -gröt

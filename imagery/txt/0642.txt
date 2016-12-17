@@ -109,7 +109,7 @@ szőrmebunda -rygg -en, -ar bőrhát,
 bőrdívány -torr [-o-]-/ kiaszott, csont
 és bőr, nagyon lesoványodott
 skioptikon [skioptikon v. §i-] -et,
-skioptikonjapparat -en, -er fiz:
+skioptikon|apparat -en, -er fiz:
 epidiaszkóp, vetítőkészülék -bild -en, -er
 diapozitív
 

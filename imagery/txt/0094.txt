@@ -63,7 +63,7 @@ hangoztat, erősít; biztosít (ngn ngt vkit
 vmiről) 3. kifejez; ~ sin glädje kifejezi
 örömét
 
-betygs | avskrift -en, -er
+betygs|avskrift -en, -er
 bizonyítványmásolat -bok -en, -böcker isk: tanulmányi
 értesítő, ellenőrző könyvecske
 -kollegium -kollegi\et, -er osztályozó
@@ -117,4 +117,4 @@ tisztelő, hódoló (férfi) -undrarinna
 -n, -or csodáló, bámuló, tisztelő,
 hódoló (nő)
 
-be]vaka 1. őriz, szemmel tart; őrködik
+be|vaka 1. őriz, szemmel tart; őrködik

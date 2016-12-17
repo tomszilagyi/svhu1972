@@ -104,10 +104,10 @@ Värderad (meg)becsült, felbecsült,
 vår ~e kollega tisztelt kartársunk
 Värdering -en, -ar (meg)becsülés,
 felbecsülés, becslés, értékelés, taksálás
-värderingsjman -mannen, -män becsüs,
+värderings|man -mannen, -män becsüs,
 becslő
 
-Värdejsak -en, -er értéktárgy -stegring
+Värde|sak -en, -er értéktárgy -stegring
 -en, -ar értékemelkedés -sätta -satte,
 -satt 1. ~ ngt megállapítja vminek az
 értékét, fel- v. megbecsül vmit 2*

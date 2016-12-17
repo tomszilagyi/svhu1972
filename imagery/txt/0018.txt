@@ -5,7 +5,7 @@ függőleges
 vonal | jelzi (lásd a XIX. oldalon) az összetételnek azt a tagját, àmely a
 bokor többi
 címszaváéval közös, E címszókban a közös előtag nincs kiírva, hanem azt vastag
-kötőjel helyettesíti,, lásd pl. az alstrings | förmåga, av|lämna, händels|
+kötőjel helyettesíti,, lásd pl. az alstrings|förmåga, av|lämna, händels|
 attaché,
 in|ordna vezérszók bokrát. E szótártechnikai módszer alkalmazásával lehetővé
 vált, hogy nagyobb számban vegyünk fel a szótárba olyan fontos

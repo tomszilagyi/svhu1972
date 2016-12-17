@@ -93,7 +93,7 @@ stoppande [-o-] székrekedést v. szorulást
 okozó; ~ medel hasmenés elleni szer,
 obstipáns; összehúzó hatású (v.
 vérzéscsillapító) szer
-stopp |flagga [-o-] -n, -or sp: stopzászló;
+stopp|flagga [-o-] -n, -or sp: stopzászló;
 
 -förbud -et, = megállási tilalom
 stoppgarn [-o-] -et, ~ stoppolópamut,

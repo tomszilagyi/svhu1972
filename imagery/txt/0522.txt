@@ -9,7 +9,7 @@ organ -et, = 1. biol szerv 2. hang,
 orgánum 3. átv szerv, eszköz, szócső 4.
 lap, (sajtó)orgánum
 organisation -en, -er szervezés; szervezet
-organisations |förmåga -n, -talang -en
+organisations|förmåga -n, -talang -en
 
 szervezőképesség
 organisatorisk -t szervezési, szervezeti
@@ -108,7 +108,7 @@ vid sin barm kígyót melenget a keblén
 orma: ~ sig kígyózik, tekereg; kanyarog;
 
 ~ sig fram elősompolyog, -sündörög
-Ofm| b ett -et, — kígyómarás -biten -bitet
+orm|bett -et, — kígyómarás -biten -bitet
 kígyómarta -b o - (e)t, -n kígyófészek -gif t
 -et, -er kígyóméreg -skinn -et,
 kígyóbőr -tjusare -n, = kígyóbűvölő

@@ -21,24 +21,24 @@ kort|sida -n, -or [vminek a] rövidebbik
 v. keskenyebbik oldala -siktig ker:
 rövid lejáratú, rövid határidőre szóló
 -slutning -en, -ar vili: rövidzárlat
-kort ]spe! -et, — kártyajáték, kártyázás
+kort|spel -et, — kártyajáték, kártyázás
 -spelare -n, = kártya játékos,
 kártyázó, kártyás
-kcrtjstrumpa -n, -or rövidharisnya,
+kort|strumpa -n, -or rövidharisnya,
 zokni -synt rövidlátó (átv is) -synthet -en
 rövidlátás (átv is)
 kortsystem -et, = 1. kartoték(ren d’szer)
 
 2. (élelmiszer)jegyrendszer
-korttidsarfcetare [-ö-] -nK =
+korttidsarbetare [-ö-] -nK =
 [munkahiány miatt] rövidített munkaidőben
 dolgozó munkás
-kortjtankt meggondolatlan, nem előre
+kort|tankt meggondolatlan, nem előre
 látó, rövidlátó (átv), feledékeny
 -varig -t rövid (ideig tartó), rövid életű
 -varor plur rövidáruk -varuaffär -en,
 -er rövidáru-kereskedés -våg -en, -or
-vili: rövidhullám -vågig -t
+vill: rövidhullám -vågig -t
 rövidhullámú -vågsstation -en, -er,
 -vågssändare -n, = rádió rövidhullámú adó
 (-állomás) -vägg -en, -ar

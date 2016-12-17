@@ -6,7 +6,7 @@ drótkötél; vill szigetelt vezeték -brott
 [-o-] -et, s= kábelszakadás -brunn
 -en, -ar kábelakna
 kabeljo -n szárított tőkehal
-kabel |längd -en, -er hajó: kábelhossz
+kabel|längd -en, -er hajó: kábelhossz
 (hosszmérték = 185,2 m) -telegram
 telegrammet, — kábeltávirat,
 „kábé 1"

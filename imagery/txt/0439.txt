@@ -99,8 +99,8 @@ igazolás -brist -en orvoshiány
 läkare -n, — orvos; o doktor; kvinnlig
 
 ~ orvosnő
-läkarjhjälp -en, orvosi segítség -intyg
--et, — -> läkar betyg -kår -en orvosi kar
+läkar|hjälp -en, orvosi segítség -intyg
+-et, — -> läkarbetyg -kår -en orvosi kar
 -mottagning -en, -ar orvosi rendelés;
 orvosi rendelő -röck [-o-] -en, -ar
 orvosi köpeny -sällskap -et
@@ -112,4 +112,4 @@ ellátásban részesül
 läkas läktes, läkts (meg- v be)gyógyul,
 
 beheged (seb)
-läke]konst [-o-] -en gyógyászat, orvos-
+läke|konst [-o-] -en gyógyászat, orvos-

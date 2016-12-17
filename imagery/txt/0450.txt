@@ -70,7 +70,7 @@ mandom -en 1* nemi érettség; nä ~
 eléri a férfikort 2. férfiasság, férfiúi,
 bátorság
 
-man | dråp -et, = emberölés, gyilkosság
+man|dråp -et, = emberölés, gyilkosság
 manege [~ë’s] -n, -r lovarda, (cirkusz-)
 porond
 
@@ -81,7 +81,7 @@ modor, viselkedés 3. stílus, előadásmód
 till ~ modorossá válik
 manerlig -t udvarias, jó modorú
 manet -en, -er áll: medúza
-man |fall -et, = (ember)veszteség;
+man|fall -et, = (ember)veszteség;
 vérfürdő; det blev starkt ~ nagy
 vérfürdő voit; det var stort ~ i examen
 nagy buktatás voit, sokan elbuktak a

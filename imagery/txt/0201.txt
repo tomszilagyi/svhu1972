@@ -9,7 +9,7 @@ kliséről készült nyomat
 fot|pall -en, -ar lábzsámoly -pump -en,
 
 -ar lábszivattyú, -pumpa
-fots |br ed -brett lábnyi szélességű,
+fots|bred -brett lábnyi szélességű,
 talpalatnyi -bredd -en, -er lábnyi szélesség;
 inte vika en ~ egy tapodtat sem
 enged -djup -t lábnyi mély

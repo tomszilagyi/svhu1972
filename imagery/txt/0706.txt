@@ -8,7 +8,7 @@ armén a (szétvert) hadsereg
 marad-ványa(i); gå v. falla i spillror
 összeomlik, romba dől; slå i spillror
 darabokra tör, porrá zúz, szétzúz
-spill |sad -en kihullott v. elszóródott v.
+spill|sad -en kihullott v. elszóródott v.
 kipergett gabona -vatten -vattnet
 kifolyó v. kilöttyenő v. túlfolyó víz;
 fölösleges víz; elhasznált víz, szennyvíz
@@ -52,7 +52,7 @@ spinneri -(e)t, -er fonoda, fonóműhely
 spinnfiske -t horgászás pergőcsalival v.
 
 villantó val
-spinn |maskin -en, -er fonógép -röck
+spinn|maskin -en, -er fonógép -röck
 [-o-] -en, -ar rokka -rockshuvud [-o-]
 -et, = guzsaly -sida -n női ág, nőág
 (leszármazásnál); på ~n női ágon;
@@ -70,7 +70,7 @@ kipuhatol, kifürkész
 spioneri -(e)t, -er kémkedés; o
 spionko-dás, spicliskedés -affär -en, -er
 kémkedési ügy
-spion |nät -et, = kémhálózat -skräck -en
+spion|nät -et, = kémhálózat -skräck -en
 
 kémektől való félelem, kémpánik
 spira I. s: -n, -or 1. ép csúcs, hegy (pl.

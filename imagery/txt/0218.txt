@@ -48,7 +48,7 @@ fäderne -t 1. på ~t apai részről 2. apai
 ősi birtok -hem -hemmet, === szülői v.
 atyai ház
 fädernesland -et szülőföld, haza
-fäderne |stad -en, -städer szülőváros -ärvd
+fäderne|stad -en, -städer szülőváros -ärvd
 -ärvt (apai részről) öröklött, az
 ősöktől ránk maradt
 fädning -en rádió: (periodikus)

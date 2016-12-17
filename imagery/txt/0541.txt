@@ -81,7 +81,7 @@ vkire pénzbírságot ró (ki) -förgäten
 -förgätet kötelességmulasztó,,
 kötelességéről megfeledkező
 pliktig -t köteles, kötelezett
-plikt | känsla -n, -or kötelességérzet
+plikt|känsla -n, -or kötelességérzet
 -skyldig -t kötelességtudó; köteles
 -skyldigast adv kötelességéhez híven,
 kötelességszerűen -trogen -troget
@@ -120,4 +120,4 @@ plog -en, -ar eke
 ploga 1. szánt 2. hóekével havat takarít
 
 3. sízés hóekézik (lesiklásnál)
-plogjbill -en, -ar eke- vt szántóvas -fåra
+plog|bill -en, -ar eke- vt szántóvas -fåra

@@ -32,7 +32,7 @@ körül
 fjantig -1 o félbolond, bolondos, ostoba;
 
 sürgő-forgó, legyeskedő, fontoskodó
-fjol: i ~ tavaly, a múlt évben; / ~
+fjol i ~ tavaly, a múlt évben; i ~
 sommar a múlt nyáron; från i ~
 tavalyról; tavalyi, múlt évi -gammal -t
 tavalyi, egyéves
@@ -112,7 +112,7 @@ jag ~r hámlik á bőröm
 fjällapp (elv.: fjäll-lapp) -en, -ar hegyi v.
 
 nomád lapp
-fjäll |bestigning -en, -ar hegymászás,
+fjäll|bestigning -en, -ar hegymászás,
 alpinizmus -bete -t, -n hegyi v. alpesi
 legelő -bo -n, -r hegy lakó -bygd -en,
 -£r hegyvidék

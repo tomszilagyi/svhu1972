@@ -33,7 +33,7 @@ szabályosan, mindig *at végződést kap, pl.
 femfingrad ötujjú; neutruma: femfingrat.
 
 Ha címszóként két szinonima szerepel, akkor a következőképpen jártunk el:
-van]skapad, -skaplig -t...
+van|skapad, -skaplig -t...
 
 ami azt jelenti, hogy vanskapad neutruma vanskapat, a vanskaplig melléknévé
 pedig ivanskapligt.

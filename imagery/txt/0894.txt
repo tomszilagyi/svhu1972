@@ -25,7 +25,7 @@ elszegényedés, ínségre jutás
 -arrende-ring -en, -ar haszonbérbe adás,
 bérbeadás
 utav praep, adv av
-Ut]be, -bedja -bad, -bett: ~ sig ngt av ngn
+Ut|be, -bedja -bad, -bett: ~ sig ngt av ngn
 <ki)kér vkitől vmit; jag utber mig
 benäget svar kérem szíves válaszát; han
 utbad sig min hjälp segítségemet kérte
@@ -54,10 +54,10 @@ föregående ~ előképzés; előképzettség
 2. kifejlesztés (képességeké)
 utbildningskurs -en, -er szakmai
 tanfolyam, szaktanfolyam
-tit[bjuda -bjöd, -bjudit 1. (fel)kínál, ajánl
+tit|bjuda -bjöd, -bjudit 1. (fel)kínál, ajánl
 
-(megvételre v. bérbevételre), árul;
-ut-bjudes hyra kiadó, bérbe adó 2.
+(megvételre v. bérbevételre), árul; ut-
+bjudes hyra kiadó, bérbe adó 2.
 bjuda (ut) -blommad elvirágzott,
 elhervadt (átv is); vö. blomma (ut)
 -blottad [-o-] meg- v. kifosztott,

@@ -11,7 +11,7 @@ transmission -en, -er átvitel, átadás,
 továbbadás; erőátvitel, áttétel,
 transzmisszió
 
-transmissions |rem -remmen, -remmar
+transmissions|rem -remmen, -remmar
 
 techn: transzmissziós szíj
 transmutation -en, -er átváltoz(tat)ás,
@@ -46,7 +46,7 @@ fuvarozás; szállítmányozás; szállítmány;
 transportabel [-0-] -t szállítható,
 hordozható
 
-transport]arbetare [-0-] -n, =
+transport|arbetare [-0-] -n, =
 szállítómunkás -arbetarförbund -et
 szállítómunkások szakszervezete- (S)
 -avgift -en, -er szállítási díj, fuvardíj

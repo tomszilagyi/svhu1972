@@ -33,7 +33,7 @@ inlednings|anförande -t, -n megnyitó
 beszéd -vis adv bevezetőben,
 bevezetésképpen
 
-in |lemma felvesz, bevesz (tagnak);
+in|lemma felvesz, bevesz (tagnak);
 besorol, beiktat -levelse -n beleélés,
 átélés -leverera beszolgáltat, beszállít
 -logera [-se1-] elszállásol, elhelyez

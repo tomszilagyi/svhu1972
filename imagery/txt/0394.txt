@@ -17,7 +17,7 @@ hevernek az asztalon
 kringla -n, -or 1. perec 2. hótányér
 (si-boton )
 
-kringjiiggande körülfekvő, környező
+kring|liggande körülfekvő, környező
 -resande utaz(gat)ó, vándorló; ~ cirkus
 vándorcirkusz -ränna -rände, -ränt kat:
 körülzár, bekerít -skära -skar, -skurit
@@ -43,7 +43,7 @@ kikristályosodik
 kristallisk -t kristálytiszta, kristályos;
 
 ~t klar kristallklar
-kristall | klar -t kristálytiszta -krona -n,
+kristall|klar -t kristálytiszta -krona -n,
 
 -or kristály(üveg)csiilár
 kristen I. adj: kristet keresztény II. s,

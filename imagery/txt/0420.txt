@@ -84,7 +84,7 @@ lever|pastej -en, -er májpástétom
 -sjukdom -en, -ar májbetegség, -baj -trå»
 -en csukamájolaj
 levnad -en élet(mód)
-levnads |bana -n, -or életpálya
+levnads|bana -n, -or életpálya
 -beskrivning -en, -ar életrajz -förhållande»
 plur életkörülmények,-viszonyok -gittel
 -glatt életvidám -konst [-o-] -en

@@ -13,7 +13,7 @@ gyanús; rég két(el)kedő, hitetlen(kedő)
 -sjuk -t két(el)kedő, bizalmatlan,
 hitetlenkedő -sjuka -n két(el)kedés,
 bizalmatlanság
-tvivels |mål -et: dra v. sätta ngt i ~
+tvivels|mål -et: dra v. sätta ngt i ~
 kétségbe von vmit; vara i ~ om ngt
 kétségben van vmi felől, két(el)kedik
 vmiben -utan adv kétségkívül,
@@ -85,7 +85,7 @@ tvål -en, -ar szappan; darab szappan;
 tvåla szappanoz; —hgs igek: ~ in
 beszappanoz; átv: ~ till ngn megmossa a
 fejét vkinek
-tvål |ask -en, -ar szappantartó doboz
+tvål|ask -en, -ar szappantartó doboz
 -bit -en, -ar szappandarab, darab
 szappan
 

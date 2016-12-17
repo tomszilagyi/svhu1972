@@ -22,7 +22,7 @@ skadlig -1 káros, ártalmas, veszélyes;
 ~t inflytande káros befolyás; ** för
 hälsan az egészségre ártalmas
 
-skadjskjuta -sköt, -skjutit meglő,
+skad|skjuta -sköt, -skjutit meglő,
 -sebesít
 
 skaffa I. vt Í. szerez; szert tesz (ngt

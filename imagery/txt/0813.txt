@@ -54,7 +54,7 @@ värde bizonyos értéket tulajdonít a
 könyvnek, elismeri a könyv némi
 értékét
 
-till |f alla -föll, -fallit: ~ ngn jut vkinek,
+till|falla -föll, -fallit: ~ ngn jut vkinek,
 esik v. száll vkire; detta tillfaller dig
 
 ez neked jut; ez rád esik, ezt te kapod
@@ -110,7 +110,7 @@ elég(séges) -göra -gjorde, ogjort : ~ ngt
 eleget tesz vminek, kielégít vmit
 -görande elegendő, kielégítő -görelse -n
 elégtétel; vall penitencia
-tillfånga |ta(ga) -tog, -tagit foglyul ejt,
+tillfånga|ta(ga) -tog, -tagit foglyul ejt,
 elfog; bli tillfångatagen foglyul ejtik,
 fogságba esik
 tillfälle -t, -n alkalom; véletlen; ~t gór

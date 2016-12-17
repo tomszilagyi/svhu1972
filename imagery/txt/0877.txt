@@ -27,7 +27,7 @@ uppbörd -en, -er beszedés, behajtás,
 in-kasszálás; adóbeszedés, -behajtás;
 förrätta ~ beszedi v. behajtja az
 adó-(ka)t; beszedi a lakbért
-uppbörds |distrikt -et, == adókerület
+uppbörds|distrikt -et, == adókerület
 -kontor [-kon-] -et, = adópénztár,
 adóhivatal -längd -en, -er adólajstrom
 -man -mannen, -män adószedő -termin

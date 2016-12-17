@@ -9,7 +9,7 @@ v. helyi tagozat (szervezeté) 3. körzet,
 kerület
 
 kretsa kering, köröz, körben jár v. forog
-krets |formig -t kör alakú, kerek -gång
+krets|formig -t kör alakú, kerek -gång
 -en, -ar kör(járat); gå i ~ körben jár
 -lopp -et, = körforgás, -mozgás;
 körfolyamat; keringés; szabályos
@@ -41,7 +41,7 @@ krig|fërande hadviselő, háborúskodó
 krigisk -t 1. harcias; harcos 2. háborús,
 
 hadi, katonai
-krigs]barn -et, — <a világháború után
+krigs|barn -et, — <a világháború után
 . svéd stb. nevelőszülőknél elhelyezett
 •külföldi gyermek) -byte -t, -n
 hadizsákmány -departement -et, —
@@ -101,7 +101,7 @@ kriminális II. s: -en o bűnügyi
 rendőrség
 
 kriminalitet -en bűnözés, kriminalitás
-kriminal | konstapel -n, -konstaplar
+kriminal|konstapel -n, -konstaplar
 bűnügyi rendőrségi tisztviselő -polis -en
 bűnügyi rendőrség -roman -en, -er
 bűnügyi v. detektívregény

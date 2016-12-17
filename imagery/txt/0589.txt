@@ -39,7 +39,7 @@ rysk -t orosz
 ryska -n 1. orosz nyelv 2. plur: -or
 orosz nő
 
-tysk |flentiig -t oroszellenes -språkig -t
+rysk|fientlig -t oroszellenes -språkig -t
 
 orosz nyelvű -talande oroszul beszélő
 -vänlig -t oroszbarát

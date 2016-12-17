@@ -39,7 +39,7 @@ lack|fernissa -n, -or lakk-kence -färg
 -en, -er lakkfesték
 lackmus-i/7 Iakmusz
 läckning -en lepecsételés; lakkozás
-lack |sigill -et, = (viasz)pecsét -sko -n,
+lack|sigill -et, = (viasz)pecsét -sko -n,
 
 -r lakkcipő
 lada -n, -or csűr, pajta
@@ -54,7 +54,7 @@ laddflaska -n, -or fiz: leydeni palack
 laddning -en, -ar (meg)töltés (fegyveré;
 
 fiz is); töltet; o rakomány
-laddnings |förmåga -n, -kapacitet -en
+laddnings|förmåga -n, -kapacitet -en
 (fiz, vill) kapacitás -station -en, -er
 (akkumulátor)töltőállomás
 

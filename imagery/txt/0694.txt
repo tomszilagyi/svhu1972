@@ -62,7 +62,7 @@ kasta v. sätta ~(er) på ngn tükröz
 solkig [-ox-]-t szennyes, piszkos, (szenny-)
 foltos
 
-söl| klar -t 1. napfényes, verőfényes,
+sol|klar -t 1. napfényes, verőfényes,
 napsütéses; en ~ dag verőfényes nap 2.
 átv napnál világosabb, magától
 értetődő, természetes -klänning -en, -ar
@@ -74,7 +74,7 @@ vidám, sugárzó
 sollös -t 1. nap nélküli, napfénytelen 2.
 
 átv örömtelen, sivár
-söl|månad -en, -er csill: naphónap,
+sol|månad -en, -er csill: naphónap,
 szoláris hónap -nedgång -en, -ar 1.
 naplemente, napnyugta; i ~en
 napnyugtakor 2. átv az élet alkonya
@@ -91,7 +91,7 @@ házasságszédel-gő csapdájába került
 solcchvår|man -mannen, -män házasság-
 
 szédelgő (férfi)
-solo |dansör -en, -er szólótáncos -dansös
+solo|dansör -en, -er szólótáncos -dansös
 
 -en, -er szólótáncosnő
 sololja [-olja] -n, -or napolaj
@@ -106,7 +106,7 @@ solsken -et napfény, -sütés; det är ~ süt
 a nap; lapa ~ élvezi a napot, habzsolja
 a napfényt; sitta i ~et a napon ül;
 efter regn kommer ~ borúra derű
-solskens| dag -en, -ar napsütéses nap
+solskens|dag -en, -ar napsütéses nap
 -väder -vädret, = napsütéses v. napos
 idő(járás)
 

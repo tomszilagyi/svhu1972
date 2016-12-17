@@ -37,7 +37,7 @@ merénylet, összeesküvés 5. (anyagi)
 hozzájárulás, célhitel, szubvenció;
 bevilja nya ~ till ngt új hiteleket
 engedélyez vminek a céljára
-anslags |fråga -n, -or költségvetési v.
+anslags|fråga -n, -or költségvetési v.
 hitelengedélyezési kérdés -tavla -n,
 -or hirdetőtábla -vägran indecl (en)
 hitelmegtagadás
@@ -110,7 +110,7 @@ ställa ~ på ngn igényeket támaszt
 vkivel szemben; ta(ga) i ~ igénybe
 vesz
 
-anspråks |f ull -t igényes; követelődző,
+anspråks|full -t igényes; követelődző,
 nagy igényű, szerénytelen -lös -t
 igénytelen, szerény, egyszerű
 anspänna -spände, -spänt 1. megfeszít

@@ -58,7 +58,7 @@ Ylndel -77, vindlar csavarulat, csavarodás,
 tekeredés, tekerület; spirál(is);
 kanyarulat, tekervény -trappa ~n, -or
 csigalépcső, körlépcső
-vind |fana -n, -or met: szélzászló,
+vind|fana -n, -or met: szélzászló,
 széliránymutató, szélkakas -fläkt -en, -ar
 fuvallat, fuvalom, szellő -flöjel -n,
 -flöjlar széliránymutató, szélzászló; ép
@@ -95,7 +95,7 @@ anemométer -pust -en, -ar
 szélirány -ruta -n, -or szélvédő (üveg)
 (gépkocsin) -rutetorkare [-o-] -n, =
 szélvédőtörlő (gépkocsin)
-vin |druva -n, -or szőlő(szem) -druvsklase
+vin|druva -n, -or szőlő(szem) -druvsklase
 
 -n, -ar szőlőfürt
 vinds|brand -en, -bränder padlástűz -dorr
@@ -109,7 +109,7 @@ padlásrekesz, lomtár (padláson) -kupa
 vindspel -et, — techn (ernelő)csörlő; vitla;
 
 hajó (emelő)tekerő
-vinds |rum -rummet, = padlásszoba,
+vinds|rum -rummet, = padlásszoba,
 manzárdszoba -röjning -en, -ar
 padláslomtalanítás
 vind|stilia I. adj indecl (szél)csendes,

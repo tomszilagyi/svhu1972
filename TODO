@@ -1,10 +1,12 @@
 - handle image loading while scrolling upwards, which throws off position
   (prevent abrupt jumps caused by image loading when scrolling upwards)
 - identify common failure patterns in OCR text and correct them
-  - space on one/both sides of |
   - I instead of |       grep 'I' *.txt | grep -v 'I\.' | less
   - IL -> I.
   - dash char '–'
   - hyphenation dash in middle of words
-  - j instead of |       imagery$ ./05_mk_txt.sh | grep j | grep "=>" | grep null | less
+  - •
+  - »
+  - ■
+  - ii -> li / fi / ... (manual grep)
   - ...

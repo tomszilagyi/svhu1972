@@ -74,7 +74,7 @@ délután -mat -en, -mål -et, ==, -måltid
 -ert, -er 1. ebéd, déli étkezés 2, estebéd,
 vacsora; intaga sitt middagsmål a)
 (meg)ebédel; b) (meg)vacsorázik -rast
--en, -er déli szünet, ebédszünet -söl
+-en, -er déli szünet, ebédszünet -sol
 -en déli nap -stängning -en déli
 üzletzárás, ebédszünet -tal -et, =
 pohárköszöntő (vacsora közben) -tid -en
@@ -90,7 +90,7 @@ midja -n, -or derék, csípő; smal om
 karcsú derekú
 midjemått -et, = derékbőség
 midnatt -en éjfél; vid ~ éjfélkor
-midnatts|mässa -n, -or éjféli mise -söl
+midnatts|mässa -n, -or éjféli mise -sol
 
 -en éjféli nap -tid -en éjfél,
 midskepps adv a hajó közepén; középre
@@ -102,7 +102,7 @@ nyári napforduló (jún. 21.) -dag -en,
 Midsommarnattsdrömmen Szentivánéji
 
 álom (Shakespeare)
-midsommar |stång -en, -stänger
+midsommar|stång -en, -stänger
 Jánosnapi májusfa -vaka -n szentviáriéji
 virrasztás
 
@@ -115,8 +115,8 @@ felőliem; istället för ~ helyettem; till ~
 hozzám
 
 migrän -en migrén, féloldali fejfájás
-mikro |fön -en, -er mikrofon
+mikro|fon -en, -er mikrofon
 -fotografera: ~ ngt mikromásolatot v.
-mikro-felvételt készít vmiről -fotografi -(e)í,
+mikrofelvételt készít vmiről -fotografi -(e)í,
 v. (e)n, -er 1. mikrofotografálás 2.
 mikrofelvétel, -fotográfia -skop -et, ~

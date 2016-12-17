@@ -30,7 +30,7 @@ nagykorúság 2. hatalom, hatalmi jogkör;
 tekintély 3. hatóság, hivatalos szerv;
 behörig ~ illetékes hatóság v. szerv; lokala
 ~er helyi hatóságok
-myndighets]dag -en, -ar a nagykorúság
+myndighets|dag -en, -ar a nagykorúság
 napja -förklaring -en, -ar nagykorúvá
 nyilvánítás -person -en, -er hatósági v.
 hivatalos személy
@@ -44,7 +44,7 @@ mynning -en, -ar 1. techn (cső)torkolat,
 csőszáj, szád, nyílás 2. torkolat;
 be-torkollás
 
-mynnings]flamma-n, -orkat: torkolattűz
+mynnings|flamma-n, -orkat: torkolattűz
 
 -laddare -n, = elöltöltő puska
 mynt -et, =. 1. érme, (érc)pénz; utländskt
@@ -78,8 +78,8 @@ myrjord -en, -ar láptalaj, -föld
 myr j lej ön -et, = áll hangyaleső
 myrra -n mirha
 
-myrjslok -en, -ar åll: sörényes
-lián-gyász, hangyászmedve -stack -en, -ar
+myr|slok -en, -ar åll: sörényes
+hangyász, hangyászmedve -stack -en, -ar
 hangyaboly -syra -n hangyasav
 myrten =, myrtnar mirtusz -krans -en,
 -ar, -krona -n, -or mirtuszkoszorú

@@ -88,13 +88,13 @@ megvarr, másképp värr meg, átalakít
 összevarr (pl. szakadást); hozzávarr;
 sy upp felvarr (ruha hosszából);
 megvarr, kiszab, elkészít (ruhát)
-sy]arbete -t, +n varrás; varrásmunka
+sy|arbete -t, +n varrás; varrásmunka
 -ask -en, -ar varródoboz -ateljé -n, -er
 nőiszabó-műhely, női szabóság, női
 divatszalon
 sybarit -en, -er szibarita, (elpuhult)
 élvezethajhászó (ember)
-sy]behör -et, = varrófelszerelés
+sy|behör -et, = varrófelszerelés
 -be-hörsaffär -en, -er rövidáru-kereskedés
 -bord -et, — varróasztal(ka)
 syd I. s: -en dél (világtáj); déli rész,
@@ -108,6 +108,6 @@ sydamerikansk -t dél-amerikai
 sydasiatisk -t dél-ázsiai
 Sydasien npr Dél-Ázsia
 Sydeuropa npr Dél-Európa
-syd |europeisk -t dél-európai -frukt -en, -er
+syd|europeisk -t dél-európai -frukt -en, -er
 déligyümölcs -gående I. adj déli
 irányban haladó, délnek tartó II. s: -t: ett

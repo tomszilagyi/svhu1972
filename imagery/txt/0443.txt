@@ -1,13 +1,13 @@
 híve, pietista, 3. pejor szenteskedő,
 álszent (ember)
 läsarinna -/?, -or olvasónő
-làsjart -en, -er olvasásmód, olvasat,
+läs|art -en, -er olvasásmód, olvasat,
 szövegváltozat -bar -t olvasható -barn
 -et, = vall o konfirmálandó -drama
 -t, -dramer drámai költemény,
 könyv-dráma
 
-läsejtck -en, -böcker olvasókönyv -cirkel
+läse|bok -en, -böcker olvasókönyv -cirkel
 -n, -cirklar olvasókör -krets -en, -ar
 [író v. lap] olvasóközönsége, -tábora,
 olvasói -sal -en, -ar olvasóterem,
@@ -47,7 +47,7 @@ läst -en, -er kaptafa, sámfa
 lästa: ~ (ut) en sko cipőt (ki)sámfáz (v.
 
 kaptafára húz)
-läsjvärd -värt olvasásra érdemes; boken
+läs|värd -värt olvasásra érdemes; boken
 är ~ a könyvet érdemes elolvasni
 -ár -et, = tanév, iskolai év;
 tanulmányi év (egyetemen) -övning -en, -ar

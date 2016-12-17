@@ -99,7 +99,7 @@ céllövölde, céllövő bódé
 skjutbar -t 1. lőhető, lövésre alkalmas
 (vad) 2. (el)tolható, állítható,
 mozgatható; dörren är ~ az ajtó tolható
-skjut |dorr -en, -ar tolóajtó -fält -et, ==
+skjut|dorr -en, -ar tolóajtó -fält -et, ==
 lőtér -glugg -en, -ar lőrés -klar -t
 lövésre kész; foto felvételre kész -mått
 -et, = tolómérce, subler

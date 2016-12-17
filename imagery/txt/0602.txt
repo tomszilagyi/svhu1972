@@ -1,25 +1,25 @@
 sago -fl v. -t sagogryn
 
 sagoberättare -n, — mesemondó
--be-rätießVa -n} -or mesemondó nő -bek
--en, -böcker insséskönyv, mesekönyv
+-berätterska -n} -or mesemondó nő -bok
+-en, -böcker meséskönyv, mesekönyv
 sagogryn szágó(liszt)
-sago^ynssoppa [-so-] -n, -or szágóleves
-ssgyjl^Hd -länder meseország,
+sagogrynssoppa [-so-] -n, -or szágóleves
+sago|land -länder meseország,
 mesebeli v. mondabeli ország; álomvilág
--lik -1 meseszerű, mesébe Illő, mesés;
+-lik -1 meseszerű, mesébe illő, mesés;
 O hihetetlen, fantasztikus
-sagöpdm -en, -er szágópáima
-sagojprms -en, -űr mesebeli herceg v.
-királyfi -skstt -ra, -er 1. mese- ill.
+sagopalm -en, -er szágópáima
+sago|prins -en, -űr mesebeli herceg v.
+királyfi -skatt -ra, -er 1. mese- ill.
 mondakincs 2. mesebeli ill. mesés
-kincs -sieti [-ott] -eí, = mesebeli ill.
-mesés kastély -spd = Yrøtf
+kincs -slott [-ott] -eí, = mesebeli ill.
+mesés kastély -spel = Yrøtf
 mesejáték -tid -en, -er mondák (v. izlandi
-sagcik) kora, mondai őskor »värld
+sagcik) kora, mondai őskor -värld
 -en, -ar mesék v, mondák világa,
-mesevilág -i -n, -ar L mesebeli ill.
-mondabeli sziget fL mondák ill. sagák szigete
+mesevilág -ö -n, -ar 1. mesebeli ill.
+mondabeli sziget 2. mondák ill. sagák szigete
 (pl. Izland)
 sak -tn, -er 1. dolog, tárgy (átv is);
 holmi; poggyász; ügy; det är en helt
@@ -108,7 +108,7 @@ sakrament -et, = vall szentség; átv szent
 dolog
 
 sakramentskad o átkozott, istenverte
-sak |register -registret, = tárgymutató
+sak|register -registret, = tárgymutató
 (könyvben) -rik -t tartalmas, részletes,
 
 alapos

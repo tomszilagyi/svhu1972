@@ -39,7 +39,7 @@ kameral -t közpénzekre vonatkozó,
 kamfer -n kámfor -droppar plur
 
 kámforcseppek
-kam]garn -et, = v. -er fésűs (gyapjú-)
+kam|garn -et, = v. -er fésűs (gyapjú-)
 fonál -garnstyg -et, == v. -er fésűs
 (gyapjú)szövet
 kamin -en, -er kályha, vas- v.

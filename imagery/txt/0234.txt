@@ -65,7 +65,7 @@ förkovran [-Ö-] — (en) tökéletesedés;
 förkrlgs- összet előtag háború előtti -tiden
 
 a háború előtti idő
-för| kristen -kristet, -kristlig -t
+för|kristen -kristet, -kristlig -t
 kereszténység előtti
 
 för|kroppsliga [-o1-] megtestesít; átv
@@ -102,7 +102,7 @@ förköp -et, == elővétel
 förköpa -köpte, -köpt: sig pä ngt túl
 
 drágán vásárol vmit
-förköps |pris -et, — elővételi ár -rätt -en
+förköps|pris -et, — elővételi ár -rätt -en
 
 jog: elővásárlási v. elővételi jog
 förkörsrätt -en elsőbbségi jog
@@ -118,5 +118,5 @@ raktáron van (nála) vmi, raktáron tart
 vmit
 
 förlag2 -et, vegy előtét, felfogó edény
-förlags]kapital -et, « üzemi tőke,
+förlags|kapital -et, « üzemi tőke,
 forgótőke -rätt ~en, -er kiadási V, kiadói jog

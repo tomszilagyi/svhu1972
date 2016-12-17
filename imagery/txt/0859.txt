@@ -45,7 +45,7 @@ tågvärdinna -n, -or étszolgálatosnő
 (turistavonaton )
 tågångare -n, = áll ujjonjáró
 tågända -n, -r kötélvég, -darab
-tå]hätta -n, -or cipőorr, kapli -hävning
+tå|hätta -n, -or cipőorr, kapli -hävning
 -en, -ar lábujjhegyre állás,
 lábujjhe-gyen-állás -järn -et, ~ cipőorrvas
 tåla tålde, tålt (el)tűr; elvisel, elszenved;

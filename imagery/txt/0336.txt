@@ -80,7 +80,7 @@ v. (meg)egyező; helytelen
 inalles adv (mind)összesen, egészében,
 
 mindent egybevetve
-in]andas -andades, -andats belélegez
+in|andas -andades, -andats belélegez
 -andning -en, -ar, belé(le)gzés -arbetad
 1. bedolgozott, gyakorlott 2. ker
 bevezetett, jól ismert
@@ -106,7 +106,7 @@ elhitetni; ~ sig beképzel v. bebeszél
 magának; hisz -billning -en, -ar képzelődés,
 képzelet, ábránd; beképzelés
 
-inbillnings |foster -fostret, = agyrém
+inbillnings|foster -fostret, = agyrém
 -förmåga -n, -kraft -en képzelőerő,
 -tehetség, fantázia -sjuk -t képzelt
 beteg -sjuka -n, -or, -sjukdom -en, -ar

@@ -17,7 +17,7 @@ o|delad osztatlan, meg nem osztott
 
 -delbar oszthatatlan
 ’Odén npr mit Odin, Wodan
-o]disciplinerad fegyelmezetlen
+o|disciplinerad fegyelmezetlen
 -disponerad 1. igénybe nem vett 2. kedvetlen,
 gyengélkedő, indiszponált; sångerskan
 var ~ az énekesnőnek rossz napja voit
@@ -79,7 +79,7 @@ odört -en, -er nov: bürök
 ojeftergivlig -t elengedhetetlen
 -efter-härmlig -t utánozhatatlan -efterrättlig
 -t javíthatatlan, meg nem javítható
-o]egennytta -n önzetlenség -egennyttig -1
+o|egennytta -n önzetlenség -egennyttig -1
 önzetlen -egentlig -t 1. nem valódi,
 nem igazi; ál, hibás, helytelen; mat:
 ~t bråk áltört 2. átvitt (értelmű)

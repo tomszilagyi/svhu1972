@@ -48,7 +48,7 @@ syne|handling-e/r, -ar, -instrument -et, =
 szakértői jelentés, vizsgálati
 jegyzőkönyv
 
-syn]fel -et, ~ látási hiba v. zavar -fält
+syn|fel -et, ~ látási hiba v. zavar -fält
 -et, = 1. látómező, -tér 2. átv látókör
 -förmåga -n látóképesség -håll -et
 látótávolság; vara inom ~

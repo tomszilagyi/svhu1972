@@ -46,7 +46,7 @@ mendemonda; veta ngt av ~ [csupán]
 hallomásból tud vmit; genom **
 hallomásból
 
-hö]skrinda -n, -or szénásszekér -skulle
+hö|skrinda -n, -or szénásszekér -skulle
 -n, -ar szénapadlás -skörd -en, -ar
 szénakaszálás, -gyűjtés; szénatermés
 -slåtter -n szénakaszálás -snuva -n
@@ -72,7 +72,7 @@ höst|mod -et, = v. -er őszi divat
 -plöjning -en őszi szántás -rusk -et őszi
 latyak; (késő) őszi nedves és hideg
 idő(járás) -mg -en őszi (vetésű) rozs
--söl -en őszi nap(fény) -säd -en őszi
+-sol -en őszi nap(fény) -säd -en őszi
 (vetésű) gabona, őszi vetés -termin
 -1en, -er isk: téli félév, első félév
 -vete -t őszi (vetésű) búza

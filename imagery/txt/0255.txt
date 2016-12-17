@@ -102,7 +102,7 @@ hadparancs -plan -en, -er általános
 terv -repetition -en, -er szính: főpróba
 -sekreterare -n, = főtitkár
 generalska -n, -or täbornokné
-general |stab -en, -ey kat: vezérkar
+general|stab -en, -ey kat: vezérkar
 -stabschef -en, -er vezérkari főnök
 -stabskarta -n, -or vezérkari térkép
 -strejk -en, -er általános sztrájk

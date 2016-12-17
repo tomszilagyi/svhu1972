@@ -39,8 +39,8 @@ dynga -nol. trágya, ganéj 2.
 badarság, értelmetlenség; prata ~
 badarságot fecseg
 
-dyngjgrep -en, -ar trágyázó villa,
-ganaj-hányó vasvilla -hög -en, -ar
+dyng|grep -en, -ar trágyázó villa,
+ganajhányó vasvilla -hög -en, -ar
 trágya-(v. szemét)domb
 dyning -en, -ar. hajó: szabad- V.
 holthullámzás (tengeren)

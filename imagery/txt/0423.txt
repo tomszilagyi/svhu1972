@@ -48,7 +48,7 @@ likör -en, -er likőr
 lila I. adj indecl lila II. s; -n lila (szín)
 lilja -n, -or liliom
 
-liljejkonvalje [-o-] -n, -r gyöngyvirág
+lilje|konvalje [-o-] -n, -r gyöngyvirág
 
 -vit -vitt liiiomfehér
 lilla (lille) -*♦* liten kicsi, kis; ~ mamma
@@ -110,7 +110,7 @@ felgöngyölít; ráteker; ~ upp a)
 felgöngyölít, -teker; b) legömbölyít,
 leteker
 
-Un |dansare -n, = kötéltáncos -danserska
+Un|dansare -n, = kötéltáncos -danserska
 
 -n, -or kötéltáncosnő
 lindblomma -n, -or hársfavirág -blomme-

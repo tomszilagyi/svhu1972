@@ -14,7 +14,7 @@ fedélzetén;^ om ~ (v. om~) hajóra száll;
 kasta över ~ kidob a hajóból, vízbe vet;
 man över ember a vízben!,
 tengerbe esett égy ember!
-bord |dans -en asztaltáncoltatás -duk -en,
+bord|dans -en asztaltáncoltatás -duk -en,
 
 -ar asztalterítő, abrosz .
 bordell [-o-] -en, -er nyilvános ház,
@@ -90,8 +90,8 @@ borr|hål -et, = furat, fúrólyuk -maskin
 
 -en, -er fúrógép
 borrning -en, -ar fúrás
-borrjskaft -et, = fúrónyél, fúró
-forgatókarja -tora -et, = fúrótorony
+borr|skaft -et, = fúrónyél, fúró
+forgatókarja -torn -et, = fúrótorony
 borsalva -n, -or bórkenőcs
 borst -et (v. -en), = serte, sörte; nov
 (kalász)szálka, tokiász; resa ~

@@ -91,7 +91,7 @@ sütkérezik a napon
 Stekel -n, steklar áll: hártyásszárnytf
 (rovar)
 
-stek |fat -et, = pecsenyéstál -fett -et,
+stek|fat -et, = pecsenyéstál -fett -et,
 -er, -flott [-0-] -et pecsenyezsír -fisk
 -en, -ar sütni való hal -gryta -n, -or
 (fedeles) fazék v. lábas (pl. hús pár(b
@@ -100,7 +100,7 @@ v. égetően forró
 stekning -en, -ar sütés (pl. húsé);
 roston HL zsírban sütés; pirítás;
 párolás, o dinsztelés; sülés
-stek | os -et pecsenyeszag, -illat, stílt hús.
+stek|os -et pecsenyeszag, -illat, stílt hús.
 szaga -panna -n, -or serpenyő (pl.
 hús sütésére) -potatis -én sütni
 való-(ül. sült) burgonya -spett -et,

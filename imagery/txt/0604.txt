@@ -66,8 +66,8 @@ salvelse -n kenetesség, kenetteljesség
 salvia -n, -or nov: zsálya
 sam- összet előtag együtt-, Össze-;
 
-együttes, közös;
-össz-sam| arbeta együttműködik, kooperál
+együttes, közös; össz
+sam|arbeta együttműködik, kooperál
 -arbete -t, -n együttműködés, együttes
 munka, kooperáció -arbetskommitté
 [-0-] -n, -er együttműködési bizottság
@@ -79,7 +79,7 @@ szamaritánus 2. átv elsősegély nyű j t
 á-si tanfolyamot végzett (ember) -kurs
 -en, -er elsősegélynyújtási v.
 vöröskeresztes tanfolyam
-sam |båd -et, — közös fürdő (férfiaknak
+sam|båd -et, — közös fürdő (férfiaknak
 és nőknek) -band -et összefüggés;
 összeköttetés (kat is), kapcsolat;
 nära ~ szoros összefüggés; i ~ härmed
@@ -97,7 +97,7 @@ együtt lakás -byggare -n, = nov
 egy-laki növény -dräkt -en egyetértés,
 összetartás
 same -n, -r lapp (ember) -folket a lappok
-sam |fund -et, — 1. társaság, társulat;
+sam|fund -et, — 1. társaság, társulat;
 egyesület, testület 2. társadalom
 3. vall közösség -fälld -fällt együttes,
 közös, kollektív; egyhangú;

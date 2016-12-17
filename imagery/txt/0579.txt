@@ -34,7 +34,7 @@ ostoroz, kritizál
 risbastu -n, -r megvesszőzés, verés, elr
 fenekelés
 
-ris |falt -et, s=s rizsföld -gryn -et, ==.
+ris|fält -et, s=s rizsföld -gryn -et, ==.
 (hántolt) rizs; ett ~ egy rizsszem (v. szem
 rizs) -grynsgröt -en, -ar tejberizs,
 rizskása -grynspudding -en, -ar rizsfeifújt
@@ -61,7 +61,7 @@ veszélytelen, biztonságos -full -t, -fylld -fyllt
 (nagyon) kockázatos v. veszélyes,
 veszedelmes -moment -et, ==
 veszélymomentum, kockázat
-risjknippa -n, -or rőzsenyaláb, -köteg
+ris|knippa -n, -or rőzsenyaláb, -köteg
 -koja -n, ror gallyakból összerótt (erdei)
 kunyhó v. kalyiba -kvast -en, -ar
 nyírfa seprű -kvist -en, -ar gally, ág
@@ -102,8 +102,8 @@ ritare -n,= rajzoló
 
 rit|bestick -et,’= rajzkészlet,
 körzőkészlet -bok -en, -böcker rajzfüzet -bord
--et, = rajzasztal -bräde -t, -nrajztábla
--kol f-ö-] -et rajzszén -konst \-o-] -ent
+-et, = rajzasztal -bräde -t, -n rajztábla
+-kol [-o-] -et rajzszén -konst [-o-] -ent
 -er rajzművészet -lärare -n,
 rajztanító, -tanár
 ritning -en, -ar 1, rajzolás 2. rajz;

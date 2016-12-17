@@ -102,7 +102,7 @@ időjárás, időjárási kilátások; ~na för
 söndagen a várható idő(járás)
 vasárnapra
 
-väder |måne -n, -ar csill. mellékhold -söl
+väder|måne -n, -ar csill. mellékhold -sol
 
 -en, -ar csill: melléknap
 väder|spåman -spåmannen, -spåmän

@@ -6,7 +6,7 @@ underfundig -1 furfangos, huncut,
 ravaszkás; kétértelmű; ~t småleende huncut
 mosoly -het -en, -er furfangosság,
 huncutság; kétértelműség
-under |förstå -förstod, -förstått
+under|förstå -förstod, -förstått
 hozzágondol, oda-v. beleért; predikatet är ~tt
 az állítmány hozzáértendő (v. nincs
 kitéve); ~dd bennefoglalt, beleértett,
@@ -92,7 +92,7 @@ lebilincselő
 Underhållning -en 1. fenntartás,
 karbantartás; eltartás 2. szórakozás,
 múlatás 3. plur: -ar mulatság
-underhållnings]lektyr -en szórakoztató v.
+underhållnings|lektyr -en szórakoztató v.
 könnyű olvasmány -musik -en
 szórakoztató zene, könnyűzene -program
 -programmet, = rádió szórakoztató v.

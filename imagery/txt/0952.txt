@@ -25,7 +25,7 @@ választékos stílus; tala ett vårdat språk
 választékos nyelven beszél, pallérozott
 v. irodalmi nyelvet beszél; uttrycka sig
 vårdat választékosan fejezi ki magát
-vår |dag -en, -ar tavaszi nap -dagjamning
+vår|dag -en, -ar tavaszi nap -dagjämning
 
 -en, -ar tavaszi napéjegyenlőség
 vårdanstalt -en, -er gondozóintézet
@@ -49,7 +49,7 @@ Vårdslösa elhanyagol, gondatlanul végez
 Vårdslöshet -en gondatlanság, hanyagság,
 
 nemtörődömség; lomposság
-vård |tecken -tecknet, = rég megerősítő
+vård|tecken -tecknet, = rég megerősítő
 
 jel; [vminek a] záloga v. jelképe
 vår|fest -en, -er tavaszi ünnep -flod -en,
@@ -58,7 +58,7 @@ vår|fest -en, -er tavaszi ünnep -flod -en,
 vårfrudagen Gyümölcsoltó Boldogasz-
 
 szony (napja)
-vår |gr önska -n tavaszi zöld növények v
+vår|grönska -n tavaszi zöld növények v
 
 lombozat -hatt -en, -ar tavaszi kalap
 •kanten: o (fram) på ~ tavasz
@@ -84,7 +84,7 @@ a tavaszi levegő megszív v. fáraszt
 tavaszi rozs -session -en, -er tavaszi
 ülésszak (parlamenté) -sidan: (fram)
 på ~ tavasz felé, kikeletkor, amikor
-tavaszodik v. tavaszodott -söl -en
+tavaszodik v. tavaszodott -sol -en
 tavaszi nap -sådd -en tavaszi vetés
 vårta -n, -or L szemölcs, bibircsók
 
@@ -97,7 +97,7 @@ vår|trötthet -en tavaszi fáradtság v.
 bágyadtság
 
 vårt|svin -et, = áll varacskos disznó
-vår |vete -t tavaszi búza -vind -en, -ar
+vår|vete -t tavaszi búza -vind -en, -ar
 tavaszi szél -väder -vädret tavaszi idő
 (-járás)
 

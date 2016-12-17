@@ -64,10 +64,10 @@ repülőszázad
 flygel -n, flyglar 1. kat szárny 2.
 (épületszárny; pavilon 3. ajtószárny
 4. (nagy) zongora
-flygel |ad jután t -en, -er szárnysegéd (uraU
+flygel|adjutant -en, -er szárnysegéd (ural-
 
-kodóé) -dorr -en, -ar szárnyáé ajtó
-flyg {eskader -n, -eskadrar kat:
+kodóé) -dörr -en, -ar szárnyas ajtó
+flyg|eskader -n, -eskadrar kat:
 repülőezred -fart -en légi közlekedés, repülés
 -fisk -en, -ar repülőhal -fotografering
 -en, -ar légi fényképezés -fyr -en, -ar

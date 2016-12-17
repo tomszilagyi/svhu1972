@@ -93,7 +93,7 @@ papírpénz -påse -n, -ar papírzacskó, -tölcsér
 -remsa -n, -or papírcsík, -szalag -sax
 -en, -ar papírvágó olló -tunn -tunt
 papírvékony
-papp | kartong -en, -er, -låda -n, -or
+papp|kartong -en, -er, -låda -n, -or
 kartondoboz -tak -et, =
 kátránylemeztető
 

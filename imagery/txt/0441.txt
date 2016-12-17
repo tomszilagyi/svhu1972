@@ -72,7 +72,7 @@ megyei munkaügyi hivatal -herre -n,
 -ar tört hűbérúr -lasarett -et, =
 tartományi v megyei kórház
 länspumpa -> läns 1
-länsjresidens -et, = tartományfőnök
+läns|residens -et, = tartományfőnök
 hivatali lakása -styrelse -n, -r
 tartományfőnökség
 länstol -en, -ar kar(os)szék, fotel

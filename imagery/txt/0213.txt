@@ -45,7 +45,7 @@ fullmaktsinnehavare -n, =
 meghatalmazott -lag -en, -ar felhatalmazási
 törvény
 
-full |mo gen -moget teljesen érett ^myndig
+full|mogen -moget teljesen érett ^myndig
 teljes korú, nagykorú -måne -n
 telihold -mäktig I. adj: -t
 meghatalmazott, feljogosított II. s: -en, -e
@@ -82,7 +82,7 @@ nyomban teljesen lejegyezték
 fulltonig -t hangzatos, zengzetes, csengő,
 tiszta
 
-full |träff -en, -ar telitalálat -vuxen -vuxet
+full|träff -en, -ar telitalálat -vuxen -vuxet
 kifejlett, felnőtt, nagy -värdig -t teljes
 értékű -växt jól fejlett, kifejlett -ända
 befejez, bevégez, lezár; en ~d

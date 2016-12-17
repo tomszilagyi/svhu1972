@@ -110,7 +110,7 @@ sköterska -n, -or ápolónő, nővér
 (kórházi); (orvosi) asszisztensnő;
 gyermekgondozónő
 sköterskeutbildning -en ápolónőképzés
-sköte |synd -en, -er dédelgetett v.
+sköte|synd -en, -er dédelgetett v.
 megrögzött bűn, rossz szokás, [vkinek a]
 különös gyengéje -vän -vännen,
 -vänner kebelbarát

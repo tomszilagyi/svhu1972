@@ -34,7 +34,7 @@ upp|täcka -täckte, -täckt fölfedez; rájön
 upptäckt -en, -er fölfedezés; átv leleplezés;
 ~en av Amerika Amerika fölfedezése;
 göra en ~ fölfedez vmit
-upptäckts |färd -en, -er, -resa -n, -or
+upptäckts|färd -en, -er, -resa -n, -or
 fölfedező út, kutatóút -resande -n, =
 fölfedező, utazó, kutató expedíció
 tagja
@@ -101,7 +101,7 @@ gerjeszt; ~ ngns vrede felkelti vkinek
 a haragját, haragra gerjeszt vkit
 -väckelse -n 1. vallási megújulás,
 megtérés 2. életre keltés, feltámasztás
-upp| väg -en fölfelé (v. észak felé v. a
+upp|väg -en fölfelé (v. észak felé v. a
 városba) vezető út; pä ~en fölfelé
 menet, úton észak felé -väga -vägde, -vägt
 1. väga (upp) 2. átv kiegyenlít, ki-»

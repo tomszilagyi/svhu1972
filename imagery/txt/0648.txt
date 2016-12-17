@@ -21,7 +21,7 @@ skottdag [-o-] -en, -ar szökőnap (február
 
 skotte [-o*-] -tf, -ar 1. skót v. skóciai
 (ember) 2. skót terrier (kutya)
--historia -histori]en, -er skót vicc v. anekdota
+-historia -histori|en, -er skót vicc v. anekdota
 skottglugg -en, -ar lőrés
 skotthåll [-o-] -et, = lőtávolság; vara
 inom ~ Iőtávol(ság)ban v. lőtávolra

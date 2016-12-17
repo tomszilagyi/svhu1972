@@ -23,7 +23,7 @@ indásodik, kúszó szárat hajt
 reva2 -n, -or szakadás, repedés", hasadás;
 
 rés, hasadék; karcolás, seb (átv is)
-reva3hajó fogást beköt, vitorlát kurtít,
+reva3 hajó fogást beköt, vitorlát kurtít,
 reffei
 
 revansch -en, -er viszonzás, bosszú(állás),
@@ -123,7 +123,7 @@ ridande lovagló; lovas; ^ artilleri lovas
 tüzérség; komma ~ lovagolva jön v.
 közeledik
 
-rid |bana -n, -or lovaglópálya, -tér -byxor
+rid|bana -n, -or lovaglópálya, -tér -byxor
 
 plur lovaglónadrág
 riddarborg [-o-] -en, -ar lovagvár

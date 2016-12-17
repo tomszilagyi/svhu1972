@@ -69,7 +69,7 @@ szokásos, megszokott -anda -n
 közszellem -befinnande -t közérzet -bildad
 sokoldalúan képzett, általános
 műveltséggel rendelkező -bildning -en
-általános műveltség -fariig -t
+általános műveltség -farlig -t
 közveszélyes -fattlig -t közérthető -giltig -í
 általános érvényű
 allmänhet -en 1. általánosság,
@@ -90,7 +90,7 @@ allmännings|bete -t, -n közlegelő,
 községi legelő -skog -en, -ar (községi)
 közös erdő
 
-allmän]nytta -n közjó, -haszon -nyttig
+allmän|nytta -n közjó, -haszon -nyttig
 -t közhasznú, -érdekű -vilja -n
 közakarat
 allo -v all L

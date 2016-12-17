@@ -32,7 +32,7 @@ számadás, elszámolás (jör ngt vmiről)
 v. kötelezett (för ngt vmiről)
 redskap -et v. -en, = szerszám; eszköz
 (átv is); felszerelés, (torna)szer(ek)
-redskaps |böd -en, -ar szerszámkamra,
+redskaps|böd -en, -ar szerszámkamra,
 -raktár, -fészer -gymnastik -en
 szertorna
 
@@ -115,7 +115,7 @@ szabályoknak megfelelően, a lehető
 legjobban; i v. som ~ rendszerint,
 általában
 
-regei |bunden -bundet szabályos;
+regel|bunden -bundet szabályos;
 rendszeres, rendezett, rendes -lös -t sza-.
 bálytalan, kötetlen; rend(ez)etlen
 -mässig -t regelbunden -rätt

@@ -93,7 +93,7 @@ vonalszakasz, pályarész
 banderol(l) [-o*-] -en, -er zárszalag,
 
 -jegy (árun)
-band | hund -en,-ar láncos kutya
+band|hund -en,-ar láncos kutya
 -inspelning -en, -ar hangszalagfelvétel
 bandit -en, -er bandita, zsivány, útonálló,
 rabló

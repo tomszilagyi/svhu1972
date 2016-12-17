@@ -88,7 +88,7 @@ hidegfok; det är tio ~er tíz fok hideg van
 minuskel -n, minuskler kisbetű,
 minúsz-kula
 
-minusjsida -n, -or 1. negatív oldal,
+minus|sida -n, -or 1. negatív oldal,
 hátrány 2. ker tartozik-oldal -tecken
 -teck-net, = mínuszjel
 minut1 -en, -er 1. perc; fem ~ers paus
@@ -100,7 +100,7 @@ försäljning i ~ kicsinyben való árusítás,
 darabonkinti eladás
 minutera: ~ ut darabonkint v.
 kicsinyben elad v. árusít
-minut]försäljning -en kicsinyben való
+minut|försäljning -en kicsinyben való
 eladás v. árusítás -handel -n
 kiskereskedelem
 
