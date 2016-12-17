@@ -52,140 +52,6 @@ public class TextPrepare {
         }
     }
 
-    // write all text data
-    public void write_serialized() {
-        try {
-            String path = "../app/src/main/assets/txt.bin";
-            OutputStream os = new FileOutputStream(path);
-            DataOutputStream dos = new DataOutputStream(os);
-            write_page(dos, index);
-            int n_pages = text.size();
-            dos.writeInt(n_pages);
-            for (int p=0; p < n_pages; p++) {
-                write_page(dos, text.get(p));
-            }
-            dos.close();
-        } catch (IOException e) {
-            System.out.println(e.toString());
-        }
-    }
-    private void write_page(DataOutputStream dos, ArrayList<String> page) throws IOException {
-        int n_lines = page.size();
-        dos.writeInt(n_lines);
-        for (int l=0; l < n_lines; l++) {
-            dos.writeUTF(page.get(l));
-        }
-    }
-
-    /* Normalize the text for searching: remove chars \*()
-       The pipe character is used to mark compounds, so we try and
-       expand them to facilitate searching for the original ones.
-
-       Example: hem|skickad ... -skillnad ... -skrivning ...
-
-       A search for hemskickad (without the |) or for hemskrivning
-       should do the right thing.
-
-       How we do this:
-       1. in case we read a keyword with | in it, save the stem
-       and activate "expand mode";
-       2. while in "expand mode", any word written as -suffix (ie.
-       starting with a dash) will be expanded with the stem
-       except for grammatical suffixes e.g.: -t -n -r -en -et
-       3. "expand mode" ends (or is reinstated) when
-         - another word containing a | is read;
-         - a keyword that is a prefix of the current prefix is
-         read (keywords are validated with the current index range)
-    */
-    private void normalize_text() {
-        boolean expand_mode = false;
-        String stem = null;
-        String suffix = null;
-        String index_from = null;
-        String index_to = null;
-
-        for (int p=0; p < text.size(); p++) {
-            ArrayList<String> page = text.get(p);
-            for (int l=0; l < page.size(); l++) {
-                String line = page.get(l);
-
-                /* Some basic hygiene to avoid regex problems */
-                line = line.replaceAll("–", "-").replaceAll("(\\\\|\\*|\\(|\\))", "");
-
-                int idx_pipe = line.indexOf('|');
-                if (idx_pipe > 0) { // pipe exists and not the very first
-                    /* Enter or reinitialize expand mode */
-                    stem = line.substring(0, idx_pipe);
-                    suffix = line.substring(idx_pipe+1);
-                    int suffix_end = suffix.indexOf(' ');
-                    if (suffix_end > 0) {
-                        suffix = suffix.substring(0, suffix_end);
-                    }
-                    expand_mode = true;
-                    index_from = index.get(p);
-                    if (p == text.size()-1) {
-                        index_to = null;
-                    } else {
-                        index_to = index.get(p+1);
-                    }
-
-                    //System.out.println(line+" => "+stem+"||"+suffix);
-                    line = line.replaceFirst("\\|", "");
-                } else if (expand_mode) {
-                    /* We did not enter expand_mode on this line,
-                       see if we need to quit expand_mode */
-                    String line_nopipe = line.replaceFirst("\\|", "");
-                    if ((collator.compare(index_from, line_nopipe) <= 0) &&
-                        ((index_to == null) || collator.compare(line_nopipe, index_to) <= 0)) {
-                        /* Yes we do -- line sorts within the current index range */
-                        //System.out.println(line+" == index: "+index_from+" >> "+index_to);
-                        line = line_nopipe;
-                        expand_mode = false;
-                        stem = null;
-                        suffix = null;
-                        index_from = null;
-                        index_to = null;
-                    }
-                }
-                if (expand_mode) {
-                    /* Identify and iterate through all suffixes in
-                     * the line. Filter them according to the current
-                     * suffix (taking advantage of the fact that they,
-                     * too, are in alphabetical order) and special
-                     * exceptions. If accepted, expand with stem and
-                     * update current suffix. Expanded keywords are
-                     * marked with a preceding '@' so we can avoid
-                     * spurious search results where keywords occur in
-                     * the text of other keywords.
-                     */
-                    int idx_dash = line.indexOf('-');
-                    while (idx_dash > -1) {
-                        String maybe_suffix = line.substring(idx_dash);
-                        int idx_end = maybe_suffix.indexOf(' ');
-                        if (idx_end > 0) {
-                            maybe_suffix = maybe_suffix.substring(0, idx_end);
-                        } else {
-                            idx_end = 0;
-                        }
-                        if (!maybe_suffix.matches("^-(n|en|t|et|r|er|ar|or)?[:;,]*$")) {
-                            maybe_suffix = maybe_suffix.substring(1);
-                            String candidate = stem + maybe_suffix;
-                            if ((collator.compare(index_from, candidate) <= 0) &&
-                                ((index_to == null) || collator.compare(candidate, index_to) <= 0)) {
-                                //System.out.println("== candidate: "+maybe_suffix+ " --> "+candidate);
-                                suffix = maybe_suffix;
-                                line = line.replaceFirst("-"+suffix, "@" + candidate.replaceAll("\\-", ""));
-                            }
-                        }
-                        idx_dash = line.indexOf('-', idx_dash+idx_end+1);
-                    }
-                }
-                /* Save whatever changes we made to the line */
-                page.set(l, line);
-            }
-        }
-    }
-
     /* This is used to load both the index and OCR-ed text pages,
      * so don't do anything fancy here to change the content.
      */
@@ -212,5 +78,140 @@ public class TextPrepare {
             System.out.println("IO error while reading "+filename+": "+e);
         }
         return lines;
+    }
+
+    // write all text data
+    public void write_serialized() {
+        try {
+            String path = "../app/src/main/assets/txt.bin";
+            OutputStream os = new FileOutputStream(path);
+            DataOutputStream dos = new DataOutputStream(os);
+            write_page(dos, index);
+            int n_pages = text.size();
+            dos.writeInt(n_pages);
+            for (int p=0; p < n_pages; p++) {
+                write_page(dos, text.get(p));
+            }
+            dos.close();
+        } catch (IOException e) {
+            System.out.println(e.toString());
+        }
+    }
+    private void write_page(DataOutputStream dos, ArrayList<String> page) throws IOException {
+        int n_lines = page.size();
+        dos.writeInt(n_lines);
+        for (int l=0; l < n_lines; l++) {
+            dos.writeUTF(page.get(l));
+        }
+    }
+
+    /* Normalize the text for searching
+
+       The pipe character is used to mark compounds, so we try and
+       expand them to facilitate searching for the original ones.
+
+       Example: hem|skickad ... -skillnad ... -skrivning ...
+
+       A search for hemskickad (without the |) or for hemskrivning
+       should do the right thing.
+
+       How we do this:
+       1. Try to identify keywords by looking at the current page's
+          index range. If the keyword contains a | separate it into
+          the stem and the suffix, else take the whole as stem.
+       2. Expand suffixes of the form "-suffix" with current stem,
+          except for grammatical suffixes e.g.: -t -n -r -en -et
+
+       Expanded forms are preceded with @ (does not occur elsewhere)
+       to help avoid spurious occurrences while keyword searching.
+    */
+    private void normalize_text() {
+        String stem = null;
+        String suffix = null;
+        String index_from = null;
+        String index_to = null;
+
+        int n_pages = text.size();
+        for (int p=0; p < n_pages; p++) {
+            ArrayList<String> page = text.get(p);
+
+            /* Maintain the current index range for page */
+            index_from = index.get(p);
+            if (p == n_pages-1) {
+                index_to = null;
+            } else {
+                index_to = index.get(p+1);
+            }
+
+            for (int l=0; l < page.size(); l++) {
+                String line = page.get(l);
+
+                /* Some basic hygiene to avoid regex problems */
+                line = line.replaceAll("–", "-")
+                           .replaceAll("\\[.*\\]", "")
+                           .replaceAll("(\\\\|\\*|\\(|\\)|\\?)|\\[|\\]|\\{|\\}", "");
+
+                String line_nopipe = line.replaceFirst("\\|", "");
+                if (in_range(index_from, index_to, line_nopipe)) {
+                    /* line sorts within the current index range,
+                     * so we assume it starts with a keyword */
+                    String keyword = line;
+                    int word_end = keyword.indexOf(' ');
+                    if (word_end > 0) {
+                        keyword = keyword.substring(0, word_end);
+                    }
+                    int idx_pipe = keyword.indexOf('|');
+                    if (idx_pipe > 0) { // pipe exists and is not the very first
+                        stem = keyword.substring(0, idx_pipe);
+                        suffix = keyword.substring(idx_pipe+1);
+                    } else {
+                        stem = keyword;
+                        suffix = null;
+                    }
+                    System.out.println((p+25)+".txt: "+keyword+" => "+stem+" | "+suffix);
+                }
+                line = line_nopipe;
+
+                /* Identify and iterate through all suffixes in the line.
+                 * Filter them according to the current index range and
+                 * special exceptions. If accepted, expand with stem.
+                 * Expanded keywords are marked with a preceding '@' so
+                 * we can avoid spurious search results where keywords
+                 * occur in the text of other keywords.
+                 */
+                int idx_dash = line.indexOf('-');
+                while (idx_dash > -1) {
+                    /* the dash must be at the beginning, or preceded by a space */
+                    if ((idx_dash > 0) && (line.charAt(idx_dash-1) != ' ')) {
+                        idx_dash = line.indexOf('-', idx_dash+1);
+                        continue;
+                    }
+                    String maybe_suffix = line.substring(idx_dash);
+                    int idx_end = maybe_suffix.indexOf(' ');
+                    if (idx_end > 0) {
+                        maybe_suffix = maybe_suffix.substring(0, idx_end);
+                    } else {
+                        idx_end = 0;
+                    }
+                    if (!maybe_suffix.matches("^-(n|en|t|et|r|er|ar|or)?[:;,]*$")) {
+                        maybe_suffix = maybe_suffix.substring(1);
+                        String candidate = stem + maybe_suffix;
+                        if (in_range(index_from, index_to, candidate)) {
+                            suffix = maybe_suffix;
+                            line = line.replaceFirst("-"+suffix, "@"+candidate.replaceAll("\\-", ""));
+                            System.out.println((p+25)+".txt:      "+suffix+ " => "+candidate);
+                        }
+                    }
+                    idx_dash = line.indexOf('-', idx_dash+idx_end+1);
+                }
+
+                /* Save whatever changes we made to the line */
+                page.set(l, line);
+            }
+        }
+    }
+    private boolean in_range(String index_from, String index_to, String str) {
+        return ((collator.compare(index_from, str) <= 0) &&
+                ((index_to == null) || collator.compare(str, index_to) <= 0));
     }
 }
