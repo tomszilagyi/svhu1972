@@ -71,7 +71,7 @@ telex -en távgépíró, telex(gép)
 telfer -n, telfrar techn: futómacska,
 
 műhelydaru
-telfer I bana -n, -or techn: elektromos
+telfer|bana -n, -or techn: elektromos
 sodronykötélpálya -vagn -en, -ar
 daru-macska, -kocsi
 telning -en, -ar 1. nov hajtás 2.

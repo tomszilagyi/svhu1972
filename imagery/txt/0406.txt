@@ -49,7 +49,7 @@ käkben -et, == állkapocscsont
 käke -n, -ar -v käk
 käkled -en, -er állkapocsízület
 kälkbacke -n, -ar ródlipálya
-kälk I borgare -n, = nyárspolgár, filiszter
+kälk|borgare -n, = nyárspolgár, filiszter
 
 -borgerlig -t nyárspolgári
 kälke -n, -ar szán(kó); ródli; åka ~

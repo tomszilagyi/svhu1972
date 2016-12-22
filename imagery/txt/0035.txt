@@ -45,7 +45,7 @@ naptár; évkönyv, almanach
 aln -en, -ar rőf (régi .hosszmérték =
 
 0,594 m) -mått -et, = rőf(mérték)
-alns I bred -brett rőfnyi széles -lång -t
+alns|bred -brett rőfnyi széles -lång -t
 rőfnyi, (egy) rőf hosszú, rőfös
 aln|tals -vis adv rőfre, rőfszámra
 alp -en, -er magashegység, havas

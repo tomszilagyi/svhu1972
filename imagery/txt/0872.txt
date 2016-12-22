@@ -56,7 +56,7 @@ terhelt -teckna aláír -tecknad
 aláírat; alulírott
 
 undertiden adv tid
-under I titel -n, -titlar alcím (pl. könyvé)
+under|titel -n, -titlar alcím (pl. könyvé)
 -ton -en, -er 1. zene alhang 2. átv
 mellék-zönge, árnyalat -trycka -tryckte, -tryckt
 elnyom, elfojt-tryckning -en elnyomás,

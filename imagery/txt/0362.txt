@@ -113,7 +113,7 @@ karl|galen -galet o férfibolond -göra -t
 férfimunka
 karl johanssvamp -en, -ar vargánya,
 közönséges tinóru (gomba)
-karlItokig -t o férfibolond -torka [-o-]
+karl|tokig -t o férfibolond -torka [-o-]
 -n tréf: det rådde stor ~ nagy hiány
 voit férfiakban -tycke: hon har ~
 sikere van a férfiaknál, van
@@ -128,5 +128,5 @@ karminröd -rött kárminvörös
 karmosinröd -rött karmazsinvörös
 karmstol -en, -ar karosszék
 karneval -en, -er farsang, karnevál
-karnevals I skämt -et, = farsangi tréfa
+karnevals|skämt -et, = farsangi tréfa
 v. móka -tåg -et, = farsangi felvonulás

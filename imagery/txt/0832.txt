@@ -100,7 +100,7 @@ lépcsőn le; gå nedför ~n lemegy a
 lépcsőn; på v. i ~n a lépcsőn; a
 lépcsőházban
 
-trapp I avsats -en, -er ép: lépcsőpihenő
+trapp|avsats -en, -er ép: lépcsőpihenő
 -belysning -en trappljus -gavel -n,
 -gavlar ép: lépcsőzetes oromzat -hus
 -et, = lépcsőház -ljus -et, -lyse -t

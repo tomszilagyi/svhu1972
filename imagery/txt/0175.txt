@@ -102,7 +102,7 @@ faro|fylld -fyllt veszedelmes, veszélyes
 -zon -en, -er veszélyes övezet
 fars -en, -er 1. bohózat, burleszk 2.
 tréfa, móka, bolondozás
-fars I arv -et, = atyai örökség v. örökrész,
+fars|arv -et, = atyai örökség v. örökrész,
 O apai juss -gubben o àz öreg(em), a
 papám
 

@@ -108,7 +108,7 @@ polis2 -en 1. rendőrség; hemlig ~
 titkos– rendőrség; förbjuden av ~en rendőrileg
 tilos; anmäla ngn för ~en feljelent vkit
 a rendőrségen 2. plur: -er rendőr
-polis I anmälan — (en), -anmälningar
+polis|anmälan — (en), -anmälningar
 rendőrségi feljelentés -bevakning -en,
 -ar rendőri őrizet -bil -en, -ar
 rendőrautó -bricka -n, -or

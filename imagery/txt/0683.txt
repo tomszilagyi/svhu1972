@@ -42,7 +42,7 @@ småländska -n 1. smålandi nyelvjárás
 
 2. plur: -or smålandi nő
 smålänning -en, -ar smålandi (ember)
-små I löje -t, -n (kis) mosoly; ett söisurt ~
+små|löje -t, -n (kis) mosoly; ett söisurt ~
 édes-bús mosoly -mynt -et aprópénz
 -mönstrad apró- v. kismintás
 småningom [-om] adv: (så) ~

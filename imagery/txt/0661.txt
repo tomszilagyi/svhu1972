@@ -116,4 +116,4 @@ országút és vasút keresztez(őd)ése 3. szabás
 (ruháé) 4. techn (kereszt)metszet,
 szelvény
 
-skärnings j linje -n, -r metszésvonal
+skärnings|linje -n, -r metszésvonal

@@ -70,12 +70,12 @@ eld|ledning -en kat: tűzvezetés
 -linje -n, -r kat: tűzvonal
 eldning -en fűtés, tüzelés
 eldningsolja [-o-] -n, -or fűtőolaj
-eld I pelare -n, — tűz- v. lángoszlop -prov
+eld|pelare -n, — tűz- v. lángoszlop -prov
 -et, = tűzpróba -regn -et, = tűzeső
-el I drift -en elektromos meghajtás,
+el|drift -en elektromos meghajtás,
 villamos üzemeltetés -driven -drivet
 villanymeghajtású
-eld I rum -rummet, = techn tűztér,
+eld|rum -rummet, = techn tűztér,
 tüzelőtér; kazántér, -ház-röd-rö// tűz- v.
 lángvörös, tűzpiros -rör -et, = techn tűzeső,
 lángcső; kat lövegcső-själ -en, -ar

@@ -1,4 +1,4 @@
-driver bort a hajó tovasodródik (a
+skeppen driver bort a hajó tovasodródik (a
 parttól); ~ igenom keresztül- v. áthajt;
 áiv keresztülvisz; ~ in ett belopp
 behajt egy összeget; ~ upp felhajt,
@@ -28,7 +28,7 @@ drog1 [-o-] -en, -er gyógyáru-nyersanyag,
 gyógyáru
 drog2 dra
 
-drog I affär -en, -er, -handel -n drogéria
+drog|affär -en, -er, -handel -n drogéria
 drogist -en, -er gyógyárukereskedő,
 dro-gista
 

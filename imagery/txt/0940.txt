@@ -9,7 +9,7 @@ vincr|bröd -et, = vajas péksütemény,
 császárzsemle -korv [-o-] -en, -ar bécsi
 virsli -snitsel -nf -snitslar bécsi szelet
 (borjúdióból)
-vin I fat -et, = boroshordó -flaska -n, -or
+vin|fat -et, = boroshordó -flaska -n, -or
 
 borosüveg, -palack
 vingad szárnyas, szárnnyal ellátott
@@ -113,7 +113,7 @@ zugprédikátor -rät -rätt derékszögű;
 merőleges (mot ngt vmire) -spets -en, -ar mat;
 szög csúcsa
 
-vin I kylare -h, = pezsgő- v borhűtő
+vin|kylare -h, = pezsgő- v borhűtő
 veder -källare -n, = borospince -kännare
 -n, — borszakértő -land -et, -länder
 bortermelő ill. szőlőtermelő ország

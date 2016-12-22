@@ -25,7 +25,7 @@ teniszháló -plan -en, -er teniszpálya
 -tävling -en, -ar teniszverseny,
 -mérkőzés
 
-tenn I kärl plur ónedények -soldat [-o-]
+tenn|kärl plur ónedények -soldat [-o-]
 -en, -er ólomkatona -tallrik -en, -ar
 óntányér
 

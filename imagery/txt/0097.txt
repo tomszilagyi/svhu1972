@@ -37,13 +37,13 @@ képzettségi v. műveltségi fok -törst
 bild|ordbok -en, -böcker képes szótár -rik
 
 -i képekben gazdag v. bővelkedő
-bild I skrift -en, -er képírás -skön -t
+bild|skrift -en, -er képírás -skön -t
 gyönyörű szép -snidare -n, = faszobrász,
 képfaragó -språk -et, = képes beszéd
 -stod -en, -er szobor -telegraf -en, -er
 képtávíró
 
-bil I däck -et, — gépkocsiabroncs-köpeny
+bil|däck -et, — gépkocsiabroncs-köpeny
 -färd -en, -er gépkocsitúra, autóút,
 -kirándulás -glasögon [-o-] plur
 autószemüveg, porszemüveg
@@ -95,7 +95,7 @@ autóbaleset, autószerencsétlenség -ring
 biltog -t törvényen kívüli, kitaszított;
 
 számkivetett, száműzött
-bilItrafik–en gépkocsiforgalom -tur -en, -er
+bil|trafik–en gépkocsiforgalom -tur -en, -er
 autótúra, -út (utazás) -väg -en, -ar
 gépkocsi- v autóút -ägare -n, =
 gép-kocsi- v autótulajdonos, autós

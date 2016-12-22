@@ -50,7 +50,7 @@ tryckning -en, -ar 1. nyomás; szorítás
 trycknings|kostnad [-o-] -en, -er
 nyom-(tat)ási v. nyomdaköltség -tillstånd
 -et, = nyomási engedély, imprimatúra
-tryck I ort -en, -er a nyomtatás v.
+tryck|ort -en, -er a nyomtatás v.
 megjelenés helye -papper -et, = nyomópapír
 -penna -n, -or nyomóbetétes ceruza
 -press -en, -ar nyomd: nyomósajtó,

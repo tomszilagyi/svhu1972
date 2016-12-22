@@ -81,7 +81,7 @@ szivel-hájasodás, szívelzsírosodás -brist -en,
 få en ~ på klänningen zsírfoltot ejt a
 ruhán -halt -en zsírtartalom
 fettisdag -en húshagyókedd
-fett I körtel -n, -körtlar faggyúmirigy -lager
+fett|körtel -n, -körtlar faggyúmirigy -lager
 -lagret, — zsírréteg -svulst -en, -er orv:
 zsírdaganat -ämne -t, -n zsiradék
 fiasko -t, -n kudarc, fiaskó

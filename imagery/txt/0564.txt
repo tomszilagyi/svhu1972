@@ -4,7 +4,7 @@ rakétajelzés; jelzőrakéta
 rakhyvel -n, -hyvlar önborotvakészülék
 rakitis -en angolkór
 rakitisk -t angolkóros
-rak I kniv -en, -ar borotva(kés) -kopp [-o-]
+rak|kniv -en, -ar borotva(kés) -kopp [-o-]
 -en, -ar borotválkozótál -kräm -en, -er
 borotvakrém
 raklång -t teljes hosszában; elnyúlva,

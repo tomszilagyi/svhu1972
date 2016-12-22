@@ -18,12 +18,12 @@ foderbeta -n, -or takarmányrépa
 foderblad -et, = nov csésze- v.
 kehelylevél
 
-foderIkaka -n, -or olajpogácsa -lada
+foder|kaka -n, -or olajpogácsa -lada
 -n, -or pajta, csűr (takarmány
 tárolására )
 
 fodertyg -et, = v. -er bélésanyag
-foder I växt -en, -er takarmánynövény
+foder|växt -en, -er takarmánynövény
 fodra1 takarmányoz, abrakol, etet
 (állatot)
 
@@ -63,7 +63,7 @@ foglig -t alkalmazkodó, kezelhető, simu-
 
 lékony, engedelmes, hajlékony;
 engedékeny, méltányos
-fog I stryka -strök, -strukit ép: hézagol,
+fog|stryka -strök, -strukit ép: hézagol,
 hézagot kitölt, habarcsol -svans -en,
 -ar rókafarkfűrész, farokfűrész
 fokaldistans -en, -erfiz: gyújtó- v.
@@ -107,7 +107,7 @@ folka [-0-]: o ~ sig kivakaródzik,
 kiművelődik; megembereli magát,
 megjavul
 
-folk I anda -n néplélek -båd -et, =
+folk|anda -n néplélek -båd -et, =
 népfürdő -bibliotek -et, = népkönyvtár
 -bildning -en népművelés; általános
 műveltség(i színvonal) -bokföring -en

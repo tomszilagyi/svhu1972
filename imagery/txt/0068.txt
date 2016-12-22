@@ -79,10 +79,10 @@ avund|sam -sjuk -t irigy; féltékeny (på
 ngn vkire; över ngt vmire) -sjuka -n
 irigység; féltékenység; spricka av ~
 megpukkad az irigységtől
-avunds I man -mannen, -män irigye [-[vkinek]-] {+[vki-
+avunds|man -mannen, -män irigye [-[vkinek]-] {+[vki-
 nek]+} -värd -värt irigylésre méltó,
 irigylendő, irigyelhető
-av I vakta be- v. meg- v. kivár; vár (ngt
+av|vakta be- v. meg- v. kivár; vár (ngt
 vmire); ~ tillfället lesi az alkalmat;
 ~nde ditt svar válaszodat várva; inta
 en ~nde hållning várakozó álláspontot

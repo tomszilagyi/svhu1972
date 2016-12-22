@@ -100,7 +100,7 @@ benägna svar szíves válaszát várva
 benämna -nämnde, -nämnt megnevez,
 elnevez; benämnt tal megnevezett v.
 konkrét szám
-be I or dr a 1. kat kirendel, vezényel;
+be|ordra 1. kat kirendel, vezényel;
 megparancsol, elrendel; han blev ~d att
 hålla sig redő parancsot kapott hogy
 álljon, készen 2. ker megbízást ad’ (ngn

@@ -56,7 +56,7 @@ manskap -et t. legénység 2. személyzet
 manskapsmäss -en, -ar legénységi
 étkezde
 
-mans I kör -en, -er férfikar, -kórus -lem
+mans|kör -en, -er férfikar, -kórus -lem
 
 -lemmen, -lemmar hímvessző, -tag
 manslinje -n, -r férfiág; på ~n férfiágon

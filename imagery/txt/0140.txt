@@ -6,7 +6,7 @@ diska2 sp O diszkvalifikál
 diskant -en, -er zene: diszkant, a legfelső
 szólam; szoprán -klav -en, -er zene:
 violinkulcs
-disk I balja -n, -or mosogatóedény -borste
+disk|balja -n, -or mosogatóedény -borste
 -n, -ar edénymosókefe -bänk -en, -ar
 (beépített) mosogató(asztal)
 diskerska -n, -or mosogatónő, -lány

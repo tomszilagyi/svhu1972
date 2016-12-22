@@ -7,7 +7,7 @@ horgonyt, lehorgonyoz 2. vill forgórész,
 armatúra; delejzár 3. ép kapocs(vas),
 falkötővas, kihorgonyzóvas 4. óra
 horgony, anker
-ankar!fly -(e)t, -n horgonykapa, -köröm
+ankar|fly -(e)t, -n horgonykapa, -köröm
 -grund -enr -er hajó: horgonytalaj
 -gång -ert óra: horgonyjárat -krän
 -en, -ar hajó: horgonydaru -kärna

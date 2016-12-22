@@ -100,7 +100,7 @@ turist -en, -er természetjáró, országjáró,
 
 utas, kiránduló, túrázó, turista
 turista o turistáskodik
-turist I buss -en, -ar kiránduló- v.
+turist|buss -en, -ar kiránduló- v.
 turistaautóbusz -byrå -n, -er utazási v.
 idegenforgalmi iroda -båt -en, -ar
 kiránduló- v. turistahajó -förening -en, -ar

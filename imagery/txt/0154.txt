@@ -8,7 +8,7 @@ ebenholts [-0-] -en v. -et ébenfa
 echaufferad [eso-] izgatott, felhevült,
 
 nekitüzesedett
-ecklesiastik I departement -et $: vallás- és
+ecklesiastik|departement -et $: vallás- és
 közoktatásügyi minisztérium,
 kultuszminisztérium -minister -n, -ministrar
 vallás- és közoktatásügyi miniszter,
@@ -21,7 +21,7 @@ rá 2. átok, káromkodás
 edda -n, -or Edda(-dal) (óskandináv hősi
 eposz )
 
-edehveiss -en, -er nov: havasi gyopár
+edelweiss -en, -er nov: havasi gyopár
 e(de)r pron I. (személyes) ni II.
 (birtokos:) -1, e(d)ra 1. a ti.., -tok
 (-tek, -tök); tietek; ~ vän a ti
@@ -99,4 +99,4 @@ efter|anmälan = (en), -anmälning -en,
 utánzat -arbete-1 befejező munka,
 végső simítások -behandling -en, -ar
 utókezelés -beskatta utólag megadóztat
--beställning -en, -ar utánrendelés -Midi
+-beställning -en, -ar utánrendelés -bild

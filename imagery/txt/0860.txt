@@ -108,7 +108,7 @@ tält -et, = sátor; slå upp ett ~ sátrat ver
 tälta 1. sátrat ver 2. sátorozik,
 sátorban lakik
 
-tält I duk -en, -ar sátorvászon, -ponyva;
+tält|duk -en, -ar sátorvászon, -ponyva;
 (kocsi)ponyva -lag -et egy sátorban
 lakók -lina -n, -or sátorkötél -läger
 -lägret, = sátortábor

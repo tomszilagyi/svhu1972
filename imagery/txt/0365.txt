@@ -43,7 +43,7 @@ macskafélék (családja) -uggla -n, -or
 macskabagoly
 
 kattun -et v. -en, -er tex: karton
-katt I unge -n, -ar cica, kismacska
+katt|unge -n, -ar cica, kismacska
 Kaukasien npr Kaukázus
 kaukasisk -t kaukázusi
 kausal -t okozati, oksági, kauzális

@@ -113,7 +113,7 @@ vízgyűjtő medence
 reservoar|penna -n, -or töltőtoll -(penne)-
 
 bläck -et, = töltőtolltinta
-reserv I officer [-o-] -(e)n, -officerare
+reserv|officer [-o-] -(e)n, -officerare
 tartalékos tiszt -ring -en, -ar
 tartalék-(kerék)abroncs -trupper plur kat: tar-
 

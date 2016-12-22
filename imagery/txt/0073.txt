@@ -98,7 +98,7 @@ band|hund -en,-ar láncos kutya
 bandit -en, -er bandita, zsivány, útonálló,
 rabló
 
-band I järn -et, = szalagvas, abroncsvas
+band|järn -et, = szalagvas, abroncsvas
 -mask -en, -ar galandféreg,
 pántlikagiliszta -spelare -n, = hangfelvevő
 készülék -såg -en, -ar szalagfűrész

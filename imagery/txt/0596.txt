@@ -12,7 +12,7 @@ rättrogen (elv.: rätt-trogen) 1. igazhitű
 rättrådig -t igazságos, becsületes, igaz,
 derék
 
-rätts I anspråk -et, = jogigény
+rätts|anspråk -et, = jogigény
 -begrepp -et, == jogi fogalom; plur jogi
 felfogás -enlig -t jog szerinti, jogszerű,
 jogos -fall -et, = jogeset -filosofi [-so-]
@@ -39,11 +39,11 @@ vegyészet v. .vegyvizsgálat -kemisk
 -t igazságügyi vegyész(et)i
 rätt|skipning -en jog- v.
 igazságszolgáltatás; törvénykezés
-rätts I kraft -en jogerő
+rätts|kraft -en jogerő
 rätt|skrivning -en, -ar helyesírás;
 helyesírási gyakorlat, tollbamondás •
 -skrivningsfel -et, = helyesírási hiba
-rätts I kränkning -en, -ar jogsértés,
+rätts|kränkning -en, -ar jogsértés,
 törvényszegés -kunnig -t jogtudó, jogi
 képzettségű -känsla -n jogi érzék,
 jogérzék, igazságérzet,

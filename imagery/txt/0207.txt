@@ -7,7 +7,7 @@ fri|hjul -et, = techn szabádonfutó (kerék)
 szabadonfutó-agy -idrott -en
 (köny-nyü)atlétika
 frikadell -en, -er húsgombóc (levesben)
-fri I kalla felment; mentesít, felold,
+fri|kalla felment; mentesít, felold,
 -sza-badít; från värnplikt a katonai
 szolgálat alól felmentett v. mentes
 -kallelse -n, -r felmentés (katonai
@@ -21,7 +21,7 @@ friktion -en, -er 1. fiz dörzsöl(őd)és,
 súrlódás 2. átv súrlódás, egyenetlenség
 friktionsfri -fritt súrlódásmentes,
 súrlódás nélküli (átv is)
-fri j kyrka -n, -or szabadegyház -kyrklig
+fri|kyrka -n, -or szabadegyház -kyrklig
 -t [vmely] szabadegyházhoz tartozó
 -kår -en, -er szabadcsapat -känna
 -kände, -känt felment -kännande I.

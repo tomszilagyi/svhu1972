@@ -5,7 +5,7 @@ környező világ, környezet
 omvärva -värvde, -värvt körülvesz,
 -rajong
 
-om I växla felvált, váltogat; váltakozik
+om|växla felvált, váltogat; váltakozik
 -växlande változó, változatos;
 váltakozva, felváltva -växling -en, -ar
 változás; váltakozás, váltogatás;

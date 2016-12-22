@@ -48,7 +48,7 @@ levél -brottning [-o-] -en sp:
 szabad-stílusú birkózás -bytare -n, = kalóz
 -byteri -(e)t, -er kalózkodás
 frid -en béke, békesség, lelki nyugalom;
-~ vare med eder I béke veletek!; ~ över
+~ vare med eder béke veletek!; ~ över
 hans stoft! béke hamvaira v. poraira!;
 må hon vila i ~! nyugodjék békében!
 fridag -en, -ar szabadnap; kimenőnap;
@@ -106,7 +106,7 @@ szabadságjogok; szabadosság, illetlenség; tapsig
 för stora ~er mot ngn túl sokat
 megenged magának vkivel szemben;
 fri- och rättigheter szabadságjogok
-frihets I anda -n a szabadság szelleme
+frihets|anda -n a szabadság szelleme
 -fientlig -t szabadságellenes -hjälte
 -n, -ar szabadsághős -kamp -en, -er,
 -krig -et, = szabadságharc -kämpe

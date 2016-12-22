@@ -105,7 +105,7 @@ valthorn -et, == zene vadászkürt
 valthornist -en, -er, valthornsblåsare -n,
 
 = zene vadászkürtös
-val I upprop -et, = választási felhívás -urna
+val|upprop -et, = választási felhívás -urna
 -n, -or szavazóurna, választási urna
 valuta -n, -or 1. pénznem, valuta;
 deviza; hård ~ kemény v. nemes valuta;
@@ -117,7 +117,7 @@ ellenérték; ~ per idag értéke per ma, mai
 értékkel; få full ~ för sina pengar
 teljes v. megfelelő ellenértéket kap
 a pénzéért, megtalálja számítását
-valuta I devalvering -en, -ar
+valuta|devalvering -en, -ar
 pénzleértéke-lés, devalválás -förbrytelse -n, -r
 devizabűncselekmény -förseelse -n, -r
 devizavétség -jobbare -n, — valutaüzér,

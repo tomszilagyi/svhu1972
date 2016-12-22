@@ -1,7 +1,7 @@
 álszent, jámborkodó, kenetteljes;
 kegyeskedő
-.gudson -en, -söner keresztfiú
-.guds I tjänst -en, -er istentisztelet -tro -n
+gudson -en, -söner keresztfiú
+guds|tjänst -en, -er istentisztelet -tro -n
 
 istenhit
 guffar o gudfa(de)r
@@ -92,7 +92,7 @@ kezeken) visz -viva -n, -or nov:
 (tavaszi) kankalin
 gulna (meg)sárgul
 
-gul I ockra -n, -or ásv: sárgaföld, (sárga)
+gul|ockra -n, -or ásv: sárgaföld, (sárga)
 okker -siktig -t sárgaságos; sápkóros
 -skiva -n, -or foto: sárga(szín)szűrő -sot
 -en sárgaság -sparv -en, -ar áll:

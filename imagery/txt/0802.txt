@@ -38,7 +38,7 @@ v. no) -läkekonst [-o-] -en fogorvoslás,
 fogászat
 tandlös -t fogatian
 
-tand I petar e -n, = fogpiszkáló, -vájó
+tand|petar e -n, = fogpiszkáló, -vájó
 -protes -en, -er fogprotézis; műfogsor
 -pulver -pulvret, — fogpor -rad -en, -er
 fogsor -reglering -en fogszabályozás

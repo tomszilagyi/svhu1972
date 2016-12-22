@@ -75,7 +75,7 @@ dragharmonika. -n, -or húzóharmonika
 draghäst -en, -ar igásió
 dragig -t. huzat os
 
-drag I kamp -en, -er kötélhúzás; átv
+drag|kamp -en, -er kötélhúzás; átv
 huzakodás, huzavona -kraft -en, -er
 vonóerő, húzóerő; szakítóerő -kärra -n, -or
 kézital iga, targonca, tragacs -láda -n,

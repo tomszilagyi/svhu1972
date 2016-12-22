@@ -76,7 +76,7 @@ fot|bad -et, = lábfürdő -beklädnad -en,
 
 -er lábbeli
 fotboll -en, -ar futball-labda; labdarúgás
-fotbolls I lag -et, = labdarúgó-csapat
+fotbolls|lag -et, = labdarúgó-csapat
 -match -en, -er labdarúgó-mérkőzés, o
 meccs -plan -en, -er labdarúgópálya,
 futballpálya -spelare -n, =
@@ -108,5 +108,5 @@ fotografi -(e)t v. -(e)n, -er fénykép;
 fényképészet, fotográfia -album -et, ~
 fényképalbum -apparat -en, -er
 fényképezőgép
-foto|grafisk -t fényképészeti,
-fotografikus -gravyr -en, -er nyomd: fotogravür,
+foto|grafisk -t fényképészeti, fotografikus
+-gravyr -en, -er nyomd: fotogravür,

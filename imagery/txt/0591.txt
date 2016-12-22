@@ -13,7 +13,7 @@ rozs–lángliszt
 rågummi -t nyersgumi, kaucsuk -sula
 
 -n, -or .krepp(gumi)talp
-råg I åker -n, -åkrar rozsföld
+råg|åker -n, -åkrar rozsföld
 rågång -en, -ar mezsgye, határ(vonal);
 határjel.
 
@@ -87,7 +87,7 @@ rablótámadás-råna rabol; kirabol; ~ ngn på ngt (v.
 ngt från ngn) elrabol vmit vkitől
 rånare -n, ~ rabló
 
-rån I mord -et, ~ rablógyilkosság
+rån|mord -et, ~ rablógyilkosság
 -mördare -n, rablógyilkos
 rånock [-o-] -en, -ar hajó:
 vitorla-rúdvég
@@ -114,7 +114,7 @@ egér-piszok -svans -en, -ar 1. patkány- v.
 egérfark 2. o vékony hajfonat
 -utrotning -en, -ar patkányirtás -äten
 -ätet patkány- v. egérrágta
-rå I vara -n, -or nyersanyag, -termék
+rå|vara -n, -or nyersanyag, -termék
 -varubrist -en nyersanyaghiány
 -varuförsörjning -en nyersanyagellátás
 -ämne -t, -n nyersanyag

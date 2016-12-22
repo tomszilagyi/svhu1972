@@ -33,7 +33,7 @@ felebaráti szeretet; fatta ~ till ngn
 megszeret vkit; beleszeret vkibe; av
 ~ till ngn vki iránti szerelemből v.
 szeretetből
-kärleks!affär -en, -er szerelmi ügy v.
+kärleks|affär -en, -er szerelmi ügy v.
 kaland -brev -et, — szerelmes levél -full
 -t szeretetteljes, szerető, gyengéd
 -förbindelse -n, -r, -förhållande -t, -n
@@ -64,7 +64,7 @@ veleje; ~n av landets ungdom az ország
 ifjúságának színe-java; pudelns ~
 a dolog veleje; tränga till sakens ~
 behatol a dolog lényegébe
-kärn I energi [-si]’ -(e)n
+kärn|energi [-si]’ -(e)n
 atom(mag)ener-gia, nukleáris energia -fri -fritt mag
 nélküli -frisk -t makkegészséges -frukt
 -en, -er húsos ill. csonthéjas gyümölcs

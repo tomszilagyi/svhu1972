@@ -61,7 +61,7 @@ bányász -bolag -et, = bányatársulat,
 -gas -en, -er bányalég -gång -en,
 -ar tárna -lampa -n, -or bányászlámpa
 gruvlig -t borzasztó, szörnyű, iszonyú
-gruv I olycka -n, -or bányaszerencsétlenség
+gruv|olycka -n, -or bányaszerencsétlenség
 -ras -et, = bányabeomlás -samhälle
 -t, -n bányásztelepülés -schakt -et, ==
 (bánya)akna; bánya -stolpe -n, -ar,

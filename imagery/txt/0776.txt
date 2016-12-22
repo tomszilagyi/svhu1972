@@ -18,13 +18,13 @@ s: -en, -ar délsvéd v. dél-svédországi
 (ember)
 
 Sydsverige npr Dél-Svédország
-sydsyd I ost I. s: -en dél-délkelet
+sydsyd|ost I. s: -en dél-délkelet
 (világtáj) II. adv dél-délkeletre (om ngt
 vmitől) -väst I. s: -en dél-délnyugat
 (világtáj) II. adv dél-délnyugatra
 (om ngt vmitől)
 Sydungern npr Dél-Magyarország
-syd I vart adv délnek, délre, dél felé; ~ om
+syd|vart adv délnek, délre, dél felé; ~ om
 ngt vmitől délre -vind -en, -ar déli
 szél -väst I. s i. -en délnyugati szél;
 délnyugat (világtáj) 2. -en, -ar hajó:

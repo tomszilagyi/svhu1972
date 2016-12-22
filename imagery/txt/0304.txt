@@ -20,7 +20,7 @@ hjärterot -en, -rötter: detta grep oss i hj
 är-t(e)rötterna ez a szívünkbe
 markolt
 
-hjärter I tia -n, -or kártya: kőr tízes -äss
+hjärter|tia -n, -or kártya: kőr tízes -äss
 
 -et, — hj ärter ess
 hjärte|sak -en, -er szívügy -sorg -en, *er

@@ -75,7 +75,7 @@ kanál -tallrik -en, -ar levesestányér,
 mélytányér
 sopran -en, -er zene: szoprán (hang;
 szólam; énekes ill. énekesnő)
-sop I skyffel -n, -skyfflar szemét- v.
+sop|skyffel -n, -skyfflar szemét- v.
 szemeteslapát -station -en, -er
 szemétlerakó telep (köztisztasági hivatalé)
 -tunna -n, -or szemeteshordó,

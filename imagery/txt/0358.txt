@@ -47,7 +47,7 @@ kaik2 -en mész; bränd ~ égetett mész;
 
 släckt ~ oltott mész
 kalka 1. meszel 2. meszez (pl. talajt)
-kalkIaktig -t meszes, mésszerű -brott
+kalk|aktig -t meszes, mésszerű -brott
 [-0-] -et, = mészkőbánya -bruk -et
 1. mészégető (kemence) 2.
 mészhabarcs
@@ -106,12 +106,12 @@ kall|front -en, -er met: hidegfront -grin
 mosoly -grina gúnyosan mosolyog r.
 vigyorog
 kalligrafi -(e)n szépírás
-kall I jord -en mez: på ~(en)
+kall|jord -en mez: på ~(en)
 szabadföldben -mat -en hideg étel, hidegkonyha
 kallna hidegedik, hül; kihűl, lehűl; átv
 elhidegül
 
-kall I permanent -en, -permanentning
+kall|permanent -en, -permanentning
 
 -en, -ar hideg hullámosítás v. dauer
 -prat -et üres fecsegés, terefere -prata

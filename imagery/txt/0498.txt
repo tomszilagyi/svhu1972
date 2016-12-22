@@ -57,7 +57,7 @@ nuna -n, -or o arc, pofa, ábrázat
 nunna1 -n, -or apáca, szerzetesnő
 nunna2 nynna
 
-nunne I kloster -klostret, — apácazárda v.
+nunne|kloster -klostret, — apácazárda v.
 -kolostor -orden [-5*-] = (en), ordnar
 apácarend
 

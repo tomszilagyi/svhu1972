@@ -61,7 +61,7 @@ keresztfolyosó
 korsikan -en, -er, korslkanare -n, =
 korzikai (ember)
 korsikansk -t korzikai,
-kors I kyrka -n, -or kereszthajós templom
+kors|kyrka -n, -or kereszthajós templom
 
 -lagd -lagt keresztbe tett v. rakott
 korsning -en, -ar keresztez(od)és (biol

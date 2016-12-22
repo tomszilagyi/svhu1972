@@ -29,16 +29,16 @@ sejtkép-ződés 2. pol sejtalakítás -delning -en,
 magánzárka
 
 cellist -en, -er gordonkás, csellista
-cell I kropp -en, -ar sejttest -kärna -n, -or
+cell|kropp -en, -ar sejttest -kärna -n, -or
 
 . sejtmag
 cello -n, celli gordonka, cselló
 cellofan -et celofán, cellofán
-cell I stoff -en v. -et cellulózvatta -ull -en
+cell|stoff -en v. -et cellulózvatta -ull -en
 
 műrost, műszál
 cellulosa -n cellulóz, sejtanyag^
-cell I vägg-en, -ar biol: sejtfal -vävnad -en,
+cell|vägg-en, -ar biol: sejtfal -vävnad -en,
 
 -er sejtszövet
 cement -en v. -et cement

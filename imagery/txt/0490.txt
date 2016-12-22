@@ -87,7 +87,7 @@ bagolylepke -frost [-o-] -en, -er éjjeli fagy
 nattjänstgöring (elv,*: natt-tjänstgöring)
 
 -en, -ar éjjeli szolgálat v. ügyelet
-natt I klocka -n, -or éjjeli csengő -kröken:
+natt|klocka -n, -or éjjeli csengő -kröken:
 O på ~ éjnek idején -kvarter -et, =
 éjjeli szállás -kärl -et, = éjjeli(edény)
 nattlig -t éjszakai, éjjeli

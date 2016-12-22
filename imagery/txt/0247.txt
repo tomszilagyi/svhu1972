@@ -1,4 +1,4 @@
-bűvöl, megigéz, -babonáz, -trollande
+bűvöl, megigéz, babonáz, -trollande
 [-o1-] elbűvölő, megigéző, bűbájos,
 varázs(lat)os -trollning [-0-] -en
 el-varázsolás, megbűvölés, -igézés;
@@ -6,7 +6,7 @@ va-rázs(lat), bűvölet, bűbáj, igézet; bryta
 . ~en megtöri a varázst
 förtrupp -en,-er kat: elővéd, -őrs
 förtrusta trösztösít; monopolizál
-för I tryck -et elnyomás, elnyomatás,
+för|tryck -et elnyomás, elnyomatás,
 zsarnokság -trycka -tryckte, -tryckt elnyom
 -tryckare -n, = elnyomó, zsarnok
 -tryta -tröt, -trutit bosszant,
@@ -61,14 +61,14 @@ mindazonáltal, mégis, nem kevésbé;
 det är icke ~ sant azért ez nem kevésbé
 igaz
 
-för I ty eka -tyckte, -tyckt: det må ingen ~
+för|tycka -tyckte, -tyckt: det må ingen ~
 ezt senki se vegye zokon (v.
 rossznéven) -tydliga megmagyaráz,
 érthetőbbé tesz, megvilágít -tydligande -t,
 -n megmagyarázás, magyarázat,
 fejtegetés -tyna förtvina -tyska
 élné-metesít, germanizál; németre fordít
-för I täckt rejtett, burkolt; / ~a ordalag
+för|täckt rejtett, burkolt; / ~a ordalag
 virágnyelven, burkoltan -tälja -täljde,
 -täljt (irod: -tålde, -talt) elmond,
 elbeszél, jelent, tudósít, hírül ad -tänka
@@ -78,7 +78,7 @@ nem lehet tőle zokon venni
 förtänksam -t előrelátó, körültekintő,
 meggondolt, óvatos; ~t nog
 óvatosságból, elővigyázatosságból
-för I tära -tärde, -tärt (el)fogyaszt; eszik,
+för|tära -tärde, -tärt (el)fogyaszt; eszik,
 iszik; felemészt (pl. tűz); (el)mar,
 (rozsda); átv emészt, sorvaszt; av
 längtan emészti a vágyakozás, ég a

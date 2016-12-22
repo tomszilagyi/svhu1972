@@ -87,7 +87,7 @@ anmälare -n = bejelentő; feljelentő;
 
 (könyv)bíráló, recenzens
 anmälning -en, -ar anmälan
-anmälnings I avgift -en, -er felvételi v.
+anmälnings|avgift -en, -er felvételi v.
 beiratkozási díj -tid -en, -er felvételi v.
 beiratkozási határidő
 anmärka -märkte, -märkt 1. megjegyez,

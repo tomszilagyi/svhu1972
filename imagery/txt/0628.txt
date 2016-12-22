@@ -6,7 +6,7 @@ kóreset; megbetegedés -förlopp [-o-]
 betegség oka -sym(p)tom [-töm] -et, =
 kórtünet -tecken -tecknet, = betegség
 jele; kórjel, -tünet
-sjuk I ersättning -en, -ar táppénz -fartyg
+sjuk|ersättning -en, -ar táppénz -fartyg
 -et, = betegszállító hajó -försäkra
 biztosítást köt betegség esetére
 -försäkring -en, -ar betegségi biztosítás
@@ -18,7 +18,7 @@ sjukhus -et, — kórház; ligga på ~
 kórházban fekszik -avgift -en, -er
 kórházi ápolási díj -läkare -n, — kórházi
 orvos -vård -en kórházi ápolás
-sjuk I journal [-sur-] -en, -er betegnapló
+sjuk|journal [-sur-] -en, -er betegnapló
 -kassa -n, -or betegsegélyző (pénztár),
 betegbiztosító intézet -kost [-o-] -en
 betegkoszt, diéta -ledig -t: vara ~
@@ -39,7 +39,7 @@ beteg(ek) étele v. tápláléka,
 betegkoszt
 
 sjukna megbetegedik, -betegszik
-sjuk I penning-en, -ar táppénz -permission
+sjuk|penning-en, -ar táppénz -permission
 -en, -er betegszabadság -rapport [-o-]
 -en, -er jelentés a betegek létszámáról
 -rapportera [-o-] beteglistára felvesz;

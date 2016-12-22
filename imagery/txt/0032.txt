@@ -76,7 +76,7 @@ párosat v. duplát dob
 alla|handa allehanda -redan adv már
 
 ammans allesamman(s)
-all I bekant közismert, általánosan ismert
+all|bekant közismert, általánosan ismert
 -daglig -t mindennapi, napi;
 (hétköznapi, közönséges, elcsépelt, banális
 alldeles adv teljesen, egészen, tökéletesen;

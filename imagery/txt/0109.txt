@@ -20,7 +20,7 @@ bord|dans -en asztaltáncoltatás -duk -en,
 bordell [-o-] -en, -er nyilvános ház,
 bordélyház)
 
-bord I lägga -lade, -lagt 1. [-[törvényjavaslatot}-] {+[törvényjavas-
+bord|lägga -lade, -lagt 1. [-[törvényjavaslatot}-] {+[törvényjavas-
 latot}+} letesz a képviselőház asztalára;
 2. elnapol; ~ ärendet elnapolja az
 ügyet -löpare -n, = asztalfutó •

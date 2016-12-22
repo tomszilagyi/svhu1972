@@ -1,6 +1,6 @@
 jóktól!; han har fått ~ i matematik
 intőt kapott matematikából
-varnings I ord -et, = intő v. figyelmeztető
+varnings|ord -et, = intő v. figyelmeztető
 szó, figyelmeztetés -signal -en, -er
 figyelmeztető jelzés, vészjel -skott [-o-]
 -et, = figyelmeztető lövés -skylt -en,

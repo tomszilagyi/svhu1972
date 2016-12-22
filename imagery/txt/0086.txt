@@ -22,7 +22,7 @@ beredskap -en, -er készültség, készenlét;
 kat készültség(i alakulat); stå v.
 finnas v. vara i ~ készen v. rendelkezésre
 áll, készenlétben van
-beredskaps I tjänst -en, -er készültségi v.
+beredskaps|tjänst -en, -er készültségi v.
 
 készenléti szolgálat
 beredvillig -t kész, hajlandó; készséges,
@@ -51,7 +51,7 @@ berg|kristall -en, -er hegyi kristály -land
 -mästare -n, = bányamester -olja
 -n kőolaj, petróleum -pass -et, = hágó,
 hegyszoros -salt -et kősó
-bergs!akademi -(e)n, -er bányászati
+bergs|akademi -(e)n, -er bányászati
 akadémia -bo -n, -r hegylakó -bruk -et
 bányászat, bányaipar -hantering -en
 bányaművelés, bányászat, bányaipar
@@ -64,11 +64,11 @@ berg|sjuka -n hegyi betegség -sjö -n, -ar
 hegyi tó, tengerszem
 bergs|kam -kammen, -kammar
 hegygerinc -kedja -n, -or hegylánc
-berg I skr ed -et, — hegyomlás, -csuszamlás
+berg|skred -et, — hegyomlás, csuszamlás
 -skreva -n, -or (hegy)hasadék,
 hegy-szakadék
 
-bergs I kägla -n, -or hegykúp -lag -en, -er
+bergs|kägla -n, -or hegykúp -lag -en, -er
 
 bányavidék, -kerület
 bergsluttning -en, -ar hegyoldal, lejtő
@@ -79,7 +79,7 @@ hegyhát, -gerinc -skola -n, -or
 bányásziskola; bányászati főiskola -topp
 -en, -ar hegycsúcs, -orom, -tető -trakt
 -en, -er hegyvidék; hegyes vidék
-berg I sträcka -n, -or, -sträckning -en, -ar
+berg|sträcka -n, -or, -sträckning -en, -ar
 
 hegyvonulat, hegység
 bergsvetenskap -en bányaműveléstan

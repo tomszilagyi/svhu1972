@@ -1,8 +1,8 @@
--visz; ~ undan elvezet, elvisz,
-elszállít; ~ upp felvezet, -visz; ~ upp rigt
+visz; ~ undan elvezet, elvisz,
+elszállít; ~ upp felvezet, visz; ~ upp rigt
 på ngns konto vmit vkinek a
 számlájára ír; ~ ut kivezet; kivisz, exportál;
-~ vidare folytat, továbbvezet, -visz;
+~ vidare folytat, továbbvezet, visz;
 ~ vilse félrevezet; ~ över átvezet,
 átvisz, átszállít
 förakt -et megvetés, lenézés; värd ~

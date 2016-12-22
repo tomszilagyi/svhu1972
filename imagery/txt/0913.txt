@@ -94,7 +94,7 @@ kérgesedés 2. ép párnatag (oszlopon)
 valka 1. ide-oda forgat 2. techn ványol,
 kallóz
 
-val I kampanj -en, -er választási hadjárat
+val|kampanj -en, -er választási hadjárat
 v. kampány -kandidat -en, -er jelölt
 (választáson )
 valkig -t kérges, bőrkeményedéses -het

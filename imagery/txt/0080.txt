@@ -63,7 +63,7 @@ dologról; stå v. vara i ~ att göra ngt
 éppen készül v, szándékozik vmit
 tenni
 
-begrepps I bestämning -en, -ar
+begrepps|bestämning -en, -ar
 fogalommeghatározás -förmåga -n
 felfogóképesség -förvirring -en, -ar
 fogalomzavar -mässig -t fogalomszerű, a

@@ -81,7 +81,7 @@ vmit)
 måttagning (elv.: mått-tagning) -en, -ar
 
 mértékvétel
-mått I band -et, = mérőszalag -beställd
+mått|band -et, = mérőszalag -beställd
 -beställt mérték szerint (v. méretre)
 készült
 

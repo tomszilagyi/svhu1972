@@ -67,7 +67,7 @@ feneket súrol, fenékhez ütődik -märke
 -t,-n hajó: part jel
 landning -en, -ar 1. hajó kikötés,
 partraszállás; 2. rep leszállás
-landnings I bana -n, -or rep: leszállópálya
+landnings|bana -n, -or rep: leszállópálya
 -märke -t, -n leszállójel (repülőtéren)
 -plats -en, -er 1. hajó kikötőhely
 
@@ -75,7 +75,7 @@ landnings I bana -n, -or rep: leszállópálya
 kifutópálya -tillstånd -et, = leszállási
 engedély
 
-land I område -t, -n (föld)terület
+land|område -t, -n (föld)terület
 -permis-sión -en, -er haditeng: partralépési
 engedély -remsa -n, -or földsáv
 lands|bygd -en vidék; falu; på ~en

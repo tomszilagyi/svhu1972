@@ -1,7 +1,7 @@
 = történetíró -teckning -en
 történetírás
 
-hävd I vunnen -vunnet hagyományos,
+hävd|vunnen -vunnet hagyományos,
 (régtől fogva) szokásos, általánosan
 elfogadott; meghonosodott; ett
 hävdvunnet bruk meghonosodott v. ősrégi

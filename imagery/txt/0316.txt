@@ -7,15 +7,15 @@ hållnings|fel -et, = hibás testtartás
 állhatatlanság, (jellem)gyengeség,
 gyönge jellem
 
-håll!plats -en, -er közi: mégállö(hely)
+håll|plats -en, -er közi: mégállö(hely)
 -punkt -en, -er tám(asz)pont (útv is),
 szilárd pont
-hål I sí ag -et, = (irodai) lyukasztó(gép)
+hål|slag -et, = (irodai) lyukasztó(gép)
 -slev -en, -ar habmerő kanál -söm
 -sömmen, -sömmar azsúr(hímzés),
 szál-húzásos v. azsúros kézimunka; sy ~
 azsúroz. -timme -n, -ar i sk: lyukas
-óra.-väg -en, -ar mély út -ögd -ögt
+óra. -väg -en, -ar mély út -ögd -ögt
 beesett (v. mélyen ülő) szemű
 hån -et gúny, gúnyolódás; kigúnyol ás,
 ki- v. megcsúfolás; ett ~ mot sunda
@@ -61,7 +61,7 @@ szakasztott mása vkinek
 håra vi (hgs igek:) ~ av sig hullatja
 
 szőrét; ~ ned teleszőröz
-hår I avfall -et hajhullás, kopaszodás
+hår|avfall -et hajhullás, kopaszodás
 -band -et, = hajszalag -beklädd
 ’-beklätt -v hårbevuxen -beklädnad -en
 szőrzet, bunda(szőrzet), szőr (állaté)
@@ -95,7 +95,7 @@ sem akart engedni, mindketten
 megmakacsolták magukat; man. kommer
 att sätta hårt mot hårt kemény
 küzdelemre van kilátás
-hård I arbetad nehezen megmunkálható
+hård|arbetad nehezen megmunkálható
 ill. dagasztható; útv nehezen
 kezelhető -fjällad åtv megátalkodott,
 hétpróbás (gonosztevő) -frusen -fruset

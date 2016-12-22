@@ -36,7 +36,7 @@ hozzájárul vmihez, egyetért vmiben -tycke
 -t beleegyezés, hozzájárulás (till ngt
 vmibe; vmihez)
 samum -en számum
-sam I värö -n (társas) együttlét; együtt
+sam|varo -n (társas) együttlét; együtt
 töltött idő -verka együttműködik;
 közreműködik -verkan = (en)
 együttműködés; közreműködés
@@ -79,7 +79,7 @@ sanda vt, vi homokoz, homokkal felszór,
 
 homokot szór; kavicsol
 sandal -en, -er saru, szandál
-sand I bank -en, -ar fromokpad, -zátony
+sand|bank -en, -ar fromokpad, -zátony
 -bläster -n, -blästrar techn: homokfúvó
 (berendezés); homloklégfúvó -botten
 [-0-] -bott(n)en, -bottnar hajó:
@@ -92,7 +92,7 @@ sand|grop -en, -ar homokbánya -gång
 1. homokbucka; homokprizma 2.
 homokosláda, homokozó (gyerekeknek)
 sandig -t homokos, fövenyes
-sand I jord -en, -ar homokos talaj,
+sand|jord -en, -ar homokos talaj,
 homoktalaj -korn -et, = homokszem(cse)
 -krypare -n, = áll fenékjáró küllő
 (hal) -låda -n, -or homokosláda,

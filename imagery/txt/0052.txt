@@ -38,7 +38,7 @@ arbetsam -t !• munkaszerető, dolgos,
 munkás 2. fáradságos, fárasztó,
 megerőltető
 
-arbets j avspärrning -avstängning -en,
+arbets|avspärrning -avstängning -en,
 -ar munkáskizárás, munkáselbocsátás
 -avtal -et, — munkaszerződés -bas
 -en, -ar munka(csoport)vezető,

@@ -67,7 +67,7 @@ vidhjärtad nagyszívű, nagylelkű; vara
 ~ mindenkit (könnyen) a szívébe
 fogad
 
-vid I hålla -höll, -hållit (vt) 1. ~ ngt
+vid|hålla -höll, -hållit (vt) 1. ~ ngt
 kitart v. megmarad vmi mellett,
 ragaszkodik vmihez; nem enged vmiből; ~
 sin mening kitart véleménye mellett,
@@ -86,7 +86,7 @@ vidja -n, -or fűz(fa)vessző
 vidje|flätning -en (fűz)vesszőíonás,
 kosárfonás -korg [-o-] -en, -ar (fűz-)
 vesszőkosár
-vid!komma [-o-] -kom, -kommit illet,
+vid|komma [-o-] -kom, -kommit illet,
 érint; vad honom vidkommer ami őt
 illeti -kommande [-o-] I. praep .. .-t
 illetőleg; ~ denna angelägenhet ez

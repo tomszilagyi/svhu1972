@@ -2,7 +2,7 @@ finkel -n bundapálinka -olja -n, -or
 
 kozmaolaj
 
-fin I klippa -klippte, -klippt rövidre vág
+fin|klippa -klippte, -klippt rövidre vág
 v. nyír -klädd -klätt (igen) jól öltözött,
 szépen felöltözött -kornig -t
 fiiiom-v. aprószemcsés, finomszem(cséj)ű

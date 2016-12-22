@@ -123,7 +123,7 @@ részletekbe menően leír v. ábrázol;
 gå in på ~er részletekbe
 bocsátkozik, kitér a részletekre
 detaljerad részletes, kimerítő, beható
-detalj {granskning -en, -ar tüzetes
+detalj|granskning -en, -ar tüzetes
 vizsgálat -handel -n kiskereskedelem
 
-detektiv-en,-er detektív, (rendőr)nyomo-
+detektiv -en, -er detektív, (rendőr)nyomozó

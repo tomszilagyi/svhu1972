@@ -50,7 +50,7 @@ tröghets|kraft -en, -er fiz:
 tehetetlenségi erő -lag -en fiz: tehetetlenség v.
 inercia törvénye -moment -et, =
 fiz tehetetlenségi nyomaték
-trög I läst nehezen olvasható, unalmas
+trög|läst nehezen olvasható, unalmas
 -måns -en, -ar o naplopó, lajhár,
 tunya, lusta, késlekedő (ember) -smält
 I 1. nehezen olvadó (fém) 2. nehezen

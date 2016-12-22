@@ -38,7 +38,7 @@ pipereszappan
 tobak -en dohány; röka ~
 dohányzik
 
-tobaks I affär -en, -er dohány áruda,
+tobaks|affär -en, -er dohány áruda,
 -tőzsde, dohánybolt, trafik -blad -et, =
 dohánylevél -burk -en, -ar
 dohányszelence -buss -en, -ar bagó -handlare

@@ -6,7 +6,7 @@ i ~ pä E(de)rt svar (az Ön) válaszát
 várva
 
 väntetid -en, -er várakozási idő .
-vän I tjänst -en, -er baráti szívesség
+vän|tjänst -en, -er baráti szívesség
 vänt {rum -rummet, == várószoba -sal
 
 -eri, -ar váróterem

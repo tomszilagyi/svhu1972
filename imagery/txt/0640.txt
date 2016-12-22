@@ -4,7 +4,7 @@ hajósinas -handlingar plur
 hajóok-mányok -journal [-Sur-] -en, -er
 hajónapló
 
-skepps I klarerare -n, = hajóügynök
+skepps|klarerare -n, = hajóügynök
 -klocka [-o-] -n, -or hajóharang,
 vészharang -kock [-o-] -en, -ar hajószakács
 -last -en, -er hajórakomány -lista -n,

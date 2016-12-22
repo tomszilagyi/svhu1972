@@ -1,4 +1,4 @@
-accëptant -en, -er elfogadó (váltóé)
+acceptant -en, -er elfogadó (váltóé)
 acceptera 1. elfogad, elismer;
 beleegyezik 2. elfogad (váltói)
 accessionskatalog
@@ -78,7 +78,7 @@ addera mat összead; ~ till hozzáad,
 -tesz
 
 addition -en, -er mat: összeadás
-additions I maskin -en, -er összeadógép -tal
+additions|maskin -en, -er összeadógép -tal
 
 -et, = összeadási feladat v. példa
 adekvat megegyező, egyenértékű,

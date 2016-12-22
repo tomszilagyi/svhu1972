@@ -33,7 +33,7 @@ mineral -et, = v. -ier ásvány -fyndighet
 mineralog -en, -er mineralógus
 mineralogi -(e)n ásványtan
 mineralogisk -t ásványtani
-mineral I olja -n, -or ásványolaj -rike -t
+mineral|olja -n, -or ásványolaj -rike -t
 ásványvilág -vatten -vattnet, =
 ásványvíz
 

@@ -44,7 +44,7 @@ csiszolópapír -ruta -n, -or üvegtábla -rör -et,
 glass -en, -er fagylalt -försäljare -n, —
 
 (utcai) fagylaltárus, fagyialtos
-glas I skiva -n, -or üveglap -skåp -et, =»
+glas|skiva -n, -or üveglap -skåp -et, =»
 üvegajtós szekrény; vitrin -skärva -n,
 -or üvegszilánk, -cserép -slipare -n,
 = üvegcsiszoló (munkás)
@@ -52,7 +52,7 @@ glasspinne -n, -ar nyeles fagylalt (S)
 glass-stånd -et, == (utcai) fagyialtos
 
 stand v. kocsi
-glas I ull -en üveggyapot -varor plur
+glas|ull -en üveggyapot -varor plur
 üvegáruk
 
 glasyr -en, -er máz, zománc (agyagárun,

@@ -78,7 +78,7 @@ papper -et, = papír; irat, igazolvány;
 értékpapír; han har klara ~ rendben
 vannak a papírjai; lägga ~en på bordet
 felfedi kártyáit, színt vall
-pappers I ark -et, = ív papír, papírív
+pappers|ark -et, = ív papír, papírív
 -bruk -et, — papírgyár, -malom
 -handel -n papírkereskedés, papír- (és
 író-szer)üzlet -industri -(e)n papíripar

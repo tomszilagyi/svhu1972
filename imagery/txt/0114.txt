@@ -112,6 +112,6 @@ hídpénz, -vám
 bror brodern, bröder fiútestvér, fivér;
 Bäste Bror! Kedves Barátom!; en
 ~ till mig egyik fivérem
-brors I barn-ef, = a fivér gyermeke,
+brors|barn-ef, = a fivér gyermeke,
 unokaöcs ill. unokahúg -dotter [-do-]
-^-döttrar a fivér leánya, ünokahúg
+-döttrar a fivér leánya, unokahúg

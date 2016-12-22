@@ -1,4 +1,4 @@
-spår I vagn -en, -ar villamos,
+spår|vagn -en, -ar villamos,
 villamoskocsi; åka ~ villamossal v. villamoson
 utazik
 

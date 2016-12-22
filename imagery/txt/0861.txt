@@ -45,7 +45,7 @@ gyújtás
 tändningsnyckel -n, -nycklar gépkocsi:
 
 indítókulcs, o slusszkulcs
-tänd I rör -et, — tüzérség (időzített) gyújtó
+tänd|rör -et, — tüzérség (időzített) gyújtó
 -sats -en, -er techn, kat: gyújtótöltet,
 -elegy; gyújtófej (gyufaszálon)
 tändsticka -n, -or gyufa, gyújtó
@@ -71,8 +71,8 @@ elmélkedik (om ngt vmiről); meggondol,
 -fontol (på ngt vmit); vélekedik;
 szándékozik, akar; ~ själv saját fejével
 gondolkodik; tänk först och handla
-sedan I előbb fontold meg azután
-cselekedj !; tänk bara I képzeld v. képzelje
+sedan előbb fontold meg azután
+cselekedj !; tänk bara képzeld v. képzelje
 csak!; tänk så roligt! milyen kitűnő
 v. kellemes, ez aztán szép!; tänkt och
 gjort amint kigondolta már meg is

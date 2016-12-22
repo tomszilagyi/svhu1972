@@ -95,7 +95,7 @@ genrebild -bild -en, -er élet- v.
 zsánerkép -målare -n, == életkép- v.
 zsánerképfestő
 genrep -et, = o főpróba
-gen I saga -n, -or ellenvetés, óvás,
+gen|saga -n, -or ellenvetés, óvás,
 tiltakozás; inlägga en ~ mot ngt óvást
 emel (v. tiltakozik) vmi ellen -skjuta
 -sköt, -skjutit: ~ ngn elébe vág

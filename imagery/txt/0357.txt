@@ -79,7 +79,7 @@ van írva, hogy gyilkos)
 kaj -en, -er rak(odó)part
 kaja -n, -or áll: csóka
 kajak -en -er kajak; csónak
-kaj I anläggningar plur rakparti
+kaj|anläggningar plur rakparti
 berendezések -avgift -en, -er kikötőilleték,
 partpénz -hyra -n, -or rak(odó)pafti
 bér -plats -en, -er hajó: kikötőhely,

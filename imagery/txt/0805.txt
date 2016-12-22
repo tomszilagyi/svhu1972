@@ -79,7 +79,7 @@ iparműtan
 teknologisk [-lö1-] -t technológiai,
 iparműt ani
 
-te I kopp [-o-] -en, -ar teáscsésze -kök -et,
+te|kopp [-o-] -en, -ar teáscsésze -kök -et,
 
 — teafőző (készülék)
 telefon -en, -er távbeszélő, telefon; ringa

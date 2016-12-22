@@ -1,4 +1,4 @@
-stämnings I ansökan = (en ), -ansökningar
+stämnings|ansökan = (en ), -ansökningar
 
 jog: kereseti kérelem
 stämnings (bild -en, -er hangulatkép,
@@ -9,7 +9,7 @@ kézbesítő
 stämningsmänniska -n, -or
 hangulatember
 
-stäm I nyckel -n, -nycklar zene:
+stäm|nyckel -n, -nycklar zene:
 hangoló-kulcs
 
 -stämpel -n, stämplar 1. bélyegző,
@@ -114,6 +114,6 @@ törékeny mint egy virágszál
 stänger ->- stång
 
 stängning -en, -ar (be)zárás, becsukás
-stängnings I dags adv stängdags -tid
+stängnings|dags adv stängdags -tid
 -en, -er zárás időpontja; (üzlet)zárási
 idő; záróra (vendéglőé)

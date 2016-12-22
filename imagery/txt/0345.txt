@@ -40,7 +40,7 @@ anteckna jelzáloggal (meg)terhel
 inteckning -en, -ar jelzálog(jog);
 jelzálogkölcsön; ta en ~ i en fastighet
 jelzálogkölcsönt vesz fel egy ingatlanra
-integral I kalkyl -en, -er, -räkning -en, -ar
+integral|kalkyl -en, -er, -räkning -en, -ar
 
 integrálszámítás
 integrerande lényeges, integráns

@@ -65,7 +65,7 @@ kezét III. (hgs igek:) ~ av v. bort elmos;
 ~ upp kimos (kismosásban); felmos,
 -töröl; ~ ur en fläck på v. ur ngt kimos
 egy foltot vmiből
-tvätt I anstalt -en, -er mosóüzem, mosoda;
+tvätt|anstalt -en, -er mosóüzem, mosoda;
 kemisk ~ vegytisztító üzem -balja -n,
 -or mosóteknő, -dézsa, -kád -bar -t
 (le)mosható -björn -en, -ar áll:
@@ -73,7 +73,7 @@ mosómedve -borste [-0-] -n, -ar mosókefe
 -brygga -n, -or mosópalló -bräde -t,
 -n mosódeszka
 tvätterska -n, -or mosónő
-tvätt I fat -et, = mosdó(tál); (fali)
+tvätt|fat -et, = mosdó(tál); (fali)
 mosdókagyló -hjälp -en, -er (kisegítő) mosónő
 -inrättning -en, -ar mostida, mosóüzem;
 kemisk ~ vegytisztító üzem;

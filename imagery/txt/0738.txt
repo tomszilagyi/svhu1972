@@ -3,7 +3,7 @@ kat harckocsikötelék, páncélos kötelék
 -hinder -hindret, = kat
 harckocsiakadály
 
-strids I van -t harcedzett, harchoz szokott
+strids|van -t harcedzett, harchoz szokott
 -vana -n harcedzettség -yxa -n, -or
 harci bárd, csatabárd; gräva ned ~ri
 elássa a harci bárdot (v. csatabárdot),

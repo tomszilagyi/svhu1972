@@ -41,7 +41,7 @@ det upp en ~ (för mig) most esett le
 a tantusz v. húszfilléres O, most
 kapcsolok) O, most már érti (v. értem)
 talgig -t faggyús; faggyúszerű
-talg I körtel -n, -körtlar faggyúmirigy -ljus
+talg|körtel -n, -körtlar faggyúmirigy -ljus
 
 -et, = faggyúgyertya
 talhytt -en, -er telefonfülke
@@ -75,7 +75,7 @@ tall|skog -en, -ar fenyőerdő -trast -en,
 (tűzifa )
 
 tallös -t számtalan, megszámlálhatatlan
-tal I man -mannen, -män S: országgyűlési
+tal|man -mannen, -män S: országgyűlési
 kamara elnöke; képviselőház ill.
 országgyűlés elnöke
 talmiguld -et talmi arany, aranyutánzat
@@ -107,7 +107,7 @@ tamburin -en, -er csörgődob, tamburin
 
 tamburmajor -en, -er 1. kat (első)
 ezreddobos 2. o tréf ruhatáros
-tam I djur -et, = háziállat -gås -en, -gäss
+tam|djur -et, = háziállat -gås -en, -gäss
 házi lúd, (szelíd) liba -het -en
 szelídség, kezesség -katt -en, -er házi macska
 tamp -en, -ar hajó: rövid kötélvég;

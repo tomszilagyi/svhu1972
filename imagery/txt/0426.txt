@@ -39,14 +39,14 @@ börtönbüntetésre ítél -tidsfånge -n, -ar
 életfogytiglanra ítélt rab -tråd -en, -ar
 életfonal
 livstycke -t, -n mellényke, rékli
-livs I uppehälle -t létfenntartás,
+livs|uppehälle -t létfenntartás,
 megélhetés -uppgift -en, -er életfeladat,
 -hivatás -verk -et, = életmű -viktig -i
 létfontosságú -villkor -et, =
 életfeltétel -yttring -en, -ar életmegnyilvánulás
 -åskådning -en, -ar élet- v.
 világszemlélet, életfelfogás -öde -t, -n (élet)sors
-liv I tag -et, — sp alsó fogás -vakt -en, -er
+liv|tag -et, — sp alsó fogás -vakt -en, -er
 
 testőr(ség)
 ljud -et, — hang; zörej, zaj; fiz: läran om
@@ -79,7 +79,7 @@ hangszigetelés -kuliss -en, -er hangkulissza
 hangtörvény(szerű változás) -lagsenlig
 -t nyelv: hangtörvényszerű
 ljudlig -t hangos, erős (hang)
-ljud I lära -n nyelv: hangtan -lös -t
+ljud|lära -n nyelv: hangtan -lös -t
 hangtalan, zajtalan; ~ tystnad néma csend
 -skridning -en, -ar nyelv: hangváltás,
 -eltolódás -skrift -en hangjelölő v.

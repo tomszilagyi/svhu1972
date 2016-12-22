@@ -94,7 +94,7 @@ főkormányzó
 generalisation -en, -er általánosítás
 generalisera általánosít
 generalitet -et tábornoki kar
-general I konsul -n, -er főkonzul
+general|konsul -n, -er főkonzul
 -konsulat -et, = főkonzulátus -löjtnant -en,
 -er altábornagy -major -en, -er
 vezérőrnagy -order [-ör-] -n, (legfőbb)

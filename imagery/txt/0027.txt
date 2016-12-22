@@ -39,7 +39,7 @@ adressbyrå -n, -er címtudakozó-iroda
 adressera (meg)címez, [vkihez] intéz;
 brevet är ~t till dig a levél neked szól;
 ~ sig till ngn vkihez fordul
-adress j kalender -n, -kalendrar cím- és
+adress|kalender -n, -kalendrar cím- és
 lakjegyzék, címtár -kort -et, = 1.
 címkártya 2. kísérő címcédula
 (postacsomagban ) -land -et, -länder rendeltetési

@@ -112,7 +112,7 @@ bryne -t, -n fenőkő
 
 bryn ja -n, -or vért, páncél(ing)
 
-bryn I sten -en, -ar fenőkő, kaszakő -stål
+bryn|sten -en, -ar fenőkő, kaszakő -stål
 
 -et fenőacél
 brysk -t nyers, rideg, heves, brüszk

@@ -16,7 +16,7 @@ tömegétkeztetés -demonstration -en, -er
 tömegtüntetés
 
 massera gyúr (emberi testet), masszíroz
-mass I grav -en, -ar tömegsír -häktning
+mass|grav -en, -ar tömegsír -häktning
 
 -en, -ar tömeges letartóztatás
 massiv I. adj: -t tömör, tömött; súlyos,

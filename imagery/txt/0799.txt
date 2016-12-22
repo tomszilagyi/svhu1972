@@ -75,7 +75,7 @@ taklag -et ép: tető- v. fedélszerkezet
 taklags|fest -en, -er, -öl -et ép:
 bokrétaünnep
 
-tak I lampa -n, -or mennyezetlámpa,
+tak|lampa -n, -or mennyezetlámpa,
 függőlámpa -list -en, -er tetőpárkány,
 koszorúpárkány; takaróléc
 (gépkocsin ) -ljus -et felső világítás; ép:

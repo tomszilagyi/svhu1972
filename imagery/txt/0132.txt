@@ -8,8 +8,8 @@ i går så här ~ tegnap ilyenkor; det är
 ~ att gå nu ideje már hogy
 menjünk
 
-dags I aktuell -1 éppen most időszerű
-^böter plur: han dömdes till 70 ~ à fem
+dags|aktuell -1 éppen most időszerű
+-böter plur: han dömdes till 70 ~ à fem
 kronor 10 napi börtönre
 átváltoztatható 50 korona pénzbüntetésre
 ítélték

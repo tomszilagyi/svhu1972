@@ -109,7 +109,7 @@ tű-pénz (női zsebpénz) -spets -en, -ar
 tűhegy -stick -stygn -styng -et, =
 tűszúrás
 
-nåls I udd -en, -ar tűhegy -öga -t, -ögon
+nåls|udd -en, -ar tűhegy -öga -t, -ögon
 
 a tű foka, tűfok
 nålvass -t hegyes (mint a tű)

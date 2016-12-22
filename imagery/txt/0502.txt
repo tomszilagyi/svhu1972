@@ -1,6 +1,6 @@
 handel och ~ar kereskedelem és ipar
-närings I avund -en szakmai , irigység
-»behov -et táplálék- v. élelmiszerszükséglet
+närings|avund -en szakmai , irigység
+-behov -et táplálék- v. élelmiszerszükséglet
 -bekymmer -bekymret, = megélhetési
 v. élelmezési gond -flit -en
 iparko-dás, szorgalom (gazdasági
@@ -58,7 +58,7 @@ när|sluta -slöt, -slutit mellékel, csatol
 -strid -en, -er közelharc -stående közel
 álló -synt közellátó, rövidlátó -synthet
 -en közellátás, rövidlátás
-när I vara -var, -varit jelen van (vid ngt
+när|vara -var, -varit jelen van (vid ngt
 vmin) -varande 1. jelenlevő 2.
 jelenlegi, mostani, jelen; för ~ jelenleg,
 pillanatnyilag -värö -n jelenlét; i ngns

@@ -76,7 +76,7 @@ saliv -en nyál -avsöndring -en
 nyálkiválasztás -körtel -n, -körtlar nyálmirigy
 sallad -en, -er saláta
 salladsgurka -n, -or ecetes uborka
-sal!ad(s)skål -en, -ar salátástál
+sallad(s)skål -en, -ar salátástál
 sallat -en, -er nov: saláta
 sallatshuvud -et, — salátafej, (egy) fej
 saláta

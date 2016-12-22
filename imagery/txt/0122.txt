@@ -31,7 +31,7 @@ a test felépítése, testalkat; språkets
 ™ a nyelv szerkezete v.
 struktúrája
 
-byggnads I arbetare -n, = építőmunkás
+byggnads|arbetare -n, = építőmunkás
 -arbete -t, -n építési munka, épít(kez)és
 -entreprenör -en, -er építési vállalkozó
 -firma -n, -or,-företag -et, ™

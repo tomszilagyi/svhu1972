@@ -81,7 +81,7 @@ satt1 tömzsi, zömök, köpcös
 satt2 sitta
 satte ->- sätta
 
-sat I tyg -et, = ördögi csíny,, pokoli tréfa;
+sat|tyg -et, = ördögi csíny,, pokoli tréfa;
 ördöngösség -unge -n, -ar ördögfióka,
 pajkos v. vásott gyerek, gézengúz;
 lilla ~ kis betyár v. kópé

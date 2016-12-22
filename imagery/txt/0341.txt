@@ -4,7 +4,7 @@ Inkvisition -en inkvizíció
 Inkvisiíorisk -t szigorúan vallató,
 inkvi-zitórikus.
 
-in I köp -et, == bevásárlás, vétel -köpa
+in|köp -et, == bevásárlás, vétel -köpa
 -köpte, -köpt bevásárol, (fel)vásárol
 inköpspris -et, = v. -er vételár,
 beszerzési ill. önköltségi ár; till ~

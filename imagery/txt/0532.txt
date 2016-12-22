@@ -94,7 +94,7 @@ párthű -trohet -en párthűség
 partitur -et, = vezérkönyv (zeneműé),
 partitúra
 
-parti I vara -n, -or nagykereskedelmi cikk,
+parti|vara -n, -or nagykereskedelmi cikk,
 parti-áru -vän -vännen, -vänner
 tagtárs (pártban )
 partåig -t áll: párosujjú
