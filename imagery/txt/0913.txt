@@ -39,8 +39,8 @@ valberättigad választásra jogosult
 valborgs|mässa [-0-] -n S:
 tavaszünnep április 30-án -mässoafton [-ön]
 -en, -aftnar április 30-a (estéje),
-május elseje előestéje,
-Walpurgis–est -mässofirande -t, -n
+május elseje előestéje, Walpurgis–est
+-mässofirande -t, -n
 tavaszünnep, Walpurgis-esti ünnep
 valbyrå -n, -er választási iroda (vmely
 párté)

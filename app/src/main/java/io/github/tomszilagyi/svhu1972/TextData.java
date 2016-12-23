@@ -86,6 +86,7 @@ public class TextData {
             entry = index.get(p);
             if (collator.compare(cstr, entry) >= 0) break;
         }
+        if (p < start_page) p = start_page;
         if (p < 0) p = 0; /* index search with no result -- garbage input */
         Log.i("Szotar", "search ("+str+"): index: "+p+":"+entry);
         TextPosition result = null;
@@ -142,8 +143,8 @@ public class TextData {
         case 's': case 'S': return 576;
         case 't': case 'T': return 770;
         case 'u': case 'U': return 840;
-        case 'v': case 'V':
-        case 'w': case 'W': return 885;
+        case 'v': case 'V': return 885;
+        case 'w': case 'W': return 899; /* special: --> watt */
         case 'x': case 'X': return 946;
         case 'y': case 'Y': return 947;
         case 'z': case 'Z': return 952;

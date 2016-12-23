@@ -67,7 +67,11 @@ public class TextPrepare {
             String line = lines.get(i); // Ex.: "1013 - Ö - överglänsa"
             int pageno = Integer.parseInt(line.substring(0, 4)) - 25; // display idxs
             String first_word = line.substring(11);
-            //System.out.println(pageno + ": " + first_word);
+            if (i != pageno) {
+                System.out.println("fatal: index mismatch at item "+i+
+                                   ": pageno=" + pageno + " entry=" + first_word);
+                System.exit(1);
+            }
             index.add(first_word);
         }
     }

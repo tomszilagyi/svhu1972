@@ -68,6 +68,16 @@ public class TextDataTest {
         assertThat(td_ixs(""), is(nullValue()));
         assertThat(td_ixs("$@&/{#!£€*"), is(nullValue()));
 
+        /* single letters take us to the start of that letter */
+        String abc = "abcdefghijklmnoprstuvxyzåäö"; /* all except w and q */
+        for (int i=0; i < abc.length(); i++) {
+            String s = abc.substring(i, i+1);
+            int pos = TextData.letter_start_page(s);
+            assertThat(td_ixs_str(s), is("tp["+pos+":0]"));
+        }
+        assertThat(td_ixs_str("w"), is("tp[899:15]"));
+        assertThat(td_ixs("q"), is(nullValue()));
+
         /* capital letters are converted to lower-case */
         assertThat(td_ixs_str("STORBOKSTÄVER"), is(td_ixs_str("storbokstäver")));
         assertThat(td_ixs_str("Älvsjö"), is(td_ixs_str("älvsjö")));
