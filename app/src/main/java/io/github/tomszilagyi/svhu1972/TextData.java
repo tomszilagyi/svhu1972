@@ -28,7 +28,10 @@ public class TextData {
         read_serialized();
     }
 
-    /* Accessor used for testing only */
+    /* Accessors used for testing only */
+    public ArrayList<String> getIndex() {
+        return index;
+    }
     public ArrayList<ArrayList<String>> getText() {
         return text;
     }

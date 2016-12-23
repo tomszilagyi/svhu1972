@@ -1,8 +1,10 @@
 import org.junit.*;
-import static org.hamcrest.CoreMatchers.*;
-import static org.junit.Assert.*;
+import static org.hamcrest.Matchers.*;
+import static org.hamcrest.MatcherAssert.*;
 
+import java.text.Collator;
 import java.util.ArrayList;
+import java.util.Locale;
 
 import io.github.tomszilagyi.svhu1972.Log;
 import io.github.tomszilagyi.svhu1972.TextData;
@@ -29,6 +31,29 @@ public class TextDataTest {
         }
     }
 
+    /* Validate that the index looks sane */
+    @Test
+    public void index_test() {
+        Locale locale = new Locale("sv");
+        Collator collator = Collator.getInstance(locale);
+        collator.setStrength(Collator.SECONDARY);
+
+        String prev = null;
+        for (int p=0; p < td.getIndex().size(); p++) {
+            String entry = td.getIndex().get(p);
+            if ((prev == null) ||
+            // legit exceptions:
+                (p == 192 && collator.compare(entry, "få") == 0) ||
+                ((p == 725 || p == 726) && collator.compare(entry, "stå") == 0) ||
+                (p == 773 && collator.compare(entry, "taga") == 0))
+            { prev = entry; continue; }
+            // normally, the entries must be different and sort correctly
+            assertThat("'"+entry+"' (p."+(p+25)+") sorts greater than '"+prev+"'",
+                       collator.compare(entry, prev), greaterThan(0));
+            prev = entry;
+        }
+    }
+
     /* Validate the search functionality */
     @Test
     public void search_test() {
@@ -40,13 +65,13 @@ public class TextDataTest {
         assertThat(td_ixs_str("rabatt"), is("tp[537:3]"));
         assertThat(td_ixs_str("watt"), is("tp[899:15]"));
         assertThat(td_ixs_str("ömma"), is("tp[980:86]"));
-        assertEquals(null, td_ixs(""));
-        assertEquals(null, td_ixs("$@&/{#!£€*"));
+        assertThat(td_ixs(""), is(nullValue()));
+        assertThat(td_ixs("$@&/{#!£€*"), is(nullValue()));
 
         /* capital letters are converted to lower-case */
-        assertEquals(td_ixs_str("STORBOKSTÄVER"), td_ixs_str("storbokstäver"));
-        assertEquals(td_ixs_str("Älvsjö"), td_ixs_str("älvsjö"));
-        assertEquals(td_ixs_str("Östersjön"), td_ixs_str("östersjön"));
+        assertThat(td_ixs_str("STORBOKSTÄVER"), is(td_ixs_str("storbokstäver")));
+        assertThat(td_ixs_str("Älvsjö"), is(td_ixs_str("älvsjö")));
+        assertThat(td_ixs_str("Östersjön"), is(td_ixs_str("östersjön")));
 
         /* compound words with '|' at the start of the entry (explicit stem) */
         assertThat(td_ixs_str("avhämta"), is("tp[37:84]"));
