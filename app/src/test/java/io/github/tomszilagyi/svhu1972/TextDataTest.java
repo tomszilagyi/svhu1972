@@ -92,6 +92,14 @@ public class TextDataTest {
         assertThat(td_ixs_str("syrehaltig"), is("tp[754:9]"));
         assertThat(td_ixs_str("syskonbarn"), is("tp[754:33]"));
         assertThat(td_ixs_str("åkerfält"), is("tp[954:72]"));
+
+        /* compound words where the stem is on the previous page */
+        assertThat(td_ixs_str("detektivbyrå"), is("tp[113:0]"));
+        assertThat(td_ixs_str("fotokemi"), is("tp[176:1]"));
+        assertThat(td_ixs_str("klandersjuk"), is("tp[343:0]"));
+        assertThat(td_ixs_str("pepparmynta"), is("tp[511:0]"));
+        assertThat(td_ixs_str("sjöräddning"), is("tp[608:0]"));
+        assertThat(td_ixs_str("återkasta"), is("tp[962:3]"));
     }
 
     /* helpers to make test code more succinct */
