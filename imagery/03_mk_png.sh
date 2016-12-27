@@ -7,6 +7,7 @@ if [ ! -d images ] ; then
   ln -s $images images
 fi
 max=2048
+convopts="-despeckle -threshold 80% -depth 1 -negate -define png:compression-level=9"
 for i in tif_out/*.tif; do
   # resize asset images to measure at most $max pixels in either dimension
   out=$(echo $i | sed -e 's|tif_out/|images/|' -e 's|[LR]||' -e 's|.tif|.png|')
@@ -22,6 +23,6 @@ for i in tif_out/*.tif; do
         resize=""
     fi
     echo "$i ($geometry) -> $out ($resize)"
-    convert $i -negate $resize $out
+    convert $i $resize $convopts $out
   fi
 done
