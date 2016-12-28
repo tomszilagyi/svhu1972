@@ -1,5 +1,3 @@
-- fix search when word spans multiple index pages
-  eg. hålla, slå, stå, ställa, sätta, taga
 - handle image loading while scrolling upwards, which throws off position
   (prevent abrupt jumps caused by image loading when scrolling upwards)
 - app menu:

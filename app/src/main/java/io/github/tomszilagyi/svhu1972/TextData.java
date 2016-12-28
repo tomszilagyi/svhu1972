@@ -84,10 +84,11 @@ public class TextData {
         int p, start_page = letter_start_page(str);
         for (p=index.size()-1; p >= start_page; p--) {
             entry = index.get(p);
-            if (collator.compare(cstr, entry) >= 0) break;
+            if (collator.compare(entry, cstr) < 0) break;
         }
+        /* entry on start_page (loop broke with p decremented once more)
+           or we received garbage input (index search with no result): */
         if (p < start_page) p = start_page;
-        if (p < 0) p = 0; /* index search with no result -- garbage input */
         Log.i("Szotar", "search ("+str+"): index: "+p+":"+entry);
         TextPosition result = null;
         while (str.length() > 0 && result == null) {

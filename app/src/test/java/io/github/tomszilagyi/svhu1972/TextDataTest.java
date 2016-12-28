@@ -75,7 +75,7 @@ public class TextDataTest {
             int pos = TextData.letter_start_page(s);
             assertThat(td_ixs_str(s), is("tp["+pos+":0]"));
         }
-        assertThat(td_ixs_str("w"), is("tp[899:15]"));
+        assertThat(td_ixs_str("w"), is("tp[899:15]")); /* watt */
         assertThat(td_ixs("q"), is(nullValue()));
 
         /* capital letters are converted to lower-case */
@@ -110,6 +110,14 @@ public class TextDataTest {
         assertThat(td_ixs_str("pepparmynta"), is("tp[511:0]"));
         assertThat(td_ixs_str("sjöräddning"), is("tp[608:0]"));
         assertThat(td_ixs_str("återkasta"), is("tp[962:3]"));
+
+        /* words that span multiple index pages */
+        assertThat(td_ixs_str("hålla"), is("tp[288:71]"));
+        assertThat(td_ixs_str("slå"), is("tp[648:31]"));
+        assertThat(td_ixs_str("stå"), is("tp[724:2]"));
+        assertThat(td_ixs_str("ställa"), is("tp[728:100]"));
+        assertThat(td_ixs_str("sätta"), is("tp[763:10]"));
+        assertThat(td_ixs_str("taga"), is("tp[771:84]"));
     }
 
     /* helpers to make test code more succinct */
