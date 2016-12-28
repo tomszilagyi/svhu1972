@@ -6,8 +6,10 @@ fi
 if [ ! -d images ] ; then
   ln -s $images images
 fi
-max=2048
-convopts="-despeckle -threshold 80% -depth 1 -negate -define png:compression-level=9"
+# Absolute max is 2048, bigger images choke the loader.
+# Set max so the app size fits under 100 MB (Play Store limit).
+max=1800
+convopts="-despeckle -threshold 80% -depth 1 -negate -define png:compression-level=9 -define png:exclude-chunk=all"
 for i in tif_out/*.tif; do
   # resize asset images to measure at most $max pixels in either dimension
   out=$(echo $i | sed -e 's|tif_out/|images/|' -e 's|[LR]||' -e 's|.tif|.png|')
@@ -16,9 +18,9 @@ for i in tif_out/*.tif; do
     geom_x=$(echo $geometry | cut -d 'x' -f 1)
     geom_y=$(echo $geometry | cut -d 'x' -f 2)
     if [ $geom_x -ge $geom_y -a $geom_x -gt $max ] ; then
-        resize=$(printf '%cresize %d%c' - $max x)
+        resize="-resize ${max}x"
     elif [ $geom_y -gt $geom_x -a $geom_y -gt $max ] ; then
-        resize="-resize x$max"
+        resize="-resize x${max}"
     else
         resize=""
     fi
