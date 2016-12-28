@@ -8,7 +8,7 @@ i går så här ~ tegnap ilyenkor; det är
 ~ att gå nu ideje már hogy
 menjünk
 
-dags|aktuell -1 éppen most időszerű
+dags|aktuell -t éppen most időszerű
 -böter plur: han dömdes till 70 ~ à fem
 kronor 10 napi börtönre
 átváltoztatható 50 korona pénzbüntetésre
@@ -34,7 +34,7 @@ hóolvadás -nyheter plur napi hírek -penning
 napisajtó -regn -et, = tartós v. országos
 eső -resa -n, -or egynapos utazás,
 egynapi út -tidning -en, -ar napilap
--ver-kare -n, = napszámos -verke -1, -n
+-ver-kare -n, = napszámos -verke -t, -n
 (egy)napi munka; gå pá
 napszámba jár
 

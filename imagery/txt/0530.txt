@@ -10,7 +10,7 @@ panera paníroz
 panik -en vakrémület, pánik -stämning
 
 -en, -ar pánikhangulat
-panisk -1 páni (pl. félelem)
+panisk -t páni (pl. félelem)
 pank: vara ~ le van égve (átv), egy vasa
 
 sincs, tönkrement
@@ -111,7 +111,7 @@ para: ~ (ihop) párosít, pároztat; ~ sig
 
 párosodik, párzik, párosul
 parabel -n, parabler parabola
-parabolisk [-bö’-] -1 parabolikus,
+parabolisk [-bö’-] -t parabolikus,
 parabola alakú
 parad -en, -er 1. díszszemle, parádé;
 bemutató 2. dísz(egyen)ruha 3.

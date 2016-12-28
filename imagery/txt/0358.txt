@@ -67,7 +67,7 @@ kalkuláció
 
 kalkylera számít(gat), kiszámít, kalkulál
 
-kall1 -1 hideg; hűvös (átv is), hűs; det
+kall1 -t hideg; hűvös (átv is), hűs; det
 kriget a hidegháború; vara ~ jör ngt
 érzéketlen vmi iránt; vara ~ om
 händerna hideg a keze; jern grader ~f

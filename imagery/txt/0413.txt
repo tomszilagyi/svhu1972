@@ -8,7 +8,7 @@ inneliggande ~ raktárkészlet 2. réteg
 (geol; átv is); de breda lagren a széles
 (nép)rétegek 3. techn csapágy
 lager2 -n, lagrar nov: babér; átv: skörda
-lagrar babérokat arat; vila pá sina
+lagrar babérokat arat; vila på sina
 lagrar babérain pihen
 lager3 -n ászoksör
 
@@ -42,7 +42,7 @@ jogerős
 
 lagkapten -en v. sp: csapatkapitány
 lag|kari -en, -ar jogász, jogtudós -klok
--kunnig -1 törvénytudó, jogban
+-kunnig -t törvénytudó, jogban
 járatos
 
 lagledare -n, = csapatvezető (sp is)

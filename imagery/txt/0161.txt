@@ -14,7 +14,7 @@ enbet(t)svagn -en, -ar egylovas kocsi
 enbuske -n, -ar nov: boróka(bokor)
 enbyggare -n, = nov egylaki növény
 enbär -et, = borókabogyó
-encellig -1 egysejtű
+encellig -t egysejtű
 encyklopedi r(e)n, -er enciklopédia,
 lexikon
 
@@ -42,14 +42,14 @@ hátirat (váltón)
 endossera ker forgat, hátirattal ellát
 (váltót)
 
-en|dräkt -en egyetértés -dräktig -1
+en|dräkt -en egyetértés -dräktig -t
 egyetértésben élő, egyetértő,
 harmonikus
 
 energi [-§1’] -(e)n 1. fiz energia 2.
 tetterő, erély -förbrukning -en
 energiafelhasználás -källa -n, -or energiaforrás
-energisk -1 erélyes, tetterős, energikus
+energisk -t erélyes, tetterős, energikus
 enervera idegesít, idegessé tesz;
 (idegileg) kimerít, elernyeszt, elgyengít; det
 ~r mig ez idegesít, az idegeimre megy;

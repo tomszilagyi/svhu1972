@@ -1,6 +1,6 @@
 tre|aktare -n, = háromfelvonásos
 (színdarab ill. opera) -armad háromkarú,
--ágú -atomig -1 háromatomos -bent
+-ágú -atomig -t háromatomos -bent
 háromlábú -bladig -í háromlevelű -dela
 három részre oszt, harmadol -delad
 háromrészes, -osztatú -dimensionell -t
@@ -50,7 +50,7 @@ három-századik -hörnig -t háromszögletes,
 -szögű -hörning -en, -ar háromszögletű
 tárgy v. idom, háromszög -hövdad
 háromfejű -kant -en, -er háromszög
--kantig -1 háromélű, háromszögletű;
+-kantig -t háromélű, háromszögletű;
 ~ hatt háromszögletű kalap -klang
 -en, -er 1. zene hármashangzat 2. átv
 harmonikus egész, trió -klöver -n

@@ -64,7 +64,7 @@ reglemente -t, -ri (szolgálati’) szabályzat,
 ügyrend, munkarend, előírás
 
 reglementerá szabályoz, előír, rendez
-reglementsenlig -1 szabályzat szerinti,
+reglementsenlig -t szabályzat szerinti,
 
 szabályszerű, előírásos
 reglera szabályoz, rendez; techn beállít,

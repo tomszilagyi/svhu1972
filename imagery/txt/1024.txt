@@ -50,7 +50,7 @@ f) Az -nn végű melléknevek neutruma -nt végű, például sann ’igaz’: sa
 g) Számos melléknévnek, valamint a jelen idejű melléknévi igeneveknek
 (presens particip) és a melléknevek középfokú alakjának nincs külön neutruma,
 azaz
-neutrumként is -1 végződés nélküli alakjuk használatos. Példák: ringa
+neutrumként is -t végződés nélküli alakjuk használatos. Példák: ringa
 ’csekély’,
 öde ’puszta, üres’, levande ’élő’ (leva ’él’), stående ’álló’ (stå ’áll’),
 större ’nagyobb’

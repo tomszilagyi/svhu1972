@@ -2,7 +2,7 @@ praxis = v. -en szokás, gyakorlat;
 jogszokás
 
 precedensfall -et, = precedens
-precis I. adj: -1 pontos, szabatos, preciz
+precis I. adj: -t pontos, szabatos, preciz
 II. adv pontosan, szabatosan, éppen;
 ~ klockan 8 pontosan 8 órakor
 precisera pontosan megállapít,

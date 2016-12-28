@@ -99,7 +99,7 @@ begynna -gynte, -gynt kezd(ődik), el- v,
 megkezd(őtíik)
 begynnelse -n, -r kezdet, kezdés
 -bok-stav -en, -bokstäver kezdőbetű
-»hastighet -en, -er kezdősebesség -lön -en,
+-hastighet -en, -er kezdősebesség -lön -en,
 -er kezdőfizetés
 begå -gick, -gått 1. elkövet; véghezvisz;
 ~ ett brott bűncselekményt követ el

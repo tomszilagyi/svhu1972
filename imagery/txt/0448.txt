@@ -21,8 +21,8 @@ Felséged
 majestätisk -t fejedelmi, királyi, pompás,
 
 méltóságteljes
-majestäts [brott -et,, = felségsértés
-»förbrytare -n, ~ felségsértő
+majestäts|brott -et,, = felségsértés
+-förbrytare -n, ~ felségsértő
 majonnäs -en, -er majonéz
 major -(e)n, -er őrnagy; ~ vid infanteriet
 
@@ -87,7 +87,7 @@ kan! ezt csinálja utána valaki!; har
 man hört ~n till fräckhet? ki hallott
 már ekkora szemtelenséget? 3. férj,
 hitves; äkta makar házastársak, -felek
-makedonisk -1 macedón(iai), makedón
+makedonisk -t macedón(iai), makedón
 
 <-iai)
 

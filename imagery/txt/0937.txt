@@ -23,7 +23,7 @@ för att göra ngn till vkinek a
 kedvéért -akt ~en, -er akarati aktus, akarás,
 akaratnyilvánítás -fast szilárd
 elha-tározású, erős akaratú, határozott
--kraft -en akaraterő -lös -1 akarat
+-kraft -en akaraterő -lös -t akarat
 nélküli, tehetetlen, gyenge;
 határozatlan -löshet -en akaratnélküliség,
 -hiány -människa -nt -or erős akaratú
@@ -72,7 +72,7 @@ vilkendera vilketdera (pron) ki?; melyik?
 nővérek közül melyik(et)?;~ vägen reser
 du? melyik úton utazol?, melyik
 utat választod?
-vill1 - vilja IL
+vill1 - vilja I.
 
 vill2 adj (költ): fara ~ eltéved, tévútra
 kerül

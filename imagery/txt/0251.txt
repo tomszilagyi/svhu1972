@@ -62,7 +62,7 @@ díszműáruk -varor plur díszműáruk,
 luxuscikkek
 
 galeas -en, -er^kétárbocos vitorlás
-galej -et: o gä ut pá ~ szórakozni v.
+galej -et: o gä ut på ~ szórakozni v.
 
 mulatni megy
 galeja -n, -or rég: gálya; tréf: vad hade

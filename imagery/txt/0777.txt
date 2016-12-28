@@ -14,7 +14,7 @@ symfonisk [-51-]-/ szimfonikus
 symmetri -(e)n 1. szimmetria,
 részarányosság 2. átv arányos felépítés,
 ará-nyosság, harmónia
-symmetrisk -1 szimmetrikus, részarányos
+symmetrisk -t szimmetrikus, részarányos
 sympatetisk -t együttérző, rokon érzelmű,
 rokonérzésű; benső rokonságból eredő;
 ~t bläck láthatatlan írású tinta
@@ -25,7 +25,7 @@ v. szimpatizál vkivel, vonzódik vkihez
 sympatisera rokonszenvez, együtt érez,
 szimpatizál; vonzódik (med ngn
 vkivel; vkihez)
-sympatisk -1 rokonszenves, megnyerő,
+sympatisk -t rokonszenves, megnyerő,
 vonzó, szimpatikus; ~ct nervsystemet
 a szimpatikus idegrendszer
 sympatistrejk -en, -er szimpátiasztrájk
@@ -33,7 +33,7 @@ sympatisör -en, -er rokonszenvező,
 szimpatizáló; pöl szimpatizáns
 sym(p)tom [-ö’~] -et, = tünet, jel,
 szimptóma; orv kórtünet (på v. till
-ngt vminek a); ~ pá sjukdom kórtünet,
+ngt vminek a); ~ på sjukdom kórtünet,
 betegség jele
 sym(p)tomatisk [-0-] -t jellemző (för ngt
 vmire), jellegzetes, szimptomatikus;

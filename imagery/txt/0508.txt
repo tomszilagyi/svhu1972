@@ -1,7 +1,7 @@
 ockupation -en, -er megszállás, elfoglalás,
 
 birtokbavétel
-ockupationstrupp -en, »er megszálló
+ockupationstrupp -en, -er megszálló
 csapat
 
 ockupera megszáll, elfoglal, birtokba

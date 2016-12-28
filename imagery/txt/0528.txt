@@ -9,7 +9,7 @@ haragszik vkire vmiért -villig -t
 kelletlen, idegenkedő; nem hajlandó
 -villkorlig -t feltétel, nélküli,
 feltétlen; elkerülhetetlen -vilikoriigen
-adv feltétlenül -vis -1 oktalan, balga,
+adv feltétlenül -vis -t oktalan, balga,
 dőre; ~t nit vakbuzgóság -viss
 bizonytalan, nem biztos, kétes; jag är
 ~ om vad man skatt göra nem tudom
@@ -75,8 +75,8 @@ műfog -ändamålsenlig -t célszerűtlen
 ~a a .végtelenségig -ändlighet -en
 végtelenség, határtalanság; i ~ vég
 nélkül, örökkön-örökké -ärlig -t nem
-becsületes> tisztességtelen, csaló -ät»
-bar -ätlig -t ehetetlen, élvezhetetlen
+becsületes> tisztességtelen, csaló -ätbar
+-ätlig -t ehetetlen, élvezhetetlen
 -även -ävet O : inte sä. ~ nem rossz;
 det skulle inte vara så oävet nem is
 lenne olyan rossz.

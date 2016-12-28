@@ -26,7 +26,7 @@ verknings|full -t hatásos, eredményes
 -grad -en, -er hatásfok (techn is) -lös
 -1 hatástalan, eredménytelen -sätt -et,
 = hatás módja, hatásmód
-verksam -1 1. hatékony, hatásos,
+verksam -t 1. hatékony, hatásos,
 eredményes; en ~ medicin hatásos
 gyógyszer 2. tevékeny, aktív, energikus;
 vara ~ működik, dolgozik,

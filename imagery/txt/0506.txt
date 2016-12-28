@@ -4,7 +4,7 @@ vkinek kellemetlenséget okoz -behaglig
 -1 kellemetlen, kényelmetlen -behindrad
 akadálytalan, nem akadályozott
 -behärskad: vara ~ nem tud magán
-uralkodni -behörig -1 jogosulatlan,
+uralkodni -behörig -t jogosulatlan,
 illetéktelen (adv :~en); ~a äga ej tillträde
 idegeneknek tilos a bemenet
 -behörighet -en jogosulatlanság,
@@ -65,7 +65,7 @@ fertőzött, mocsoktatalan, tiszta (átv is)
 -besticklig -t megvesztegethetetlen
 -bestraffad büntetlen, meg nem
 büntetett -bestridd -bestritt nem vitatott,
-kétségtelen -bestridlig -1 vitathatatlan,
+kétségtelen -bestridlig -t vitathatatlan,
 kétségbevonhatatlan, tagadhatatlan
 (adv: ~en) -bestyrkt meg nem
 erősített, ném hiteles(ített) -bestånd -et,
@@ -86,7 +86,7 @@ hogy... -obetalbar -t megfizethetetlen
 -betald -talt (ki)fizetetlen -betingad
 feltétlen, feltétel nélküli; obetingat
 feltétlenül, feltétel nélkül -betonad
-hangsúlytalan -betvinglig -1 legyőzhetetlen,
+hangsúlytalan -betvinglig -t legyőzhetetlen,
 leküzdhetetlen -betydlig -t
 jelentéktelen -betydlighet -en, -er
 jelentéktelenség, • kicsi(ny)ség, csekélység -betäckt

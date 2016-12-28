@@ -48,7 +48,7 @@ subjektssats -en, -er nyelv: alanyi
 mellékmondat
 
 subkommitté [-o-] -n, -er albizottság
-subkutan -1 orv: bőr alatti, szubkután
+subkutan -t orv: bőr alatti, szubkután
 sublim -t fenséges, fennkölt,
 magasztos, nagyszerű
 sublimat -et v. -en vegy: szublimát,

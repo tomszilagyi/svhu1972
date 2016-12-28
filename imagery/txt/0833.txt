@@ -82,7 +82,7 @@ trauma -t orv: sérülés, ütés, erőművi ben
 hatás; (lelki) megrázkódtatás,
 trauma
 
-traumatisk -1 orv: sérülés okozta,
+traumatisk -t orv: sérülés okozta,
 sérüléses, traumás, traumatikus
 trav -et v. -en ügetés; rida i ~ üget; sätta
 hästen i ~ ügetésre fogja a lovat;

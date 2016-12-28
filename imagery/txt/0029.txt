@@ -68,8 +68,8 @@ démiai tag 2. egyetemi v. főiskolai
 előadó, docens 3. egyetemi v.
 főiskolai képzettségű ember .4. egyetemi v.
 főiskolai v. akadémiai hallgató
-akademiledamot -en, -ledamöter,
-»medlem -medlemmen, -medlemmar
+akademi|ledamot -en, -ledamöter,
+-medlem -medlemmen, -medlemmar
 akadémiai tag, akadémikus
 akademisk -t 1. akadémiai 2. átv
 elméleti, akadémikus; en rent ~ fråga

@@ -24,7 +24,7 @@ palack -förlust -en, -er hőveszteség
 -isolerande hőszigetelő -kostnad [-o-]
 -en, -er fűtési költség -kraft -en
 fűtőteljesítmény, -erő -källa -n, -or fiz:
-hőforrás -känslig -1 hőérzékeny -lampa
+hőforrás -känslig -t hőérzékeny -lampa
 vill: (reflektoros) hősugárzó v.
 melegítőlámpa -ledande adj hővezető
 -ledare -n, ~ hővezető -ledning -en,

@@ -5,7 +5,7 @@ saltbad -et, == 1. sós ill. tengeri fürdő
 
 2. techn sós fürdő, sóoldat
 salter! -(e)t, -er halbesózó tizem
-salt|fattig -1 sóban szegény, sószegény,
+salt|fattig -t sóban szegény, sószegény,
 kevéssé sózott -gruva -n, -or sóbánya
 -gurka -n, -or ecetes uborka -halt -en
 sótartalom -kar -et, = (asztali) sótartó

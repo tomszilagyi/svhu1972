@@ -118,7 +118,7 @@ kubik|centimeter -n, — köbcentiméter
 -innehåll -et köbtartalom, térfogat
 -meter -n, = köbméter -mått -et, =
 köbmérték -rot -en, -rötter mat: köbgyök
-kuMsk -1 1. kocka alakú 2. mat
+kubisk -t 1. kocka alakú 2. mat
 harmadfokú, köbös
 kubism -en kubizmus
 kubistisk -t kubista

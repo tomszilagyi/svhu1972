@@ -43,34 +43,34 @@ v. dániai (ember),
 éanska -n 1. dán nyelv 2. plur: -or dán
 nő
 
-d&nsjkønst -en táncművészet-lysten
+dans|konst -en táncművészet -lysten
 -fys-id táncolni-vágyó, táncos
-kedvű;-lära-Te -n, tánctanító,-tanár -sjuka »fi
-vitustánc ^skela tánciskola-steg
+kedvű; -lärare -n, tánctanító,-tanár -sjuka
+vitustánc -skola tánciskola -steg
 -et, = tánclépés -tillställning -en,
 -ar táncrendezvény
 dansör -en, er, táncos, táncművész
 dansös -en, -er táncosnő
-da* -+•’ dag
+dar -+•’ dag
 
-Bafianellema. npr a Dardanellák
+Dardanellerna npr a Dardanellák
 darr -et v. -en : med ** på rösten remegő
 hangon
 
-inra reszket, remeg; av köld reszket
+darra reszket, remeg; av köld reszket
 a hidegtől; han ~r på målet reszket a
 hangja
 
-dlarrgräs -et, == nov: rezgőfű
+darrgräs -et, == nov: rezgőfű
 
-darrig. -i resskető(s)
+darrig -i reszkető(s)
 
-imfkMtá; han ar ™ reszket(ős) a keze
+darrhänt han är ~ reszket(ős) a keze
 
 darrocka (elv. : -darr-rocka) -n, -or áll:
 
 zsibbasztó rája
-darrál -en, -ar ált: villamos angolna
+darrål -en, -ar ált: villamos angolna
 dask o 1* -et verés 2. -en legyintés,
 
 ütés
@@ -90,7 +90,7 @@ XIII. századból származik; uttrycket
 sig från förra århundradet a
 kifejezés a múlt századból való
 dativ -en, -er nyelv: részeshatározó eset,
-dativus -objekt -et, = nyelv
+o dativus -objekt -et, = nyelv
 részeshatározó
 
 dato -n a (naptári) nap: till dags ™

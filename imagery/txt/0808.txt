@@ -84,7 +84,7 @@ mond, (érthetően) kiejt
 text|bok -en, -böcker szöveggyűjtemény
 (iskolai használatra) -enlig -t szöveg
 szerinti, a szövegnek megfelelő
-»författare -n,p = szöveg szerzője;
+-författare -n,p = szöveg szerzője;
 szövegkönyv)!™; ~ till en operett egy operett
 szövegkönyvírója -förklaring -en, -ar
 szövegmagyarázat

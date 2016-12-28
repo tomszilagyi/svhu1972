@@ -81,11 +81,11 @@ lever|fläck -en, -ar májfolt -korv [-0-]
 leverne A 1. élet(mód) 2. zsivaj, lárma
 leverop -et, = éljenkiáltás, éljen(zés)
 lever|pastej -en, -er májpástétom
--sjukdom -en, -ar májbetegség, -baj -trå»
+-sjukdom -en, -ar májbetegség, -baj -tran
 -en csukamájolaj
 levnad -en élet(mód)
 levnads|bana -n, -or életpálya
--beskrivning -en, -ar életrajz -förhållande»
+-beskrivning -en, -ar életrajz -förhållande
 plur életkörülmények,-viszonyok -gittel
 -glatt életvidám -konst [-o-] -en
 életművészet -kostnader [-o-] plur
@@ -114,4 +114,4 @@ rális 3. bőkezű II. s: -en,-er szabad»
 elvű v. liberális (ember)
 liberalism -en szabadelvűség,
 liberalizmus
-libysk -1 líbiai
+libysk -t líbiai

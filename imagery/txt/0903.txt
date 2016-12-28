@@ -17,7 +17,7 @@ en ~d smak szélsőséges ízlés
 ut|resa I. s: -n elutazás, kiutazás; ~n
 till Polen elutazás Lengyelországba
 II. vi: -reste, -rest elutazik, (ki)utazik;
-vö. resa1 IL
+vö. resa1 I.
 utrese|förbud -et, — kiutazási tilalom
 -tillstånd -et, = kiutazási engedély
 -visum = v. -et, -visa v. = kiutazási
@@ -95,7 +95,7 @@ elhagyás -rymme -t 1. (férő)hely; ha ~
 för mer möbler több bútor számára is
 van hely; det är knappt om ~(t)
 szűken van hely, szűkében vagyunk
-a helynek; brist pá ~ helyszűke; i
+a helynek; brist på ~ helyszűke; i
 brist på ~ hely hiányában 2. plur: -n
 (mellék)helyiség -rymmesskäl: av ~
 tekintettel a helyszűkére,

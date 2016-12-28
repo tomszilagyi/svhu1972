@@ -16,7 +16,7 @@ munkavállaló -terapi -(e)n orv: munkaterápia
 -tillstånd -et, = munkavállalási
 engedély -tvist -en, -er munkaügyi
 jogvita -utskott [-o-] -et, =
-munkabizottság -van -1 munkához szokott -vecka
+munkabizottság -van -t munkához szokott -vecka
 -n, -or munkahét; fem dagars ~
 ötnapos munkahét -villig -t dolgozni
 akaró, münkakedvelő; serény
@@ -36,7 +36,7 @@ arena -n, -or 1. küzdőtér, porond, aréna
 årg -t 1, o mérges, dühös, haragos;
 heves; bli ~ för ngt mérges lesz (v.
 megharagszik) vmiért; göra ~
-felmérgesít, megharagít; vara ~ pá
+felmérgesít, megharagít; vara ~ på
 ngn för ngt mérges v. hafagszik vkire
 vmiért 2. harapós, dühös (állat) 3.
 O gonosz, megrögzött; ~a fiender

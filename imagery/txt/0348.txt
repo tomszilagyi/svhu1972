@@ -2,7 +2,7 @@ iordningställa -ställde, -ställt rendbe hoz,
 
 helyreállít, kijavít, elkészít
 iraker -n, iraki (ember)
-irakisk -1 iraki
+irakisk -t iraki
 iran -en, -er iráni (ember)
 iransk -t iráni
 irer = ír (ember)
@@ -45,7 +45,7 @@ tévút
 irritabel -t ingerlékeny
 irritation -en, -er irritáció, izgatás,
 ingerlés, ingerültség, izgalom
-irritationsmoment »et, = zavaró
+irritationsmoment -et, = zavaró
 körülmény
 
 irritera ingerel, izgat, idegesít; det ~r

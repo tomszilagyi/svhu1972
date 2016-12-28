@@ -108,7 +108,7 @@ csuszamlik; sp hibásan dob; kártya hibásan
 hív -kastelse -n elvetés, elutasítás;
 kárhoztatás, elítélés -kastelsedom -en,
 -ar elítélés, elítélő v. elmarasztaló
-vélemény -kastlig -1 elutasítandó,
+vélemény -kastlig -t elutasítandó,
 elvetendő, elítélendő, megvetésre
 méltó -kastning -én, -ar geol;
 vetődés, törés

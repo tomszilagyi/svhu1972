@@ -52,7 +52,7 @@ heta hette, hetat nevezik, hívják;
 neveztetik, hivatik; jelent; vad heter du? hogy
 hívnak (téged)?, mi a neved?; vad
 heter hon i sig själv? mi az ő leánykori
-neve?; vad héter det pá svenska? mit
+neve?; vad héter det på svenska? mit
 jelent ez (v. hogy mondják ezt)
 svédül?; vad skall detta mit jelentsen
 ez?; det heter i lagén a törvény azt
@@ -85,7 +85,7 @@ hibisz-kusz
 
 hicka I. s: -n csuklás; jag har ~ csuklóm
 
-IL vi csuklik
+I. vi csuklik
 hierarki -(e)n, -er rangsor, hierarchia
 himla I. adj o szörnyű, hatalmas,
 kolosszális II, adv q szörnyen,

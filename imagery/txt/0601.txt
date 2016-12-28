@@ -1,5 +1,5 @@
 sa o säga
-saarländsk -1 Saar-vidéki
+saarländsk -t Saar-vidéki
 Saaromrádet npr (a) Saar-vidék
 sabbat -en, -er vall: szombat (zsidóknál);
 vasárnap (protestánsoknál); átv
@@ -24,7 +24,7 @@ sabotage [-ä’s] = szabotálás, szabotázs
 sabotera szabotál
 sachsare -n, = szász (ember)
 Sachsen npr Szászország
-sachsisk -1 szász(országi)
+sachsisk -t szász(országi)
 sacka: ~ efter elmaradozik, hátramarad;
 
 áiv lemarad

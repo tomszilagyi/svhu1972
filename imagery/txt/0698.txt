@@ -59,7 +59,7 @@ számok
 sortera [-o-] L vt osztályoz, (el)rendez,
 kiválogat, csoportosít, szortíroz; ~
 efter storlek nagyság szerint rendez v.
-szortíroz IL vi [vki v vmi] alá tartozik
+szortíroz I. vi [vki v vmi] alá tartozik
 (v. van rendelve); ~ under ett
 ämbetsverk egy hivatal (felügyelete) alá
 tartozik, egy hivatalnak van

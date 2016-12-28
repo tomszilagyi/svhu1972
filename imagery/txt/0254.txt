@@ -8,7 +8,7 @@ gast|krama fojtogatva nyom v. szorít
 -ar fojtogató szorítás v. ölelés;
 lidércnyomás
 
-gastrisk -1 gyomorhoz tartozó, gaszt-
+gastrisk -t gyomorhoz tartozó, gaszt-
 
 rikus,
 gyomor-gastronom [-ö’m] -en, -er ínyenc, ínyes-
@@ -66,7 +66,7 @@ gatunge -n, -ar utcakölyök, -gyerek
 (leány is)
 gatu|nämd -en, -er kb.: (községi) útügyi
 hivatal -nät -et, = utcahálózat
-»renhållning -en utcaseprés,
+-renhållning -en utcaseprés,
 úttisztoga-tás -skylt -en, -ar utca-névtábla -strid
 -en, -er utcai harc -trafik -en utcai
 forgalom v. közlekedés -vimmel -vimlet
@@ -79,7 +79,7 @@ dal
 gav giva
 
 gavel -n, gavlar ép: orom(zat); dörren
-står pá vid ~ az ajtó tárva-nyitva
+står på vid ~ az ajtó tárva-nyitva
 áll; öppna på vid ~ szélesre nyit,
 sarkig kitár -fönster -fönstret, =
 orom-ablak -mur -en, -ar oromfal -rum

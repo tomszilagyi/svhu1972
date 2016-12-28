@@ -4,7 +4,7 @@ keltiska -n kelta nyelv
 kemi -(e)ri vegyészet, vegytan, kémia
 kemikalier plär vegyszerek, vegyi cikkek
 kemiker -n, ~ vegyész, kémikus
-kemisk -1 vegy(észet)i, vegytani, kémiai;
+kemisk -t vegy(észet)i, vegytani, kémiai;
 h ~ vegytisztítás; ~t ren
 vegytiszta, vegyileg tiszta
 kemist -en, -er vegyész, kémikus
@@ -101,7 +101,7 @@ kinkig -t akadékoskodó, „szőröző";
 igényes; válogatós, kényes; nyafogó,
 nyűgös(ködő); nehéz(kes); kínos; en
 ~ situation kényes v. kínos helyzet;
-han är ~ pá mat (ő) válogatós az
+han är ~ på mat (ő) válogatós az
 ételben
 
 kiosk [-o1-] -en, -er 1. kioszk,

@@ -11,7 +11,7 @@ léggyökér -rör -et, = 1. orv hörgök
 -streck -et, — égöv; éghajlat -strid -en,
 -er légi harc v. csata* -stridskrafter
 plur kat légierők -strupe -n, -ar
-orv légcső -tom -1 légüres -trumma
+orv légcső -tom -t légüres -trumma
 -n, -or légakna, szellőzőakna -tryck -et
 légnyomás -tät -tätt légáthatlan,
 légmentesen záró v zárt), hermetikus
@@ -79,7 +79,7 @@ szagú; ~ illa rossz szag(a) van, bűzlik,
 büdös; det ~r kaffe kávészag van
 lukt|flaska -n, -or rég: illatos v. repülősós
 üvegecske -fri -fritt szagtalan
-»förnimmelse -n, -r szagérzet -lös -t
+-förnimmelse -n, -r szagérzet -lös -t
 szagtalan -organ -et, = szaglószerv
 -sinne -t szaglóérzék -viel -en, -er
 illatos ibolya -ärt -en, -er növ: szagos

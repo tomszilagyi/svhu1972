@@ -17,7 +17,7 @@ musik -en zene, muzsika; sätta till ngt
 
 megzenésít vmit
 musikalier plur kották, kottafüzetek
-musikalisk -1 1. zenei; ~ akademi
+musikalisk -t 1. zenei; ~ akademi
 zeneművészeti főiskola, zeneakadémia 2.
 zeneértő, -kedvelő, muzikális
 musikant -en, -er zenész, muzsikus
@@ -67,10 +67,10 @@ erejét (v. a velejét); vara utan ~ ízetlen,
 erőtlen; nincsen sava-borsa 3*
 gyümölcslé; (édes) must
 mustasch -en, -er bajusz
-mustig -1 1. leves(es); zamatos, ízletes,
+mustig -t 1. leves(es); zamatos, ízletes,
 eros 2. átv erőteljes, erős; velős 3«
 átv durva, vaskos, zaftos
-muta11. s; -n, -or mutor IL vt
+muta11. s; -n, -or mutor I. vt
 megveszteget, -ken, lekenyerez
 muta2: ~ in bányajogosítványt kér
 
@@ -100,7 +100,7 @@ mulatást v. szórakozást!; mycket
 pengar sok pénz; utan (att) så mycket
 som kasta en blick bakom sig anélkül
 hogy egy pillanatra is hátratekintene
-mycket I. adj ->- mycken IL adv L
+mycket I. adj ->- mycken I. adv L
 (alapfokú adj és adv előtt:) nagyon, igen;
 ~ stor nagyon nagy; det är ~ möjligt
 nagyon v. könnyen lehetséges; ~

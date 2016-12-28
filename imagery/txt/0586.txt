@@ -42,7 +42,7 @@ och hålla tunt sokat igér (és) keveset
 tesz II. praep: ~ (om) körül; ~ hörnet
 a sarok körül; jorden ^ a föld körül;
 året ~ egész éven át, egész évben
-runtom(kring) I. praep körül IL adv
+runtom(kring) I. praep körül I. adv
 
 körös-körül, körben, körülötte
 rus -et, — részegség, ittasság; mámor
@@ -59,7 +59,7 @@ rohan; ~ på v. mot dörren az ajtóhoz
 
 - motorn ~r a motor túrázik v. pereg
 (i\ nagy fordulatszámmal működik)
-IL vt, techn (üresen) nagy
+I. vt, techn (üresen) nagy
 fordulatszámmal járat, feltúráztat, pörget
 
 (motort) III. (hgs igek:) ~hort elrohan,
@@ -95,7 +95,7 @@ ruska2 I. vt, vi ráz; cibál; rázódik; ~ ngn
 vaken, ~ liv i ngn felráz vkit álmából,
 felébreszt vkit; ~ ngn i håret (meg-)
 cibálja vkinek a haját; ~ på huvudet
-fejét csóválja v. rázza; ~ pá sig
+fejét csóválja v. rázza; ~ på sig
 megrázza magát, (meg)rázkódik II. (hgs
 igek:) ~ upp felráz; ~ upp sig
 összeszedi v. megembereli magát

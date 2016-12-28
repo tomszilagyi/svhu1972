@@ -7,7 +7,7 @@ sagogryn szágó(liszt)
 sagogrynssoppa [-so-] -n, -or szágóleves
 sago|land -länder meseország,
 mesebeli v. mondabeli ország; álomvilág
--lik -1 meseszerű, mesébe illő, mesés;
+-lik -t meseszerű, mesébe illő, mesés;
 O hihetetlen, fantasztikus
 sagopalm -en, -er szágópáima
 sago|prins -en, -űr mesebeli herceg v.

@@ -102,7 +102,7 @@ bröt bryta
 bua pfujol, hangosan nyilvánítja
 nemtetszését
 
-buande -1, -n pfujolás,
+buande -t, -n pfujolás,
 nemtetszés-nyil-vánítás
 
 bubbla I. s: -n, -or (lég)buborék; bugy-

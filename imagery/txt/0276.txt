@@ -69,7 +69,7 @@ guda|beläte -t, -n, bálvány(kép)
 az istenek itala, nektár -dyrkan =
 (en) istenimádás; kultusz -gnista
 -n, -or isteni szikra
-gudaktig -1 istenes, istenfélő, jámbor
+gudaktig -t istenes, istenfélő, jámbor
 guda|lik -t istenhez hasonló, isteni -lära
 -n, -or 1. mitológia 2. teológia -saga
 -n, -or hitrege, mitosz -skön -t
@@ -93,7 +93,7 @@ szenteskedő, bigott
 gud|lös -t istentelen, hitetlen,
 istentagadó -mo(de)r -n, -mödrar keresztanya
 gudom -en, -ar istenség
-gudomlig -1 isteni; mennyei, remek,
+gudomlig -t isteni; mennyei, remek,
 
 pompás, csodálatos
 guds|beläte -t, -n Isten képe -dc m-en, -a

@@ -1,5 +1,5 @@
 szabadságvágy -straff -et, =» jog
-szabadságvesztés »älskande
+szabadságvesztés -älskande
 szabadságszerető
 
 fri|hjul -et, = techn szabádonfutó (kerék)
@@ -101,7 +101,7 @@ magam egészen jól
 friska I. vt 1. techn frissít, készei 2. ~ upp
 felfrissít, -üdít; felújít; ~ upp minnet
 az emlékezetet felfrissíti II. vi: det
-~r i v. pá erősödik (szél)
+~r i v. på erősödik (szél)
 fri|skara -n, -or (kisebb) szabadcsapat
 -skareman -mannen, -män
 szabadcsapat tagja

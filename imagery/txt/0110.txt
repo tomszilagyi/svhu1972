@@ -21,12 +21,12 @@ bort|bjuden -bjudet meghívott
 (vendégségbe) -blåsa ^blåste,-blåst elfúj -bytt
 el-v. összecserélt; jag har fått min hatt ~
 elcserélték a kalapomat -döende L s:
--t elhalás; (átv is) ; elzsibbadás IL adj
+-t elhalás; (átv is) ; elzsibbadás I. adj
 elhaló (átv is); elhangzó; elzsibbadó
 -efter praep (.; ,-neic a) mentén v.
 hosszában; r. strandm a part mentén
 -emot I. praep felé, körül; ~ klockan
-två két óra körül IL adv körülbelül^
+två két óra körül I. adv körülbelül^
 hozzávetőleg,
 borterst (superi borta) adv
 legtávolabbra), legmesszebb(re)
@@ -37,7 +37,7 @@ elveszés, eltűnés, kiesés, elmaradás
 el- v. átköltözés -fors ling -en
 elszállítás, elfuvarozás -frusen -fruset el- v.
 lefagyott -färd -enf -er el- v. odautazás
-»förklara \ försöka ~ ngt mégprőbái
+-förklara \ försöka ~ ngt mégprőbái
 kimagyarázni vmit, „megmagyarázza a
 bizonyítványát" -gift: få en flicka ~
 férjhez ad egy leányt -glömd -glömt
@@ -79,7 +79,7 @@ félrenevelt, dédelgetett -sprungen
 -sändande -t elküldés ^tagande -t elvevés,
 elvétel; (folt)kivevés. -tappande -t
 elvesztés -tingad oda- v. megígért -väg
--en: pá ~en odamenet
+-en: på ~en odamenet
 bortåt I. adv: där ~ arrafelé; en tid ~
 egy (bizonyos) ideig II. praep 1.
 [vminek az] irányában, felé 2.

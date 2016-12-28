@@ -15,7 +15,7 @@ gallicism -en, -er francia nyelvi sajátság,
 gallicizmus
 Gallien npr Gallia
 gallier -n, = -v galler1 .
-gallisk -1 gall; tipikusan francia .
+gallisk -t gall; tipikusan francia .
 gallra (meg)ritkít (erdőt), egyel ( növényt);
 (ki)selejtez; ~ ut különválaszt;
 megritkít (erdőt); kiválogat, kiselejtez
@@ -89,7 +89,7 @@ vénségére -dags régies, ódivatú; régivágású,
 régimódi -modig -t régi divatú,
 ódivatú, divatjamúlt, régies, elavult
 -svenska -n ósvéd (nyelv)
--testament-lig -1 biblia: ószövetségi
+-testament-lig -t biblia: ószövetségi
 gamman indecl (en) rég: öröm,
 vidámság; i fröjd och ~ örömben és
 boldogságban

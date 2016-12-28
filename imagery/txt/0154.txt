@@ -16,7 +16,7 @@ kultuszminiszter
 ed1 -et, = földnyelv, -szoros
 ed2 -en, -er 1. eskü; avlägga ed (vid ngt)
 esküt tesz (vmire); bryta en ed
-megszegi az esküt; gå ed pá megesküszik
+megszegi az esküt; gå ed på megesküszik
 rá 2. átok, káromkodás
 edda -n, -or Edda(-dal) (óskandináv hősi
 eposz )
@@ -96,7 +96,7 @@ efter|anmälan = (en), -anmälning -en,
 -ar utólagos jelentkezés v. bejelentés
 -apa utánoz, utánacsinál, majmol
 -apning -en, -ar utánzás, majmolás;
-utánzat -arbete-1 befejező munka,
+utánzat -arbete-t befejező munka,
 végső simítások -behandling -en, -ar
 utókezelés -beskatta utólag megadóztat
 -beställning -en, -ar utánrendelés -bild

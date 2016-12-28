@@ -22,11 +22,11 @@ foglyot kivált
 lösaktig laza erkölcsű, ledér,
 könnyelmű; erkölcstelen
 lösande v egy oldó; hashajtó
-lös [arbetare -n, = alkalmi munkás,
+lös|arbetare -n, = alkalmi munkás,
 napszámos -bladsbok -en, -böcker kivehető
 lapokból álló (kapcsos) füzet v,
 jegyzőkönyv -drivare -n, ~ csavargó
-»driveri -(e)t csavargás -egendom -en ingó
+-driveri -(e)t csavargás -egendom -en ingó
 vagyon, ingóság(ok)
 lösen = (en) 1. váltságdíj 2. posta
 büntetőportó 3. (bélyeg)illeték 4. kat
@@ -41,7 +41,7 @@ felszabadd; készpénzzé tesz (tőkét);
 ~ sig kiszabadítja magát, kiszabadul,
 kibontakozik; vegy felszabadul,
 fejlődik, keletkezik
-lös|hår -et, ~ vendéghaj, paróka »häst -en
+lös|hår -et, ~ vendéghaj, paróka -häst -en
 -ar 1. tartalékló; lógós (ló); kat
 veze-tékló 2. átv O „szabad’’ férfi;
 egyedülálló férfi ill. nő -kokt lágyra fő(zö)tt;
@@ -100,7 +100,7 @@ löv [kransad lombkoszorús -mask -en, -ar
 zöld (lombos) ág -skog -en, -ar lombos
 erdő, lomberdő -sprickning -en
 rügyfakadás -såg -en, -ar lombfürész
-»sångare -n, — fitisz-füzike (madár) -trä
+-sångare -n, — fitisz-füzike (madár) -trä
 -(e)t, -rí faipar: lombfa -träd -et, =
 növ lombos fa -valv -et, = lombsátor,
 -tető -verk -et lomb(ozat)

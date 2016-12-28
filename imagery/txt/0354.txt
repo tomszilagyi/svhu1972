@@ -7,7 +7,7 @@ egybevetés; hasonlat; i ~ med ngt
 vmihez képest, vmivel
 összehasonlítva; utan ~ (össze)hasonlithatatlanul
 -förelsevis adv viszonylag, aránylag
--förlig -1 összehasonlítható
+-förlig -t összehasonlítható
 jämka 1. tol, elmozdít; (helyére) igazít,
 megigazít; ~ stolen litet åt sidan a
 széket kissé félretolja; ~ (på) slipsen
@@ -90,7 +90,7 @@ jämn|mod -et egykedvűség, közöny,
 nyugalom -mått -et arányosság,
 egyenletesség -stark -t (-vei) egyenlő eros
 -stor -t (-vei) egyenlő nagy, egyenlő
-nagyságú -árig -1 egykorú, egyidős;
+nagyságú -árig -t egykorú, egyidős;
 hon är ~ med mig ő egyidős v. egykorú
 velem; annyi idős mint én; mina
 a velem egykorúak, a kortársaim

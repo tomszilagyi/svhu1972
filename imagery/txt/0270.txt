@@ -23,7 +23,7 @@ grepkorg -en, -ar füles kosár
 grepp -et, = 1. fogás (átv is); man får
 intet ^ om det nincs rajta fogás; få ett
 om uppgiften megérti a feladatot;
-ha rätta ~et pá ngi jó keze van vmihez,
+ha rätta ~et på ngi jó keze van vmihez,
 rááll a keze vmire; érti a módját
 vminek; inte ha ~ om ämnet nincs érzéke
 a dologhoz v. témához 2. fogantyú,
@@ -90,7 +90,7 @@ megfog v. elcsíp egy tolvajt; ~ ngn i
 armen megragadja vkinek a karját,
 karon ragad vkit; ~ ngn i håret hajába
 markol vkinek; ~ ur luften légből
-kap, ujjából szop; ~ ngn pá bar
+kap, ujjából szop; ~ ngn på bar
 gärning rajtakap (v. tetten ér) vkit; ~s
 av förtvivlan kétségbeesés fogja el;
 han greps av lust att.. . kedve támadt

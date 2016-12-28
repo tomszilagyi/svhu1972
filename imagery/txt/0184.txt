@@ -27,7 +27,7 @@ fin|tändare -n, = finn(országi) (ember)
 finnországi lakos, finn (ember)
 fin|mala -malde, -malt finomra őröl;
 finmalet vetemjöl finom(ra őrölt)
-búzaliszt -maskig -1 finom- v. aprószemű
+búzaliszt -maskig -t finom- v. aprószemű
 (pl. háló) -mekaniker -n, =
 finommechanikus -mekanisk -t
 finommechanikai
@@ -109,7 +109,7 @@ finn nő
 
 finsk|språkig -t finn nyelvű v.
 anyanyelvű -talande finnül beszélő
-finsk-ugrisk -1 finnugor
+finsk-ugrisk -t finnugor
 fin|skuren -skuret 1. finomra v. apróra
 vágott 2. ett finskuret ansikte finom
 vonású arc -slipa finomra csiszol v.

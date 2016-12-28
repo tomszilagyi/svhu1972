@@ -52,7 +52,7 @@ ortodoxia
 ortografi -(e)n, -er helyesírás
 ortografisk -t helyesírási
 ortopedi -(e)n ortopédia, testegyenészet
-ortopedisk -1 ortopéd(iai), ortopedikus
+ortopedisk -t ortopéd(iai), ortopedikus
 orts [befolkning -en helyi lakosság,
 helybeliek -bo -n, -r helybeli (lakos)
 -förteckning -en, rar helységnévtár
@@ -61,7 +61,7 @@ helybeliek -bo -n, -r helybeli (lakos)
 o|rubbad érintetlen; változatlan,
 zavartalan; sitta i orubbat bo a teljes
 hagyatéknak birtokában van v. marad
-(özvegyi jogon ) -rubblig -1 rendíthetetlen,
+(özvegyi jogon ) -rubblig -t rendíthetetlen,
 rendületlen, megingathatatlan
 orygglig -t rendíthetetlen;
 megdönthetetlen, megingathatatlan;

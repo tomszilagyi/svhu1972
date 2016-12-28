@@ -56,7 +56,7 @@ kifejezett, határozott, világos -tryckligen,
 -tryckligt adv kifejezetten,
 határozottan, világosan
 
-uttrycks|full -1 kifejezésteljes, kifejező
+uttrycks|full -t kifejezésteljes, kifejező
 -fullhet -en kifejező erő, kifejezésteljes
 jelleg, [vminek a] kifejező volta -lös
 -t kifejezéstelen, üres (pl. tekintet)

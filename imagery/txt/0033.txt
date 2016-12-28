@@ -2,7 +2,7 @@ allergisk -t orv: allergiás, allergikus
 allernådigst adv rég: legkegyelmesebben
 allesamman(s) pron valamennyi(en),
 mindnyájan; mind egytől-egyig; hör
-pá ~ / mindenki figyeljen ide!
+på ~ / mindenki figyeljen ide!
 allestädes adv mindenütt, mindenhol,
 -felé -närvarande mindenütt jelenlevő
 all|fader -n mindenek atyja, teremtő
@@ -81,7 +81,7 @@ den bildade ~en a művelt
 olvasóközönség; den stora ~en a
 nagyközönség, a nagy nyilvánosság; uppträda
 inför ~en nyilvánosan fellép
-allmänmänsklig -1 általános emberi
+allmänmänsklig -t általános emberi
 allmän(ne)lig -t egyetemes, általános
 allmänning -en, -ar (községi) közös föld-
 

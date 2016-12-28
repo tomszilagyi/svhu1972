@@ -25,12 +25,12 @@ kedvezőtlenül van hangolva -gärna adv
 kelletlenül, nem szívesen -gärning -en,
 -ar gaztett, gonosztett -gärningsman
 -mannen, -män gonosztevő; bűnöző
-»gàstvänlig k nem vendégszerető,
+-gästvänlig k nem vendégszerető,
 barátságtalan; zord -görlig -t
 lehetetlen, kereszttilvihetetlen -hanteriig
 -t nehezen kezelhető, nem
 kézhez-_ álló, ügyetlen fogású, kényelmetlen
-»harmonisk -t összhangtalan>
+-harmonisk -t összhangtalan>
 diszharmonikus; aránytalan -hederlig -t
 tisztességtelen, becstelén; átv
 piszkos -hejdad akadálytalan,
@@ -112,4 +112,4 @@ under ~et leigáz, iga alá hajt
 
 Oka: ~ av ett djur állatot a járom-
 
--ból kifog; <v pá igába fog
+-ból kifog; <v på igába fog

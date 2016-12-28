@@ -46,7 +46,7 @@ flegma
 flegmatiker -n, = egykedvű, közönyös,
 
 flegmatikus (ember)
-flegmatisk -1 egykedvű, közönyös,
+flegmatisk -t egykedvű, közönyös,
 
 flegmatikus
 flektera nyelv ragoz

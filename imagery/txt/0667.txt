@@ -1,6 +1,6 @@
 slaveri -(e)t 1. rabszolgaság 2. átv
 rabság, szolgaság, rabiga
-slav|göra -1 rabszolgamunka;
+slav|göra -t rabszolgamunka;
 kényszermunka; nehéz v. fáradságos munka,
 kulimunka -handel -n
 rabszolgakereskedelem; vit leánykereskedelem

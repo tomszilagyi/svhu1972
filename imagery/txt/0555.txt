@@ -1,7 +1,7 @@
 pseudo [psevdo-] összet előtag ál-,
 látszat-, nem valódi
 pseudonym [psevdo-].I. s: -en, -er
-álnév, fedőnév IL adj: -t álnevű, álnév
+álnév, fedőnév I. adj: -t álnevű, álnév
 alatt szereplő v. kiadott
 psyke -n v. -t, -n lélek, psziché; lelki,
 alkat
@@ -14,7 +14,7 @@ elmegyógyászat
 psykiatriker -n, = elmeorvos,
 pszichiáter
 
-psykisk -1 lelki, pszichikai
+psykisk -t lelki, pszichikai
 psyko|analys -en, -er pszichoanalízis,
 lélekelemzés -analytisk -1
 pszichoanalitikus, -analitikai, lélekelemző
@@ -59,7 +59,7 @@ publik [favorit-e/2, -era közönség kedvence
 puckel -n, pucklar púp -rygg -en, -ar
 1. púp 2. púpos (ember) -ryggig -t
 púpos
-pucklig -1 púpos
+pucklig -t púpos
 pudel -n, pudlar uszkár, púdli; átv:
 
 kärna a dolog veleje

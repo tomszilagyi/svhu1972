@@ -104,7 +104,7 @@ epigram -grammet, — epigramma
 epik -en elbeszélő költészet, epika
 epiker -n, = epikus (költő)
 epikuré -(e)n, -er epikureus
-epikureisk -1 epikuroszi, epikureista
+epikureisk -t epikuroszi, epikureista
 epilepsi -(e)n epilepszia, nyavalyatörés
 epileptiker -n, = epilepsziás,
 nyavalyatörős

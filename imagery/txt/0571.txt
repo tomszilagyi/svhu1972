@@ -4,7 +4,7 @@ val-lásgyakorlat
 religiositet -en vallásosság
 religiös -t vallási, hit-; vallásos,
 istenfélő, jámbor
-relik -eh, -er ereklye -skrin »et, =
+relik -eh, -er ereklye -skrin -et, =
 
 ereklyetartó
 reling -en, -ar hajópárkány, -perem,
@@ -17,7 +17,7 @@ rem remmen, remmar szíj; hajtószíj,
 gépszíj, heveder -drift -en techn:
 szíj(meg)hajtás
 remi sakk I. adj indecl döntetlen; spelet
-blir ~ a játszma döntetlenre áll IL
+blir ~ a játszma döntetlenre áll I.
 s: -(e)n, -er döntetlen játszma
 reminiscens -en, -er (vissza)emlékezés,
 
@@ -78,21 +78,21 @@ rendevu [rang-] ~(e)t,- -er, rendezvous
 [-vü1] -et, -er találkozó, találka, légyott,
 randevú
 
-ren|göra »gjorde, -gjort (meg)tisztít,
+ren|göra -gjorde, -gjort (meg)tisztít,
 tisztogat; (ki)takarít -göring -en, -ar
 (meg)tisztítás, tisztogatás; takarítás
 -het-en tisztaság/á/v is); ártatlanság
 -hjärtad tiszta* szívű -hållning -en
 (út)tisztogatás, tisztántartás;
 utca-söprés; szemétszállítás -hållningsverk
-»et, = köztisztasági hivatal -hårig
-»t o rendes, jó, megbízható
+-et, = köztisztasági hivatal -hårig
+-t o rendes, jó, megbízható
 rening -en -ar (meg)tisztítás, finomítás;
 
 tisztálkodás; tisztulás; (vö. rena)
 reningsmedel -medlet, = tisztítószer
 renklor [re’n&klor] plur ringló(szilva)
-ren|kött -et rénszarvashús -lav »en, -ar
+ren|kött -et rénszarvashús -lav -en, -ar
 
 nov: rénszarvaszuzmó
 renlevnad -en szüzesség, tiszta élet,
@@ -102,7 +102,7 @@ renlig -t tiszta, takaros, rendes
 ren|lärig -t igazhitű; hithű, ortodox -odla
 kitenyészt; átv kifejleszt; ~d egoism
 hamisítatlan v. valódi önzés -odling
-»en, -ar biol: tiszta tenyészet,
+-en, -ar biol: tiszta tenyészet,
 színtenyészet
 
 renommé [-o-] -(e)t hírnév; känna ngn

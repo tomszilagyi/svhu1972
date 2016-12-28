@@ -15,7 +15,7 @@ radiologi -(e)n radiológia, sugárzástan
 radio [lur -en, -ar rádió :, fejhallgató
 -lyssnare -n, — rádióhallgató
 -mottagare -n, = rádió-vevőkészülék
-»mottagning -en, -ar rádióvétel -pejling
+-mottagning -en, -ar rádióvétel -pejling
 +en rádiótájolás> -iránymérés -pjäs
 ~en, -er rádió- v. hangjáték -polis -en
 CJRH-járőr -program -grammet, =
@@ -98,9 +98,9 @@ raja -n, -or v. -s rádzsa, fejedelem
 rajolera mez talajt (mélyen) forgat,
 rigol(ír)oz
 
-rak -1 egyenes; sima (haj); ~ linje
+rak -t egyenes; sima (haj); ~ linje
 egyenes (vonal); ~a vägen egyenesen,
-egyenest; pá ~ arm kinyújtott karral;
+egyenest; på ~ arm kinyújtott karral;
 átv azonnal, rögtönözve,
 hevenyészve, kapásból
 raka1 I. s: -n, -or kaparó, vakaró;

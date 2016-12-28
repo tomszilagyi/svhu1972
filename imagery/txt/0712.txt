@@ -1,7 +1,7 @@
 -mannen, -män nyelvész -område [-o-]
 -t, -n nyelvterület -regel -n, -regler
 nyelvtani szabály -rensning -en
-nyelvtisztítás, purizmus -riktig -1 nyelvileg
+nyelvtisztítás, purizmus -riktig -t nyelvileg
 helyes -riktighet -en nyelvhelyesség,
 helyes nyelvhasználat -rör -et, =s
 átv szócső, szóvivő, szószóló (för
