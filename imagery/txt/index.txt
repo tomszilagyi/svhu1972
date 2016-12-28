@@ -420,7 +420,7 @@
 0444 - L - lättkörd
 0445 - L - löklukt
 0446 - L - lösa
-0447 - M - macedonsik
+0447 - M - macedonisk
 0448 - M - magyariska
 0449 - M - maktbefogenhet
 0450 - M - man
@@ -980,7 +980,7 @@
 1004 - Ö - ögonblicklig
 1005 - Ö - ökenartad
 1006 - Ö - ömsinnad
-1007 - Ö - öppenhjärtig
+1007 - Ö - öppenhet
 1008 - Ö - öre
 1009 - Ö - Östasien
 1010 - Ö - överallt
