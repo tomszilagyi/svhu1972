@@ -18,18 +18,18 @@ kerül, életével lakol; när värken sätter
 till amikor elkezd fájni (v. a fájdalom
 belehasít); ~ till att skrika elkezd
 kiabálni, kiabálni kezd; ~ tillbaka
-visszahelyez, -tesz, -állít, -rak, helyére tesz;
+visszahelyez, tesz, állít, rak, helyére tesz;
 háttérbe szorít, mellőz; ~ tillbaka
 klockan vissza- v. hátraigazítja az órát;
 ~ undan eltesz, félretesz, -állít, el- v.
 félrerak; ~ undan pengar pénzt
 félretesz (v. tesz félre); ~ upp felhelyez,
--tesz, -rak; felállít, épít, emel; felszerel;
+tesz, rak; felállít, épít, emel; felszerel;
 feltűz; alapít, szervez, létrehoz; szinh
 rendez; felragaszt, kitűz (hirdetést);
-megfogalmaz, -szövegez, (el)készít
-(irást); feljegyez, -vesz; nyomd kiszed;
-átv fellázít, -izgat, -bujt; ~ upp en
+megfogalmaz, szövegez, (el)készít
+(irást); feljegyez, vesz; nyomd kiszed;
+átv fellázít, izgat, bujt; ~ upp en
 affär üzletet alapít v. nyit; ~ upp ett
 förvånat ansikte csodálkozó képet vág;
 ~ upp en armé hadsereget felállít
@@ -57,7 +57,7 @@ felkel vki ellen; ~ sig upp i sängen
 felül az ágyban; ~ sig upp på hästen
 felül a lóra; ~ ut kihelyez, kitesz,
 kirak; (ki)állít (őrt); kitűz, megállapít,
--határoz (időpontot); (-+- utsätta);
+határoz (időpontot); ( utsätta);
 ~ ut ett barn gyer(m)eket kitesz; ~ ut
 en belöning jutalmat tűz ki; ~ ut en
 båt csónakot vízre tesz; ~ ut dagen
@@ -81,9 +81,9 @@ jön, szaladva v. száguldva érkezik;
 vágtatva jön
 sättare -n, = nyomd (betű)szedő
 sättär|elev -en, -er nyomd.: szedőtanuló
--nlsse -n (nyomd, tréf) szedőszekrény
+-nisse -n (nyomd, tréf) szedőszekrény
 ördöge (szedési hibák okozója)
-sätteri -(e)t, -ernyomd: szedőterem,
+sätteri -(e)t, -er nyomd: szedőterem,
 -helyiség
 
 sätterska -n, -or nyomd: (betű)szedőnő
@@ -110,4 +110,4 @@ komótos
 
 säv|matta -n, -or kákagyékény,
 gyékény-fonat -sångare -n, = áll nádi poszáta
-socken: i helg och ~ ünnepnap(on) és
+söcken: i helg och ~ ünnepnap(on) és

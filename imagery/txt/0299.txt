@@ -110,5 +110,5 @@ hemman -et, = parasztbirtok, -gazdaság
 hemmansägare -n, = (egész)telkes gazda;
 
 parasztgazda, gazdálkodó
-hemmaiplan -en, -er sp: spela pá ~
+hemma|plan -en, -er sp: spela på ~
 hazai v. saját pályán játszik -sittare

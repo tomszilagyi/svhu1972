@@ -1,4 +1,4 @@
-meieoro|log -en, -er meteorológus -logi
+meteoro|log -en, -er meteorológus -logi
 -(e)n meteorológia, időjárástan -logisk
 -t meteorológiai; ** station
 időjárásjelző v. meteorológiai állomás
@@ -116,7 +116,7 @@ hozzám
 
 migrän -en migrén, féloldali fejfájás
 mikro|fon -en, -er mikrofon
--fotografera: ~ ngt mikromásolatot v.
-mikrofelvételt készít vmiről -fotografi -(e)í,
-v. (e)n, -er 1. mikrofotografálás 2.
-mikrofelvétel, -fotográfia -skop -et, ~
+-fotografera: ~ ngt mikromásolatot
+v. mikrofelvételt készít vmiről -fotografi
+v. (e)n, -er 1. mikrofotografálás
+o 2. mikrofelvétel, -fotográfia -skop -et, ~

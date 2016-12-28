@@ -102,8 +102,8 @@ radio -n, -r 1. rádió; rádióadás; höra v.
 lyssna på ~ rádiót hallgat 2.
 rádióállomás, -adó 3. rádió(-vevő)készülék
 radio|aktiv -t radioaktív -aktivitet -en
-radioaktivitás -anläggning -en, -ar
-rádióberendezés (adó ill. vevő)
--an-tenn -en, -er rádióantenna -apparat
+o radioaktivitás -anläggning -en, -ar
+o rádióberendezés (adó ill. vevő)
+-antenn -en, -er rádióantenna -apparat
 -en, -er rádiókészülék -bearbetning
 -en, -ar átdolgozás rádióra -bil -en,

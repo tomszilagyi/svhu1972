@@ -1,5 +1,5 @@
 gyarmatáru-kereskedés, fűszerüzlet,
-csemegeüzlet, -kereskedés
+csemegeüzlet, kereskedés
 specerier plur fűszer- és gyarmatáru(k),
 
 csemegeáru(k)

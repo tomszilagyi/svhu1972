@@ -101,11 +101,11 @@ turist -en, -er természetjáró, országjáró,
 utas, kiránduló, túrázó, turista
 turista o turistáskodik
 turist|buss -en, -ar kiránduló- v.
-turistaautóbusz -byrå -n, -er utazási v.
+o turistaautóbusz -byrå -n, -er utazási v.
 idegenforgalmi iroda -båt -en, -ar
 kiránduló- v. turistahajó -förening -en, -ar
 természetjárók egyesülete,
-turistaegyesület -hotell -et, = turistaszálló
+o turistaegyesület -hotell -et, = turistaszálló
 -hydda -n, -or (kisebb) turistaház -klass
 -en,-er (kedvezményes) turistaosztály
 (hajón, repülőgépen) -ort -en, -er

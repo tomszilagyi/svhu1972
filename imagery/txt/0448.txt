@@ -1,4 +1,4 @@
-magyariska-n 1. magyar nyelv 2. plur;
+magyariska -n 1. magyar nyelv 2. plur;
 
 -or magyar nő
 magåkomma -n, -or gyomorbaj,

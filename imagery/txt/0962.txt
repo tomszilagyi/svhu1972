@@ -107,7 +107,7 @@ felbecsülés, becslés, értékelés, taksálás
 värderings|man -mannen, -män becsüs,
 becslő
 
-Värde|sak -en, -er értéktárgy -stegring
+värde|sak -en, -er értéktárgy -stegring
 -en, -ar értékemelkedés -sätta -satte,
 -satt 1. ~ ngt megállapítja vminek az
 értékét, fel- v. megbecsül vmit 2*

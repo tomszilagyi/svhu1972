@@ -1,4 +1,4 @@
-magasságméret-mätare -ri, =
+magasságméret -mätare -n, =
 magasságmérő (műszer) -mätning -en, -ar
 magasságmérés -punkt -en, -er
 tetőpont, tetőfok, csúcspont (átv is),

@@ -1,8 +1,8 @@
-Visare -n, = 1. mutató (érdé, műszeré)
+visare -n, = 1. mutató (óráé, műszeré)
 2. összet utótag -mutató, -jelző; vö.
 vägvisare
 
-visar|tavia -n, -or számlap (órán) -våg
+visar|tavla -n, -or számlap (órán) -våg
 
 -en, -ar mutatós mérleg
 visavi I. adv, praep szemben,
@@ -20,7 +20,7 @@ visent -en, -er áll: (európai) bölény
 visera láttamoz, vízummal ellát
 (útlevelet )
 
-viserihg -en, -ar láttamozás; vízum
+visering -en, -ar láttamozás; vízum
 viseringstvång -et vízumkényszer
 vishet -en bölcsesség
 vision -en, -er látomás, jelenés, vízió

@@ -86,9 +86,9 @@ kivonul (pl tűzoltóegység) 3. kat
 szabadságolás, elbocsátás
 utrycknings order [-ör-] -n, = kat
 kivonulási parancs
-utjrymma -rymde, -rymt kiürít (lakást,
+ut|rymma -rymde, -rymt kiürít (lakást,
 helyiséget) (kat is); elhagy; fienden
-utrymde fästningen az ellenség
+o utrymde fästningen az ellenség
 kiürítette v. elhagyta v. feladta az erődöt
 -rymmande -t kiürítés (kai is),
 elhagyás -rymme -t 1. (férő)hely; ha ~

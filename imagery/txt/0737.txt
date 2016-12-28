@@ -1,10 +1,10 @@
-strejkjbrytare -n, = sztrájktörő -bryteri
+strejk|brytare -n, = sztrájktörő -bryteri
 -(e)t sztrájktörés -fond [-o-] -en, -er
-strejkkassa -förbud -et, =
-sztrájktilalom -kassa -n, -or sztrájkalap,
+strejkkassa -förbud -et, = sztrájktilalom
+-kassa -n, -or sztrájkalap,
 
-- -pénztár-kommitté [-[-o-]-n,-ersztrájkbizottság-] {+[-o-]-n,-ersztrájk-
-bizottság+} -rätt -en sztrájkjog -rörelse
+- pénztár -kommitté [-[-o-]-n, -er sztrájkbizottság
+-rätt -en sztrájkjog -rörelse
 -n, -r sztrájkmozgalom -understöd
 -et, = sztrájksegély -vakt -en, -er
 sztrájkőr -våg -en, -or sztrájkhullám

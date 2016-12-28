@@ -115,4 +115,4 @@ kortege [-te’s] -n, -r (dísz)felvonulás,
 
 -menet; díszkíséret
 korteligen adv röviden, egyszóval
-. kort|fattad rövidre fogott, tömör, szűk-
+kort|fattad rövidre fogott, tömör, szűk-

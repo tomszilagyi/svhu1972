@@ -1,4 +1,4 @@
-macedonisk-/macedón(iai),makedón(iai)
+macedonisk -t macedón(iai),makedón(iai)
 mack -en, -ar benzinszivattyú;
 benzinkút, benzintöltő állomás
 macka -n, -or o vajas kenyér, rakott

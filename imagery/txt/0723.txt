@@ -13,7 +13,7 @@ a hóban 3. lépcsőfok; på översta ~et
 a lépcső tetején 4, nyomd űrtőltő,
 űrpótló
 
-siega I. vi lépdelj lépked; nagyokat lép;
+stega I. vi lépdelj lépked; nagyokat lép;
 ^ i väg nagy léptekkel elmegy v.
 elindul; komma ~hde nagy léptekkel
 V. dérrel-dúrral jön v. megy II. vt
@@ -24,18 +24,18 @@ léptekkel bejön v. bemegy, bevonul; ^
 upp lépéssel le- v. kimér, lelép; ~ ut
 a) kilépdel, kivonul; b) kilép,
 lépéssel kimér
-ötege -n, -ar létra (div is); kettőslétra
-ftiegel steglet, = tört kínzókerék,
+stege -n, -ar létra (div is); kettőslétra
+stegel steglet, = tört kínzókerék,
 kínzócölöp (kerékkel); dömas till ~ och
 hjul kerékbetörésre ítélik
-etegla tört: Jcínzókerékre kötöz; kerékbe
+stegla tört: Jcínzókerékre kötöz; kerékbe
 tör
 
-Btegíing -en, -ar tört: kínzókerékre
+stegling -en, -ar tört: kínzókerékre
 
 kötözés; kerékbetörés
 ftteglitsa -n, -or áll: tengeíic(e), stiglic
-iteg|längd -en, -er lépés hossza,
+steg|längd -en, -er lépés hossza,
 lépéshossz -mätare = lépésmérő,
 -számláló (készülék)
 stegpinne -n, -ar létrafok
@@ -50,14 +50,14 @@ a megélhetési költségek emelkedése, az
 élet drágulása; till ~de priser
 fel-% emelt árakon
 
-wegra2: ~ sig 1. (fel)ágaskodik (ló) 2.
+stegra2: ~ sig 1. (fel)ágaskodik (ló) 2.
 átv szembeszegül, ellenkezik;
 kapálódzik (inför ngt vmivel; vmi ellen)
 
-Stegras stegrades, stegrats fokozódik,
+stegras stegrades, stegrats fokozódik,
 
 növekszik; emelkedik (pL ár)
-Stegring1 -en, -ar fokozás, növelés; eme-
+stegring1 -en, -ar fokozás, növelés; eme-
 
 lés (áré); fokozódás, növekedés;
 emelkedés
@@ -88,7 +88,7 @@ kvart till! hagyd v. hagyja a húst
 sülni még egy negyedóráig I III*
 sig i solen sütteti magát a nappal,
 sütkérezik a napon
-Stekel -n, steklar áll: hártyásszárnytf
+stekel -n, steklar áll: hártyásszárnytf
 (rovar)
 
 stek|fat -et, = pecsenyéstál -fett -et,
@@ -107,7 +107,7 @@ való-(ül. sült) burgonya -spett -et,
 nyárs (hús sütésére) -sás -en, -er
 pe-csenyelé, -szaft, sült hús leve V.
 szaftja; sülthöz való mártás
-Stekt (->- steka) (meg)sütøtt; pirított,
+stekt (->- steka) (meg)sütøtt; pirított,
 párolt; sült, megsült; ~ fisk sült hal;
 
 potatis sült burgonya; ~ ägg

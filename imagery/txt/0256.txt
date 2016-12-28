@@ -39,7 +39,7 @@ ellenvetést tesz (mot v. på ngt vmire)
 -mäle -t, -n válasz(irat), felelet,
 visszavágás; cáfolat, ellenvetés
 genom [-0-] praep át, keresztül; által,
-út-ján; folytán; -val, -vei; gå ~ rummet
+út-ján; folytán; -val, -vel; gå ~ rummet
 keresztülmegy a szobán; kasta ut ~
 fönstret kidob az ablakon; ~ hela
 året egész éven át; förstörd ~ eld tűz
@@ -57,7 +57,7 @@ kidolgoz -bakad jól át- v. megsütött, jól
 átv érvényre jutás, jelentkezés; komma
 
 till ~ átüt, feltör, érvényre jut
--bru-ten -brutet áttört, átszakított -bäva
+-bruten -brutet áttört, átszakított -bäva
 megremegtet; áthat, átjár; ~s av en
 känsla (erősen) áthatja (v.
 megremegteti a szívét) egy érzelem -dragen
@@ -67,7 +67,7 @@ a várost csatornák szelik át -driva
 végrehajt; ~ sin vilja keresztülviszi
 az akaratát, érvényt szerez
 akaratának -dränka átitat, telít;
-genomdränkt av olja olajjal átitatott -dålig
+genom|dränkt av olja olajjal átitatott -dålig
 -t egészen rossz -elak -t gonosz,
 elvetemült -fara -for, -farit átv: átjár,
 átfut; jag genomfors av en rysning
@@ -94,7 +94,7 @@ uralkodik az egész természetben; den
 tanken ~r hela boken ez a gondolat
 végigvonul az egész könyvön (i\
 áthatja az egész könyvet); en darr ning
-genomgick hela kroppen remegés futott
+genom|gick hela kroppen remegés futott
 végig az egész testen 2. átvizsgál,
 átolvas, átnéz, átvesz, áttanulmányoz;
 han har ~tt räkningen átvizsgálta a
