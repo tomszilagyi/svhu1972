@@ -20,6 +20,10 @@ $ 04_mk_imagesize_java.sh           [imagery -> ImageSize.java]
 5. Preprocess and pack the OCR-ed text
 $ 05_mk_txt.sh                      [imagery/txt -> assets/txt.bin]
 
+6. Create app icons
+$ 06_mk_icons.sh                    [imagery/cover/cover.jpg ->
+                                     res/mipmap-*dpi/ic_launcher.png]
+
 After these steps successfully complete, the app is ready to be built
 via gradle.
 
