@@ -40,7 +40,6 @@ public class PageListFragment extends Fragment {
     private boolean position_lock;
     private int image_area_height;
     private int image_area_width;
-    private boolean global_layout_listener_ran = false;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -120,12 +119,6 @@ public class PageListFragment extends Fragment {
             new OnGlobalLayoutListener() {
                 @Override
                 public void onGlobalLayout() {
-                    /* This is anal, but the API deprecation of
-                       removeGlobalOnFocusChangeListener in favour of
-                       removeOnGlobalFocusChangeListener is even more so. */
-                    if (global_layout_listener_ran) return;
-                    global_layout_listener_ran = true;
-
                     image_area_width = mRecyclerView.getWidth();
                     image_area_height = mRecyclerView.getHeight();
                     mImageUtils.setViewSize(image_area_width,
@@ -134,6 +127,9 @@ public class PageListFragment extends Fragment {
                           "Updating image display view area:" +
                           " Width:" + image_area_width +
                           " Height:" + image_area_height);
+
+                    mRecyclerView.getViewTreeObserver()
+                        .removeOnGlobalLayoutListener(this);
                 }
             });
         mRecyclerView.addOnScrollListener(
