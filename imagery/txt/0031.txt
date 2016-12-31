@@ -61,7 +61,7 @@ alarmera (fel)riaszt, fellármáz, riadóztat;
 ~nde nyheter riasztó v. nyugtalanító
 hírek
 
-alarm {klocka [-o-] -n, -or vészharang;
+alarm|klocka [-o-] -n, -or vészharang;
 vészcsengő -signal -en, -erriadójel(zés),
 
 riasztójel; légiriadó -skott [-o-] -et, =

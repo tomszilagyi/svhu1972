@@ -5,15 +5,15 @@ licentiat [-nsi-] -en, -er licenciátus
 (li-cenciátusi fokozatot szerzett, egyetemi
 végzettségű személy); ta ~en o leteszi
 a licenciátusi vizsgát
-Ida1 led, lidit előrehalad, megy; múlik;
+lida1 led, lidit előrehalad, megy; múlik;
 det lider mot kvällen estére jár az idő;
 det lider mot slutet med honom végét
 járja, már nem sok (ideje) van neki
-iiátra; det ár långt lidet på dagen késő
+hátra; det ár långt lidet på dagen késő
 v. öreg este van (már); tiden lider az
 idő eljár v. múlik; vad det v. tiden lider
 idő múltával, idővel
-Máa2 led, lidit (vt, vi) szenved (av ngt
+lida2 led, lidit (vt, vi) szenved (av ngt
 vmiben); (el)tűr, kiáll, elvisel; ~ brist
 hiányt szenved (på ngt vmiben); ~
 nöd ínséget szenved, nélkülöz; jag kan
@@ -21,19 +21,19 @@ inte’** honom ki nem állhatom (őt);
 det lider inget tvivel om att semmi
 kétség nem fér hozzá hogy; ~ av magsår
 gyomorfekélyben szenved; hans hälsa
-lider av det az egészsége megsínyli;
+o lider av det az egészsége megsínyli;
 få ~ fór ngt bűnhődnie kell vmiért
-Mande I. adj szenvedő; bli ~ på ngt a
+lidande I. adj szenvedő; bli ~ på ngt a
 rövidebbet húzza vmiben; hälsan blir
 ** på det (ez) az egészség rovására
 megy, az egészség megsínyli (azt) I.
 s: -t, -n szenvedés; fájdalom, kín;
 ősszet utótag baj, betegség
-iáelse -n, -r szenvedély -fri -fritt
+lidelse -n, -r szenvedély -fri -fritt
 szenvedély nélküli; szenvtelen, nyugodt
 -full -t szenvedélyes
 lider lidret, = fészer, (kocsi)szín
-fiderlig buja, feslett, ledér,
+liderlig buja, feslett, ledér,
 kéjel-gő
 
 lie -n, -ar kasza
@@ -42,7 +42,7 @@ liera: ~ sig társul, szövetkezik; vara
 nära ~d med ngn szoros kapcsolatban
 van vkivel
 lifta o autóstoppal v. potyán utazik
-Hftning -en, -ar o autóstoppal való
+liftning -en, -ar o autóstoppal való
 utánzás, potyautazás
 liga -n, -or 1. szövetség, liga (sp is) 2.
 

@@ -83,7 +83,7 @@ kvalifikation -en, -er minősítés, képesítés,
 szakképzettség, kvalifikáció;
 alkalmasság, képesség
 kvalitativ -t minőségi
-kvalité -77, -er ker: minőség, minőségi
+kvalité -n, -er ker: minőség, minőségi
 osztály
 
 kvalitet -en, -er minőség, kvalitás

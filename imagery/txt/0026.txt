@@ -62,7 +62,7 @@ felhatalmaz 3. vara väl ~d jó hírben
 
 ackumulator -n, -er vili: akkumulátor
 ackumulera felhalmoz, akkumulál
-ackurat o I* adj akkurátus, gondos,
+ackurat o I. adj akkurátus, gondos,
 pontos I. adv pontosan; teljesen, egészen
 ackusativ -en, -er tárgyeset, accusativus
 ackuschőrska -n, -or szülésznő,

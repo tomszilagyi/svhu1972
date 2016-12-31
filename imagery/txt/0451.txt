@@ -67,7 +67,7 @@ mans|röst -en, -er férfihang -sidan: på ~
 férfiágon, apai ágon; dö ut på
 (fér)fiágon kihal
 manstark -t nagy létszámú
-mans [tukt -en (katonai) fegyelem -ålder
+mans|tukt -en (katonai) fegyelem -ålder
 
 -n, -åldrar emberöltő, nemzedék
 mantal-lf, = kb.: telek (S: adóügyi

@@ -51,7 +51,7 @@ párnahaj, vánkoshuzat
 örn|näsa -n, -or sasorr, hajlott orr
 
 -unge -n, -ar sasfiók
-öron [bedövande [-o-] fülsiketítő -bikt
+öron|bedövande [-o-] fülsiketítő -bikt
 -en, -er fülbegyón ás -clips -v örclips
 -gång -en,-ar orv: hallójárat,
 hangvezeték (fülben) -inflammation -en,

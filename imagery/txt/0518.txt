@@ -110,7 +110,7 @@ ont otid
 onumrérad számozatlan
 onus -et, = v. onera 1. teher, baj,
 vesződség 2. átv teher, adó
-o [nykter -t becsípett, ittas, részeg
+o|nykter -t becsípett, ittas, részeg
 -nyttig -t haszontalan, hiábavaló,
 céltalan*
 

@@ -52,10 +52,10 @@ II. adj: -t nyilvános
 publikation -en, -er 1. közzététel,
 publikálás 2. kiadvány, sajtótermék,
 publikáció
-publik [favorit-e/2, -era közönség kedvence
+publik|favorit -en, -er a közönség kedvence
 -framgång -en, -ar közönségsiker -frieri
 -(e)t a közönség kegyének hajhászása
--succé -n, -er publikjramgáng
+-succé -n, -er publikframgång
 puckel -n, pucklar púp -rygg -en, -ar
 1. púp 2. púpos (ember) -ryggig -t
 púpos
@@ -109,7 +109,7 @@ vkinél, kitapogatja vkinek a szándékát
 pulsa: ~ i snön a hóban gázol
 pulsera lüktet, ver
 
-puls [slag -et, — érverés, pulzus -åder
+puls|slag -et, — érverés, pulzus -åder
 
 -n, -ådror verő- v. ütőér, artéria
 pultron -en, -er gyáva v. nyúlszívű

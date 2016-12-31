@@ -39,7 +39,7 @@ bot|färdig -t bűnbánó, töredelmes -görare
 -n, vezeklő -görelse -n, -r, -göring
 -en, -ar vezeklés, bűnbánat, elégtétel,
 penitencia
-botiig -t gyógyítható
+botlig -t gyógyítható
 botten bottnen v. bottnar 1. [vminek
 az] alja v. alsó része; föld, talaj; ~ på
 en flaska egy üveg alja; på svensk ~

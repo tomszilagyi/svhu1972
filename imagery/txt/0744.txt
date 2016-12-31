@@ -5,7 +5,7 @@ diákszövetség -förening -en, -ar
 diákegyesület -hem -hemmet, = egyetemi v.
 főiskolai diákotthon, kb.: kollégium
 studentikos -t diákos, [-diák-student]-] {+diák-
-student]+} kamrat -en, -er osztály- v.
+student|kamrat -en, -er osztály- v.
 iskolatárs, diáktárs (akivel együtt
 érettségizett ) -kula -n, -or o diákszobácska,
 -tanya -kår -en, -er diáktestület,
@@ -18,7 +18,7 @@ főiskolai hallgatónő; egyetemista (nő);
 főiskolás (nő); diáklány; hon är ~ (ő)
 letette az érettségit; (ő) egyetemista
 v. főiskolás (nő)
-studentskrivning -en, -ar írásbeli
+student|skrivning -en, -ar írásbeli
 érettségi (vizsga) -stad -en, -städer 1.
 egyetemi város, diákváros 2. (egyetemi v.
 főiskolai) diáknegyed -sång -en, -er
@@ -109,4 +109,4 @@ studsning -en, -ar vissza- v. lepattanás,
 visszaugrás; felugrás (labdáé);
 visz-szaverődés
 stuert -en, -ar v. -er steward
-stuga -77, -or 1. kis (fa)ház, házikó,
+stuga -n, -or 1. kis (fa)ház, házikó,

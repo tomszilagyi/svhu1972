@@ -56,7 +56,7 @@ jön -skyndan = (en), -skyndelse -n, -r
 
 ösztönzés, sürgetés; göra ngt på ngns ~
 vkinek az ösztönzésére (meg)tesz vmit
-till [skära -skar, -skurit (ki)szab (pl.
+till|skära -skar, -skurit (ki)szab (pl.
 ruhát) -skärare -n, — szabász
 -skärer-ska -n, -or szabásznő -skärning -en, -ar
 kiszabás; szabás
@@ -93,7 +93,7 @@ till|styrka -styrkte, -styrkt támogat,
 javasol, ajánl, helyesel; ~ ett fór slag
 támogat egy javaslatot -styrkan =
 (en) támogatás, javaslat, ajánlás
-till {stå -stod, -stått el- v. beismer;
+till|stå -stod, -stått el- v. beismer;
 meg-v. bevall (ngt för ngn vkinek vmit);
 jag mig ha sagt det elismerem hogy
 ezt mondottam; fór att ~ sanningen

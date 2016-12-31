@@ -15,7 +15,7 @@ hans planer ~de på ngt tervei
 megfeneklettek vmin; förhoppningarna
 ~de a remények meghiúsultak (v.
 füstbe mentek)
-strandJbad -et} = strandfürdő -fynd -et,
+strand|bad -et} = strandfürdő -fynd -et,
 = partra sodort (uratlan) jószág
 (gazdátlan tárgy, holmi) -försvar -et
 kat: partvédelem -gods -et
@@ -47,7 +47,7 @@ strapa; resans ~er az utazás
 fáradalmai, az úti fáradalmak; van vid ~er
 fáradalmakhoz (hozzá)szokott, o
 strapabíró
-strapats [fylld -fyllt, -rik -t fáradságos,
+strapats|fylld -fyllt, -rik -t fáradságos,
 
 strapás, nehéz
 trass -en drágakőutánzat, strassz

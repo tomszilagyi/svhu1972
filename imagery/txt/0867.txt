@@ -79,7 +79,7 @@ det fór alla, ~ mig rajtam kívül (v.
 engem kivéve) mindenkinek
 elmesélte ezt; ~ att kivéve (v. azzal a
 kivétellel) hogy
-undantags [fali -et, = kivételes eset,
+undantags|fall -et, = kivételes eset,
 kivétel -lag -en, -ar kivételes törvény
 -lös -t kivétel nélküli -människa -n,
 -or kivételes (v. nem mindennapi)

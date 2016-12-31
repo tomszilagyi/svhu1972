@@ -62,7 +62,7 @@ százezerszámra; ~ insekter a rovarok százezrei
 -årsminne -t, -n százéves jubileum,
 századik évforduló
 hundrova -n, -or növ: fekete földitök
-hund [skall -et, = kutyaugatás -skatt
+hund|skall -et, = kutyaugatás -skatt
 -en, -er ebadó -släde -n, -ar kutyaszán
 -spann -et, == kutyafogat -vakt -en,
 -er hajó: kutyaőrség (0—4 óráig)

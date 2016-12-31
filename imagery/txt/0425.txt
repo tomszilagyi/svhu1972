@@ -8,8 +8,8 @@ kisbabát vár; som ~ mint
 
 litenhet -en kicsi(ny)ség; csekélység
 liter -n, = (o litrar) liter -butelj ~en, -er
-iiteres üveg -vis adv literenkint,
-literszámra
+o literes üveg -vis adv literenkint,
+o literszámra
 
 litet I. adj litenlhadv, s kevés, kicsi;
 kevéssé, kissé, kevéssel; jag dricker
@@ -100,7 +100,7 @@ jag har det ännu i ~t minne még
 élénken él emlékezetemben
 livlös -t élettelen
 
-liv [medikus = v. -en, -medici udvari
+liv|medikus = v. -en, -medici udvari
 orvos -moder -n orv: (anya)méh -nära
 -närde, -närt táplál; eltart; ~ sig
 táplálkozik, él (av v. på ngt vmivel,

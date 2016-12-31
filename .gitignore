@@ -4,6 +4,7 @@
 app/src/main/assets/images
 app/src/main/assets/txt.bin
 app/src/main/java/io/github/tomszilagyi/svhu1972/ImageSize.java
+app/src/main/res/mipmap-*
 imagery/images
 imagery/tif
 imagery/tif_out

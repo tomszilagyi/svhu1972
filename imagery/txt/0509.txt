@@ -25,7 +25,7 @@ offer|lamm -et, = áldozati bárány -mod
 
 -et áldozatosság
 offert -en, -er ker: ajánlat
-offer|vilja -n áldozatkészség -viliig -t
+offer|vilja -n áldozatkészség -villig -t
 
 áldozatkész
 officer -(e)n, officerare tiszt
@@ -62,7 +62,7 @@ ofodrad 1. nem abrakolt, nem etetett
 ofog -et, — rendbontás, garázdálkodás;
 helytelenkedés; bedriva ~
 garázdálkodik; helytelenkedik
-ojformiig -t alaktalan, idomtalan,
+o|formlig -t alaktalan, idomtalan,
 formátlan -fosterländsk -t hazafiat-
 
 lan -framkomlig -t járhatatlan

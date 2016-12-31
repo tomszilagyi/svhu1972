@@ -53,7 +53,7 @@ szélkakas 2. (sütemény) habkosár -driven
 (hajó); szélkergette, szélhajtotta,
 szélsodorta 2. szél által hajtott; en ~
 kvarn szélmalom
-Ylndel -77, vindlar csavarulat, csavarodás,
+Ylndel -n, vindlar csavarulat, csavarodás,
 
 tekeredés, tekerület; spirál(is);
 kanyarulat, tekervény -trappa ~n, -or
@@ -73,7 +73,7 @@ vindicera 1. igényel, (vissza)követel,
 vindikál 2. megvéd, védelmez
 (véleményt, jogot)
 vindil -en, -ar szélroham, -lökés
-vin [distrikt -et, = borvidék, bortermő
+vin|distrikt -et, = borvidék, bortermő
 vidék
 
 vind|jacka -n, -or viharkabát .-kantring
@@ -113,6 +113,6 @@ vinds|rum -rummet, = padlásszoba,
 manzárdszoba -röjning -en, -ar
 padláslomtalanítás
 vind|stilia I. adj indecl (szél)csendes,
-szélmentes II, s: -77, -or szélcsend;
+szélmentes II, s: -n, -or szélcsend;
 széllanyhulás -styrka -n szélerősség,
 szélerő"-stöt -en, -ar széllökés, szélroham

@@ -32,7 +32,7 @@ för honom ez nem válik dicsőségére;
 
 érdemes, érdemekben gazdag;
 szakképzett
-merit [förteckning -en, -ar kb.: szolgálati
+merit|förteckning -en, -ar kb.: szolgálati
 lap, életrajz (a szolgálati érdemek
 feltüntetésével) -lista- n, -or 1.
 meritförteckning 2. bűnlajstrom; ha en ful

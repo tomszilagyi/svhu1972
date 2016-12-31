@@ -51,7 +51,7 @@ ström|riktning -en, -ar 1. áramlás iránya,
 áram-záró -stare -n, -ar áll: vízirigó -styrka
 -n, -or vili: áramerősség -virvel -n,
 -virvlar (víz)örvény, forgó, forgatag
-strö [pulver -pulvret, — hintőpor -sked
+strö|pulver -pulvret, — hintőpor -sked
 -en, -ar szórókanál; cukorszóró -skrift
 -en, -er röpirat, röplap; brosúra
 -socker [-o-] -sockret porcukor

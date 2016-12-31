@@ -34,7 +34,7 @@ visszacsatol-kopp-ling [-0-] -en, -ar rádió: visszacsatolás
 -köps-värde -t, -n visszavásárlási érték
 (biztosításé)
 
-åter [ljud -et, = visszhang -ljuda -ljöd,
+åter|ljud -et, = visszhang -ljuda -ljöd,
 -ljudit visszhangzik -lämna visszaad,
 -szolgáltat, -juttat, -visz -lämnande
 -t, -lämning -en visszaadás,

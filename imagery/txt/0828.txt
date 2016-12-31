@@ -48,7 +48,7 @@ ut a) kiszárít; megaszal; kitörül; b)
 ki- v. (f)elszárad; elapad (forrás);
 kiaszik
 
-tork [anläggning [-o-] -en, -ar
+tork|anläggning [-o-] -en, -ar
 szárítóberendezés -handduk -en, -ar (edény-)
 törlőruha, konyharuha -huv -en, -ar
 hajszárító készülék v. bura (női
@@ -107,7 +107,7 @@ cső
 
 torpstuga [-o-] -n, -or 1. föld nélküli
 paraszt kunyhója v. háza; zsellérház(ikó)
-2. nyaraló (ház), nyári Iak
+2. nyaraló (ház), nyárilak
 torr [-o-] -t száraz; ~fisk szárított hal; ~
 frukt aszalt gyümölcs; han är inte ~
 bakom öronen még nejn nőtt be a feje

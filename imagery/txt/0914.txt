@@ -89,14 +89,14 @@ szavazó
 
 valskvarn -en, -ar hengermalom
 valsning -en, -ar techn: hengerlés
-val [språk -et, = jelmondat, jelige -strid
+val|språk -et, = jelmondat, jelige -strid
 
 -en, -er választási küzdelem
 valsverk -et, = techn hengermű,
 nyújtó-mű, hengerde; bány hengeres aprító
 valsör -en, -er keringőző, keringőt
 táncoló, valcerozó (ember)
-val {taktik -en választási taktika -tal -et,
+val|taktik -en választási taktika -tal -et,
 
 — választási beszéd, kortesbeszéd
 -talare -n, — kortes, hordószónok

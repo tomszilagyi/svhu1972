@@ -33,7 +33,7 @@ féllen-vászon (lenből és pamutból) -lång -t
 fél-hosszú -läkt félig gyógyult
 halv|mesyr -en, -er félintézkedés, fél v.
 felemás rendszabály -meter(s)djup -t
-fél méter mély -mii -en, = fél (svéd)
+fél méter mély -mil -en, = fél (svéd)
 mérföld, 5 km -mogen -moget félig
 érett, félérett -måne -n, -ar félhold
 -mörker -mörkret félhomály *naken
@@ -103,7 +103,7 @@ kerül; ~ i galgen akasztófán végzi; ~ pá
 sjukhus kórházban köt ki, kórházba
 kerül
 
-hamn [anläggning -en, -ar
+hamn|anläggning -en, -ar
 kikötőberendezés -arbetare -n, = kikötőmunkás
 -avgift -en, -er kikötőilleték, -díj,
 révdíj -fogde -n, -ar kikötőfelügyelő

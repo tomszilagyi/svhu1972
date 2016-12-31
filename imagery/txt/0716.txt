@@ -6,7 +6,7 @@ szellem, fantom; tro på hisz a
 kísértetekben; se (mitt) på ljusa
 dagen fényes nappal is kísérteteket
 lát, ok nélkül fél
-spök{historia -historien, -historier
+spök|historia -historien, -historier
 kísértettörténet, -história, rémtörténet -hus
 -et, = kísértet(ek)től látogatott ház,
 ház amelyben kísértet jár

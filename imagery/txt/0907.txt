@@ -22,7 +22,7 @@ vmi-ről); állást foglal (för ngt vmi mellett)
 uttalande -t, -n kijelentés, nyilatkozat;
 megállapítás, (szak)vélemény;
 [vmi-nek a] kifejezése v. nyilvánítása
-uttals {beteckning -en, -ar kiejtés jelölése,
+uttals|beteckning -en, -ar kiejtés jelölése,
 fonetikai jel(ölés) v. átírás -fel -et, =
 kiejtési hiba -lexikon [-0-] -et, = v.
 lexika kiejtési szótár -lära -n nyelv:

@@ -27,7 +27,7 @@ norr|bottning-£n, -ar norrbotteni (ember)
 északról, észak felől
 Norrland npr Norrland (öt
 észak-svédországi tartomány területe)
-norr [ländsk -t norrlandi -länning -en, -ar
+norr|ländsk -t norrlandi -länning -en, -ar
 norrlandi (ember) -man -mannen, -män
 norvég (férfi), norvégiai ember -sken
 -et, — északi fény -ut adv észak felé;
@@ -106,7 +106,7 @@ få ~ om ngt tudomást szerez (v.
 vesz tudomásul v. figyelembe vmit
 notorisk -/közismert, köztudomású,
 nyilvánvaló; hírhedt; notórius
-not [papper -et, — kottapapír -ställ -et,
+not|papper -et, — kottapapír -ställ -et,
 -ställare -n, == kottatartó (állvány)
 -växling -en, -ar dipl: jegyzékváitás
 novell -en, -er elbeszélés, novella

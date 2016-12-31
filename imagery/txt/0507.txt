@@ -33,9 +33,9 @@ o|blodig -t vértelen, vér(ontás) nélküli
 szemtelen
 oboe -n, -r oboa
 oboist -en, -er oboás, oboista
-o {borstad 1. fésületlen 2. átv faragatlan,
+o|borstad 1. fésületlen 2. átv faragatlan,
 csiszolatlan (modorú)
--botfärdig-/megátalkodott -botiig -t 1.
+-botfärdig -/ megátalkodott -botlig -t 1.
 gyógyíthatatlan 2. javíthatatlan, jóvátehetetlen
 -brottslig -t 1. megszeghetetlan,
 szigorú (pl. semlegesség) 2.
@@ -78,7 +78,7 @@ dacos
 obstruktion -en, -er 1. ellenállás, obstruk-
 
 ció 2. orv eldugulás, elzáródás
-o {bunden -bundet kötetlen (átv is);
+o|bunden -bundet kötetlen (átv is);
 meg nem kötött (állat); jag är ~ av
 några löften engem nem köt semmiféle
 ígéret -bygd -en, -er beépítetlen v.

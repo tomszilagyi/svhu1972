@@ -67,7 +67,7 @@ kors|kyrka -n, -or kereszthajós templom
 korsning -en, -ar keresztez(od)és (biol
 is)
 
-kors [ord -et, -ordsgata -n,-or
+kors|ord -et, -ordsgata -n,-or
 keresztrejtvény
 
 kors|riddare -n, = tört keresztes lovag

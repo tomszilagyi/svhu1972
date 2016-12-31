@@ -44,7 +44,7 @@ efterhand1 kártya: sitta i ~ [vki] után
 efterhand2 adv lassanként,
 fokozatosan
 
-efter [hållen -hållet: strängt ~ rövid
+efter|hållen -hållet: strängt ~ rövid
 gyeplőre fogott, kordában tartott
 -hängsen -hängset tolakodó, erőszakos
 -härma utánoz -höst -en őszutó, késő

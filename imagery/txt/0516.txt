@@ -31,7 +31,7 @@ vidék -nämna -nämnde, -nämnt (meg-)
 említ, szóba hoz -nämnande -t, -n
 (meg)említés -nämnd -nämnt
 említett, nevezett
-o [modern -modärn -t nem divatos,
+o|modern -modärn -t nem divatos,
 divatjamúlt; nem korszerű, nem
 modern -mogen -moget éretlen; átv
 meg nem érlelt, korai -moralisk -í
@@ -102,7 +102,7 @@ omslingrad: de håller v. hålla varandra
 fast ~e egymást szorosan átölelve
 tartják
 
-omsluta -slöt, -sluiit körülvesz, -fog,
+omsluta -slöt, -slutit körülvesz, -fog,
 
 -zár; magában foglal, felölel
 omslutning -en ker: az aktívák (ill. a pasz-

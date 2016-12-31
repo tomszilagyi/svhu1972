@@ -74,7 +74,7 @@ az uppsalai egyetem; Stockholms **
 a stockholmi egyetem; professor vid
 ~et egyetemi tanár; ligga vid ~et
 egyetemre jár, az egyetemen tanul
-universitets [bibliotek -et, = egyetemi
+universitets|bibliotek -et, = egyetemi
 könyvtár -bildad egyetemi
 képzettségű v. végzettségű -bildning -en
 tgytitml képzettség v. végzettség

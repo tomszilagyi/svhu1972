@@ -15,7 +15,7 @@ lager3 -n ászoksör
 lager|arbetare -n, = raktári munkás
 -behållning -en, -ar raktárkészlet
 -bokhållare -n, = raktárkönyvelő
-lagerJbär -et, s= babérbogyó, -termés
+lager|bär -et, s= babérbogyó, -termés
 -bärsblad -et, = babérlevél -krans
 -en, -ar babérkoszorú -kransa, -kröna
 -krönte, -krönt babérral koszorúz v.

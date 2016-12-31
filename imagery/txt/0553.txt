@@ -14,7 +14,7 @@ jegyzőkönyvbe vesz 2. dipl protokoll -chef
 jegyzőkönyvez -förare -n, =
 jegyzőkönyvvezető
 
-protokolls [justering [-oll -] -en, -ar
+protokolls|justering [-oll -] -en, -ar
 jegyzőkönyvhitelesítés -lösen = (en) illeték
 jegyzőkönyvi kivonatért -utdrag -et,
 = jegyzőkönyvi kivonat

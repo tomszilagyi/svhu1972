@@ -4,7 +4,7 @@ stickkontakt [-o-] -en, -er vill: dugós
 
 csatlakozó
 stickling -en, -ar kert: dugvány
-stick ]maskin -en, -er 1. tex kötőgép
+stick|maskin -en, -er 1. tex kötőgép
 2. tűzőgép 3. leköszörülőgép,
 gyaluló-gép -mygga -ti, -or szúnyog
 stickning -en, -ar 1. szúrás, döfés; csípés

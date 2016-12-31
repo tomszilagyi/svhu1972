@@ -39,7 +39,7 @@ röst|omfång -et zene: hangterjedelem
 rösträtt -en szavazati jog, választójog;
 
 allmän ~ általános választójog
-rösträtts [reform [-o-] -en, -er
+rösträtts|reform [-o-] -en, -er
 választójogi reform -ålder -n választójogi
 teljeskorúság
 röst|sedel -n, -sedlar szavazólap, -cédula

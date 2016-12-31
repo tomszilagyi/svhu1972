@@ -66,7 +66,7 @@ büszke, gőgös, fennhéjázó
 spanska -n 1. spanyol nyelv 2. plur:-or
 
 spanyol nő
-spansk [amerikan -en, -er, -amerikanare
+spansk|amerikan -en, -er, -amerikanare
 -n, = latin-amerikai (ember)
 -amerikansk -t latin-amerikai -fluga -n,
 -or spansk -rör -et,
@@ -112,6 +112,6 @@ spórol(ja meg)
 sparare -n, — takarékos(kodó) v. o
 spórolós ember; techn megtakarító
 berendezés (pl. áram-)
-spar [bank -en, -er takarékpénztár
+spar|bank -en, -er takarékpénztár
 -banks-bok -en, -böcker takarékbetétkönyv
 -brännare -n, == takarékégő (gázon).

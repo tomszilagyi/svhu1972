@@ -59,7 +59,7 @@ transportera [-0-] 1. szállít, fuvaroz 2.
 ker átruház, engedményez 3.
 áthelyez (tiszviselöt) 4. könyvelés átvisz,
 átvitelez; áthoz (till ngt vmire)
-transport [fartyg [-0-] -et, = szállítóhajó
+transport|fartyg [-0-] -et, = szállítóhajó
 
 -(flyg)plan -et, = szállítórepülőgép
 -kostnad [-ko-] -en, -er szállítási v.

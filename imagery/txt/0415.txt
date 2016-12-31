@@ -1,21 +1,21 @@
 lands|plåga -n, -or országos csapás
 
 -sorg [-o-] -en országos gyász
-land [stiga -steg, -stigit partra száll
+land|stiga -steg, -stigit partra száll
 (kat is) -stigning -en, -ar
 partraszállás
 
 lands|ting -et, ~ tartománygyűlés
 -tingsman -mannen, -män
 tartománygyűlési képviselő
-land [storm -en kat: népfelkelés,
+land|storm -en kat: népfelkelés,
 népfelkelők -stridskrafter plur szárazföldi
 haderő(k) -strykare -n, = csavargó
 -ställe -t, -n (falusi) birtok, vidéki ház
 ( nyaralásra )
 landsväg -en, -ar országút
 landsända -n, -r táj, vidék
-land [sänkning -en, -ar szárazföld
+land|sänkning -en, -ar szárazföld
 süllyedése -sätta -satte, -satt partra tesz
 v. szállít, kihajóz -sättning -en, -ar
 partra szállítás, -szállás, kihajózás
@@ -75,8 +75,8 @@ háztartás -hushållning -en
 mezőgazdaság; gazdálkodás (falusi gazdaságban)
 -junkare -n, — vidéki v. birtokos
 nemes, kurtán ern es
-lantiig -t vidéki(es), falusi(as)
-lånt [liv -et vidéki v. falusi élet -lolla -n,
+lantlig -t vidéki(es), falusi(as)
+lant|liv -et vidéki v. falusi élet -lolla -n,
 -or o átv falusi liba -man -marmen,
 -män földműves, gazdálkodó, paraszt
 -mannaförening -en, -ar gazdaegylet,
@@ -100,7 +100,7 @@ lapp|hund -en, -ar lapp(földi) .kutya
 lappkatalog [-Ö-] -en, -er
 cédulakatalógus
 
-lapp [kvinna -h, -or lapp nő -kåta -n, -or
+lapp|kvinna -h, -or lapp nő -kåta -n, -or
 
 lapp sátor v. kunyhó
 Lappland npr Lappföld

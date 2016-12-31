@@ -94,7 +94,7 @@ távbeszélő-központ
 telefonera telefonál (till ngn vkinek;
 efter ngn vkiért); ~ in ett telegram
 táviratot telefonon felad
-telefon [förbindelse -n, -r
+telefon|förbindelse -n, -r
 telefonösszeköttetés -hytt -en, -er telefonfülke
 -katalog [-ög] -en, -er telefonkönyv,
 távbeszélő-névsor -ledes adv

@@ -73,7 +73,7 @@ judafolket [-o-] indecl a zsidó nép
 judaskyss -en, -ar Júdás-csók
 jude -n, -ar zsidó (férfi)
 Judeen npr tört Júdea
-jude {fientlig -t zsidóellenes -förföljelse -/?.
+jude|fientlig -t zsidóellenes -förföljelse -/?.
 -r zsidóüldözés -kristen plur; -kristna
 zsidókeresztény -kvarter -et, —
 zsidónegyed, gettó

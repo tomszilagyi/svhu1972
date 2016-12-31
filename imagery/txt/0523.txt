@@ -30,7 +30,7 @@ vari ligger ~en? mi az oka?; för
 vissa ~ers skull bizonyos okokból
 orsaka okoz, szerez
 
-orsaks [förhållande -t, -n, -sammanhang
+orsaks|förhållande -t, -n, -sammanhang
 -et, = oksági viszony, okozati
 összefüggés
 
@@ -53,7 +53,7 @@ ortografi -(e)n, -er helyesírás
 ortografisk -t helyesírási
 ortopedi -(e)n ortopédia, testegyenészet
 ortopedisk -t ortopéd(iai), ortopedikus
-orts [befolkning -en helyi lakosság,
+orts|befolkning -en helyi lakosság,
 helybeliek -bo -n, -r helybeli (lakos)
 -förteckning -en, rar helységnévtár
 -tidning -en, -ar helyi újság v. lap

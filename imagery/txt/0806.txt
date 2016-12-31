@@ -10,7 +10,7 @@ telegrafisk -t távirati, sürgönyi
 telegrafis! -en, -er távírász; távírdai
 tisztviselő
 
-telegraf {ledning -en, -ar távíró vezeték
+telegraf|ledning -en, -ar távíró vezeték
 -linje -n, -r távíróvonal -station -en,
 -er távíróhivatal, távírda -stolpe [-o-]
 -n, -ar távírópózna, -oszlop -tråd -en,

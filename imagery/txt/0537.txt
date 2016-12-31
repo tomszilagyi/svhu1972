@@ -4,7 +4,7 @@ személyeskedik
 
 personlighetsklyvning -ert, -ar orv:
 személyiséghasadás
-person {skifte -1, -n személyi változás
+person|skifte -1, -n személyi változás
 -trafik -en személy- v. utasforgalom
 -tåg -et, = személyvonat
 perspektiv -et, = távlat; kilátás(ok),

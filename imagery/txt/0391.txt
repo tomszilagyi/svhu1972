@@ -77,7 +77,7 @@ kraft|källa -n, .-or erőforrás;
 energiaforrás -ledning -en, -ar elektromos (táv-)
 vezeték -lös -M. erőtlen, gyenge;
 hatástalan 2. érvénytelen, hatálytalan
--mätare -/7, = erőmérő, dinamométer
+-mätare -n, = erőmérő, dinamométer
 -mätning -en, -ar átv: erők
 összemérése, erőpróba -prestation -en, -er nagy
 (erőt igénylő) teljesítmény,

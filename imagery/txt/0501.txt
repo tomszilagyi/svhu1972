@@ -38,7 +38,7 @@ iroda, osztály
 nämndeman -mannen, -män esküdt
 (bíróságon)
 
-nämn [värd -värt említésre méltó
+nämn|värd -värt említésre méltó
 nännas nändes, nänts magára vesz,
 rászánja magát, képes (vmire), tud, bír;
 det nänns jag inte (ezt) nem veszem

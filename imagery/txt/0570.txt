@@ -124,7 +124,7 @@ domborúan, kiemelkedően -karta
 dombornyomás
 religion -en, -er vallás; hit; isk
 vallástan, hittan
-religions [bekännelse -n, -r hitvallás
+religions|bekännelse -n, -r hitvallás
 -frihet -en vallásszabadság -historia
 -historien vallástörténet -tvång -et
 vallásszabadság korlátozása, vallási türel-

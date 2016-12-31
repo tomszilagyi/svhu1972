@@ -11,7 +11,7 @@ vegyes kar; blandat tal vegyes szám
 blandare -n, .== keverő; keverőgép;
 
 rádió keverőcső
-bland [foder -fodret mez: vegyestakarmány
+bland|foder -fodret mez: vegyestakarmány
 
 -färg -en} -er keverékszín
 blandning -eny -ar keverés, vegyítés;

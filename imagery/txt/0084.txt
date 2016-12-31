@@ -87,7 +87,7 @@ burkolat; lepedék (nyelven)
 belägra ostromol; átv megrohan, zaklat
 belägrare -n, = ostromló
 belägring -en, -ar ostrom(lás)
-belägrings {tillstånd -et ostromállapot
+belägrings|tillstånd -et ostromállapot
 ;/ör-klara en stad i ~ kihirdeti egy
 városban az ostromállapotot
 beläsen -låset beläst

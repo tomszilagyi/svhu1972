@@ -34,7 +34,7 @@ ett ~t täcke vattás paplan
 vaddering -en, -ar 1. vattázás, párnázás
 
 2. vattatömés
-vadd [stoppning [-o-] -en, -ar vattatömés
+vadd|stoppning [-o-] -en, -ar vattatömés
 -tuss -en, -ar vattacsomó, -pamacs
 -täcke -t, -n (tűzött) vattapaplan
 vadhelst pron bármi, akármi; gör ~ du

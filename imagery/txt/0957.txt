@@ -63,7 +63,7 @@ ház (színházban) -fägnad -en jóltartás
 välfärd -en jólét, boldogulás; den
 allmänna a közjólét; endast tänka på
 egen ~ csak a saját érdekeit nézi
-välfärds [inrättning -en, -ar jóléti
+välfärds|inrättning -en, -ar jóléti
 intézmény -politik -en jóléti politika -stat
 -en, -er jóléti állam
 väl|född -fött jól táplált; jó húsban levő,
@@ -100,7 +100,7 @@ jótevő -görarinna -n, -or jótevő (nő)
 välgörenhet -en jótékonyság,
 jótékonykodás
 
-välgörenhets [anstalt -en, -er jótékonysági
+välgörenhets|anstalt -en, -er jótékonysági
 intézmény -basar -en, -er jótékonysági
 vásár v. bazár -inrättning -en, -ar
 jótékonysági intézmény -märke -t, -n

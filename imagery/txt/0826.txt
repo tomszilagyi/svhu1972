@@ -44,11 +44,11 @@ frázisok; ~t prat hiábavaló fecsegés; det
 är ~t efter honom üres a ház nélküle,
 (ő) nagyon hiányzik nekünk v. nekem;
 ~t på folk néptelen, kihalt, üres (pl.
-város); ~ på innehåll tarta Imatlan
+város); ~ på innehåll tartalmatlan
 tomat -en, -er nov: paradicsom -sås -en,
 
 -er paradicsommártás, -szósz
-tom [butelj -en, -er üres palack -fat -et, =
+tom|butelj -en, -er üres palack -fat -et, =
 üres hordó -glas -et, = üres üveg v.
 palack -gående üresen járó (techn is)
 -gång -en techn: üresjárat; gå (i v. på)
@@ -98,7 +98,7 @@ ton|art -en, -er zene: hangnem -båd -et, =
 foto színezőfürdő -fali -et hanglejtés,
 -hordozás
 tonfisk -en, -ar tonhal
-ton|givaiide hangadó, irányadó,
+ton|givande hangadó, irányadó,
 befolyásos; zene hangot (meg)adó -gång
 -en, -ar hangsor; átv hang; kända ~ar
 ismerős hangok (átv is) -höjd -en, -er

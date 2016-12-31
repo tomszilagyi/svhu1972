@@ -32,8 +32,8 @@ människa -n, -or ember; ~n
 begripa ... nem vagyok képes
 megérteni...; vara som en annan ~ mintha
 kicserélték volna
-människo [anden az emberi szellem -apa
--77, -or emberszabású majom -barn
+människo|anden az emberi szellem -apa
+-n, -or emberszabású majom -barn
 -et, = emberfia -blivande -t vall:
 inkarnáció, megtestesülés -boning
 -en, -ar emberi lakás -fiende -n, -r,
@@ -81,7 +81,7 @@ märgben -et, = velőscsont
 märgel -n márga
 
 märg|full -t velős, magvas, erőteljes
--pipa -77, -or velőscsont; lapocka
+-pipa -n, -or velőscsont; lapocka
 (állaté) -ärter plur velőborsó
 märisk-/morva
 

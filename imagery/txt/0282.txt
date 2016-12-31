@@ -107,7 +107,7 @@ gúnár -hud -en, -ar libabőr, lúdbőr; få
 ~ libasorban rnegy -penna -n, -or
 lúdtoll; a liba szárnytolla -unge -n, -ar
 kisliba; libuska (átv is) -vaktare -n, =
-iibapásztor -vakterska -n, -or
+libapásztor -vakterska -n, -or
 libapásztorlány -ögon plur idézőjel(ek) (»)
 gåta -n, -or rejtvény, talány; találós
 kérdés; rejtély; gissa v. lösa gåtor

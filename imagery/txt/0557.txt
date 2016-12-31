@@ -25,7 +25,7 @@ pyre -t,: -n babuska, kicsike; - pöttöm
 Pyrenéerna npr (a) Pireneusok
 pyreneisk; -t pireneusi
 pyroman -en, -er gyújtogató,
-piroriiá-niás
+piromániás
 
 pyro|teknik -en tűzszerészet,
 pirotech-•nika -tekniker -n, = tűzszerész,

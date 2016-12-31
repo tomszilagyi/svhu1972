@@ -53,8 +53,8 @@ skenanfall -et, = kat színlelt támadás
 skenbar -t látszólagos, színleges, színlelt;
 
 ~t motstånd színleges ellenállás
-Sken {bariig -t szemmel látható,
-szembeszökő, nyilvánvaló -bariigen adv
+sken|barlig -t szemmel látható,
+szembeszökő, nyilvánvaló -barligen adv
 szemlátomást, nyilvánvalóan
 
 skenben -et, — orv sípcsont
@@ -86,7 +86,7 @@ behajóz, berak (hajóba)
 skeppare -n, = hajóvezető, kis hajó
 
 kapitánya; uszálykormányos
-skeppar [historia -histori\en, -er
+skeppar|historia -histori\en, -er
 fantasztikus történet, nagy lódítás -krans
 -en, -ar tengerész-körszakáli
 skeppning-en,-ar 1. hajón (v. vízi úton)
@@ -99,7 +99,7 @@ behajózásra v. berakásra kész (áru)
 -ort -en, -er hajó: behajózási hely v.
 kikötő
 
-skepps [besättning -en, -ar
+skepps|besättning -en, -ar
 hajószemélyzet -brott [-o-] -et, = hajótörés; lida ~
 hajótörést szenved (átv is) -bruten
 -brutet (adj, s) hajótörött -byggare

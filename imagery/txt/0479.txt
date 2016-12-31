@@ -25,7 +25,7 @@ musikdirektör -(e)n, -er (zeneakadémiát
 végzett) karnagy; katonai karmester
 musiker -n, = v. musici zenész,
 zeneművész, muzsikus
-musik {estrad -en, -er hangverse nypódium
+musik|estrad -en, -er hangverse nypódium
 -handel -n zeneműkereskedés -kapell
 -et, = zenekar -kår -en, -er
 fúvószenekar; katonazenekar -lärare -n, =

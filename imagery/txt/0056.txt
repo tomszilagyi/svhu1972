@@ -9,10 +9,10 @@ arvode -t, -n járandóság, díjazás; díj;
 tiszteletdíj, honorárium; napidíj;
 jutalék
 
-arvjprins -en, -ar trónörökös (címe)
+arv|prins -en, -ar trónörökös (címe)
 
 -rike -t, -n örökös monarchia
-arvs [anlag -ety — öröklött készség v.
+arvs|anlag -ety — öröklött készség v.
 tulajdonság -berättigad öröklésre
 jogosult
 

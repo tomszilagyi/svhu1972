@@ -48,13 +48,13 @@ fedelesszárnyúak, bogarak
 skald -en, -er költő; középkori
 (skandináv) dalnok, bárd
 skalda o költ, verset ír
-skalde [gåva -n költői adottság v.
+skalde|gåva -n költői adottság v.
 tehetség -konst [-o-] -en költészet -stycke
 -/, -n költemény -ådra -n, -or költői
 véna
 
 skaldinna -n, -or költőnő
-skal [djur -et, = áll héjas állat(ok),
+skal|djur -et, = áll héjas állat(ok),
 rák(ok)
 
 skaldskap -et költészet, költői munkásság
@@ -71,7 +71,7 @@ zése
 skalka hajó: ~ luckorna a raktárszádá-
 
 kat tengerállóan elzárja
-skalk [aktig -t huncut, pajkos, dévaj,
+skalk|aktig -t huncut, pajkos, dévaj,
 csintalan; ett ~t leende huncut v.
 kaján mosoly
 skalkas skalkades, skalkats tréfál,

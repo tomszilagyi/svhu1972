@@ -17,7 +17,7 @@ tandad techn fogazott, fogas
 tandagnisslan (en): gråt och ~ sírás és
 
 fogak csikorgatása
-tand {borste [-o-] -n, -ar fogkefe-borstning
+tand|borste [-o-] -n, -ar fogkefe -borstning
 [-o-] -en, -ar fogmosás -brygga -n, -or
 (fog)hid -doktor -n, -er o fogorvos
 -droppar [-o-] plur fogcseppek
@@ -28,7 +28,7 @@ kétüléses kerékpár
 tandemalj -en fogzománc
 tandem|cykel -n, -cyklar kétüléses
 kerékpár, tandem(kerékpár)
-tand Ifyllning -en, -ar fogtömés; plomba
+tand|fyllning -en, -ar fogtömés; plomba
 -garnityr -en, -er műfogsor; fogsor
 -klinik -en, -er fogászati klinika
 -kräm -en, -er fogpaszta, -krém -kött

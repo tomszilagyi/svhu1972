@@ -53,7 +53,7 @@ gå ~en kereskedői pályára lép -väsen
 -väsendet kereskedelem(ügy),
 kereskedelmi élet
 
-hand [fallen -fallet megdöbbent, -hökkent,
+hand|fallen -fallet megdöbbent, -hökkent,
 -lepett; elképedt; tanácstalan -fast:
 markos, eros -fat -et, = (kis)
 mosdótál -flata -n, -or tenyér; han slog

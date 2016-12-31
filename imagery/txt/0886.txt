@@ -21,13 +21,13 @@ felháborodik vmin; felindul (v. indulatba
 jön) vmi miatt -rördhet -en fel- v.
 megindultság, felindulás;
 megrendülés; felháborodás
-Upp|sagd -sagt: vara ~ felmondtak
+upp|sagd -sagt: vara ~ felmondtak
 (neki); vö. säga (upp); han har blivit ~
 felmondtak neki, elbocsátották
 (állásából v. a. szolgálatból)
-lippsalajbo -n, -r.uppsalai lakos -student
+uppsala|bo -n, -r.uppsalai lakos -student
 -jen, -er uppsalai :egyetemi hallgató
-ttpjp [samling -en össze- v. begyűjtés,
+upp|samling -en össze- v. begyűjtés,
 fel-V. összeszedés -samlingsplats -en, -er,
 -samlingsställe -t, -n gyűjtőhely;
 gyü-^lekezőhely
@@ -69,7 +69,7 @@ vmije -skaka 1.. átv megráz
 mégha-t(ód)ott; bli ~d megrendül -skakande
 megrázó, -rendítő
 
-upp [skatta 1. (fel- v. meg)becsül,
+upp|skatta 1. (fel- v. meg)becsül,
 értékel (efter ngt vmi szerint), o taksál;
 átv megbecsül, becsben tart, nagyra
 becsül; skadan ~des till tusen kronor
@@ -84,7 +84,7 @@ becsben tartás, nagyrabecsülés
 hozzávetőleg -skattningsvärde -t, -n becslési
 érték, becsérték
 
-upp [skjuta -skoí, -skjutit elhalaszt, kitol;
+upp|skjuta -sköt, -skjutit elhalaszt, kitol;
 elnapol; ~ ngt en månad egy
 hónappal elhalaszt vmit; sammanträdet
 uppsköts till lördag az ülést szombatig

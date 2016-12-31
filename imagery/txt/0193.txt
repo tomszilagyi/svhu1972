@@ -89,7 +89,7 @@ határozatlan; gränserna mellan
 betydelseskiftningarna är ~ a
 jelentésárnyalatok határai elmosódnak
 
-flyt [docka -n, -or úszódokk -mina -n, -or
+flyt|docka -n, -or úszódokk -mina -n, -or
 úszóakna
 
 flytning -en, -ar folyás (orv is); vízen

@@ -57,8 +57,8 @@ másolás -krona -n, -or csillár -källa
 -n, -or fényforrás -känslig -t
 fényérzékeny -lagd -lagt világos bőrű; szőke
 -lockig o-J -t szőke fürtű v. fürtös
--låga -n, -or gyertyaláng -lätt [-ljus
--lagd -mätare -n, = fénymérő
+-låga -n, -or gyertyaláng -lätt ljuslagd
+-mätare -n, = fénymérő
 ljusna világosodik; dereng, pitymallik;
 hans ansikte ~de felderült az arca;
 utsikterna ~r a kilátások javulnak

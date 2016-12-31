@@ -15,7 +15,7 @@ maximal -t legnagyobb (fokú), legma-
 
 dmera: ~ ngt maximál vmit; vminek
 a felső határát megszabja
-maximi {belopp -et, = legmagasabb v.
+maximi|belopp -et, = legmagasabb v.
 maximális összeg, felső összeghatár
 -hastighet -en legnagyobb v.
 maximális sebesség, csúcssebesség -lön -en, -er

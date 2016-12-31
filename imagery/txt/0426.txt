@@ -3,7 +3,7 @@ igenlő, derűlátó -duglig -t életképes,
 tapasztalat -fara -n, -or életveszély
 -farlig -t életveszélyes -frukt -en, -er
 (méh)magzat,. [vki] méhének
-gyümölcse -fråga -77, -or életkérdés -föring
+gyümölcse -fråga -n, -or életkérdés -föring
 -en életmód -förnekelse -n az élet
 tagadása, borúlátás -förnödenheter plur
 életszükségletek, élein iszerek -glädje
@@ -19,7 +19,7 @@ tartó -längd -en élettartam; életkor
 (för ngn vkinek a) -medel plur
 élelmiszerek
 
-livsmedels [affär -en, -er élelmiszerüzlet
+livsmedels|affär -en, -er élelmiszerüzlet
 -brist -en élelmiszerhiány -försörjning
 -en élelmiszerellátás, közélelmezés -kort
 -et, — élelmiszer jegy -ranson -en, -er

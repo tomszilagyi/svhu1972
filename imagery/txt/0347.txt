@@ -28,7 +28,7 @@ invaliditet -en rokkantság
 invaliditetsförsäkring -en, -ar rokkantsági
 biztosítás
 
-invalid [pension -en, -er rokkantsági
+invalid|pension -en, -er rokkantsági
 nyugdíj
 
 invand -vant megszokott, begyakorlott,

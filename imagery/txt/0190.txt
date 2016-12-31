@@ -37,7 +37,7 @@ flint -en o 1. homlok 2. a fej kopaszodó
 
 része, kopasz fej, kopaszság
 flinta -n, -or tűzkő, kovakő
-flint [glas -et, = flintüveg -hård -hårt
+flint|glas -et, = flintüveg -hård -hårt
 kőkemény -låsgevär -et, =
 kováspuska -redskap plur kovakő-eszközök
 v. -szerszámok

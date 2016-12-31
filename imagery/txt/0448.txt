@@ -91,7 +91,7 @@ makedonisk -t macedón(iai), makedón
 
 <-iai)
 
-makiig -t kényelmes, lassú, tempós;
+maklig -t kényelmes, lassú, tempós;
 sakta och ~t egész komótosan; föra
 ett ~t liv kényelmes életet él
 makrill -en, -ar áll: makrahal, makréla

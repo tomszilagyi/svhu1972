@@ -77,7 +77,7 @@ időtöltésből -förlust -en, -er
 időveszteség -inställd -inställt: ~ bomb időzített
 bomba
 tidskrift -en, -er folyóirat
-tidskrifts [artikel -n, -artiklar
+tidskrifts|artikel -n, -artiklar
 folyóiratcikk -förlag -et, = folyóiratkiadó
 vállalat
 

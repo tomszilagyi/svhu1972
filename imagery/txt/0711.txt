@@ -89,7 +89,7 @@ vi ~ vid om senare erről majd később
 beszél(get)ünk, ezt majd később
 megbeszéljük
 
-språk {atlas -en, -er nyelvatlasz
+språk|atlas -en, -er nyelvatlasz
 -begåvning -en, -ar nyelvtehetség (átv is)r
 nyelvkészség -bruk -et nyelvhasználat,
 -szokás -egenhet -en, -er nyelvi

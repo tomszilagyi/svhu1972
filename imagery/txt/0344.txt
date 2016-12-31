@@ -38,7 +38,7 @@ hatóság; första ~en elsőfokú bíróság; gå till
 högre ~ fellebbez, felsőbb hatósághoz
 fordul; i högsta v. sista ~en végső v.
 felső fokon 2. körülmény, tény
-in [steg -et: få v. vinna ~ behatol,
+in|steg -et: få v. vinna ~ behatol,
 meghonosodik, tért hódít, elharapódzik,
 elterjed -stifta alapít, létrehoz
 instinkt -en, -er ösztön
@@ -100,8 +100,8 @@ instängd -stängt 1. (el)zárt, bezárt 2. ~
 luft nyomasztó v. zárt v. áporodott
 levegő
 
-insiilär -t szigeti,
-sziget-insupa -söp, -supit beszív, magába szív;
+insulär -t szigeti, sziget-
+insupa -söp, -supit beszív, magába szív;
 belélegez
 
 insurgent -en, -er felkelő, inzurgens

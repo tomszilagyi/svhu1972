@@ -32,7 +32,7 @@ rustning -en, -ar 1. hadi készülődés,
 fegyverkezés 2. tört páncélzat,
 fegyverzet 3. hajó felszerelés (kötélzettel,
 árbocozattal)
-rustnings [begränsning -en, -ar
+rustnings|begränsning -en, -ar
 fegyverkezés korlátozása -industri -(e)n, -er
 hadiipar
 

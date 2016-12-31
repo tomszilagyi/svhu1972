@@ -95,7 +95,7 @@ lámpáé, ejtőernyőé, radaré); spanyolfal
 skärmaskin -en, -er vágógép;
 szeletelőgép
 
-skärm [bild -en, -er röntgen-ernyőkép,
+skärm|bild -en, -er röntgen-ernyőkép,
 röntgenkép, -felvétel (főleg
 mellüregről ) -bildsundersökning -en, -ar
 tüdőszűrővizsgálat -blad -et, = nov

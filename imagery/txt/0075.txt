@@ -54,7 +54,7 @@ barmhärtig -t irgalmas (szívű),
 könyörületes; jószívű, jótékony (mot ngn
 vkihez) -het -en irgalmasság,
 könyö-rület; jószívűség, jótékonyság
-barmhärtighets [inrättning -en, -ar
+barmhärtighets|inrättning -en, -ar
 jótékonysági intézmény (menház, kórház
 síb.) -syster -n, -systrar irgalmas nővér
 -verk -et, — irgalmas v. jótékony
@@ -81,7 +81,7 @@ szülő nő -mord -et, —
 gyermekgyilkosság
 
 barnansikte -t, -n gyermekarc
-barna {oskuld -en gyermeki ártatlanság
+barna|oskuld -en gyermeki ártatlanság
 -rov -et, = gyermekrablás -sinne -t
 gyermeki v. gyermekded lelkület -tro
 -n gyermeki hit -vård -en gyermek- v

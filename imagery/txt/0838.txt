@@ -29,7 +29,7 @@ szemfényvesztő, varázsló -kraft -en,
 er varázserő, bűvös erő -krets -en, -ar
 varázskör, bűvkör -kunnig -t
 varázsláshoz v. boszorkánysághoz értő
--kvin-na -/7, -or, -kar(r)ing -en, -ar
+-kvin-na -n, -or, -kar(r)ing -en, -ar
 varázslónő, boszorkány -makt -en varázserő
 -medel -medlet, = varázsszer, bűvös
 szer -packa -n, -or (vén) boszorkány;
@@ -94,7 +94,7 @@ tropisk [-Ö-] -t forró égövi, délszaki,
 trópusi, tropikus; ~t klimat trópusi
 éghajlat
 
-tropiiktig -t hűséges, engedelmes
+tropliktig -t hűséges, engedelmes
 tropp -en, -ar 1. csapat, osztag 2. kai
 lovas szakasz ill. raj 3. torna raj,
 csoport

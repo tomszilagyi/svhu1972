@@ -79,7 +79,7 @@ szakszervezeti vezető -man -mannen,
 -medlem -medlemmen, -medlemmar
 szakszervezeti tag -rörelse -n, -r
 szakszervezeti mozgalom
-fack {högskola-n, -or szakfőiskola -kunnig’
+fack|högskola -n, -or szakfőiskola -kunnig
 -t szakképzett, -avatott, szakmájához
 értő -kunskap -en, -er szakmai ismeret,
 szakismeret, -tudás

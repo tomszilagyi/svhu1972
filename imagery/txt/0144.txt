@@ -99,7 +99,7 @@ drake -n, -ar 1. sárkány 2* drakskepp
 
 3. papírsárkány
 drakonlsk 4 drákói, igen szigorú
-drak [skepp -et, ’== (nagy) viki íYó
+drak|skepp -et, ’== (nagy) viki íYó
 -sådd -en, -ar i. mit: sárkányfog \
 í-temény 2. átv átkos tevékenyseg v.
 következmény

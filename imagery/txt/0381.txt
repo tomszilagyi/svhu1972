@@ -113,7 +113,7 @@ köz-;-kommunális; ~a verk községi v.
 kommunális üzemek, városi
 közművek
 
-kommunal [fullmäktig [-o-] -en, -e
+kommunal|fullmäktig [-o-] -en, -e
 községi tanács tagja -nämnd -en, -er
 községi tanács v. képviselőtestület
 -skatt -en, -er községi adó -stämma

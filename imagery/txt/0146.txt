@@ -41,7 +41,7 @@ droppe [-o-] -n, -ar csepp, csöpp; som
 en ~ i havet mint (egy) csöpp a
 tengerben
 
-dropp {flaska [-o-] -n, -or csepegtető- v.
+dropp|flaska [-o-] -n, -or csepegtető- v.
 cseppentőüveg -glas -et,
 cseppentő-üveg, pipetta -sten -en, -ar cseppkő
 .-stensgrotta [-gro-] -n, -or

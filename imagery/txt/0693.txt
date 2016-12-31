@@ -16,8 +16,8 @@ egyházközség; plébánia (területe) 2. község -bo
 -n, -r 1. az egyházközség (ill. a
 plébánia) területén lakó hivő 2. a község
 lakója, községbeli -kyrka -n, -or
-plébániatemplom -stuga -77, -or
-községháza, (falusi) tanácsháza -stamma-77, -or
+plébániatemplom -stuga -n, -or
+községháza, (falusi) tanácsháza -stamma-n, -or
 O 1. egyházközségi gyűlés 2.
 községi elöljáróság v. tanács ülése
 socker [-o-] sockret cukor; brynt ~
@@ -34,7 +34,7 @@ cukortartalom -haltig -1
 cukortartalmú -kaka -n, -or kb.: kuglóf (szerű édes
 tészta) -lag -en cukoroldat, -szirup
 -mattad cukorral telített -plantage
-[-äs] -77, -r cukornádültetvény -ranson
+[-äs] -n, -r cukornádültetvény -ranson
 -en, -er cukoradag -rot -en, -rötter nov:
 cukorgyökér -rör -et, = cukornád -sjuk
 -t cukorbeteg, -bajos -sjuka -n
@@ -60,10 +60,10 @@ soda -n í. v egy szóda (nátriumkarbonát)
 nátronlúg, szódaoldat (mosáshoz) -vatten
 -■vattnet szódavíz, szikvíz
 Sodom npr (ett) Szodoma
-soffa [-o1-] -77, -or pamlag, dívány,
+soffa [-o1-] -n, -or pamlag, dívány,
 kerevet, heverő, kanapé; pad (parkban);
 sitta i ~72 a pamlagon ül
-soff [hörn [-o-] -et, = pamlag v. heverő
+soff|hörn [-o-] -et, = pamlag v. heverő
 v. dívány sarka -kudde -n, -ar
 pam-íag- v. díványpárna -liggare -n, =
 henyélő, lustálkodó, naplopó; tunya
@@ -113,6 +113,6 @@ szolda-teszka
 soldai|hem -hemmet, = S kb.:
 kultúrterem (helyőrség katonáinak) -liv -et
 katonaélet -massig -t katonás -visa
--77, -or kaíonadal
+-n, -or kaíonadal
 sol|dräkt -en, -er napozó- v. strandruha
 -dyrkan = (en) napimádat, -kultusz

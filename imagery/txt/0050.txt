@@ -64,7 +64,7 @@ Apenninerna npr (az) Appenninek
 apenninsk -t appennini; Apenninska
 
 halvön (az) Appennin-félsziget
-ap{fysionomi -(e)n, -er majomarc -hona
+ap|fysionomi -(e)n, -er majomarc -hona
 -n, -or nőstény majom -Hk -t
 majomhoz hasonló, majomszerű
 aplomb [-o’-] -en 1. biztos fellépés,

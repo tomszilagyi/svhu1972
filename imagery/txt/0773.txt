@@ -56,12 +56,12 @@ rosszindulatú (betegség); elég súlyos
 
 ható v. feldolgozható -begriplig -t
 nehezen érthető -beräknelig -t nehezen
-kiszámítható -botiig -t nehezen
+kiszámítható -botlig -t nehezen
 gyógyítható -ersättlig -t nehezen
 pótolható -fattlig -t nehezen felfogható v.
 érthető, homályos -förklarlig -t
 nehezen megmagyarázható -förståelig -1
-nehezen érthető -hanteriig -t nehezen
+nehezen érthető -hanterlig -t nehezen
 kezelhető (átv is); nehéz (ember);
 ügyetlen, nehézkes, esetlen (szerszám)
 svårighet -en, -er nehézség; akadály; baj;
@@ -89,7 +89,7 @@ fáradságosan, keményen; erősen; ~
 sjuk súlyos beteg, nagybeteg; ~ sårad
 súlyosan sebesült v. sérült; han är ~
 förkyld erősen v. nagyon meghűlt
-Svar [tillgänglig -t nehezen hozzáférhető
+Svar|tillgänglig -t nehezen hozzáférhető
 v. megközelíthető (átv is) -uppfostrad
 nehezen nevelhető -åtkomlig [-o-] -t
 nehezen megközelíthető v.

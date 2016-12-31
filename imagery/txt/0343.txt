@@ -44,7 +44,7 @@ vmire -segel -seglet, = pecsét; en bok
 med sju ~ hétpecsétes titok
 insekt -en, -er rovar
 insekt(s)|håv -en, -ar lepkeháló
-insekts [samling -en, -ar
+insekts|samling -en, -ar
 rovargyűjtemény -ätare -n, = áll, nov: rovarevő
 insemination -en, -er mesterséges
 megtermékenyítés

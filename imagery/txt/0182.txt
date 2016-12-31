@@ -38,19 +38,19 @@ koholmány
 fiktiv -t képzelt, képzeletbeli, költött,
 
 koholt, fiktív
-fii1 -en, -ar reszelő, ráspoly
-fii2 -en, -er sor; (jármű)sor; ~ av. rum
+fil1 -en, -ar reszelő, ráspoly
+fil2 -en, -er sor; (jármű)sor; ~ av. rum
 szobasor, egybenyíló szobák sora; i ~
 egy sorban _
-fii8 -en v. -et táj: aludttej
-füa reszel, csiszol, simít (átv is); ~ pá
+fil3 -en v. -et táj: aludttej
+fila reszel, csiszol, simít (átv is); ~ på
 fiol cincogtatja a hegedűt; ~ bort
 lereszel; ~ titi (vmely formára) reszel
 filantrop [-ö’p] -en, -er emberbarát,
 filantróp
 
 filantropi [-0-] -n emberszeretet,
-filantrópia
+o filantrópia
 
 filantropisk [-ö’-]-/ emberbaráti,
 emberszerető, filantropikus
@@ -85,13 +85,13 @@ néz meg; gå in vid ~en a filmnél
 helyezkedik el, filmszínész(nő) lesz
 filma filmez, filmre vesz
 filmatisera (meg)filmesit
-film [biten . -bitet film- v. mozirajongó
+film|biten . -bitet film- v. mozirajongó
 -föreställning -förevisning -en, -ar
 mozielőadás, filmvetítés -hjälte -n, -ar
 főszereplő, főhős (filmben)
 -inspelning -en, -ar filmfelvétel
 filmjölk -en aludttej
-film {kamera -n, -or filmfelvevőgép
+film|kamera -n, -or filmfelvevőgép
 -skådespelare -n, = filmszínész
 -skådespelerska -n, -or filmszínésznő -stjärna
 -n, -or filmcsillag, filmsztár
@@ -110,11 +110,11 @@ filosofisk [-ö’f-] -t filozófiai, bölcsészeti,
 
 bölcseleti
 filspån -en reszelék, reszelőforgács
-fiit -en 1. nemez, filc 2. plur: -ar
+filt -en 1. nemez, filc 2. plur: -ar
 (gyapjútakaró, pléd
 filta kallóz, összecsomóz; ~ sig
 összegubancolódik, összecsomósodik
-filter filtret, = v. fiitrer szűrő
+filter filtret, = v. filtrer szűrő
 filthatt -en, -ar nemezkalap
 filtrat -et, = szüredék, filtrátum
 filtrera (át- v. le- v. meg)szűr, filtrál

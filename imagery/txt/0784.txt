@@ -16,7 +16,7 @@ biztosítékot kíván, kauciót követel;
 lämna v. ställa ~ biztosítékot nyújt,
 óvadékot ad; vilken ~ har man för
 att mi a biztosíték arra hogy
-Säkerhets [anordning [~ör-] -en, -ar
+Säkerhets|anordning [~ör-] -en, -ar
 biztonsági berendezés -broms [-o-] -en,
 -ar biztonsági fék, vészfék -bälte -t,
 -n rep: biztonsági öv, ülésheveder
@@ -37,7 +37,7 @@ rendszabály
 
 säkerligen adv biztosan, bizonyosan,
 bizonyára, kétségkívül
-säker [ställa -ställde, -ställt biztonságba
+säker|ställa -ställde, -ställt biztonságba
 helyez; biztosít, garantál; ~ sig
 biz-~ tonságba helyezi magát;
 biztosítja magát (mot ngt vmivel

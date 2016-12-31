@@ -96,7 +96,7 @@ az összköltség -lagt adv összevéve,
 -löpte, -löpt összefut; egymást
 keresztezik
 
-samman {pressa öszesaj tol, -présel, -nyom;
+samman|pressa öszesaj tol, -présel, -nyom;
 átv (össze)sűrít; ~de läppar
 összeszorított ajkak -rafsa (sebtében v.
 innen-onnan) összeszed, -kapkod; ~d

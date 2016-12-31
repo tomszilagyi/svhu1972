@@ -24,15 +24,15 @@ elcsendesedik, elül (vihar); késik (óra) VI.
 (h^s égek:) ™ av a) lelassít; b)
 elcsendesül, enyhül, elül (szél); ~ in
 csökkenti a sebességet
-saktelfga, saktellgen, sakteligt adv las»
+sakteliga, sakteligen, sakteligt adv las»
 san, kényelmesen, tempósan, sietség
 nélkül
 
-saldiariig -t lassú, kényelmes; hanyag;
+saktfärdig -t lassú, kényelmes; hanyag;
 nyugodt
 
-s&ktjmod -et szelídség; békés v. nyugodt
-lelkület «m©dig szelíd, békés
+sakt|mod -et szelídség; békés v. nyugodt
+lelkület -modig szelíd, békés
 (természetű)
 
 sakvärde -t, -n tárgyi érték(ek),
@@ -81,7 +81,7 @@ sallat -en, -er nov: saláta
 sallatshuvud -et, — salátafej, (egy) fej
 saláta
 
-salifiiik -en végy: szalmiák -sprit -en
+salmiak -en végy: szalmiák -sprit -en
 
 szalmiákszesz
 salomonisk -t salamoni; igazságos, bölcs;
@@ -91,7 +91,7 @@ salong [-o1-] -en, -er 1. fogadószoba,
 szalon 2. hajószalon 3. terem; nézőtér
 (pl. színházi); átv közönség 4. tárlat,
 (művészeti) kiállítás
-salongs {berusad [-o-] o szalonspicces,
+salongs|berusad [-o-] o szalonspicces,
 pityókás -biljett -en, -er hajó-:
 másodosztályú jegy -gevär -et, = kispuska,
 flóbert(puska) -hjälte -n, -ar, -lejon

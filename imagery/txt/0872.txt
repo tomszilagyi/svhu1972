@@ -22,7 +22,7 @@ felülvizsgálás v. döntés végett vki elé
 terjeszt vmit; vara underställd ngn
 vkinek alá van rendelve, vkihez be
 van osztva
-iinder|stöd -et, = támogatás; segély,
+under|stöd -et, = támogatás; segély,
 segítség; szubvenció; vinna ~
 támogatásra talál (pl. javaslat) -stödja
 -stödde, -stött támogat; segélyez, segít;
@@ -43,7 +43,7 @@ undersåtlig -t zömök, köpcös, tömzsi
 -het .-fc/rzömökség, köpcösség, zömök
 tenxiet
 
-underfsoka -sökte, -sökt megvizsgál,
+under|söka -sökte, -sökt megvizsgál,
 feíüKv. át- v/ kivizsgál; vegy elemez,
 analizál; ~ en patient beteget (meg-)
 vizsgál -sökning -en, -,ar meg- v.
@@ -94,7 +94,7 @@ kiképzés; ~ i musik zeneoktatás,
 tanít; få ~ i räkning számtanra
 tanítják; meddela ngn ~ i svenska
 svédre tanít vkit
-undervisnings [ anstalt -en, -er oktatási
+undervisnings|anstalt -en, -er oktatási
 intézmény, tanintézet -film -en, -er
 oktatófilm -metod -en, -er tanítási v.
 oktatási módszer, tanmódszer

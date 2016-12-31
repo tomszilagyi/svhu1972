@@ -101,14 +101,14 @@ jord|bruk -et 1. földművelés,
 mezőgazdaság 2. plur: = birtok,
 mezőgazdasági üzem -brukare -n, = földműves,
 gazdálkodó
-jordbruks {arbetare -n, = mezőgazdasági
+jordbruks|arbetare -n, = mezőgazdasági
 munkás -arbete -t, -n mezőgazdasági
 v. mezei munka -departement -et, =
 földművelésügyi minisztérium
 -mi-nister -n, -ministrar földművelésügyi
 miniszter -produkt -en, -er
 mezőgazdasági termék
-jord {bunden ^bundet földhöz kötött,
+jord|bunden ^bundet földhöz kötött,
 földön csúszó; átv földhöz ragadt,
 röghöz tapadó -bävning -en, -ar
 földrengés -drott -en, -ar nagybirtokos,

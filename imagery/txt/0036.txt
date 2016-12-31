@@ -117,7 +117,7 @@ ammoniak -en ammónia; kaustik ~
 
 szalmiákszesz
 ammunition -en lőszer
-ammunitions [fabrik -en, -er lőszergyár
+ammunitions|fabrik -en, -er lőszergyár
 -förråd -et, — lőszerkészlet -gördel
 -n, -gördlar kat: töltériyheveder -kista
 -n, -orkat: lőszerrakasz, -láda -magasin

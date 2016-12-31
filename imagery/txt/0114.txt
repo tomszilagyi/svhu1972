@@ -106,7 +106,7 @@ bronzfesték -färgad bronzszínű -medalj
 -en, -er bronzérem (sp is) -medaljör
 -en, -er bronzérmes, bronzérem tulai^
 donosa -åldern a bronzkorszak
-bro [pelare -n, = hidpillér -pengar plur
+bro|pelare -n, = hidpillér -pengar plur
 
 hídpénz, -vám
 bror brodern, bröder fiútestvér, fivér;

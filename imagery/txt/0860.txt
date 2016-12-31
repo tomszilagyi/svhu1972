@@ -16,7 +16,7 @@ könnytelen, nem könnyező, száraz
 -säck -en, -ar könnyzacskó
 tårta -n, -or torta
 
-tárt [bit -en, -ar tortaszelet -spade -n, -ar
+tárt|bit -en, -ar tortaszelet -spade -n, -ar
 tortakés
 
 tårögd -ögt könnyes v. kisírt szemű;

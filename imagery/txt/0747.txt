@@ -77,7 +77,7 @@ választmány, tisztikar (egyesületé);
 felügyelőbizottság (ker. társaságé); sitta i
 bent van a vezetőségben, tagja a
 vezetőségnek (v. az igazgatóságnak)
-styrelse {berättelse -n, -r évi jelentés (ker.
+styrelse|berättelse -n, -r évi jelentés (ker.
 társaság üzletviteléről) -form [-o-] -en,
 -er kormányzási forma,
 kormányforma -ledamot -en, -ledamöter

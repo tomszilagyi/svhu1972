@@ -67,7 +67,7 @@ alla ~ minden teketória nélkül
 krusig -t 1. göndör, bodor, kondor 2.
 
 fodros (káposzta); fodrozódó (víz)
-kriis|kål -en fodros kel -mynta -n, -or
+krus|kål -en fodros kel -mynta -n, -or
 
 fodormenta
 krusning .-en, -ar göndörítés, bodorítás;
@@ -102,7 +102,7 @@ legjobb szakács II. vt fűszerez, ízesít;
 ~d erősen fűszerezett; átv ízes,
 pikáns
 
-krydd [nejlika -n, -or szegfűszeg -ost
+krydd|nejlika -n, -or szegfűszeg -ost
 -en, -ar köményes sajt -peppar -n
 szegfűbors -växt -en, -er fűszernövény
 krympa krympte, krympt: I. vi: ^

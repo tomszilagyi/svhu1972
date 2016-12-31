@@ -109,7 +109,7 @@ szolgálati lakás -chef -en, -er személyzeti
 főnök v. vezető
 personalier plur személyi adatok
 personalunion -en, -er perszonálunió
-person [befordran = (en) személyszállítás
+person|befordran = (en) személyszállítás
 -bil -en, -ar személygépkocsi -hiss -en,
 -ar személyfelvonó, -lift
 personifiera megszemélyesít; han är

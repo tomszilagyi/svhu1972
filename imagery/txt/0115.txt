@@ -104,7 +104,7 @@ szokásban van, szokásos
 brukbar -t 1. használható,
 hasznavehető 2. (meg)művelhető
 bruklig -t használatos; szokásos
-bruks [anvisning -en, -ar használati
+bruks|anvisning -en, -ar használati
 utasítás -arbetare -n, = kohó- v.
 huta-munkás -drift -en kohóüzem -patron
 -en, -er kohó- v. hutatulajdonos;

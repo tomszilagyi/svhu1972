@@ -23,7 +23,7 @@ bevars interj o Isten őrizz v. ments!; ja
 be|vattna (meg)öntöz -vattning -en (még-)
 öntözés -vattningssystem -et, =
 öntözőrendszer
-beveka -vekte, -vekt meghat, -indít,
+be|veka -vekte, -vekt meghat, -indít,
 -lágyít; ~ ngn till ngt rábír v. rávesz vkit
 vmire; till tårar könnyekig
 meghatódik -vekande megható, -indító;
@@ -31,7 +31,7 @@ nyomatékos, sürgető; ~ skäl nyomós okok;
 i ~ ordalag megható szavakkal
 -vekelsegrund -en, -er indítóok,
 indíték; áiv rúgó, hajtóerő
-be [vilja engedélyez, jóváhagy; megad,
+be|vilja engedélyez, jóváhagy; megad,
 -szavaz (pl. hitelt); megenged (ngn
 ngt vkinek vmit); ~ en begäran
 kérést teljesít -villning -en, -ar
@@ -56,7 +56,7 @@ tanújelét adja (ngt vminek); han har ~t
 mig en stor tjänst nagy szolgálatot tett
 nekem
 
-bevis If öring -en, -ar bizonyítás, érvelés
+bevis|föring -en, -ar bizonyítás, érvelés
 
 -kraft -en bizonyító erő
 bevislig -t (be)bizonyítható,

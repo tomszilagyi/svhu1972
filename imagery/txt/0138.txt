@@ -66,7 +66,7 @@ dieselmotor-[*or] -n, -er Diesel-motor,
 
 nyersolaj motor
 diet -en étrend, diéta
-dieiisk -t étrendi, diétás; dietétikai
+dietisk -t étrendi, diétás; dietétikai
 differens -en, -er 1. különbség (átv is);
 különbözet 2. véleménykülönbség,
 nézeteltérés

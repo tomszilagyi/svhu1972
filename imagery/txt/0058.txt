@@ -70,7 +70,7 @@ auktionist -en, -er 1. árverési kikiáltó
 
 2. rég árverező
 
-auktions {bridge [-ids] -n kártya: bridzs
+auktions|bridge [-ids] -n kártya: bridzs
 (a kontrakt-bridzs őse) -förrättare
 -n, = árverező
 auktor -n, -er 1, [vminek a]

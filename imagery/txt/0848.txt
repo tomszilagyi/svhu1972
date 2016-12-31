@@ -25,7 +25,7 @@ elcsen, elvesz [vmiből]
 tullare -n, = o vámos, vámőr,
 vámhivatalnok
 
-tull [avgift -en, -er vámilleték -behandla
+tull|avgift -en, -er vámilleték -behandla
 vámkezel, elvámol -behandling -en,
 -ar vámkezelés, elvámolás -belagd
 -belagt vámmal terhelt, vám alá eső,

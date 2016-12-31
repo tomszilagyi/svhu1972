@@ -10,7 +10,7 @@ gyalogtúra, (gyalogos) kirándulás; vándorút; ~
 genom livet az élet vándorút ja; bege
 sig ut på ~ (vándor)útra kel,
 (gyalogtúrára v. kirándulásra indul
-vandrings [bibliotek -et, =
+vandrings|bibliotek -et, =
 vándorkönyvtár -drift -en vándorlási ösztön -folk
 [-o-] -et, — vándornép, nomád nép v.
 törzs -man -mannen, -män költ: vándor
@@ -96,7 +96,7 @@ szokása (stb.) ellenére, szokásától (v.
 a rendestől) eltérően; det hör till ~en
 megszokott v. mindennapi dolog
 vanligtvis adv vanligen
-van [lottad [-o-] mostohán kezelt v.
+van|lottad [-o-] mostohán kezelt v.
 ellátott, kisemmizett; szerencsétlen; vara
 ~ rosszul járt, kisemmizték; vara ~
 av naturen mostohán bánt vele a

@@ -6,7 +6,7 @@ szerzetes
 svarte|petter -n, -pettrar 1. kártya Fekete
 
 Péter 2. tréf maszatos gyer(m)ek
-svart [fläckig -t fekete foltos -gr å-grått 1.
+svart|fläckig -t fekete foltos -gr å-grått 1.
 sötétszürke, feketésszürke 2.
 fekete–szürke -hyad -t fekete bőrű -hårig -i
 fekete hajú ill. szőrű

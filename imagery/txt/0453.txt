@@ -58,7 +58,7 @@ aztán gyorsan ment: ~ upp på torget
 
 a téren felvonul
 
-marsch [färdig -t menetkész, indulásra
+marsch|färdig -t menetkész, indulásra
 kész -kolonn -en, -er kai: menetoszlop
 
 -order -n, = kat menetparancs -ruti

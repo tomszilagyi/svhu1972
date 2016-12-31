@@ -38,7 +38,7 @@ szállítmány; átv teher
 lassa (meg)rak, megterhel; ~ på ngn ngt
 vkire rárak vmit, vkit vmivel
 megterhel, vkinek nyakába värr vmit
-lasso -77, -er lasszó
+lasso -n, -er lasszó
 
 lass|tals -vis adv rakományszámra,
 fuvarszámra, fuvaronkint
@@ -119,5 +119,5 @@ laudatur (ett), = dicséretes, kitűnő
 
 (osztályzat; jele: A )
 lav -en, -ar nov: zuzmó
-lava -77, -or láva -ström -strömmen,
+lava -n, -or láva -ström -strömmen,
 -strömmar lávafolyam

@@ -8,7 +8,7 @@ vonatkozó tervek -plats -en, -er jó
 előléptetési kilátásokkal kecsegtető állás -tro
 -n a jövőbe vetett hit -utsikter plur
 jövőbeli kilátások
-fram [till adv elöl, elül; előre, [vminek
+fram|till adv elöl, elül; előre, [vminek
 az] elején v. elejére -träda -trädde,
 -trätt 1. előlép 2. fellép, szerepel 3.
 megjelenik, mutatkozik, szembetűnik;
@@ -83,8 +83,8 @@ franska 1. -n francia nyelv 2. (ett), plur:
 
 = o franskbröd
 fransk|bröd -et, = zsemle; zsúrkenyér
--klassicism -en irod: francia
-klasszicizmus (XVII—XVIII, sz.) -vänlig
+-klassicism -en irod: francia klasszi-
+cizmus (XVII—XVIII, sz.) -vänlig
 -t franciabarát
 fransman -mannen, -män francia férfi;
 

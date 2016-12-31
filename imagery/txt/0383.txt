@@ -65,7 +65,7 @@ számításában, becsapják, bepalizzák
 konfektion készruha, konfekció;
 ruhagyártás
 
-konfektions [affär -en, -er ruházati bolt,
+konfektions|affär -en, -er ruházati bolt,
 készruhaüzlet -fabrik -en, -er
 ruhagyár ^
 

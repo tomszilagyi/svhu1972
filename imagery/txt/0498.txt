@@ -118,7 +118,7 @@ szeszélyesség, bogarasság.
 nydanare -n, = újjáalakító, -szervező,
 -teremtő
 
-ny [fallen -fallet újonnan v. frissen esett;
+ny|fallen -fallet újonnan v. frissen esett;
 ~ snö új hó, frissen hullott hó -fiken
 -fiket kíváncsi (på ngt vmire) -fikenhet
 -en kíváncsiság -född -fött újszülött;

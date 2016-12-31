@@ -2,7 +2,7 @@ spår|vagn -en, -ar villamos,
 villamoskocsi; åka ~ villamossal v. villamoson
 utazik
 
-spårvagns [biljett -en, -er villamosjegy
+spårvagns|biljett -en, -er villamosjegy
 -förare -n, = villamoskocsi-vezető
 -konduktör ~(e)n, -er villamoskalauz
 -kvitto -t, -n (egy utazásra szóló)
@@ -21,7 +21,7 @@ villamosösszeköttetés -linje -n, -r villamosvonal
 -nät -et, = villám os(vasút-)hálózat
 -olycka -n, -or
 villamosszerencsétlenség -stall -et, = spårvagnsstall
-spår [växel -n, -växlar vasút: váltó
+spår|växel -n, -växlar vasút: váltó
 spä späda
 
 6päck -et 1. szalonna; (bálna)zsír 2. o
@@ -36,7 +36,7 @@ en ~d börs tömött erszény; ett tal ~t
 med svordomar szitkoktól hemzsegő
 beszéd
 
-späck [huggare -n, = áll kardszárnyú
+späck|huggare -n, = áll kardszárnyú
 delfin -lager -lagret, = szalonnaréteg; o
 tréf háj réteg
 späckning -en, -ar (meg)tűzdelés (pl.
@@ -60,7 +60,7 @@ vizet önt vmibe v. vmihez
 
 spädbarn -et, = csecsemő, kisbaba,
 kisgyermek (másfél éves. korig )
-spädbarns [hem -hemmet, —
+spädbarns|hem -hemmet, —
 csecsemőotthon -vård -en csecsemőgondozás
 spädgris ^en, -ar szopós malac, kismalac
 spädhet -en zsengeség; zsenge kor;

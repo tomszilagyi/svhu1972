@@ -16,7 +16,7 @@ az üléstől elzsibbadtak a tagjai; vara
 ujjai; bli ~ i halsen megmerevedik
 a nyaka; bli ~ i lederna
 megmerevednek v. elzsibbadnak a tagjai
-stel [bent 1. merev v. zsibbadt v.
+stel|bent 1. merev v. zsibbadt v.
 gémberedett lábú 2. átv lélektelen, rideg
 -frusen -fruset el- v. meggémberedett,
 (meg)dermedt (hidegtől); keményre
@@ -63,7 +63,7 @@ köveit 5. nyomósitó szó; összet előtag
 egészen, nagyon
 stena 1. megkövez, agyonkövez 2.
 követ köt (háló szélére)
-sten [arbetare -n, = kőfaragó, kövező,
+sten|arbetare -n, = kőfaragó, kövező,
 kőműves munkás -art -en, -er kőzet
 (-fajta) -belagd -belagt kővel burkolt,
 (ki)kövezett, köves (pl. út) -blandad
@@ -103,7 +103,7 @@ tengerfenék
 stengrund2 -en, -er 1. köves v. sziklás
 
 talaj 2. kőalap(zaí) (házé)
-sten [huggare -n, = kőfejtő, kővágó,
+sten|huggare -n, = kőfejtő, kővágó,
 kő-törő; kőfaragó -huggning -en
 kőfaragás, kőmegmunkálás -hus -et, =
 kőház, téglaház -hård -hårt kőkemény

@@ -102,7 +102,7 @@ socialist -en, -er szocialista (ember)
 socialistisk -t szocialista; ~ tävlan
 szocialista verseny
 socialiststat -en, -er szocialista állam
-social [lagstiftning -en, -ar szociális
+social|lagstiftning -en, -ar szociális
 törvényhozás -minister -n, -ministrar
 S: szociális v. jóléti ügyek
 minisztere, belügyminiszter -politik -en

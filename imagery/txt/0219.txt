@@ -4,7 +4,7 @@ säng ágyat felnyit v. felállít
 fällande: ~ dorn elmarasztaló ítélet v,
 
 végzés, elítélés
-fäll {bar -t összecsukható, -haj(lí)tható,
+fäll|bar -t összecsukható, -haj(lí)tható,
 lehajtható -born -bommen, -bommar
 sorompó -bord -et, = csapóasztal,
 lehajtható asztal -bro -n, -ar csapóhíd,
@@ -14,7 +14,7 @@ fällning -en, -ar 1. kivágás, ki- v.
 ledöntés 2. leeresztés, lebocsátás;
 le-hajtás 3. (lomb- v. haj)hullás 4. vegy
 le- v. kicsapódás, csapadék
-fäll|stcl -en, -ar összecsukható v. tábori
+fäll|stol -en, -ar összecsukható v. tábori
 szék; csapószék, felcsapható ülés
 (színházban ) -säng -en, -ar összecsukható
 ágy

@@ -39,7 +39,7 @@ közforgalmi légikikötő v. repülőtér -flygplan
 -konstapel
 0-1 -n, -konstaplar közlekedési
 rendőr -led -en, -er közlekedési út v.
-útvonal, közút -olycka -n, -or [-közlekedési baleset -plan -et, =
+útvonal, közút -olycka -n, -or közlekedési baleset -plan -et, =
 trafikflygplan -polis -en, -er 1. közlekedési
 rendőrség 2, közlekedési rendőr
 -rubbning -en, -ar forgalmi zavar -räkning

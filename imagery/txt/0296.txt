@@ -11,7 +11,7 @@ parti szigettenger szélén -botten [-o-]
 v. óceáni halászát -katt –en, -er áll:
 pásztás.farkashal -kusi-en, -er
 tengerpart -lax -en, -ar áll: nemes lazac
-havs [sköldpadda -n, -or áll: tengeri teknős
+havs|sköldpadda -n, -or áll: tengeri teknős
 -strand -en, -stränder tengerpart -ström
 -strömmen, -strömmar tengeráram(lás)
 . -trut -en, -ar áll: dolmányos sirály-tång
@@ -60,8 +60,8 @@ bőséges, bőkezű
 hedersam -t tiszteletteljes, megtisztelő
 
 ~ belöning tisztes jutalom
-heders [begrepp -et becsület érzés, a
-becsület fogalma -feetygelse -n, -r
+heders|begrepp -et becsület érzés, a
+becsület fogalma -betygelse -n, -r
 tiszteletadás; tisztelgés [vkinël];
 meg-tisztelés, ünneplés -borgare -n, =
 díszpolgár -doktor -n, -er díszdoktor -gåva

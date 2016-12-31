@@ -38,7 +38,7 @@ levő
 bankruttör -en, -er vagyonbukott v.
 
 tönkrement ember
-bank {tid: under ~ a pénztári órák alatt
+bank|tid: under ~ a pénztári órák alatt
 (bankban) -tjänsteman -mannen, -män
 banktisztviselő -valv -et, — (bankban)
 (boltozatos) páncélkamra
@@ -69,7 +69,7 @@ bantamvikt -en, -er sp: harmatsúly,
 
 bantamsúly
 bantningskur -en, -er fogy(aszt)ókúra
-ban {tåg -et: med ~ vonattal, vasúton
+ban|tåg -et: med ~ vonattal, vasúton
 -vakt -en, -er vasút: pályaőr -vaktstuga
 -n, -or vasút: (pálya)őrház -vall -en,
 -ar vasúti töltés -Övergång -en, -ar

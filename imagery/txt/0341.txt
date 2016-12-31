@@ -9,7 +9,7 @@ in|köp -et, == bevásárlás, vétel -köpa
 inköpspris -et, = v. -er vételár,
 beszerzési ill. önköltségi ár; till ~
 beszerzési ill. önköltségi áron
-inJkörd -kört behordott, beszállított;
+in|körd -kört behordott, beszállított;
 begyakorlott; bejárt, bejáratott (jármű)
 -körsport -en, -ar kapubejárat,
 kapualja -laga -n, -or h beadvány 2.
@@ -60,7 +60,7 @@ benyújtás, beszolgáltatás; feladás
 (postán, vasúton); 2.
 poggyászfelvé-tel -lämningsbevis -et, — posta:
 feladóvevény; vasút: poggyászvevény
--läm-niitgsdag -en: sista ~en beküldési
+-lämningsdag -en: sista ~en beküldési
 határidő
 
 in|ländsk -t belföldi, hazai, honi; in- och

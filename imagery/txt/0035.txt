@@ -32,7 +32,7 @@ szigorúság,
 allvars|ord -et, = komoly szó -tung -t
 
 komoly, súlyos
-al!{vetande I. adj mindentudó II. s: -t
+all|vetande I. adj mindentudó II. s: -t
 mindentudás -vetenhet -en
 mindentudás, -tudóság -vis -t végtelenül bölcs
 -vishet -en végtelen bölcsesség -ätande

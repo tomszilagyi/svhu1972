@@ -44,7 +44,7 @@ hiv kiadó, iroda, expedíció 4.
 hivatal, ügyosztály 5. hiv kiadmány 6.
 hadjárat 7. fölfedező út,
 tanulmányút, expedíció
-expeditions {avgift -en, -er hiv: kezelési v.
+expeditions|avgift -en, -er hiv: kezelési v.
 kiállítási illeték -chef -en, -er kb.:
 államtitkár, miniszterhelyettes
 -föreståndare -n, == iroda- v.

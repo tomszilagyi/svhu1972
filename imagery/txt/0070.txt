@@ -62,7 +62,7 @@ koldusbotra jut
 backfisch -en,w -ar süldő lány, csitri,
 bakfis
 
-back {hoppare [-o-] -n, = síugró
+back|hoppare [-o-] -n, = síugró
 -hoppning [-o-] -en, -ar síugrás,
 síugróverseny
 

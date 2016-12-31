@@ -12,13 +12,13 @@ radiolog [-ö’g-] -en, -er radiológus;
 
 röntgenológus, .röntgenszakorvos
 radiologi -(e)n radiológia, sugárzástan
-radio [lur -en, -ar rádió :, fejhallgató
+radio|lur -en, -ar rádió :, fejhallgató
 -lyssnare -n, — rádióhallgató
 -mottagare -n, = rádió-vevőkészülék
 -mottagning -en, -ar rádióvétel -pejling
 +en rádiótájolás> -iránymérés -pjäs
 ~en, -er rádió- v. hangjáték -polis -en
-CJRH-járőr -program -grammet, =
+URH-járőr -program -grammet, =
 rádióműsor -rör -et, — rádiócső,
 -lámpa -station -en, -er
 rádió(-adó)-állomás -styrd -styrt rádió útján

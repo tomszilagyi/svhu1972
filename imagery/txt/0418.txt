@@ -4,7 +4,7 @@ ledfyr -en, -ar hajó: irányítófény; átv
 
 világítótorony, vezércsillag
 ledgång -en, -ar ízület; techn csukló
-ledgångs [inflammation -en, -er ízületi
+ledgångs|inflammation -en, -er ízületi
 gyulladás -reumatism -en’ izületi’
 reuma v. csúz
 ledig -t 1. hajlékony; gyakorlott, ügyes;

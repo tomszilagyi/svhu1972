@@ -1,7 +1,7 @@
 vetenskapare -n, = o tudományos
 dolgozó, tudós
 vetenskaplig -t tudományos
-vetenskaps [akademi -(e)n, -er
+vetenskaps|akademi -(e)n, -er
 tudományos akadémia -man -mannen, -män
 tudós
 
@@ -60,10 +60,10 @@ vettlös -t esztelen, értelmetlen, ostoba;
 modortalan, műveletlen; en ~
 handling oktalan cselekedet; en ~ människa
 ostoba ember
-vett [skrämd -skrämt halálra rémült;
+vett|skrämd -skrämt halálra rémült;
 
 0 beijedt, begyulladt; vara ~ magán
-kívül van az ijedségtől -viliing -ent -ar
+kívül van az ijedségtől -villing -ent -ar
 esztelen, őrült, kótyagos (ember)
 
 vev -en, -ar forgatókar, forgattyú, kurb-

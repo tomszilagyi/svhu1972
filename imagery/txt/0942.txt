@@ -8,7 +8,7 @@ téli álmát alussza (állat) -fiske -t
 jég alatti (v. téli) halászat -frukt -en
 -er (későn érő) téli alma itt. körte
 Vintergatan csill a Tejút
-vinter [hamn -en, -ar téli kikötő -kappa
+vinter|hamn -en, -ar téli kikötő -kappa
 -n, -or télikabát -klädd -klätt téli
 ruhába öltözött; téliesen öltözött -kläder
 plär téli ruházat v. ruhák -kvartal -et,
@@ -64,7 +64,7 @@ himbál; billeg, billen; himbáló(d)zik,
 
 ~ på stolen hintázik v. billeg a széken;
 ~ på stjärten billegeti a farkát
-vipp [arm -en, -er techn: himbakar,
+vipp|arm -en, -er techn: himbakar,
 sze-lephimba (motoron) -krän -en, -ar
 techn: billenődaru, buktatódaru
 vips interj huss!, hipp-hopp 1

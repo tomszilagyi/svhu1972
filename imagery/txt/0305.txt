@@ -23,10 +23,10 @@ tábori szék -fästad egymáshoz erősített
 ~ jól összeállított v. kigondolt -krupen
 -krupet összekuporodott; sitta ~
 guggol, kuporog
-hcfp1 [-0-3 I. s: -et, = ugrás; ta ett ~
+hopp1 [-0-3 I. s: -et, = ugrás; ta ett ~
 ugrik egyet; i ett ~ egy ugrással II.
 irterj hopp!
-fccjp2 [-o-] -et remény, reménység (om
+hopp2 [-o-] -et remény, reménység (om
 rigi vnri e, vminek a); få nytt ~
 reményt merít; ge ngn ~ om ngt
 vki-ben reményt kelt vmire; ge upp ~et
@@ -52,7 +52,7 @@ viszontlátjuk egymást)
 hoppetossa [-o*-] -n, -or o ugribugri v.
 
 szeleburdi lány, szél vészkisasszony
-hopp [full [-o*-] -t reményteljes -Ingivan-
+hopp|full [-o*-] -t reményteljes -Ingivan-
 
 de reményt keltő, bátorító -lös -t
 reménytelen

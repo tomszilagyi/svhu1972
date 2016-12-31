@@ -29,7 +29,7 @@ stå väl till hos ngn jó hírnévnek
 boka1 1. (el)könyvel, bejegyez 2.
 megrendel ( menetjegyet)
 boka2 techn zúz, tör (ércet)
-bok [anmälan = (en) köny vismertetés
+bok|anmälan = (en) köny vismertetés
 -band -et, = kötés (könyvön) -bindare
 -n, = könyvkötő -binderi r(e)t, -er
 könyvkötészet; könyvkötőműhely - v.
@@ -39,7 +39,7 @@ boken bőket túlérett, romlandó (gyümölcs)
 bok|föra -förde, -fört (el)könyvel -förare
 -n, = könyvelő -föring -en, -ar
 könyvelés, könyvvitel, számvitel
-bok {förlag -et, == könyvkiadó (vállalat)
+bok|förlag -et, == könyvkiadó (vállalat)
 -förteckning -en, -ar könyvjegyzék
 -handel -n 1. könyvkereskedelem;
 vara utgången ur ~n kifogyott, elkelt

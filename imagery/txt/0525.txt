@@ -39,8 +39,8 @@ ostindisk -t kelet-indiai
 ostkant -en, -er sajt héj
 ostlig -t keleti
 ost|mask -en, -ar sajtkukac
-östra -n, -or -v- ostron
-o {straffad büntetlen -strafílig 4 nem
+ostra -n, -or -v- ostron
+o|straffad büntetlen -strafílig 4 nem
 
 büntethető, feddhetetlen
 ostridig -t obestridlig
@@ -80,7 +80,7 @@ savanyított; osyrat bröd kovásztalan
 kenyér -såld rsålt eladatlan, el nem
 adott; ker: om ~ ha időközben el
 nem adjuk -sårad sértetlen -sårbar
--t sebezhetetlen, sérthetetlen -ságiig
+-t sebezhetetlen, sérthetetlen -säglig
 -t kimondhatatlan, mérhetetlen -säker
 -í bizonytalan, kétes; nem
 biztonságos; ~ om framgången nem biztos a
