@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-                xmlns:tools="http://schemas.android.com/tools"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent">
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 
-  <LinearLayout android:id="@+id/linear_layout"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:padding="0dp"
-                android:orientation="horizontal">
+  <LinearLayout
+      android:id="@+id/search_input_row"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="#ffffffff"
+      android:padding="0dp"
+      android:orientation="horizontal">
     <android.widget.EditText
         android:id="@+id/search_text"
         android:layout_weight="1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:hint="@string/search_text_hint"
-        android:inputType="text"
+        android:inputType="textNoSuggestions"
         android:imeOptions="actionPrevious"
         android:privateImeOptions="nm"
         />
@@ -24,8 +27,8 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:padding="0dp"
-        android:src="@android:drawable/ic_menu_add"
-        android:background="#00ffffff"
+        android:src="@drawable/bookmark"
+        android:background="?android:selectableItemBackground"
         />
   </LinearLayout>
 
@@ -33,7 +36,7 @@
       android:id="@+id/recycler_view"
       android:layout_width="match_parent"
       android:layout_height="match_parent"
-      android:layout_below="@id/linear_layout"
+      android:layout_below="@id/search_input_row"
       />
 
 </RelativeLayout>

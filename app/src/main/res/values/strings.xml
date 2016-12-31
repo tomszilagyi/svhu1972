@@ -2,7 +2,8 @@
 <resources>
     <string name="app_name">Svéd-magyar szótár</string>
     <string name="bookmarks">Könyvjelzők</string>
+    <string name="instructions">Tudnivalók a szótárról</string>
     <string name="about_app">Névjegy</string>
-    <string name="search_text_hint">Keresendő szó…</string>
+    <string name="search_text_hint">Keresendő címszó…</string>
     <string name="image_view_cdesc">Oldalnézet</string>
 </resources>

@@ -1,8 +1,5 @@
 - handle image loading while scrolling upwards, which throws off position
   (prevent abrupt jumps caused by image loading when scrolling upwards)
-- app menu:
-  - Tudnivalók (a szótár használatáról)
-  - maybe: Svéd nyelvtani vázlat
 - identify common failure patterns in OCR text and correct them
   - dash char '–'
   - hyphenation dash in middle of words

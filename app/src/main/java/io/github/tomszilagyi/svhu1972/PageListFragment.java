@@ -238,6 +238,10 @@ public class PageListFragment extends Fragment {
                 Log.i("Szotar", "menu -> bookmarks");
                 /* TODO */
                 return true;
+            case R.id.menu_item_instructions:
+                Log.i("Szotar", "menu -> instructions");
+                /* TODO */
+                return true;
             case R.id.menu_item_about_app:
                 Log.i("Szotar", "menu -> about");
                 /* TODO */
