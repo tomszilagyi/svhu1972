@@ -155,8 +155,8 @@ public class TextPrepare {
        2. Expand suffixes of the form "-suffix" with current stem,
           except for grammatical suffixes e.g.: -t -n -r -en -et
 
-       Expanded forms are preceded with @ (does not occur elsewhere)
-       to help avoid spurious occurrences while keyword searching.
+       All identified keywords are preceded with @ (does not occur
+       elsewhere) to help avoid spurious search results.
     */
     String stem = null;
     String suffix = null;
@@ -205,10 +205,12 @@ public class TextPrepare {
             if (idx_pipe > 0) { // pipe exists and is not the very first
                 stem = keyword.substring(0, idx_pipe);
                 suffix = keyword.substring(idx_pipe+1);
+                keyword = stem + suffix;
             } else {
                 stem = keyword;
                 suffix = null;
             }
+            line = line.replaceFirst(keyword, "@"+keyword);
             pr(opt_words, (p+25)+".txt: "+keyword+" => "+stem+" | "+suffix);
             index_printed = print_index(index_printed, p, stem, suffix);
         }

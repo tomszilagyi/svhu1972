@@ -59,6 +59,7 @@ public class TextDataTest {
     public void search_test() {
         /* simple cases including w and garbage input */
         assertThat(td_ixs_str("alma"), is("tp[10:37]"));
+        assertThat(td_ixs_str("bi"), is("tp[70:93]"));
         assertThat(td_ixs_str("gravid"), is("tp[244:58]"));
         assertThat(td_ixs_str("hämta"), is("tp[294:105]"));
         assertThat(td_ixs_str("jollragzhsa823"), is("tp[326:50]"));

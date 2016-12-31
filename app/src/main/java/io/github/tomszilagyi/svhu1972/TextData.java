@@ -110,7 +110,7 @@ public class TextData {
             for (int l=0; l < page.size(); l++) {
                 String line = page.get(l);
                 line = line.toLowerCase(locale);
-                if (line.startsWith(str) || line.contains("@"+str)) {
+                if (line.contains("@"+str)) {
                     TextPosition tp = new TextPosition(p, l);
                     Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
                     return tp;
