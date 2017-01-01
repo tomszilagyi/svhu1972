@@ -243,6 +243,8 @@ public class TextPrepare {
             }
             idx_dash = line.indexOf('-', idx_dash+maybe_suffix.length()+1);
         }
+        /* normalize case for searches */
+        line = line.toLowerCase(locale);
         return line;
     }
 

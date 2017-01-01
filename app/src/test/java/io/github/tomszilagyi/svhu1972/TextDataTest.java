@@ -24,10 +24,10 @@ public class TextDataTest {
      */
     @Test
     public void ocr_page_lines_test() {
-        for (int p=0; p < td.getText().size(); p++) {
-            ArrayList<String> page = td.getText().get(p);
-            assertThat(page.size(), is(TextData.column_rows(p, 0) +
-                                       TextData.column_rows(p, 1)));
+        String[][] text = td.getText();
+        for (int p=0; p < text.length; p++) {
+            assertThat(text[p].length, is(TextData.column_rows(p, 0) +
+                                          TextData.column_rows(p, 1)));
         }
     }
 
@@ -39,8 +39,9 @@ public class TextDataTest {
         collator.setStrength(Collator.SECONDARY);
 
         String prev = null;
-        for (int p=0; p < td.getIndex().size(); p++) {
-            String entry = td.getIndex().get(p);
+        String[] index = td.getIndex();
+        for (int p=0; p < index.length; p++) {
+            String entry = index[p];
             if ((prev == null) ||
             // legit exceptions:
                 (p == 192 && collator.compare(entry, "få") == 0) ||

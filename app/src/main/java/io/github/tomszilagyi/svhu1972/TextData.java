@@ -17,8 +17,8 @@ public class TextData {
     Locale locale;
     Collator collator;
     AssetManager assetmgr;
-    ArrayList<ArrayList<String>> text;
-    ArrayList<String> index;
+    String[][] text;
+    String[] index;
 
     public TextData(AssetManager assetmgr) {
         this.assetmgr = assetmgr;
@@ -29,10 +29,10 @@ public class TextData {
     }
 
     /* Accessors used for testing only */
-    public ArrayList<String> getIndex() {
+    public String[] getIndex() {
         return index;
     }
-    public ArrayList<ArrayList<String>> getText() {
+    public String[][] getText() {
         return text;
     }
 
@@ -47,22 +47,21 @@ public class TextData {
             DataInputStream dis = new DataInputStream(bis);
             index = read_page(dis);
             int n_pages = dis.readInt();
-            text = new ArrayList<ArrayList<String>>();
+            text = new String[n_pages][];
             for (int p=0; p < n_pages; p++) {
-                text.add(read_page(dis));
+                text[p] = read_page(dis);
             }
             dis.close();
         } catch (Exception e) {
             Log.e("Szotar", e.toString());
         }
     }
-    private ArrayList<String> read_page(DataInputStream dis) throws IOException {
+    private String[] read_page(DataInputStream dis) throws IOException {
         int n_lines = dis.readInt();
-        ArrayList<String> list = new ArrayList<String>();
+        String[] list = new String[n_lines];
         for (int l=0; l < n_lines; l++) {
-            list.add(dis.readUTF());
+            list[l] = dis.readUTF();
         }
-        list.trimToSize();
         return list;
     }
     private InputStream openAsset(String filename) throws Exception {
@@ -82,8 +81,8 @@ public class TextData {
         String entry = null;
         String cstr = str.toLowerCase(locale).replace('w', 'v');
         int p, start_page = letter_start_page(str);
-        for (p=index.size()-1; p >= start_page; p--) {
-            entry = index.get(p);
+        for (p=index.length-1; p >= start_page; p--) {
+            entry = index[p];
             if (collator.compare(entry, cstr) < 0) break;
         }
         /* entry on start_page (loop broke with p decremented once more)
@@ -105,11 +104,10 @@ public class TextData {
      */
     public TextPosition fulltext_search(int p0, String str) {
         str = str.toLowerCase(locale);
-        for (int p=p0; p < p0+8 && p < text.size(); p++) {
-            ArrayList<String> page = text.get(p);
-            for (int l=0; l < page.size(); l++) {
-                String line = page.get(l);
-                line = line.toLowerCase(locale);
+        for (int p=p0; p < p0+8 && p < text.length; p++) {
+            String[] page = text[p];
+            for (int l=0; l < page.length; l++) {
+                String line = page[l];
                 if (line.contains("@"+str)) {
                     TextPosition tp = new TextPosition(p, l);
                     Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
