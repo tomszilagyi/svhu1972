@@ -91,7 +91,7 @@ public class TextData {
         Log.i("Szotar", "search ("+str+"): index: "+p+":"+entry);
         TextPosition result = null;
         while (str.length() > 0 && result == null) {
-            result = fulltext_search(p, str);
+            result = fulltext_search(p, "@"+str);
             str = str.substring(0, str.length()-1);
         }
         return result;
@@ -108,7 +108,7 @@ public class TextData {
             String[] page = text[p];
             for (int l=0; l < page.length; l++) {
                 String line = page[l];
-                if (line.contains("@"+str)) {
+                if (line.contains(str)) {
                     TextPosition tp = new TextPosition(p, l);
                     Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
                     return tp;
