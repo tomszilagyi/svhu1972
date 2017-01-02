@@ -82,6 +82,7 @@ public class ImageUtils {
 
         // Decode bitmap with inSampleSize set
         options.inJustDecodeBounds = false;
+        options.inPreferredConfig = Bitmap.Config.ALPHA_8; /* use 4x less bitmap memory */
         return decodeAssetImage(ctx, filename, options);
     }
 
