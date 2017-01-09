@@ -3,22 +3,32 @@
           package="io.github.tomszilagyi.svhu1972"
           android:installLocation="auto">
 
-    <application
-        android:allowBackup="true"
-        android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
-        android:theme="@style/AppTheme" >
-        <activity
-            android:name=".PageListActivity"
-            android:configChanges="orientation"
-            android:screenOrientation="portrait">
+  <application
+      android:allowBackup="true"
+      android:icon="@mipmap/ic_launcher"
+      android:label="@string/app_name"
+      android:theme="@style/AppTheme" >
 
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+    <meta-data android:name="android.webkit.WebView.MetricsOptOut"
+               android:value="true" />
 
-        </activity>
-    </application>
+    <activity
+        android:name=".PageListActivity"
+        android:configChanges="orientation"
+        android:screenOrientation="portrait">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+
+    <activity
+        android:name=".TextDisplayActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.VIEW" />
+      </intent-filter>
+
+    </activity>
+  </application>
 
 </manifest>

@@ -1,6 +1,7 @@
 package io.github.tomszilagyi.svhu1972;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -233,18 +234,21 @@ public class PageListFragment extends Fragment {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
+        Intent intent;
         switch (item.getItemId()) {
             case R.id.menu_item_bookmarks:
                 Log.i("Szotar", "menu -> bookmarks");
                 /* TODO */
                 return true;
-            case R.id.menu_item_instructions:
-                Log.i("Szotar", "menu -> instructions");
-                /* TODO */
+            case R.id.menu_item_dict_notes:
+                intent = new Intent(getActivity(), TextDisplayActivity.class);
+                intent.putExtra(TextDisplayFragment.EXTRA_ASSET, "notes.html");
+                startActivity(intent);
                 return true;
             case R.id.menu_item_about_app:
-                Log.i("Szotar", "menu -> about");
-                /* TODO */
+                intent = new Intent(getActivity(), TextDisplayActivity.class);
+                intent.putExtra(TextDisplayFragment.EXTRA_ASSET, "about.html");
+                startActivity(intent);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

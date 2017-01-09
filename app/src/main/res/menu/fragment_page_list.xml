@@ -5,8 +5,8 @@
           android:icon="@drawable/bookmark_collection"
           android:title="@string/bookmarks"
           app:showAsAction="ifRoom"/>
-    <item android:id="@+id/menu_item_instructions"
-          android:title="@string/instructions"
+    <item android:id="@+id/menu_item_dict_notes"
+          android:title="@string/dict_notes"
           app:showAsAction=""/>
     <item android:id="@+id/menu_item_about_app"
           android:title="@string/about_app"
