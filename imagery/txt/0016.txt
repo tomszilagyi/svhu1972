@@ -3,12 +3,10 @@ XVI
 A római számokkal jelzett kategóriákon belül az igének lényegesen eltérő
 jelentéseit félkövér arab sorszámok különítik el egymástól.
 
-összetett igék
+Összetett igék
 
-Az el nem váló igekötők (an-, be-, bi-, er-, för-, här-, miss-, sam-, um-,
-und-,
-van-i à-) egyikével összetett igét el nem váló összetételnek (fast
-sammansättning)
+Az el nem váló igekötők (an-, be-, bi-, er-, för-, här-, miss-, sam-, um-, und-,
+van- å-) egyikével összetett igét el nem váló összetételnek (fast sammansättning)
 nevezzük, pl.
 
 begrava, förbjuda, undvika.
@@ -17,66 +15,58 @@ Ebbe a csoportba sorolható némely, határozószóval, illetve elöljáróval (
 emot-, fram-, förbi-, in-, över-) összetett ige is, pl.
 
 avskeda, infria, tillåta, underrätta, undervisa, överge, övertala, övertyga.
+
 Az ilyen igék megkeresése nem okoz nehézséget.
 
 A hangsúlyos igekötővel (betonad partikel) összetett igék legtöbbje ún. elváló
-összetétel (lös sammansättning). Ezeknek az infinitivje előfordul mind
-hátravetett,
+összetétel (lös sammansättning). Ezeknek az infinitivje előfordul mind hátravetett,
 mind pedig előretett igekötővel (az utóbbi esetben egybeírva), mégpedig
 
 a) jelentésbeli különbség nélkül, pl.
 
 ta(ga) bort vagy bortta(ga) ’el- v. levesz; eltávolít, kivesz’
+
 studera in vagy instudera ’betanul, begyakorol’
+
 söka upp vagy uppsöka ’felkeres’;
 
 b) egymástól lényegesen különböző jelentéssel, pl.
 
 gå av ’leszáll [járműről]’; avgå ’elmegy, (el)távozik, elutazik; indul’
+
 bryta av ’el- v. letör’; avbryta ’meg- v. félbeszakít, abbahagy, véget vet’.
+
 Az elváló alakok a mindennapi nyelvhasználatban gyakoribbak. Ezért az a) és
-a b) alatti igék elsősorban az egyszerű ige (pl. ta(ga), studera; gå, bryta)
-szócikkében a
+a b) alatti igék elsősorban az egyszerű ige (pl. ta(ga), studera; gå, bryta) szócikkében a
 római szám után felsorolt hangsúlyos igekötős összetételek között keresendők,
-tanácsos azonban az előretett igekötős alakot (fenti példáinkban instudera,
-uppsöka,
-avgå) is megkeresni, mert a szótárhasználó ily módon kaphat teljesebb
-tájékoztatást
+tanácsos azonban az előretett igekötős alakot (fenti példáinkban instudera, uppsöka,
+avgå) is megkeresni, mert a szótárhasználó ily módon kaphat teljesebb tájékoztatást
 az illető ige jelentésköréről és használatáról.
 
-Van néhány hangsúlyos igekötős ige, amely csupán hátrávetett igekötővel
+Van néhány hangsúlyos igekötős ige, amely csupán hátravetett igekötővel
 használatos, pl.
 
-hålla på... tycka om...,
+hålla på...                   tycka om...,
 
 ezek az alapige szócikkében könnyen megtalálhatók.
 
 Megjegyzendő, hogy a melléknévi igeneveket (participokat), mivel képzésük
-szabályszerűen, az előretett igekötős alakból történik (pl. uppsökande;
-uppsökt),
-általában nem vettük fel külön címszóként. Kivételt tettünk azonban olyan
-esetben,
+szabályszerűen, az előretett igekötős alakból történik (pl. uppsökande; uppsökt),
+általában nem vettük fel külön címszóként. Kivételt tettünk azonban olyan esetben,
 amikor a melléknévi igenévnek — akár melléknévi, akár főnévi használat esetén —
-
 az igéétől eltérő jelentése van, pl.
 
 omtyckt ’kedvelt, szívesen látott, keresett’
-borttagande -t ’elvevés, elvétel; kivétel (pl.folté)\
+borttagande -t ’elvevés, elvétel; kivétel (pl. folté)’.
 
 A szócikkek szerkezeti felépítése
 
-A félkövér Jbetűkkel nyomott címszót indokolt esetben fonetikai jelzés, illetve
-
-átírás követi szögletes zárójelben, álló betűkkel; ezután dölt szedéssel
-közöljük a
-nyelvtani alakokat, illetve a szófaji minősítést (adv, s, vi, vt stb.); majd a
-szó magyar
-értelmezése következik álló betűkkel szedve. Az értelmezésben az azonos vagy
-egymáshoz közel álló jelentéseket (ekvivalenseket) vesszővel, az értelmileg
-távolabb
-állókat pontosvesszővel választjuk el egymástól. A terjedelmes szócikkeket — ha
-a
+A félkövér betűkkel nyomott címszót indokolt esetben fonetikai jelzés, illetve
+átírás követi szögletes zárójelben, álló betűkkel; ezután dőlt szedéssel közöljük a
+nyelvtani alakokat, illetve a szófaji minősítést (adv, s, vi, vt stb.); majd a szó magyar
+értelmezése következik álló betűkkel szedve. Az értelmezésben az azonos vagy egymáshoz
+közel álló jelentéseket (ekvivalenseket) vesszővel, az értelmileg távolabb
+állókat pontosvesszővel választjuk el egymástól. A terjedelmes szócikkeket — ha a
 címszónak erősen eltérő jelentései vannak — félkövér arab sorszámokkal tettük
 áttekinthetőbbé. A jelentések ilyen csoportosítása azonban nem minden szófajban
-
-voit alkalmazható egyforma következetességgel.
+volt alkalmazható egyforma következetességgel.

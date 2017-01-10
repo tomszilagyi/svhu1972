@@ -7,15 +7,13 @@ adv határozószó adverb
 
 áll állattan zoologisk term
 
-Alírrt****. Atlninw.An: il/rfyivtMÅVyi^m
+állatorv állatorvosi kifejezés veterinärterm
 
-auazorv aiiatorvosi Kitejezes veierinarierm
-
-ar ch archeológia arkeologi
+arch archeológia arkeologi
 
 ásv ásványtan mineralogi
 
-edv átvitt értelemben bildligt
+átv átvitt értelemben bildligt
 
 bány bányászat gruvterm
 
@@ -35,43 +33,47 @@ egyet egyetemi nyelv universitetsspråk
 
 egyh egyházi kyrklig term
 
-eiv. eivaiasztas eseten avsiavai
+elv. elválasztás esetén avstavat
 
-’ r _ ’A L___ _ A. tu .J.J. ■■ _nl A.-A _m «t ■ » ■
+ép építészet arkitektur, byggnadsterm
 
-ep építészet arkiteKtur, oyggnaasterm
+erd erdészet skogsvård, skogsvetenskap
 
-£ra eraeszet sKogsvara, stcogsveienstcap
+e. sz. egyes szám(i) singular, ental(sform)
 
-faip SarSZám(Í) S^nSåT^
+faip faipar trävaruindustri
+
+fest festészet målarkonst
 
 fil filozófia filosofi
 
 foto fényképészet fotografisk term
 
-föld földrajz geogra/i
+föld földrajz geografi
 
-földtan, geológia geologi
+geol földtan, geológia geologi
 
 gúny gúnyos ironiskt
 
 gyerm gyermeknyelv barnspråk
 
-hajó hajózás, tengerészet s/öfcrm
+hajó hajózás, tengerészet sjöterm
 
 hal halászat fiskeriterm
 
-hed. határozó adverb
+hat. határozó adverb
 
-Igek fgeköiő705 partikel
+hgs hangsúlyos betonad
 
-ill. illetve ^ respektive
+igek igekötő partikel
+
+ill. illetve respektive
 
 imperf egyszerű múlt idő imperfektum
 
-inf főnévi igenév /n/imfrv
+inf főnévi igenév infinitiv
 
-inierj indulatszó interjektion
+interj indulatszó interjektion
 
 irod irodalomtudomány litteraturvetenskap, litteraturhistoria
 
@@ -79,14 +81,14 @@ isk iskolai nyelv skolspråk
 
 jog jogtudomány juridik
 
-.Kártya KartyajateK Konspei
+kártya kártyajáték kortspel
 
 kat katonai militärterm
 
-katol katolikus /tøto/sA:
+katol katolikus katolsk
 
 kb. körülbelül ungerfärligen, tillnärmelsevis
 
 ker kereskedelem handelsterm
 
-M Kerteszet traagarasterm
+kert kertészet trädgårdsterm

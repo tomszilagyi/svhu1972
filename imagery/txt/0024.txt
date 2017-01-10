@@ -1,18 +1,16 @@
 XXIV
 
-vill villamosság elektrisk ferm, elektroteknik
+vill villamosság elektrisk term, elektroteknik
 
 vki valaki någon
 
 vmi valami något
 
-vő. vesd össze jämför (jfr)
+vö. vesd össze jämför (jfr)
 
 vt tárgyas ige transitivt verb
 
-NB. Szakjelzésként rövidítéseken kívül előfordulnak teljesen kiírt szavak is,
-
-pl.
+NB. Szakjelzésként rövidítéseken kívül előfordulnak teljesen kiírt szavak is, pl.
 
 posta postterm
 
@@ -37,17 +35,17 @@ E e
 
 F f
 
-Q g
+G g
 
 H h
 
 I i
 
-J J
+J j
 
 K k
 
-L i
+L l
 
 M m
 
@@ -61,19 +59,19 @@ Q q
 
 R r
 
-S t;
+S s
 
 T t
 
-U a
+U u
 
-V,W i>,w
+V,W v,w
 
 X x
 
 Y y
 
-Z t
+Z z
 
 Å å
 

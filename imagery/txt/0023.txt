@@ -14,7 +14,7 @@ mez mezőgazdaság lantbruk
 
 mit mitológia mytologi
 
-müv művészet konstterm
+műv művészet konstterm
 
 n semleges nem neutrum
 
@@ -22,7 +22,7 @@ ngn valaki någon
 
 ngt valami något
 
-nov növénytan botanik
+növ növénytan botanik
 
 npr tulajdonnév egennamn (nomen proprium)
 
@@ -32,17 +32,15 @@ nyomd nyomdászat typografisk term, boktryckeri
 
 orv orvostudomány medicin, läkarterm
 
-pejor pejoratív, rosszalló nedsättande:
-értelemben
+pejor pejoratív, rosszalló értelemben nedsättande
 
 pénz pénzügy finansväsen
 
-perf. part. múlt idejű melléknévi perfektparticip
-igenév
+perf. part. múlt idejű melléknévi igenév perfektparticip
 
 plur többes szám pluralis
 
-pol pQlitika politik
+pol politika politik
 
 polgazd politikai gazdaságtan politisk ekonomi
 
@@ -54,7 +52,7 @@ prot protestáns protestantisk
 
 rádió rádió radioterm
 
-refl visszaható (ige) reflexivt (yerb/
+refl visszaható (ige) reflexivt (verb)
 
 rég régies, elavult ålderdomligt
 
@@ -72,9 +70,9 @@ sp sport sportterm
 
 stb. s a többi och så vidare, etcetera
 
-superi felsőfok superlativ
+superl felsőfok superlativ
 
-szinh színház teaterterm
+szính színház teaterterm
 
 táj tájszó provinsialism, dialektalt
 
@@ -86,8 +84,7 @@ tel telefon, távbeszélő telefon
 
 tex textil(ipar) textilterm
 
-tört történelem, történet- historia, historiskt
-tudomány
+tört történelem, történettudomány historia, historiskt
 
 tréf tréfás skämtsamt
 

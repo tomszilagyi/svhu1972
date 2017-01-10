@@ -1,76 +1,79 @@
 XX
 
 olvasd: hörsam hörsamt engedelmes, szófogadó
+
 hörsamhet hörsamheten engedelmesség, szófogadás.
 
-A félkövér kötőjel (-) használatát szótártechnikai szempont indokolja.
-Egyébként
-a bokorba tartozó összetett címszókat.— a svéd helyesírásnak megfelelően —
+A félkövér kötőjel (-) használatát szótártechnikai szempont indokolja. Egyébként
+a bokorba tartozó összetett címszókat — a svéd helyesírásnak megfelelően —
 kötőjel nélkül, egy szóba kell írni, pl. stålband, hörsamhet.
 
-= Közvetlenül a címszó után. álló egyenlőségjel azt mutatja, hogy a főnév e.
-sz. határozott alakja azonos a határozatlan alakkal (az alapalakkal), vagyis
+= Közvetlenül a címszó után álló egyenlőségjel azt mutatja, hogy a főnév e. sz.
+határozott alakja azonos a határozatlan alakkal (az alapalakkal), vagyis
 magával a címszóval, pl.
+
 braxen =, braxnar áll: dévérkeszeg
 
-olvasd: braxen braxen, braxnar...; tehát braxen jelentése: ’dévérkeszeg’ vagy
+olvasd: braxen braxen, braxnar ...; tehát braxen jelentése: ’dévérkeszeg’ vagy
 ’a dévérkeszeg’.
 
-Ha az egyenlőségjel a főnév többes jele helyett áll, ez azt jelzi, hogy a tb.
-sz. határozatlan alak (nominativus) azonos az e. sz. határozatlan alakkal (a
+Ha az egyenlőségjel a főnév többes jele helyett áll, ez azt jelzi, hogy a tb. sz.
+határozatlan alak (nominativus) azonos az e. sz. határozatlan alakkal (a
 címszóval), vagyis a többes számnak nincs jele, pl.
+
 barn -et, = gyer(m)ek
 
 olvasd: barn, barnet, barn ’gyermek’ vagy ’gyerek’; tehát barn jelentése:
-’gyer-(m)ek’ vagy ’gyer(m)ekek’.
+’gyer(m)ek’ vagy ’gyer(m)ekek’.
 
 A magyar értelmezést kiegészítő magyarázatokban az egyenlőségjelet
 megszokott és ismert értelmében („egyenlő") használtuk.
 
-/v A tilde a szócikkben közvetlenül előtte álló vastagbetűs, egész svéd címszót
-
+~ A tilde a szócikkben közvetlenül előtte álló vastagbetűs, egész svéd címszót
 helyettesíti, amikor ez kifejezésben, példamondatban ismétlődik, pl.
+
 hyra címszó alatt: rum att ~ kiadó szoba
+
 olvasd: rum att hyra
 
-A tildéhez szükség esetén rag, jel, képző stb, is járulhat, pl.
+A tildéhez szükség esetén rag, jel, képző stb. is járulhat, pl.
+
 håg címszó alatt: glad i ~en vidám kedélyű
+
 olvasd: glad i hågen
 
 klockslag címszó alatt: på ~et percnyi pontossággal
+
 olvasd: på klockslaget
 
-Nem használtunk tildét, ha à címszó egy vagy két betűből áll; pl. få; i, fn, å
+Nem használtunk tildét, ha a címszó egy vagy két betűből áll; pl. få; i, in, å
 a saját szócikkében is teljes alakjában szerepel.
 
-() A kerek zárójel (rund parentes) azt jelzi, hogy a benne levő szórész,
-illetve szó
+() A kerek zárójel (rund parentes) azt jelzi, hogy a benne levő szórész, illetve szó
 vagy szavak az értelem változása nélkül elhagyható(k), pl.
-till|ta(ga) -tog, -tagit ,
+
+till|ta(ga) -tog, -tagit ...
 
 a címszó egyaránt olvasható: tilltaga vágy tillta, a további főalakok: tilltog,
-
 tilltagit...
 
 Ugyancsak kerek zárójelek közé tettük a kiegészítő nyelvtani, vagy egyéb
 tájékoztatást, a magyar értelmezéssel kapcsolatos magyarázatot, az esetleges
 vonzatot stb., pl.
 
-stor (comp: större, superi: störst) 4 nagy (átv is)
+stor (comp: större, superl: störst) -t nagy (átv is)
 
 strida címszó alatt: 1. harcol ... (om v. för -ért)
 
 olvasd: om vagy för någon vagy något valakiért vagy valamiért
 
-(v––-) Kerek zárójel v. rövidítéssel kombinálva a magyar értelmezésben két
-
+(v...) Kerek zárójel v. rövidítéssel kombinálva a magyar értelmezésben két
 egyenértékű szókapcsolat, illetve kifejezés vagylagos jellegére utal, pl.
 höra címszó alatt: hörde ni inte att det ringde? nem hallotta hogy csöngettek
 (v. a csöngetést)?
 
 tehát a svéd mondat magyar jelentése egyaránt lehet: ’nem hallotta, hogy
-csöngettek ?’ vagy ’nem hallotta a csöngetést?’.
+csöngettek?’ vagy ’nem hallotta a csöngetést?’.
 
-[ ] A szögletes zárójelnek (klämmer) kétféle funkciója van: 1) közvetlenül a
-címszó után a fonetikai jelzést, illetve átírást tartalmazza (vö. XII. lap); 2)
-a svéd
+[ ] A szögletes zárójelnek (klammer) kétféle funkciója van: 1) közvetlenül a címszó
+után a fonetikai jelzést, illetve átírást tartalmazza (vö. XII. lap); 2) a svéd

@@ -1,10 +1,9 @@
 XIII
 
 (lásd a 997. lapon). A címszót követi kötőjel után, dőlt betűkkel szedve az ún.
-
 végartikulus (slutartikel), amely az egyes számi határozott alakot (bestämd
-singu-larform), egyben a főnév nemét is jelzi: -en, ill. -fl az utrum, -et,
-III. -t a neutrum,
+singularform), egyben a főnév nemét is jelzi: -en, ill. -n az utrum, -et,
+ill. -t a neutrum,
 vagy semleges nem jeleként; majd — ugyancsak kötőjel után — a többes számi
 határozatlan alak (obestämd pluralform) végződése. Ha ez utóbbinak a végződése
 nincs megadva, ez azt jelenti, hogy a főnév többes számban nem használatos.
@@ -12,64 +11,62 @@ Példák:
 
 stol -en, -ar szék
 
-olvasd: stol stolen, stötar; ami úgy értendő, hogy a stol egyes számi
-határozott
-alakja: stolen ’a szék’; a szó utrum nemű; többes számi határozatlan alakja:
-stolar
+olvasd: stol stolen, stolar; ami úgy értendő, hogy a stol egyes számi határozott
+alakja: stolen ’a szék’; a szó utrum nemű; többes számi határozatlan alakja: stolar
 ’székek’;
 
-hus -el, « ház
+hus -et, = ház
 
 olvasd: hus huset, hus; vagyis a hus főnév egyes számi határozott alakja: huset
-
 ’a ház’; a szó semleges nemű; többes számi határozatlan alakja pedig azonos az
 egyes számival, tehát hus ’házak’;
+
 häfte -t, -n füzet
 
 olvasd: häfte häftet, häften; jelentésük: häftet ’a füzet’, häften ’füzetek’;
+
 talg -en faggyú
 
 olvasd: talg talgen; talg ’faggyú’, talgen ’a faggyú’; többes száma nincs.
 
 Amikor az egyes számi (a továbbiakban: e. sz.) határozott alak és a többes
 számi (a továbbiakban: tb. sz.) határozatlan alak (a tőmagánhangzó megváltozása
-
 vagy egyéb rendhagyóság következtében) a fenti példáktól eltér, mindig a teljes
-
 alakot közöljük, pl.
 
-rum1 rummet, = szoba (tehát az e. sz. határozott alak: rummä ’a szoba’; a
+rum1 rummet, = szoba (tehát az e. sz. határozott alak: rummet ’a szoba’; a
 főnév neutrum; tb. sz. határozatlan alakja: rum ’szobák’);
-ministerium ministeri\et, -er minisztérium
+
+ministerium ministeri|et, -er minisztérium
 
 vagyis az e. sz. határozott alak: ministeriet ’a minisztérium’; a szót
-kettéosztó függőleges vonal azt jelzi, hogy a többes szám végződése a
-függőleges vonal
+kettéosztó függőleges vonal azt jelzi, hogy a többes szám végződése a függőleges vonal
 előtti szórészhez járul, tehát: ministerier ’minisztériumok’;
-dotter -fl, döttrar [vkinek a] leánya
+
+dotter -n, döttrar [vkinek a] leánya
+
 olvasd: dotter, dottern, döttrar;
-mus •en, moss egér
+
+mus -en, möss egér
+
 olvasd: mus musen, möss.
 
 Külön említést kívánnak az utrum nemű -a, ill. -e végű, nem igéből képzett
-főnevek, amelyek a tb. sz. határozatlan alakban -or, ill. -ar végződést kapnak,
-pl.
-skola* -fl, -or (olvasd: skola skolan, skolor)
-pojke -fl, -ar (olvasd: pojke pojken, pojkar).
+főnevek, amelyek a tb. sz. határozatlan alakban -or, ill. -ar végződést kapnak, pl.
+skola2 -n, -or (olvasd: skola skolan, skolor)
+pojke -n, -ar (olvasd: pojke pojken, pojkar).
 
 Ezeknél tehát a többes szám jele nem az egyes számi
-alapalakhoz járul, hanem a főnév -a, ill.-e végződésének
+alapalakhoz járul, hanem a főnév -a, ill. -e végződésének
 helyére lép.
 
-A végartikulus nem járulhat igéből képzett -arz végződésű (utrum nemű)
-főnevekhez. Ezek csak egyes számban használatosak, s határozott alakjuk
-megegyezik a
+A végartikulus nem járulhat igéből képzett -an végződésű (utrum nemű) főnevekhez.
+Ezek csak egyes számban használatosak, s határozott alakjuk megegyezik a
 határozatlan alakkal: erre utal az egyenlőségjel (=). Nemük megjelölésére a
 határozatlan névelő megfelelő alakját használjuk, zárójelbe téve, pl.
-bdrjan = (en) kezdet
+
+början = (en) kezdet
 
 ami azt jelenti, hogy a főnév e. sz. határozatlan és határozott alakja ugyanaz,
-
 tehát början egyaránt jelentheti: ’kezdet’ vagy ’a kezdet’; a szó utrum nemű és
-
 többes száma nincs; en början ’(egy) kezdet’.

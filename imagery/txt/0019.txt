@@ -2,71 +2,72 @@ JELEK, ÍRÁSJELEK MAGYARÁZATA
 TECKENFÖRKLARINGAR
 
 A függőleges vonal a bokor első, összetett címszavát, az úgynevezett vezérszót
-alkotóelemei szerint tagolja. Az összetételnek a függőleges vonalig terjedő
-része
-azonos a bokor többi címszavának első alkotóelemével; ezt a címszókbán
-félkövér kötőjel (-) helyettesíti, pl.
+alkotóelemei szerint tagolja. Az összetételnek a függőleges vonalig terjedő része
+azonos a bokor többi címszavának első alkotóelemével; ezt a címszókban félkövér
+kötőjel (-) helyettesíti, pl.
 
-sköld|formlg [-o-] -t pajzs alakú -körtel -fl, -körtlar pajzsmirigy
-olvasd: sköldformig sköldformigt...
-sköldkörtel sköldkörteln, sköldkörtlar...;
+sköld|formig [-o-] -t pajzs alakú -körtel -n, -körtlar pajzsmirigy
+
+olvasd: sköldformig sköldformigt ...
+
+sköldkörtel sköldkörteln, sköldkörtlar ...;
+
 birtokos összetétel esetén:
 
-affärs|liv -et üzleti élet -lokal -ert, -er üzlethelyiség
+affärs|liv -et üzleti élet -lokal -en, -er üzlethelyiség
 
-olvasd: affärsliv affärslivet.. / affärslokal affärslokalen, affärslokaler...;
+olvasd: affärsliv affärslivet ... affärslokal affärslokalen, affärslokaler ...;
 
 egymás mellett álló két (szinonim) címszó esetén:
 
-väckar|klocka [-0-] -n, -or, -ur -et, = ébresztőóra
+väckar|klocka [-o-] -n, -or, -ur -et, = ébresztőóra
 
-olvasd: väckarklocka väckarklockan, väckarklockor, väckarur väckarüref,
-väckarur
+olvasd: väckarklocka väckarklockan, väckarklockor, väckarur väckaruret, väckarur
+
 (mindkét címszó jelentése:) ’ébresztőóra’.
 
 Ha a függőleges vonallal kettéválasztott címszó után ugyanabban a bokorban
-nem áll másik címszó, a jel csupán a szó összetett voltára utal (és az
-elválasztásra vonatkozólag is támpontot ad), pl.
-stork junge -nt -ar.
+nem áll másik címszó, a jel csupán a szó összetett voltára utal (és az elválasztásra
+vonatkozólag is támpontot ad), pl.
+
+stork|unge -n, -ar ...
 
 A függőleges vonal előfordul főnevek e. sz. határozott alakjában is, pl.
 
-stipendium stipendi\ett -er
+stipendium stipendi|et, -er
 
 olvasd: stipendium stipendiet, stipendier.
 
-A kötőjelnek (bindestreck) megszokott helyesírási használata mellett —
+A kötőjelnek (bindestreck) — megszokott helyesírási használata mellett —
 kettős szótári szerepe van. A félkövérrel szedett kötőjel a bokor második és
-további címszói előtt az összetett vezérszónak azt a részét helyettesíti, amely
-a
-i -tói balra áll (lásd a fentebbi példákban). Viszont a szabványos kötőjel á
+további címszói előtt az összetett vezérszónak azt a részét helyettesíti, amely a
+|-tól balra áll (lásd a fentebbi példákban). Viszont a szabványos kötőjel a
 magyar értelmezés vesszővel elválasztott egyenértékű szavaiban a közvetlenül
 előtte álló összetett szó első tagját (legtöbbször az igekötőt) képviseli, pl.
-stjälpa... I. vt felborít, -fordít, -dönt;
+
+stjälpa ... I. vt felborít, -fordít, -dönt;
+
 olvasd: felborít, felfordít, feldönt.
 
-v. jelzéssel kombinálva azt jelzi, hogy az alapige mindkét igekötőhöz
-kapcsolódik, pl.
+v. jelzéssel kombinálva azt jelzi, hogy az alapige mindkét igekötőhöz kapcsolódik, pl.
 
 stycka fel- v. szétdarabol
+
 olvasd: feldarabol, szétdarabol.
 
 A svéd szó magyar fordításában a sor végén kitett és a következő sor elején
 megismételt kötőjellel hívjuk fel az olvasó figyelmét arra, hogy a szókapcsolat
+a helyesírás szerint mindig kötőjellel írandó, pl. sprittning szócikkében: izgés-
+-mozgás; a szókapcsolat írása tehát: ’izgés-mozgás’.
 
-a helyesírás szerint mindig kötőjellel írandó, pl. sprittning szócikkében:
-izgés–mozgás; a szókapcsolat írása tehát: ’izgés-mozgás’.
+Ha a bokor vezérszava egyszerű (nem összetett) szó, a második és további címszók
+pedig összetett szavak, ezekben a félkövérrel szedett kötőjel az egész vezérszót
+helyettesíti, pl.
 
-Ha a bokor vezérszava egyszerű (nem összetett) szó, a második és további
-címszók pedig összetett szavak, ezekben a félkövérrel szedett kötőjel az egész
-vezérszót helyettesíti, pl.
-
-stål -et acél -band -et, ?= acélszalag, -pánt; rádió hangszalag
+stål -et acél -band -et, = acélszalag, -pánt; rádió hangszalag
 
 olvasd: stål stålet acél stålband stålbandet, stålband acélszalag, acélpánt;
-rádió
-
-hangszalag
+rádió hangszalag
 
 Melléknév bokrában a -het képző előtt a kötőjel ugyancsak a teljes vezérszót
 helyettesíti, pl.

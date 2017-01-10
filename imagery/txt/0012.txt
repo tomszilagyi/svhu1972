@@ -2,51 +2,49 @@ TUDNIVALÓK A SZÓTÁR HASZNÁLATÁRÓL
 ANVISNINGAR FÖR BEGAGNANDET AV ORDBOKEN
 
 A szótár svéd szókészlete a félkövérrel nyomott címszók betűrendjében van
-elrendezve. Å w-vel kezdődő idegen szavak a v kezdőbetűs szóanyag megfelelő
+elrendezve. A w-vel kezdődő idegen szavak a v kezdőbetűs szóanyag megfelelő
 helyén keresendők. Felhívjuk a figyelmet a magyartól lényegesen eltérő svéd
 ábécére (lásd a XXIV. oldalon).
 
 Az azonos hangalakú szókat (homonymer) külön címszókként adjuk, kitevőben
 elhelyezett arab számokkal különböztetve meg őket egymástól, pl.
+
 hov1 -en, -ar pata
 
 hov2 [hov] -et, = udvar(tartás), királyi udvar.
 
 Idegen eredetű, illetve egyes olyan svéd szavaknál, amelyeknek kiejtése a
 magyar olvasónak nehézséget okozhat, közvetlenül a címszó után szögletes
-zárójelben [ ] kiejtési útbaigazítást adunk a nagyközönség igényeinek
-megfelelő,
-egyszerű és gyakorlati formában. Átírásunkban a magyar ábécé betűi közül
-néhányat
+zárójelben [ ] kiejtési útbaigazítást adunk a nagyközönség igényeinek megfelelő,
+egyszerű és gyakorlati formában. Átírásunkban a magyar ábécé betűi közül néhányat
 módosító jellel ellátva, illetve a köznyelvitől eltérő hangértékben használunk:
 
+ä = nyílt e hang, mint a magyar „vet" szóban
 
-ä == nyílt e hang, mint a magyar „wt" szóban
+č = cs hang, mint a magyar „csak" szóban
 
-t = cs hang, mint a magyar „csak" szóban
-
-n* = kb. olyan orrhang, amilyent a magyar „hang" vagy az angol „king"
-
-szóban a g előtt ejtünk
+ng = kb. olyan orrhang, amilyent a magyar „hang" vagy az angol „king"
+     szóban a g előtt ejtünk
 
 nj = ny hang, mint a magyar „nyár" szóban
 
 s = sz hang, mint a magyar „szabó" szóban
 
-S = s hang, mint a magyar „sok" szóban
+š = s hang, mint a magyar „sok" szóban
 
 ts = c hang, mint a magyar „cikk" szóban
-y ü hang; mint a magyar „őt" szóban.
 
-Az r az utána kővetkező d, l, n, illetve t mássalhangzóval egy hanggá olvad
-össze, úgyhogy ilyenkor önálló r nem hangzik. Ennek jelzése az emelt kis r
-betű,
-pl. az ordna címszó után: [ö,r].
+y = ü hang, mint a magyar „üt" szóban.
 
-A kiejtés jelzése sok esetben csak egy-egy szórészre, illetve hangra
-szorítkozik, pl.
-ajournera [a§ur-]: a svéd ige első két szótagjának kiejtését jelzi;
-chock [§o-]: a szó ejtésmódja hasonló a magyar „sok" szóéhoz, de valamivel
+Az r az utána következő d, l, n, illetve t mássalhangzóval egy hanggá olvad
+össze, úgyhogy ilyenkor önálló r nem hangzik. Ennek jelzése az emelt kis r betű,
+pl. az ordna címszó után: [o'r].
+
+A kiejtés jelzése sok esetben csak egy-egy szórészre, illetve hangra szorítkozik, pl.
+
+ajournera [ašur-]: a svéd ige első két szótagjának kiejtését jelzi;
+
+chock [šo-]: a szó ejtésmódja hasonló a magyar „sok" szóéhoz, de valamivel
 nyíltabb o hangzik benne;
 
 olja [o’-]: az o hangértéke nagyjából megfelel a magyar o hangnak, kissé
@@ -56,19 +54,18 @@ ollon [o’-..-o]: kiejtése kb. „ollon", kissé nyíltabb o hangokkal, mint a
 magyarban.
 
 A magánhangzó hosszúságát a föléje tett vonallal, rövidségét pedig kis
-félkörrel jelöltük, pl. ö, í; ë.
+félkörrel jelöltük, pl. o, i; ě.
 
 A kiejtés jelzésével kapcsolatban — indokolt esetben — feltüntettük a
-szóhangsúlyt is. Az egyszerű vagy ereszkedő hangsúly (akut) jele:1 a megfelelő
-magánhangzó
+szóhangsúlyt is. Az egyszerű vagy ereszkedő hangsúly (akut) jele: ' a megfelelő magánhangzó
 után, pl.
 
-hypnos [-o’s].
+hypnos [-o's].
 
-Az összetett vagy ereszkedő-emelkedő hangsúly (grav vagy gravis) jele:1 a
+Az összetett vagy ereszkedő-emelkedő hangsúly (grav vagy gravis) jele: ` a
 megfelelő magánhangzó után, pl.
-hoppa1 [-o’-].
 
-A főnév (substantiv) egyes számi ún. határozatlan alakja (obestämd
-singu-larform) szerepel címszóként. Ez azonos az egyes számi alapalakkal
-(grundform)
+hoppa1 [-o`-].
+
+A főnév (substantiv) egyes számi ún. határozatlan alakja (obestämd singularform)
+szerepel címszóként. Ez azonos az egyes számi alapalakkal (grundform)

@@ -1,9 +1,9 @@
 XIV
 
-A hiányzó többes számot egyes esetekben az ugyanazon igéből képzett "ing,
--ning vagy -ande végződésű főnév többes száma pótolja; ilyenkor a plur:
-rövidítés
-után közöljük a kivételes tb. sz. alakot, pl»
+A hiányzó többes számot egyes esetekben az ugyanazon igéből képzett -ing,
+-ning vagy -ande végződésű főnév többes száma pótolja; ilyenkor a plur: rövidítés
+után közöljük a kivételes tb. sz. alakot, pl.
+
 fordran = (en), plur: fordringar
 
 (vagyis az e. sz. határozatlan és határozott alak ugyanaz; a tb. sz.
@@ -11,32 +11,33 @@ határozatlan alak: fordringar).
 
 A csak többes számban használatos főnevet a tb. sz. határozatlan alak
 képviseli (a nem [genus] jelzésére pedig nincs szükség), pl.
-byxor plur nadrág..
+
+byxor plur nadrág.
 
 A melléknév (adjektiv) alapfokának rendszerint van külön utrum és
 neutrum alakja. Szótárunkban az utrum alak szerepel címszóként, utána
-feltüntetjük a neutrum végződését. A szófaji minősítést csak akkor adjuk meg,
-ha
-ugyanazon szócikkben két vagy több, különböző szófajú szó van feldolgozva.
-Példák:
-varm -/ meleg
+feltüntetjük a neutrum végződését. A szófaji minősítést csak akkor adjuk meg, ha
+ugyanazon szócikkben két vagy több, különböző szófajú szó van feldolgozva. Példák:
+
+varm -t meleg
 
 (olvasd: varm varmt); tehát a melléknév e. sz. határozatlan utrum alakja:
 varm, semleges nemű alakja pedig: varmt. A szabályszerű, általában -a végződésű
-
 többes szám közlésére nincs szükség.
 
-Különböző szófájok esetén: liten I. adj...
+Különböző szófájok esetén: liten I. adj ...
 
 Az -ad végű participiális melléknevek neutrumát nem tüntetjük fel, mert az
-szabályosan, mindig *at végződést kap, pl.
+szabályosan, mindig -at végződést kap, pl.
+
 femfingrad ötujjú; neutruma: femfingrat.
 
 Ha címszóként két szinonima szerepel, akkor a következőképpen jártunk el:
-van|skapad, -skaplig -t...
+
+van|skapad, -skaplig -t ...
 
 ami azt jelenti, hogy vanskapad neutruma vanskapat, a vanskaplig melléknévé
-pedig ivanskapligt.
+pedig: vanskapligt.
 
 Ha a melléknév neutruma képzésmódra nézve eltér a szabályszerűtől, akkor
 teljes egészében kiírjuk, pl.
@@ -51,26 +52,30 @@ A szabályos képzésű közép- és felsőfokot nem jelezzük, és külön cím
 sem vesszük fel.
 
 Rendhagyó ragozás esetén zárójelben közöljük a kivételes alakot, pl.
-liten I. adj; litet (határozott alak: lille, lilla; plur: små)
-neutruma: litet; határozott alakja: lille, illetve lilla; többes száma: små.
-A rendhagyó közép- és felsőfokot az alapfok után mindig közöljük, és általában
-külön címszókent is felvettük a szótárba, pl.
 
-god I. adj: gott (comp: bättre, superi: bäst)...
+liten I. adj; litet (határozott alak: lille, lilla; plur: små)
+
+neutruma: litet; határozott alakja: lille, illetve lilla; többes száma: små.
+
+A rendhagyó közép- és felsőfokot az alapfok után mindig közöljük, és általában
+külön címszóként is felvettük a szótárba, pl.
+
+god I. adj: gott (comp: bättre, superl: bäst) ...
+
 lásd még a bättre és a bäst címszót.
 
-A melléknévből szabályszerűen képzett 4 végződésű határozók (adverb)
+A melléknévből szabályszerűen képzett -t végződésű határozók (adverb)
 rendszerint nem szerepelnek külön címszóként, viszont néha megtalálhatók a
-melléknév szócikkének végén kifejezésben vagy szókapcsolatban. A gyakoribb
-4igen
-végződésű és egyéb határozószókat (a közép- és felsőfok alakjait is) — a
-megfelelő
+melléknév szócikkének végén kifejezésben vagy szókapcsolatban. A gyakoribb -ligen
+végződésű és egyéb határozószókat (a közép- és felsőfok alakjait is) — a megfelelő
 melléknevekhez hasonlóan — külön címszóként kezeltük, mindig jelezve határozói
 minőségüket, pl.
 
-svårligen adv...; snarare adv...; snarast adv...
+svårligen adv ...; snarare adv ...; snarast adv ...
 
 A legtöbb névmás (pronomen) semleges nemű alakján kívül feltüntettük
 tb. sz. alakját is, mindig jelezve a címszó névmási minőségét, pl.
-min1 mitt, mina (pron) (az) enyém, (az én).. ,-am v. -em
+
+min1 mitt, mina (pron) (az) enyém, (az én) ...-am v. -em
+
 vilken vilket, vilka (pron) ...

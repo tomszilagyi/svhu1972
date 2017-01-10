@@ -1,87 +1,68 @@
 XVII
 
 Egy szócikken belül a szófajok elhatárolása félkövér római számok (I., II.
-stb.) és a rövidített szófaji minősítés segítségével történik; lásd pl. till
-szócikkét.
+stb.) és a rövidített szófaji minősítés segítségével történik; lásd pl. till szócikkét.
 
 Áttekinthetőség kedvéért az igen terjedelmes szócikkek tagolására — a római
 számok mellett — félkövér nagybetűket (A., B.) is használtunk az adott szócikk
 felépítéséhez igazodó funkcióban; lásd pl. a stå igét.
 
 A svéd szavak helyesírása tekintetében a Svenska Akademiens ordlista över
-svenska språket (Nionde upplagan, sjätte tryckningen, Stockholm, 1956) c.
-hivatalos
+svenska språket (Nionde upplagan, sjätte tryckningen, Stockholm, 1956) c. hivatalos
 kiadványt követtük, a magyar szövegben pedig természetesen A magyar helyesírás
-szabályai (10. kiadás 3. lenyomat, Budapest, 1959), illetve a Helyesírási
-tanácsadó
-szótár (Budapest, 1961) voit számunkra irányadó.
+szabályai (10. kiadás 3. lenyomat, Budapest, 1959), illetve a Helyesírási tanácsadó
+szótár (Budapest, 1961) volt számunkra irányadó.
 
-A magyar szótárirodalomban általános eljárás szerint a svéd igék főnévi
-ige-nevét (infinitiv), vagyis legegyszerűbb alakját magyarul a tárgyatlan
-ragozás
-jelen idő e. sz. 3. személyű alakjával értelmezzük, pl.
+A magyar szótárirodalomban általános eljárás szerint a svéd igék főnévi ige-nevét
+(infinitiv), vagyis legegyszerűbb alakját magyarul a tárgyatlan ragozás jelen
+idő e. sz. 3. személyű alakjával értelmezzük, pl.
 
 älska szeret.
 
-Ilyenkor a magyar szóalak nenr pontos fordítása (ekvivalense) a svéd szónak,
-s fordításnál nem helyettesíthető be automatikusan a svéd igealak helyébe. Pl.
-älska,
+Ilyenkor a magyar szóalak nem pontos fordítása (ekvivalense) a svéd szónak,
+s fordításnál nem helyettesíthető be automatikusan a svéd igealak helyébe. Pl. älska,
 illetve att älska pontos fordítása: ’szeretni’.
 
-Ugyanígy jártunk el a főnévi igeneves szószerkezetek, kifejezések
-értelmezésében is, kivéve azokat a példamondatokat, amelyekben személyhez
-kötött, ragos
+Ugyanígy jártunk el a főnévi igeneves szószerkezetek, kifejezések értelmezésében
+is, kivéve azokat a példamondatokat, amelyekben személyhez kötött, ragos
 igealak áll.
 
-A szólásokát és közmondásokat lehetőleg nem szó szerint, hanem magyarosan,
+A szólásokat és közmondásokat lehetőleg nem szó szerint, hanem magyarosan,
 azaz a megfelelő magyar fordulattal tolmácsoltuk.
 
 A jelentések közül rendszerint a szó konkrét, illetve általános, leggyakoribb
 jelentése szerepel az első helyen, ezt követik — gyakran arab sorszámokkal
-elkülönítve — a sajátos, azaz átvitt, illetve szakmai, vagy egyéb, szűkebb
-körben ismert
+elkülönítve — a sajátos, azaz átvitt, illetve szakmai, vagy egyéb, szűkebb körben ismert
 jelentések.
 
 A terjedelmes szócikkekben a szókapcsolatokat nyelvtani kategóriák szerint
-rendeztük el. így pl. a főnév szócikkében az arab sorszámmal kezdődő
-jelentéscsoportokon belül a szókapcsolatok egymásutánja a következő: alanyos
-szerkezetek
-(esetleg a jelzők szerint elrendezve); tárgyas szerkezetek (az igék, ill.
-jelzők
-ábécérendjében); határozós kifejezések (az elöljárók, ill. igék
-ábécérendjében); lásd pl. kläder
-és tanke szócikkét.
+rendeztük el. Így pl. a főnév szócikkében az arab sorszámmal kezdődő jelentéscsoportokon
+belül a szókapcsolatok egymásutánja a következő: alanyos szerkezetek (esetleg
+a jelzők szerint elrendezve); tárgyas szerkezetek (az igék, ill. jelzők
+ábécérendjében); határozós kifejezések (az elöljárók, ill. igék ábécérendjében);
+lásd pl. kläder és tanke szócikkét.
 
 Az ige szócikkében a sorrend így alakul: alanyos, illetve tárgyas szerkezetek a
-
-főnevek ábécé-sorrendje szerint; elöljárós vonzatok a prepozíciók
-ábécérendjében;
-segédigés kifejezések a segédigék szerint rendezve; igenévi szerkezetek;
-esetlegesen
+főnevek ábécé-sorrendje szerint; elöljárós vonzatok a prepozíciók ábécérendjében;
+segédigés kifejezések a segédigék szerint rendezve; igenévi szerkezetek; esetlegesen
 szenvedő alakok (ha a szenvedő ige nem szerepel külön címszóként) a főnevek
 ábécérendjében, lásd pl. väcka.
 
 A melléknév szócikkében ez a sorrend: jelzős szerkezetek a főnevek betűrendi
-helye szerint rendezve; igés szerkezetek az igék ábécérendjében; elöljárós
-vonzatok
-a prepozíciók sorrendjében; kötőszós szerkezetek a kötőszók ábécérendjében;
-végül
+helye szerint rendezve; igés szerkezetek az igék ábécérendjében; elöljárós vonzatok
+a prepozíciók sorrendjében; kötőszós szerkezetek a kötőszók ábécérendjében; végül
 a melléknév főnévi használatát bemutató kifejezések; vö. stor.
 
 Ezt a módszert a gyakorlatban kellő hajlékonysággal alkalmaztuk, minthogy
-jelentéstani, illetve szótártechnikai szempontok miatt gyakran a fentitől
-eltérő
-elrendezésre voit szükség.
+jelentéstani, illetve szótártechnikai szempontok miatt gyakran a fentitől eltérő
+elrendezésre volt szükség.
 
 A svéd nyelv — a többi germán nyelvhez hasonlóan — rendkívül gazdag
-szóösszetételekben. Szótárunkba ezeknek csupán egy töredékét vehettük fel:
-egyrészt az általánosan használt, illetve legfontosabb összetételeket, másrészt
-azokat,
-amelyeknek jelentését a magyar szótárhasználó az egyes alkotóelemek
-jelentéséből
+szóösszetételekben. Szótárunkba ezeknek csupán egy töredékét vehettük fel: egyrészt
+az általánosan használt, illetve legfontosabb összetételeket, másrészt azokat,
+amelyeknek jelentését a magyar szótárhasználó az egyes alkotóelemek jelentéséből
 nehezen tudná megállapítani.
 
 Az összetett szavak elrendezése tekintetében szótárunk rendszere a következő.
-Ha a betűrendben több, azonos elotagú összetett címszó következik közvetlenül
+Ha a betűrendben több, azonos előtagú összetett címszó következik közvetlenül
 egymás után, ezeket — helykímélés céljából — egy bekezdésben, úgynevezett
-bokor-

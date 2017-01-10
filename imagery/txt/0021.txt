@@ -4,66 +4,56 @@ szó magyar megfelelőjéhez vagy megfelelőihez szorosan kapcsolódó, rendszer
 a svéd szövegben ki nem tett szóra, illetve vonzatra utaló tájékoztatást
 foglalja magában. Ez utóbbira példa:
 
-få címszó alatt: III. (hgs igek):... få bort... megszabadul [vkitől v. vmitől].
+få címszó alatt: III. (hgs igek): ... få bort ... megszabadul [vkitől v. vmitől].
 
-
-< > Sarkos zárójelek között adjuk — fordítás helyett — a svéd szó magyarázatát,
-
+<> Sarkos zárójelek között adjuk — fordítás helyett — a svéd szó magyarázatát,
 pl. skäggbotten.
 
 , E szótár magyar szövegében a vesszőnek (komma) nem helyesírási, illetve
 mondattani, hanem szótártechnikai szerepe van: a svéd címszó vagy kifejezés,
 illetve példamondat egyenértékű magyar megfelelőit különíti el. Ahol tehát a
-svéd kifejezés magyar értelmezésén belül (pl. összetett mondatban)
-helyesírásunk szabályai szerint ki kellett volna tenni a vesszőt, ezt —
-félreértések
-elkerülése céljából — általában elhagytuk, pl.
+svéd kifejezés magyar értelmezésén belül (pl. összetett mondatban) helyesírásunk
+szabályai szerint ki kellett volna tenni a vesszőt, ezt — félreértések elkerülése
+céljából — általában elhagytuk, pl.
 
 språk címszó alatt: inte vilja ut med ~et kerülgeti mint macska a forró kását,
-
 nem mondja ki ami a szívét nyomja
 
 itt a „mint" ill. „ami" kötőszó előtti vesszőt elhagytuk.
 
-Ahol értelmi okból mégis elkerülhetetlen voit a vessző használata, ott ezt
-kerek
-
+Ahol értelmi okból mégis elkerülhetetlen voit a vessző használata, ott ezt kerek
 zárójelek közé tettük, pl.
 
 spricka szócikkében: det värker så att huvudet kan ~ úgy fáj a feje(m) (,) majd
-
 szétreped.
 
-... Három pont azt jelzi, hogy az előtte álló szókapcsolat, illetve kifejezés
-nem
+... Három pont azt jelzi, hogy az előtte álló szókapcsolat, illetve kifejezés nem
 tekinthető teljesnek, befejezettnek, hanem kiegészítést igényel, pl.
-hälsa21. vt, vi 3. han ™r och frågar ø/n... üdvözletét küldi és kérdezteti
-hogy...
+hälsa2 I. vt, vi 3. han ~r och frågar om ... üdvözletét küldi és kérdezteti
+hogy ...
 
-O Kis kör annak a jele, hogy a szó, illetve a kifejezés nem az irodalmi, hanem
-a
+o Kis kör annak a jele, hogy a szó, illetve a kifejezés nem az irodalmi, hanem a
 közvetlen (familiáris) hangulatú társalgási nyelv körébe tartozik. A minősítés
-többnyire a svéd és a magyar szóra egyaránt vonatkozik, pl. sprits1... I.
+többnyire a svéd és a magyar szóra egyaránt vonatkozik, pl. sprita1 ... II.
 vi o ...
 
 A nyíl mint utalójel azt jelzi, hogy az utána álló címszó alatt található meg a
-
-keresett szó magyar megfelelője, illetve igék esetében a főnévi igenév
-(infinitiv ), melléknév esetében pedig az alapfok, pl.
+keresett szó magyar megfelelője, illetve igék esetében a főnévi igenév (infinitiv),
+melléknév esetében pedig az alapfok, pl.
 fakta plur faktum
 sade säga
-
-bäst (superi bra, god, väl)
+bäst (superl bra, god, väl)
 
 v. ill. v. Svéd szövegben álló betűvel, magyarban pedig dőlt betűvel szedett v.
-
 rövidítés arra utal, hogy az előtte és utána álló két szó értelmi különbség
 nélkül fölcserélhető egymással, pl.
 
-hålla szócikkében: IV. (hgs igek:) ~tyst v. tätt titkot tart, hallgat
-olvasd: hålla tyst vagy hålla tätt, ami egyaránt jelenti: ’titkot tart,
-hallgat’;
+hålla szócikkében: IV. (hgs igek:) ~ tyst v. tätt titkot tart, hallgat
+
+olvasd: hålla tyst vagy hålla tätt, ami egyaránt jelenti: ’titkot tart, hallgat’;
+
 höra szócikkében: det har vi redan hört ezt már hallottuk v. tudjuk
+
 a svéd mondat egyaránt jelentheti: ’ezt már hallottuk’ vagy ’ezt már tudjuk’.
 
 A fonetikai jeleket lásd a XII. oldalon.

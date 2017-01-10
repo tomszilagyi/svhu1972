@@ -1,52 +1,39 @@
 XVIII
 
-ban csoportosítottuk oly módon, hogy a bokor első, vagyis vezérszavában
-függőleges
-vonal | jelzi (lásd a XIX. oldalon) az összetételnek azt a tagját, àmely a
-bokor többi
-címszaváéval közös, E címszókban a közös előtag nincs kiírva, hanem azt vastag
-kötőjel helyettesíti,, lásd pl. az alstrings|förmåga, av|lämna, händels|
-attaché,
+bokorban csoportosítottuk oly módon, hogy a bokor első, vagyis vezérszavában függőleges
+vonal | jelzi (lásd a XIX. oldalon) az összetételnek azt a tagját, amely a bokor többi
+címszaváéval közös. E címszókban a közös előtag nincs kiírva, hanem azt vastag
+kötőjel helyettesíti, lásd pl. az alstrings|förmåga, av|lämna, handels|attaché,
 in|ordna vezérszók bokrát. E szótártechnikai módszer alkalmazásával lehetővé
-vált, hogy nagyobb számban vegyünk fel a szótárba olyan fontos
-szóösszetételeket,
+vált, hogy nagyobb számban vegyünk fel a szótárba olyan fontos szóösszetételeket,
 amelyeket egyébként helyhiány miatt ki kellett volna hagynunk.
 
-A szótárba fel nem. vett összetett szók jelentése gyakran az összetétel
-tagjainak
+A szótárba fel nem vett összetett szók jelentése gyakran az összetétel tagjainak
 jelentéséből kikövetkeztethető, pl. tidningsutgivareförening -en, -ur lapkiadók
-
-egyesülete; vö. tidning -en, -ar újság, lap; utgivare -n, = kiadó; förening -m,
--at
+egyesülete; vö. tidning -en, -ar újság, lap; utgivare -n, = kiadó; förening -en, -ar
 egyesület.
 
-A svéd helyesírás szabályai szerint három azonos mássalhangzó összetett
-szavakban sem állhat egymás mellett. Emiatt az egybeírt szóban az azonos
-mássalhangzók egyike elhagyandó. Ha a szót az összetétel tagjai szerint
-választjuk el, az elha*
-gyott, harmadik mássalhangzó kiírandó, amit a következőképpen jelzünk:
+A svéd helyesírás szabályai szerint három azonos mássalhangzó összetett szavakban
+sem állhat egymás mellett. Emiatt az egybeírt szóban az azonos mássalhangzók
+egyike elhagyandó. Ha a szót az összetétel tagjai szerint választjuk el, az elhagyott,
+harmadik mássalhangzó kiírandó, amit a következőképpen jelzünk:
+
 tillåta (elv.: till-låta)
 
-Ez úgy értendő, hogy a címszó a till és låta szó összetétele, elválasztás
-esetén
-tehát így kell-írni: till-låta. (Természetesen a szó így is elválasztható:
-tillå-ta.)
+Ez úgy értendő, hogy a címszó a till és låta szó összetétele, elválasztás esetén
+tehát így kell írni: till-låta. (Természetesen a szó így is elválasztható: tillå-ta.)
 
-A címszónak, illetve a szócikkében értelmezett szókapcsolatoknak,
-kifejezéseknek tudományos vagy egyéb szakmai használati körét (pl. fiz,, nyelv,
-orv, tört),
-továbbá stílusrétegét (pl. gúny, tréf, o), illetve elavult voltát (rég) szükség
-
-esetén — a magyar értelmezés elé tett megfelelő rövidítések jelzik (ezek
-jegyzékét
-lásd a XXII. oldalon)-. Az efféle minősítés rendszerint mind a svéd, mind a
-magyar
+A címszónak, illetve a szócikkében értelmezett szókapcsolatoknak, kifejezéseknek
+tudományos vagy egyéb szakmai használati körét (pl. fiz, nyelv, orv, tört),
+továbbá stílusrétegét (pl. gúny, tréf, o), illetve elavult voltát (rég) — szükség
+esetén — a magyar értelmezés elé tett megfelelő rövidítések jelzik (ezek jegyzékét
+lásd a XXII. oldalon). Az efféle minősítés rendszerint mind a svéd, mind a magyar
 szóra (kifejezésre), néha csak az egyikre vonatkozik. Pl.
-sprita1 szócikkében: II. vi o• piál, iszik (szeszt) -
 
-a társalgási stílust jelző o a svéd szóra és magyar megfelelőire egyaránt
-érvényes
+sprita1 szócikkében: II. vi o piál, iszik (szeszt)
 
-Viszont stapla címszó alatt: II. (hgs igek:) <» upp felrak, o felstószol;
+a társalgási stílust jelző o a svéd szóra és magyar megfelelőire egyaránt érvényes
 
-itt ugyanaz a jel nyilvánvalóan csak a magyar szót (’felstószor) minősíti.
+Viszont stapla címszó alatt: II. (hgs igek:) ~ upp felrak, o felstószol;
+
+itt ugyanaz a jel nyilvánvalóan csak a magyar szót (’felstószol’) minősíti.
