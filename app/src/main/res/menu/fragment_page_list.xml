@@ -8,6 +8,12 @@
     <item android:id="@+id/menu_item_dict_notes"
           android:title="@string/dict_notes"
           app:showAsAction=""/>
+    <item android:id="@+id/menu_item_dict_annotations"
+          android:title="@string/dict_annotations"
+          app:showAsAction=""/>
+    <item android:id="@+id/menu_item_dict_abbreviations"
+          android:title="@string/dict_abbreviations"
+          app:showAsAction=""/>
     <item android:id="@+id/menu_item_about_app"
           android:title="@string/about_app"
           app:showAsAction=""/>

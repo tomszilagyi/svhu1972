@@ -54,7 +54,7 @@ vagy szavak az értelem változása nélkül elhagyható(k), pl.
 
 till|ta(ga) -tog, -tagit ...
 
-a címszó egyaránt olvasható: tilltaga vágy tillta, a további főalakok: tilltog,
+a címszó egyaránt olvasható: tilltaga vagy tillta, a további főalakok: tilltog,
 tilltagit...
 
 Ugyancsak kerek zárójelek közé tettük a kiegészítő nyelvtani, vagy egyéb

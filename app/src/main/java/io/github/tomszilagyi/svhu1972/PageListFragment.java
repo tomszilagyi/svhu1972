@@ -234,25 +234,31 @@ public class PageListFragment extends Fragment {
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-        Intent intent;
         switch (item.getItemId()) {
             case R.id.menu_item_bookmarks:
                 Log.i("Szotar", "menu -> bookmarks");
                 /* TODO */
                 return true;
             case R.id.menu_item_dict_notes:
-                intent = new Intent(getActivity(), TextDisplayActivity.class);
-                intent.putExtra(TextDisplayFragment.EXTRA_ASSET, "notes.html");
-                startActivity(intent);
+                display_text("notes.html");
+                return true;
+            case R.id.menu_item_dict_annotations:
+                display_text("annotations.html");
+                return true;
+            case R.id.menu_item_dict_abbreviations:
+                display_text("abbreviations.html");
                 return true;
             case R.id.menu_item_about_app:
-                intent = new Intent(getActivity(), TextDisplayActivity.class);
-                intent.putExtra(TextDisplayFragment.EXTRA_ASSET, "about.html");
-                startActivity(intent);
+                display_text("about.html");
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+    private void display_text(String filename) {
+        Intent intent = new Intent(getActivity(), TextDisplayActivity.class);
+        intent.putExtra(TextDisplayFragment.EXTRA_ASSET, filename);
+        startActivity(intent);
     }
 
     public void updateUI() {
