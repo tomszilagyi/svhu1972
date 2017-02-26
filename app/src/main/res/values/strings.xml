@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">Svéd-magyar szótár</string>
     <string name="bookmarks">Könyvjelzők</string>
+    <string name="bookmark_saved">Könyvjelző mentve!</string>
     <string name="dict_notes">Tudnivalók a szótárról</string>
     <string name="dict_annotations">Jelmagyarázat</string>
     <string name="dict_abbreviations">Rövidítések jegyzéke</string>

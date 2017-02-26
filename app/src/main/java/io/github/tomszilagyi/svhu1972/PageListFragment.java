@@ -1,6 +1,7 @@
 package io.github.tomszilagyi.svhu1972;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Point;
 import android.os.Bundle;
@@ -11,6 +12,7 @@ import android.text.Editable;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.Display;
+import android.view.Gravity;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -25,6 +27,7 @@ import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.List;
 
@@ -41,11 +44,16 @@ public class PageListFragment extends Fragment {
     private boolean position_lock;
     private int image_area_height;
     private int image_area_width;
+    private BookmarkInventory mBookmarkInventory;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
+
+        Context ctx = getActivity().getApplicationContext();
+        mTextData = new TextData(ctx.getAssets());
+        mBookmarkInventory = new BookmarkInventory(ctx.getFilesDir());
     }
 
     @Override
@@ -58,7 +66,6 @@ public class PageListFragment extends Fragment {
                              Bundle savedInstanceState) {
 
         position_lock = false;
-        mTextData = new TextData(getActivity().getApplicationContext().getAssets());
 
         int hwWidth = 480;
         int hwHeight = 800;
@@ -110,8 +117,15 @@ public class PageListFragment extends Fragment {
                     int offset = mLayoutManager.getChildAt(0).getTop();
                     String text = mSearchEditText.getText().toString();
                     if (text.length() == 0) return;
+
                     Log.i("Szotar", "Save bookmark: '"+text+"' at pos="+pos+":"+offset);
-                    /* TODO */
+                    Bookmark bk = new Bookmark(text, new TextPosition(pos, offset));
+                    mBookmarkInventory.add(bk);
+
+                    Toast toast = Toast.makeText(getActivity(), R.string.bookmark_saved,
+                                                 Toast.LENGTH_SHORT);
+                    toast.setGravity(Gravity.TOP, toast.getXOffset(), toast.getYOffset());
+                    toast.show();
                 }
             });
 
@@ -227,6 +241,12 @@ public class PageListFragment extends Fragment {
     }
 
     @Override
+    public void onStop() {
+        super.onStop();
+        mBookmarkInventory.save();
+    }
+
+    @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
         inflater.inflate(R.menu.fragment_page_list, menu);
@@ -237,6 +257,7 @@ public class PageListFragment extends Fragment {
         switch (item.getItemId()) {
             case R.id.menu_item_bookmarks:
                 Log.i("Szotar", "menu -> bookmarks");
+                mBookmarkInventory.dbg_print();
                 /* TODO */
                 return true;
             case R.id.menu_item_dict_notes:
