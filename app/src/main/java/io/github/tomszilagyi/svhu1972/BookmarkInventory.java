@@ -32,9 +32,14 @@ public class BookmarkInventory {
     }
 
     public void add(Bookmark bk) {
-        /* TODO FIXME when adding the same label a second time, the
-         * first instance should be replaced!
-         */
+        int n = bookmarks.size();
+        for (int k=0; k < n; k++) {
+            if (bookmarks.get(k).label.equals(bk.label)) {
+                bookmarks.set(k, bk);
+                dirty = true;
+                return;
+            }
+        }
         bookmarks.add(bk);
         dirty = true;
     }
