@@ -16,13 +16,26 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 
 public class BookmarkInventory {
+    private static BookmarkInventory sBookmarkInventory;
 
     public static final String FILENAME = "bookmarks.bin";
     private ArrayList<Bookmark> bookmarks;
     private File storage_path;
     private boolean dirty;
 
-    public BookmarkInventory(File storage_path) {
+    public static BookmarkInventory get(File storage_path) {
+        if (sBookmarkInventory == null) {
+            sBookmarkInventory = new BookmarkInventory(storage_path);
+        }
+        return sBookmarkInventory;
+    }
+
+    /* for testing purposes only */
+    public static void reset_for_test() {
+        sBookmarkInventory = null;
+    }
+
+    private BookmarkInventory(File storage_path) {
         this.storage_path = storage_path;
         load();
     }

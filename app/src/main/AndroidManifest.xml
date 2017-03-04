@@ -23,11 +23,14 @@
     </activity>
 
     <activity
-        android:name=".TextDisplayActivity">
-      <intent-filter>
-        <action android:name="android.intent.action.VIEW" />
-      </intent-filter>
+        android:name=".BookmarkListActivity"
+        android:label="@string/bookmarks"
+        android:configChanges="orientation"
+        android:screenOrientation="portrait">
+    </activity>
 
+    <activity
+        android:name=".TextDisplayActivity">
     </activity>
   </application>
 

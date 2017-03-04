@@ -9,6 +9,7 @@ import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.text.Editable;
+import android.text.Selection;
 import android.text.TextWatcher;
 import android.util.Log;
 import android.view.Display;
@@ -33,13 +34,17 @@ import java.util.List;
 
 public class PageListFragment extends Fragment {
 
+    static final int PICK_BOOKMARK_REQUEST = 1;
+    static final String EXTRA_BOOKMARK = "io.github.tomszilagyi.svhu1972.PageListFragment.EXTRA_BOOKMARK";
+
+    private Context ctx;
     private RecyclerView mRecyclerView;
     private LinearLayoutManager mLayoutManager;
     private PageAdapter mAdapter;
     private EditText mSearchEditText;
     private ImageButton mSaveBookmark;
     private TextData mTextData;
-    private TextPosition mTextPosition;
+    private ScrollPosition mScrollPosition;
     private ImageUtils mImageUtils;
     private boolean position_lock;
     private int image_area_height;
@@ -51,9 +56,11 @@ public class PageListFragment extends Fragment {
         super.onCreate(savedInstanceState);
         setHasOptionsMenu(true);
 
-        Context ctx = getActivity().getApplicationContext();
+        ctx = getActivity().getApplicationContext();
+        mScrollPosition = new ScrollPosition();
         mTextData = new TextData(ctx.getAssets());
-        mBookmarkInventory = new BookmarkInventory(ctx.getFilesDir());
+        mBookmarkInventory = BookmarkInventory.get(ctx.getFilesDir());
+        position_lock = false;
     }
 
     @Override
@@ -64,9 +71,6 @@ public class PageListFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-
-        position_lock = false;
-
         int hwWidth = 480;
         int hwHeight = 800;
         try {
@@ -88,7 +92,7 @@ public class PageListFragment extends Fragment {
             @Override
             public void onImageLoaded() {
                 if (position_lock) {
-                    scrollToPosition(mTextPosition);
+                    scrollToPosition(mScrollPosition);
                 }
             }
         };
@@ -108,18 +112,15 @@ public class PageListFragment extends Fragment {
                     return false;
                 }
             });
-        mTextPosition = new TextPosition();
 
         mSaveBookmark = (ImageButton) view.findViewById(R.id.save_bookmark);
         mSaveBookmark.setOnClickListener(new View.OnClickListener() {
                 public void onClick(View v) {
-                    int pos = mLayoutManager.findFirstVisibleItemPosition();
-                    int offset = mLayoutManager.getChildAt(0).getTop();
                     String text = mSearchEditText.getText().toString();
                     if (text.length() == 0) return;
 
-                    Log.i("Szotar", "Save bookmark: '"+text+"' at pos="+pos+":"+offset);
-                    Bookmark bk = new Bookmark(text, new TextPosition(pos, offset));
+                    saveScrollPosition();
+                    Bookmark bk = new Bookmark(text, mScrollPosition);
                     mBookmarkInventory.add(bk);
 
                     Toast toast = Toast.makeText(getActivity(), R.string.bookmark_saved,
@@ -155,18 +156,6 @@ public class PageListFragment extends Fragment {
                         position_lock = false;
                     }
                 }
-
-                @Override
-                public void onScrolled(RecyclerView recyclerView, int dx, int dy) {
-                    /* TODO save this position and revert to the last saved one
-                     * when an image load throws it off
-                     */
-                    /*
-                    int pos = mLayoutManager.findFirstVisibleItemPosition();
-                    int offset = mLayoutManager.getChildAt(0).getTop();
-                    Log.i("Szotar", "pos="+pos+":"+offset);
-                    */
-                }
             });
 
         mLayoutManager = new LinearLayoutManager(getActivity()) {
@@ -179,12 +168,13 @@ public class PageListFragment extends Fragment {
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setHasFixedSize(true);
 
-        updateUI();
+        mAdapter = new PageAdapter(PageInventory.get().getPages());
+        mRecyclerView.setAdapter(mAdapter);
 
         return view;
     }
 
-    private void scrollToPosition(TextPosition pos) {
+    private ScrollPosition text_to_scroll_position(TextPosition pos) {
         int page = 2 * pos.page;
         int line = pos.line;
         if (pos.line >= TextData.column_rows(pos.page, 0)) {
@@ -196,14 +186,25 @@ public class PageListFragment extends Fragment {
         int image_y = ImageSize.y(page);
         Double pixels_per_row = 1.0 * image_y * image_area_width / image_x / n_rows;
         Double vert = -pixels_per_row * line;
-        /*
-        Log.i("Szotar", "scrollToPosition: "+page+":"+line);
-        Log.i("Szotar", "size of page "+page+" is "+ image_x + "x" + image_y);
-        Log.i("Szotar", "image_area_width: "+image_area_width);
-        Log.i("Szotar", "pixels_per_row: "+pixels_per_row);
-        Log.i("Szotar", "vertical offset: "+vert.intValue());
-        */
-        mLayoutManager.scrollToPositionWithOffset(page, vert.intValue());
+        return new ScrollPosition(page, vert.intValue());
+    }
+
+    private void scrollToPosition(ScrollPosition pos) {
+        position_lock = true;
+        mLayoutManager.scrollToPositionWithOffset(pos.page, pos.offset);
+    }
+
+    private void saveScrollPosition() {
+        int pos = mLayoutManager.findFirstVisibleItemPosition();
+        View view = mLayoutManager.getChildAt(0);
+        int offset = view.getTop();
+        int height = view.getHeight();
+        // If offset is bigger than the image size, reduce with image size.
+        // I guess there is a bug in an android class we need to work around...
+        while (offset < -height) {
+            offset += height;
+        }
+        mScrollPosition.update(pos, offset);
     }
 
     public class SearchTextWatcher implements TextWatcher {
@@ -212,22 +213,19 @@ public class PageListFragment extends Fragment {
             if (before == 0 && count == 0) return;
             TextPosition result = mTextData.index_search(s.toString());
             if (result != null) {
-                mTextPosition = result;
-                position_lock = true;
-                scrollToPosition(mTextPosition);
+                mScrollPosition = text_to_scroll_position(result);
+                scrollToPosition(mScrollPosition);
             } else {
                 Log.i("Szotar", "search returned null!");
             }
         }
-        public void beforeTextChanged(CharSequence s, int start, int count,
-                                      int after) {}
+        public void beforeTextChanged(CharSequence s, int start, int count, int after) {}
         public void afterTextChanged(Editable s) {}
     }
 
     @Override
     public void onResume() {
         super.onResume();
-        updateUI();
     }
 
     @Override
@@ -244,6 +242,27 @@ public class PageListFragment extends Fragment {
     public void onStop() {
         super.onStop();
         mBookmarkInventory.save();
+        position_lock = true;
+    }
+
+    @Override
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        if (requestCode != PICK_BOOKMARK_REQUEST || resultCode != Activity.RESULT_OK)
+            return;
+
+        Bookmark bk = (Bookmark)data.getSerializableExtra(EXTRA_BOOKMARK);
+        if (bk == null) return;
+
+        mSearchEditText.setText(bk.label);
+        /* set cursor to end of text */
+        int end_pos = mSearchEditText.length();
+        Editable editable = mSearchEditText.getText();
+        Selection.setSelection(editable, end_pos);
+
+        /* override scroll position setting triggered by setText() above
+           to the actual position saved in the bookmark */
+        mScrollPosition = bk.position;
+        scrollToPosition(mScrollPosition);
     }
 
     @Override
@@ -256,9 +275,8 @@ public class PageListFragment extends Fragment {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.menu_item_bookmarks:
-                Log.i("Szotar", "menu -> bookmarks");
-                mBookmarkInventory.dbg_print();
-                /* TODO */
+                Intent intent = new Intent(ctx, BookmarkListActivity.class);
+                startActivityForResult(intent, PICK_BOOKMARK_REQUEST);
                 return true;
             case R.id.menu_item_dict_notes:
                 display_text("notes.html");
@@ -282,19 +300,6 @@ public class PageListFragment extends Fragment {
         startActivity(intent);
     }
 
-    public void updateUI() {
-        PageInventory pi = PageInventory.get();
-        List<Page> pages = pi.getPages();
-
-        if (mAdapter == null) {
-            mAdapter = new PageAdapter(pages);
-            mRecyclerView.setAdapter(mAdapter);
-        } else {
-            mAdapter.setPages(pages);
-            mAdapter.notifyDataSetChanged();
-        }
-    }
-
     private class PageHolder extends RecyclerView.ViewHolder {
 
         private ImageView mImageView;
@@ -308,8 +313,7 @@ public class PageListFragment extends Fragment {
         public void bindPage(Page page) {
             mPage = page;
             if (mImageView != null) {
-                mImageUtils.loadBitmap(getActivity().getApplicationContext(),
-                                       mPage.getIndex(), mImageView);
+                mImageUtils.loadBitmap(ctx, mPage.getIndex(), mImageView);
             }
         }
     }

@@ -5,7 +5,7 @@ import static org.hamcrest.MatcherAssert.*;
 import io.github.tomszilagyi.svhu1972.Log;
 import io.github.tomszilagyi.svhu1972.Bookmark;
 import io.github.tomszilagyi.svhu1972.BookmarkInventory;
-import io.github.tomszilagyi.svhu1972.TextPosition;
+import io.github.tomszilagyi.svhu1972.ScrollPosition;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -17,6 +17,8 @@ public class BookmarkInventoryTest {
 
     @Before
     public void setup() {
+        BookmarkInventory.reset_for_test();
+
         /* Remove bookmark storage file left by previous test run */
         cwd = new File(".");
         File storage = new File(cwd, BookmarkInventory.FILENAME);
@@ -28,14 +30,16 @@ public class BookmarkInventoryTest {
     @Test
     public void save_and_load_test() {
 
-        BookmarkInventory bi = new BookmarkInventory(cwd);
-        bi.add(new Bookmark("label 1", new TextPosition(1, 2)));
-        bi.add(new Bookmark("label 2", new TextPosition(2, 3)));
-        bi.add(new Bookmark("label 3", new TextPosition(3, 4)));
+        BookmarkInventory bi = BookmarkInventory.get(cwd);
+        bi.add(new Bookmark("label 1", new ScrollPosition(1, 2)));
+        bi.add(new Bookmark("label 2", new ScrollPosition(2, 3)));
+        bi.add(new Bookmark("label 3", new ScrollPosition(3, 4)));
         ArrayList<Bookmark> bookmarks = bi.getBookmarks();
         bi.save();
 
-        BookmarkInventory bi2 = new BookmarkInventory(cwd);
+        BookmarkInventory.reset_for_test();
+
+        BookmarkInventory bi2 = BookmarkInventory.get(cwd);
         ArrayList<Bookmark> bookmarks2 = bi2.getBookmarks();
 
         assertThat(bookmarks2.toString(), is(bookmarks.toString()));
@@ -44,14 +48,14 @@ public class BookmarkInventoryTest {
     @Test
     public void deduplication_test() {
 
-        BookmarkInventory bi = new BookmarkInventory(cwd);
-        bi.add(new Bookmark("samelabel", new TextPosition(1, 2)));
-        bi.add(new Bookmark("samelabel", new TextPosition(2, 3)));
-        bi.add(new Bookmark("samelabel", new TextPosition(3, 4)));
+        BookmarkInventory bi = BookmarkInventory.get(cwd);
+        bi.add(new Bookmark("samelabel", new ScrollPosition(1, 2)));
+        bi.add(new Bookmark("samelabel", new ScrollPosition(2, 3)));
+        bi.add(new Bookmark("samelabel", new ScrollPosition(3, 4)));
         ArrayList<Bookmark> bookmarks = bi.getBookmarks();
 
         /* check that only the last one is present */
         assertThat(bookmarks.size(), is(1));
-        assertThat(bookmarks.get(0).position.toString(), is("tp[3:4]"));
+        assertThat(bookmarks.get(0).position.toString(), is("sp[3:4]"));
     }
 }

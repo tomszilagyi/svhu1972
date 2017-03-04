@@ -3,18 +3,19 @@ package io.github.tomszilagyi.svhu1972;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
+import java.io.Serializable;
 import java.text.FieldPosition;
 import java.text.ParsePosition;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-public class Bookmark {
+public class Bookmark implements Serializable {
 
     public String label;
-    public TextPosition position;
+    public ScrollPosition position;
     public Date timestamp;
 
-    public Bookmark(String label, TextPosition position) {
+    public Bookmark(String label, ScrollPosition position) {
         this.label = label;
         this.position = position;
         this.timestamp = new Date();
@@ -22,7 +23,7 @@ public class Bookmark {
 
     public Bookmark(DataInputStream dis) throws IOException {
         this.label = dis.readUTF();
-        this.position = new TextPosition(dis);
+        this.position = new ScrollPosition(dis);
         this.timestamp = parse_timestamp(dis.readUTF());
     }
 

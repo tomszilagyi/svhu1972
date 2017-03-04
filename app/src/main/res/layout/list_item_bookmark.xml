@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="?android:attr/selectableItemBackground">
+
+  <android.widget.TextView
+      android:id="@+id/list_item_bookmark_label"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:padding="8dp"
+      android:textSize="20dp"
+      android:textColor="#ff000000"
+      />
+  <android.widget.TextView
+      android:id="@+id/list_item_bookmark_timestamp"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_centerInParent="true"
+      android:gravity="right"
+      android:padding="2dp"
+      />
+  <android.widget.TextView
+      android:id="@+id/list_item_divider"
+      android:layout_width="match_parent"
+      android:layout_height="1dp"
+      android:layout_below="@id/list_item_bookmark_label"
+      android:background="#ffc0c0c0"
+      />
+
+</RelativeLayout>
