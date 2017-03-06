@@ -7,6 +7,8 @@ import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.helper.ItemTouchHelper.SimpleCallback;
+import android.support.v7.widget.helper.ItemTouchHelper;
 import android.util.Log;
 import android.view.Display;
 import android.view.LayoutInflater;
@@ -49,7 +51,23 @@ public class BookmarkListFragment extends Fragment {
         mRecyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
         mLayoutManager = new LinearLayoutManager(getActivity());
         mRecyclerView.setLayoutManager(mLayoutManager);
-        //mRecyclerView.setHasFixedSize(true);
+        mRecyclerView.setHasFixedSize(true);
+
+        ItemTouchHelper mIth = new ItemTouchHelper(
+            new ItemTouchHelper.SimpleCallback(
+                0, ItemTouchHelper.LEFT | ItemTouchHelper.RIGHT) {
+                public boolean onMove(RecyclerView recyclerView,
+                                      RecyclerView.ViewHolder viewHolder,
+                                      RecyclerView.ViewHolder target) {
+                    return false;
+                }
+                public void onSwiped(RecyclerView.ViewHolder viewHolder,
+                                     int direction) {
+                    final int pos = viewHolder.getAdapterPosition();
+                    mAdapter.onItemDelete(pos);
+                }
+            });
+        mIth.attachToRecyclerView(mRecyclerView);
 
         updateUI();
 
@@ -75,7 +93,7 @@ public class BookmarkListFragment extends Fragment {
     @Override
     public void onStop() {
         super.onStop();
-        //mBookmarkInventory.save();
+        mBookmarkInventory.save();
     }
 /*
     @Override
@@ -94,20 +112,16 @@ public class BookmarkListFragment extends Fragment {
     }
 
     public void updateUI() {
-        List<Bookmark> bookmarks = mBookmarkInventory.getBookmarks();
-
         if (mAdapter == null) {
-            mAdapter = new BookmarkAdapter(bookmarks);
+            mAdapter = new BookmarkAdapter();
             mRecyclerView.setAdapter(mAdapter);
         } else {
-            mAdapter.setBookmarks(bookmarks);
             mAdapter.notifyDataSetChanged();
         }
     }
 
     private class BookmarkHolder extends RecyclerView.ViewHolder {
 
-        private Bookmark mBookmark;
         private TextView mLabel;
         private TextView mTimestamp;
 
@@ -118,7 +132,6 @@ public class BookmarkListFragment extends Fragment {
         }
 
         public void bindBookmark(Bookmark bookmark) {
-            mBookmark = bookmark;
             mLabel.setText(bookmark.label);
             mTimestamp.setText(bookmark.timestamp.toString());
         }
@@ -128,10 +141,6 @@ public class BookmarkListFragment extends Fragment {
 
         private List<Bookmark> mBookmarks;
 
-        public BookmarkAdapter(List<Bookmark> bookmarks) {
-            mBookmarks = bookmarks;
-        }
-
         @Override
         public BookmarkHolder onCreateViewHolder(ViewGroup parent, int viewType) {
             LayoutInflater layoutInflater = LayoutInflater.from(getActivity());
@@ -139,7 +148,7 @@ public class BookmarkListFragment extends Fragment {
             view.setOnClickListener(new View.OnClickListener() {
                 public void onClick(final View v) {
                     int index = mRecyclerView.getChildLayoutPosition(v);
-                    Bookmark bk = mBookmarks.get(index);
+                    Bookmark bk = mBookmarkInventory.get(index);
                     Intent intent = new Intent(getActivity(), PageListActivity.class);
                     intent.putExtra(PageListFragment.EXTRA_BOOKMARK, bk);
                     getActivity().setResult(Activity.RESULT_OK, intent);
@@ -152,17 +161,18 @@ public class BookmarkListFragment extends Fragment {
 
         @Override
         public void onBindViewHolder(BookmarkHolder holder, int position) {
-            Bookmark bookmark = mBookmarks.get(position);
+            Bookmark bookmark = mBookmarkInventory.get(position);
             holder.bindBookmark(bookmark);
         }
 
         @Override
         public int getItemCount() {
-            return mBookmarks.size();
+            return mBookmarkInventory.size();
         }
 
-        public void setBookmarks(List<Bookmark> bookmarks) {
-            mBookmarks = bookmarks;
+        public void onItemDelete(int position) {
+            mBookmarkInventory.remove(position);
+            notifyItemRemoved(position);
         }
     }
 }

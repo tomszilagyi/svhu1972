@@ -57,6 +57,19 @@ public class BookmarkInventory {
         dirty = true;
     }
 
+    public void remove(int position) {
+        bookmarks.remove(position);
+        dirty = true;
+    }
+
+    public Bookmark get(int position) {
+        return bookmarks.get(position);
+    }
+
+    public int size() {
+        return bookmarks.size();
+    }
+
     public void load() {
         load(FILENAME);
     }
