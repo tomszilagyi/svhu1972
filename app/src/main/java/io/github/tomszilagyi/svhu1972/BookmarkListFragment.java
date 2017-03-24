@@ -133,7 +133,7 @@ public class BookmarkListFragment extends Fragment {
 
         public void bindBookmark(Bookmark bookmark) {
             mLabel.setText(bookmark.label);
-            mTimestamp.setText(bookmark.timestamp.toString());
+            mTimestamp.setText(bookmark.pretty_print_timestamp());
         }
     }
 
