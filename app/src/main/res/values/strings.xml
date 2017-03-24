@@ -9,4 +9,7 @@
     <string name="about_app">Névjegy</string>
     <string name="search_text_hint">Keresendő címszó…</string>
     <string name="image_view_cdesc">Oldalnézet</string>
+    <string name="sort_mode_alphabetic">Betűrendben</string>
+    <string name="sort_mode_newest_first">Frissek elöl</string>
+    <string name="sort_mode_oldest_first">Régiek elöl</string>
 </resources>

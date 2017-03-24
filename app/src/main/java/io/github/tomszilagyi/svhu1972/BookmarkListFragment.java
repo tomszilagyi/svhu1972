@@ -3,6 +3,7 @@ package io.github.tomszilagyi.svhu1972;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -24,15 +25,23 @@ import java.util.List;
 
 public class BookmarkListFragment extends Fragment {
 
+    private static final String SAVED_SORT_MODE = "sort_mode";
+    private static final short SORT_MODE_ALPHABETIC   = 0;
+    private static final short SORT_MODE_NEWEST_FIRST = 1;
+    private static final short SORT_MODE_OLDEST_FIRST = 2;
+
     private RecyclerView mRecyclerView;
     private LinearLayoutManager mLayoutManager;
     private BookmarkAdapter mAdapter;
     private BookmarkInventory mBookmarkInventory;
+    private MenuItem mSortModeMenuItem;
+    private SharedPreferences mPrefs;
+    private short sort_mode = SORT_MODE_ALPHABETIC;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //setHasOptionsMenu(true);
+        setHasOptionsMenu(true);
 
         Context ctx = getActivity().getApplicationContext();
         mBookmarkInventory = BookmarkInventory.get(ctx.getFilesDir());
@@ -69,6 +78,13 @@ public class BookmarkListFragment extends Fragment {
             });
         mIth.attachToRecyclerView(mRecyclerView);
 
+        mPrefs = getActivity().getPreferences(Context.MODE_PRIVATE);
+        if (savedInstanceState != null) {
+            sort_mode = savedInstanceState.getShort(SAVED_SORT_MODE);
+        } else {
+            sort_mode = (short)mPrefs.getInt(SAVED_SORT_MODE, SORT_MODE_ALPHABETIC);
+        }
+
         updateUI();
 
         return view;
@@ -83,6 +99,7 @@ public class BookmarkListFragment extends Fragment {
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
+        outState.putShort(SAVED_SORT_MODE, sort_mode);
     }
 
     @Override
@@ -91,23 +108,56 @@ public class BookmarkListFragment extends Fragment {
     }
 
     @Override
+    public void onPause() {
+        super.onPause();
+
+        SharedPreferences.Editor ed = mPrefs.edit();
+        ed.putInt(SAVED_SORT_MODE, sort_mode);
+        ed.commit();
+    }
+
+    @Override
     public void onStop() {
         super.onStop();
         mBookmarkInventory.save();
     }
-/*
+
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         super.onCreateOptionsMenu(menu, inflater);
         inflater.inflate(R.menu.fragment_bookmark_list, menu);
+        mSortModeMenuItem = menu.findItem(R.id.menu_item_sort_mode);
+        setup_sort_mode();
     }
-*/
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            /* ... */
-            default:
-                return super.onOptionsItemSelected(item);
+        case R.id.menu_item_sort_mode:
+            if (sort_mode == SORT_MODE_OLDEST_FIRST) {
+                sort_mode = SORT_MODE_ALPHABETIC;
+            } else {
+                sort_mode += 1;
+            }
+            Log.i("Szotar", "new sort_mode = "+sort_mode);
+            setup_sort_mode();
+            return true;
+        default:
+            return super.onOptionsItemSelected(item);
+        }
+    }
+
+    private void setup_sort_mode() {
+        switch (sort_mode) {
+        case SORT_MODE_ALPHABETIC:
+            mSortModeMenuItem.setTitle(R.string.sort_mode_alphabetic);
+            break;
+        case SORT_MODE_NEWEST_FIRST:
+            mSortModeMenuItem.setTitle(R.string.sort_mode_newest_first);
+            break;
+        case SORT_MODE_OLDEST_FIRST:
+            mSortModeMenuItem.setTitle(R.string.sort_mode_oldest_first);
+            break;
         }
     }
 
