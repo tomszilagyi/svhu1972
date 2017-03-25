@@ -3,6 +3,7 @@ package io.github.tomszilagyi.svhu1972;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.graphics.Point;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -36,8 +37,12 @@ public class PageListFragment extends Fragment {
 
     static final int PICK_BOOKMARK_REQUEST = 1;
     static final String EXTRA_BOOKMARK = "io.github.tomszilagyi.svhu1972.PageListFragment.EXTRA_BOOKMARK";
+    private static final String SAVED_SCROLL_POS_PAGE = "scroll_pos_page";
+    private static final String SAVED_SCROLL_POS_OFFSET = "scroll_pos_offset";
+    private static final String SAVED_SEARCH_TEXT = "search_text";
 
     private Context ctx;
+    private SharedPreferences mPrefs;
     private RecyclerView mRecyclerView;
     private LinearLayoutManager mLayoutManager;
     private PageAdapter mAdapter;
@@ -57,20 +62,10 @@ public class PageListFragment extends Fragment {
         setHasOptionsMenu(true);
 
         ctx = getActivity().getApplicationContext();
-        mScrollPosition = new ScrollPosition();
         mTextData = new TextData(ctx.getAssets());
         mBookmarkInventory = BookmarkInventory.get(ctx.getFilesDir());
         position_lock = false;
-    }
 
-    @Override
-    public void onAttach(Activity activity) {
-        super.onAttach(activity);
-    }
-
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
         int hwWidth = 480;
         int hwHeight = 800;
         try {
@@ -88,6 +83,7 @@ public class PageListFragment extends Fragment {
               " Height:" + hwHeight);
         image_area_width = hwWidth;
         image_area_height = hwHeight;
+
         mImageUtils = new ImageUtils(hwWidth, hwHeight) {
             @Override
             public void onImageLoaded() {
@@ -96,6 +92,16 @@ public class PageListFragment extends Fragment {
                 }
             }
         };
+    }
+
+    @Override
+    public void onAttach(Activity activity) {
+        super.onAttach(activity);
+    }
+
+    @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
 
         View view = inflater.inflate(R.layout.fragment_page_list, container, false);
 
@@ -171,6 +177,13 @@ public class PageListFragment extends Fragment {
         mAdapter = new PageAdapter(PageInventory.get().getPages());
         mRecyclerView.setAdapter(mAdapter);
 
+        mPrefs = getActivity().getPreferences(Context.MODE_PRIVATE);
+        int scroll_pos_page = mPrefs.getInt(SAVED_SCROLL_POS_PAGE, 0);
+        int scroll_pos_offset = mPrefs.getInt(SAVED_SCROLL_POS_OFFSET, 0);
+        mScrollPosition = new ScrollPosition(scroll_pos_page, scroll_pos_offset);
+        String search_text = mPrefs.getString(SAVED_SEARCH_TEXT, "");
+        set_gui_state(search_text, mScrollPosition);
+
         return view;
     }
 
@@ -239,6 +252,18 @@ public class PageListFragment extends Fragment {
     }
 
     @Override
+    public void onPause() {
+        super.onPause();
+
+        saveScrollPosition();
+        SharedPreferences.Editor ed = mPrefs.edit();
+        ed.putInt(SAVED_SCROLL_POS_PAGE, mScrollPosition.page);
+        ed.putInt(SAVED_SCROLL_POS_OFFSET, mScrollPosition.offset);
+        ed.putString(SAVED_SEARCH_TEXT, mSearchEditText.getText().toString());
+        ed.commit();
+    }
+
+    @Override
     public void onStop() {
         super.onStop();
         mBookmarkInventory.save();
@@ -253,15 +278,19 @@ public class PageListFragment extends Fragment {
         Bookmark bk = (Bookmark)data.getSerializableExtra(EXTRA_BOOKMARK);
         if (bk == null) return;
 
-        mSearchEditText.setText(bk.label);
+        set_gui_state(bk.label, bk.position);
+    }
+
+    private void set_gui_state(String text_label, ScrollPosition scroll_position) {
+        mSearchEditText.setText(text_label);
         /* set cursor to end of text */
         int end_pos = mSearchEditText.length();
         Editable editable = mSearchEditText.getText();
         Selection.setSelection(editable, end_pos);
 
         /* override scroll position setting triggered by setText() above
-           to the actual position saved in the bookmark */
-        mScrollPosition = bk.position;
+           to the actual position desired by the caller */
+        mScrollPosition = scroll_position;
         scrollToPosition(mScrollPosition);
     }
 
