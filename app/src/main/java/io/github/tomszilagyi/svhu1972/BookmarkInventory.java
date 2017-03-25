@@ -62,6 +62,17 @@ public class BookmarkInventory {
         dirty = true;
     }
 
+    public void removeByLabel(String label) {
+        int n = bookmarks.size();
+        for (int k=0; k < n; k++) {
+            if (bookmarks.get(k).label.equals(label)) {
+                bookmarks.remove(k);
+                dirty = true;
+                return;
+            }
+        }
+    }
+
     public Bookmark get(int position) {
         return bookmarks.get(position);
     }
