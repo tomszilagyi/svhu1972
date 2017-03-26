@@ -9,14 +9,16 @@ implementation containing all word imagery of the original dictionary.
 It is just like having the original book (one thousand pages, weighing
 over 1000 grams) in your pocket, only better: it does not consume any
 physical space (only device storage) and you can look up words much
-faster in it.
+faster in it. You can also save bookmarks and navigate to any of them
+in the blink of an eye!
 
 Once again: all images (and OCR-ed text) constituting the dictionary's
 material are part of the application; no network access is ever needed
 once the app is installed on your device! This, in turn, means that
 the storage requirement of the application is a bit higher than usual
-(around 120 MB). But compare that with always carrying a 1 kg brick of
-a mid-sized translation dictionary with you.
+(a bit less than 100 MB, however, you can move it to your SD card).
+But compare that with always carrying a 1 kg brick of a mid-sized
+translation dictionary with you.
 
 The book in question is:
 
@@ -87,6 +89,9 @@ version.
 
 BUILDING THE APP
 ----------------
+
+This application supports Android versions from KitKat (4.4) and up
+(Android API level 19 or newer).
 
 Caveats:
 
