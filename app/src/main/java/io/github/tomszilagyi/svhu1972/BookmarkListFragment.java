@@ -36,6 +36,7 @@ public class BookmarkListFragment extends Fragment {
     private static final int SORT_MODE_OLDEST_FIRST = 2;
 
     private RecyclerView mRecyclerView;
+    private TextView mEmptyView;
     private LinearLayoutManager mLayoutManager;
     private BookmarkAdapter mAdapter;
     private BookmarkInventory mBookmarkInventory;
@@ -63,9 +64,11 @@ public class BookmarkListFragment extends Fragment {
 
         View view = inflater.inflate(R.layout.fragment_bookmark_list, container, false);
         mRecyclerView = (RecyclerView) view.findViewById(R.id.recycler_view);
+        mEmptyView = (TextView) view.findViewById(R.id.empty_view);
         mLayoutManager = new LinearLayoutManager(getActivity());
         mRecyclerView.setLayoutManager(mLayoutManager);
         mRecyclerView.setHasFixedSize(true);
+        set_view_visibility();
 
         ItemTouchHelper mIth = new ItemTouchHelper(
             new ItemTouchHelper.SimpleCallback(
@@ -79,6 +82,7 @@ public class BookmarkListFragment extends Fragment {
                                      int direction) {
                     final int pos = viewHolder.getAdapterPosition();
                     mAdapter.onItemDelete(pos);
+                    set_view_visibility();
                 }
             });
         mIth.attachToRecyclerView(mRecyclerView);
@@ -133,7 +137,6 @@ public class BookmarkListFragment extends Fragment {
             } else {
                 sort_mode += 1;
             }
-            Log.i("Szotar", "new sort_mode = "+sort_mode);
             setup_sort_mode();
             return true;
         default:
@@ -156,13 +159,23 @@ public class BookmarkListFragment extends Fragment {
         refresh_adapter();
     }
 
-    public void refresh_adapter() {
+    private void refresh_adapter() {
         if (mAdapter == null) {
             mAdapter = new BookmarkAdapter(sort_mode);
             mRecyclerView.setAdapter(mAdapter);
         } else {
             mAdapter.sort(sort_mode);
             mAdapter.notifyDataSetChanged();
+        }
+    }
+
+    private void set_view_visibility() {
+        if (mBookmarkInventory.size() == 0) {
+            mEmptyView.setVisibility(View.VISIBLE);
+            mRecyclerView.setVisibility(View.GONE);
+        } else {
+            mEmptyView.setVisibility(View.GONE);
+            mRecyclerView.setVisibility(View.VISIBLE);
         }
     }
 

@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Svéd-magyar szótár</string>
-    <string name="bookmarks">Könyvjelzők</string>
-    <string name="bookmark_saved">Könyvjelző mentve!</string>
-    <string name="dict_notes">Tudnivalók a szótárról</string>
-    <string name="dict_annotations">Jelmagyarázat</string>
-    <string name="dict_abbreviations">Rövidítések jegyzéke</string>
     <string name="about_app">Névjegy</string>
-    <string name="search_text_hint">Keresendő címszó…</string>
+    <string name="app_name">Svéd-magyar szótár</string>
+    <string name="bookmark_saved">Könyvjelző mentve!</string>
+    <string name="bookmarks">Könyvjelzők</string>
+    <string name="dict_abbreviations">Rövidítések jegyzéke</string>
+    <string name="dict_annotations">Jelmagyarázat</string>
+    <string name="dict_notes">Tudnivalók a szótárról</string>
     <string name="image_view_cdesc">Oldalnézet</string>
+    <string name="no_bookmarks">Nincs mentett könyvjelző.</string>
+    <string name="search_text_hint">Keresendő címszó…</string>
     <string name="sort_mode_alphabetic">Betűrendben</string>
     <string name="sort_mode_newest_first">Frissek elöl</string>
     <string name="sort_mode_oldest_first">Régiek elöl</string>
