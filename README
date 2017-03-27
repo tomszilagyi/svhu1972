@@ -1,8 +1,9 @@
-          Svéd-magyar szótár || Svensk-Ungersk ordbok
+          Svéd-magyar szótár -- Svensk-Ungersk ordbok
           ==============[ for Android ]==============
 
-
 Welcome to the Swedish-Hungarian dictionary Android application.
+
+Homepage: https://tomszilagyi.github.io/svhu1972
 
 This application is a completely offline, no-permissions-required
 implementation containing all word imagery of the original dictionary.
@@ -16,9 +17,9 @@ Once again: all images (and OCR-ed text) constituting the dictionary's
 material are part of the application; no network access is ever needed
 once the app is installed on your device! This, in turn, means that
 the storage requirement of the application is a bit higher than usual
-(a bit less than 100 MB, however, you can move it to your SD card).
-But compare that with always carrying a 1 kg brick of a mid-sized
-translation dictionary with you.
+(about 95 MB, however, you can move it to your SD card). But compare
+that with always carrying a 1 kg brick of a mid-sized translation
+dictionary with you.
 
 The book in question is:
 
@@ -112,11 +113,3 @@ the application with Gradle. You might need to create a file named
 containing a line such as the following:
 
 sdk.dir=/home/tom/tar/android-sdk
-
-
-TRIVIA
-------
-
-All 'full' dictionary pages contain exactly 108 lines (54 per column),
-except one: pp.208 (page 232) has 107 lines, 54 in the first column
-and 53 in the second.
