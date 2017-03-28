@@ -260,7 +260,7 @@ public class PageListFragment extends Fragment {
         ed.putInt(SAVED_SCROLL_POS_PAGE, mScrollPosition.page);
         ed.putInt(SAVED_SCROLL_POS_OFFSET, mScrollPosition.offset);
         ed.putString(SAVED_SEARCH_TEXT, mSearchEditText.getText().toString());
-        ed.commit();
+        ed.apply();
     }
 
     @Override

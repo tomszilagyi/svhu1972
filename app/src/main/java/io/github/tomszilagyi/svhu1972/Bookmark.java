@@ -88,7 +88,7 @@ public class Bookmark implements Serializable {
         return FORMAT_OLD;
     }
 
-    private static final SimpleDateFormat sdf_store = new SimpleDateFormat(FORMAT_STORAGE);
+    private static final SimpleDateFormat sdf_store = new SimpleDateFormat(FORMAT_STORAGE, Locale.US);
 
     /* This is public for testing purposes only. */
     public static String format_timestamp(Date timestamp) {

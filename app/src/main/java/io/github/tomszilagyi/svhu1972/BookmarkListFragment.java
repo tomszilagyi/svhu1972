@@ -111,7 +111,7 @@ public class BookmarkListFragment extends Fragment {
 
         SharedPreferences.Editor ed = mPrefs.edit();
         ed.putInt(SAVED_SORT_MODE, sort_mode);
-        ed.commit();
+        ed.apply();
     }
 
     @Override
