@@ -22,7 +22,7 @@
       android:layout_height="match_parent"
       android:layout_centerInParent="true"
       android:gravity="end"
-      android:padding="2dp"
+      android:padding="5dp"
       />
   <android.widget.TextView
       android:id="@+id/list_item_divider"
