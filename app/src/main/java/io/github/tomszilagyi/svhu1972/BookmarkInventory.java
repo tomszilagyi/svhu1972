@@ -95,7 +95,7 @@ public class BookmarkInventory {
         DataInputStream dis = null;
         try {
             File bookmarksFile = new File(storage_path, filename);
-            Log.i("Szotar", "Loading bookmarks from "+bookmarksFile);
+            Log.d("Szotar", "Loading bookmarks from "+bookmarksFile);
             FileInputStream fis = new FileInputStream(bookmarksFile);
             dis = new DataInputStream(fis);
             int n = dis.readInt();
@@ -118,13 +118,13 @@ public class BookmarkInventory {
 
     private void save(String filename) {
         if (dirty == false) {
-            Log.i("Szotar", "Bookmarks are unchanged, not saving.");
+            Log.d("Szotar", "Bookmarks are unchanged, not saving.");
             return;
         }
         DataOutputStream dos = null;
         try {
             File bookmarksFile = new File(storage_path, filename);
-            Log.i("Szotar", "Saving bookmarks to "+bookmarksFile);
+            Log.d("Szotar", "Saving bookmarks to "+bookmarksFile);
             FileOutputStream fos = new FileOutputStream(bookmarksFile);
             dos = new DataOutputStream(fos);
             int n = bookmarks.size();
@@ -147,9 +147,9 @@ public class BookmarkInventory {
 
     public void dbg_print() {
         int n = bookmarks.size();
-        Log.i("Szotar", "--- bookmarks (n="+n+") ---");
+        Log.d("Szotar", "--- bookmarks (n="+n+") ---");
         for (int k=0; k < n; k++) {
-            Log.i("Szotar", bookmarks.get(k).toString());
+            Log.d("Szotar", bookmarks.get(k).toString());
         }
     }
 }

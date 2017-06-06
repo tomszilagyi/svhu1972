@@ -78,7 +78,7 @@ public class PageListFragment extends Fragment {
             Log.w("Szotar", "Could not determine hardware display size, "+
                   "using default values. Reason: "+e);
         }
-        Log.i("Szotar", "Hardware display size:" +
+        Log.d("Szotar", "Hardware display size:" +
               " Width:" + hwWidth +
               " Height:" + hwHeight);
         image_area_width = hwWidth;
@@ -145,7 +145,7 @@ public class PageListFragment extends Fragment {
                     image_area_height = mRecyclerView.getHeight();
                     mImageUtils.setViewSize(image_area_width,
                                             image_area_height);
-                    Log.i("Szotar",
+                    Log.d("Szotar",
                           "Updating image display view area:" +
                           " Width:" + image_area_width +
                           " Height:" + image_area_height);
@@ -232,7 +232,7 @@ public class PageListFragment extends Fragment {
                 mScrollPosition = text_to_scroll_position(result);
                 scrollToPosition(mScrollPosition);
             } else {
-                Log.i("Szotar", "search returned null!");
+                Log.d("Szotar", "search returned null!");
             }
         }
         public void beforeTextChanged(CharSequence s, int start, int count, int after) {}

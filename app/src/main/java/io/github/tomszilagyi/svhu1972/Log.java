@@ -31,5 +31,13 @@ public class Log {
             System.out.println("I: "+tag+": "+message);
         }
     }
+
+    public static void d(String tag, String message) {
+        try {
+            android.util.Log.d(tag, message);
+        } catch (Exception e) {
+            System.out.println("D: "+tag+": "+message);
+        }
+    }
 }
 

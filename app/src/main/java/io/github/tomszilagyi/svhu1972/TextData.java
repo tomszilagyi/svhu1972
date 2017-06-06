@@ -37,7 +37,7 @@ public class TextData {
     }
 
     /* read all text data from the preprocessed, packed binary
-     * created by TextPrepare in assets/txt.bin
+     * in assets/txt.bin created by TextPrepare
      */
     public void read_serialized() {
         try {
@@ -88,7 +88,7 @@ public class TextData {
         /* entry on start_page (loop broke with p decremented once more)
            or we received garbage input (index search with no result): */
         if (p < start_page) p = start_page;
-        Log.i("Szotar", "search ("+str+"): index: "+p+":"+entry);
+        Log.d("Szotar", "search ("+str+"): index: "+p+":"+entry);
         TextPosition result = null;
         while (str.length() > 0 && result == null) {
             result = fulltext_search(p, "@"+str);
@@ -110,7 +110,7 @@ public class TextData {
                 String line = page[l];
                 if (line.contains(str)) {
                     TextPosition tp = new TextPosition(p, l);
-                    Log.i("Szotar", "search ("+str+"): "+tp+": "+line);
+                    Log.d("Szotar", "search ("+str+"): "+tp+": "+line);
                     return tp;
                 }
             }
