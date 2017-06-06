@@ -210,12 +210,15 @@ public class PageListFragment extends Fragment {
     private void saveScrollPosition() {
         int pos = mLayoutManager.findFirstVisibleItemPosition();
         View view = mLayoutManager.getChildAt(0);
-        int offset = view.getTop();
-        int height = view.getHeight();
-        // If offset is bigger than the image size, reduce with image size.
-        // I guess there is a bug in an android class we need to work around...
-        while (offset < -height) {
-            offset += height;
+        int offset = 0;
+        if (view != null) {
+            int height = view.getHeight();
+            offset = view.getTop();
+            // If offset is bigger than the image size, reduce with image size.
+            // I guess there is a bug in an android class we need to work around...
+            while (offset < -height) {
+                offset += height;
+            }
         }
         mScrollPosition.update(pos, offset);
     }
